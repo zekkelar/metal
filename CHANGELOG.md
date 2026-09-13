@@ -5,6 +5,37 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Sep 2026 · 00:37 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~25 sel
++ Sheet "Fiter Press" ditambahkan
+~ Daily Summary !C34 "Feeding, ton" [10-09-2026 00:00]: 0 → 73.7748
+~ Daily Summary !D34 [10-09-2026 00:00]: 2150.7186 → 2224.4934
+~ Daily Summary !C35 "Feeding, ton" [11-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !D35 [11-09-2026 00:00]: 2150.7186 → 2224.4934
+~ Daily Summary !C36 "Feeding, ton" [12-09-2026 00:00]: 0 → 333.828
+~ Daily Summary !D36 [12-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D37 [13-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D38 [14-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !C39 "Feeding, ton" [15-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !D39 [15-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D40 [16-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D41 [17-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D42 [18-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D43 [19-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !D44 [20-09-2026 00:00]: 2150.7186 → 2558.3214
+~ Daily Summary !C45 "Feeding, ton" [21-09-2026 00:00]: 0 → 73.7748
+~ Daily Summary !D45 [21-09-2026 00:00]: 2150.7186 → 2632.0962
+~ Daily Summary !D46 [22-09-2026 00:00]: 2150.7186 → 2632.0962
+~ Daily Summary !D47 [23-09-2026 00:00]: 2150.7186 → 2632.0962
+~ Daily Summary !D48 [24-09-2026 00:00]: 2150.7186 → 2632.0962
+~ Daily Summary !C49 "Feeding, ton" [25-09-2026 00:00]: 0 → 333.828
+~ Daily Summary !D49 [25-09-2026 00:00]: 2150.7186 → 2965.9242
+~ Daily Summary !E49 [25-09-2026 00:00]: 0 → 546.67815
+~ Daily Summary !C50 "Feeding, ton" [Total]: 2150.7186 → 2965.9242
+~ Daily Summary !G57: 0.827365 → 0.599958
+Catatan: penambahan sheet untuk estimasi tonage filter press berapa banyak material yang sudah dibuang ke tailing
+_Dibandingkan 8571 sel dari 17 sheet._
+
 ## 13 Sep 2026 · 13:24 · Production Report June 2026_DYAN.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~11 sel
 ~ Au Cal Leaching Tank!AF15 [6]: (kosong) → 0.032
