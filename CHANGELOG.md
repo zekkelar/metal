@@ -5,6 +5,30 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Sep 2026 · 00:48 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
+Ringkasan: Barang Keluar : +7 baris, ~1 sel; Barang Masuk: +1 baris; Stock Barang: ~10 sel
+~ Barang Keluar !F17 "Jumlah Barang Keluar  (k" [13]: 250 → 750
++ Barang Keluar  baris 21 [17] ditambahkan: C·Tanggal=11-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Keluar  (k=375
++ Barang Keluar  baris 22 [18] ditambahkan: C·Tanggal=12-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Keluar  (k=125
++ Barang Keluar  baris 23 [19] ditambahkan: C·Tanggal=13-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Keluar  (k=375
++ Barang Keluar  baris 24 [20] ditambahkan: C·Tanggal=12-09-2026 00:00, D·Kode Barang=CBN, E·Nama Barang=Carbon, F·Jumlah Barang Keluar  (k=500
++ Barang Keluar  baris 25 [21] ditambahkan: C·Tanggal=11-09-2026 00:00, D·Kode Barang=Floc, E·Nama Barang=Floculant, F·Jumlah Barang Keluar  (k=50
++ Barang Keluar  baris 26 [22] ditambahkan: C·Tanggal=02-09-2026 00:00, D·Kode Barang=Lime, E·Nama Barang=Kapur, F·Jumlah Barang Keluar  (k=500
++ Barang Keluar  baris 27 [23] ditambahkan: C·Tanggal=03-09-2026 00:00, D·Kode Barang=Lime, E·Nama Barang=Kapur, F·Jumlah Barang Keluar  (k=250
++ Barang Masuk baris 5 [1] ditambahkan: C·Tanggal=12-09-2026 00:00, D·Kode Barang=Lime, E·Nama Barang=Kapur, F·Jumlah Barang Masuk (kg)=5000
+~ Stock Barang!F5 "Barang Keluar" [CBN]: 2500 → 3000
+~ Stock Barang!G5 "Stock Akhir" [CBN]: 2500 → 2000
+~ Stock Barang!D6 "Stok Awal" [SND]: 5900 → 5750
+~ Stock Barang!F6 "Barang Keluar" [SND]: 1500 → 2375
+~ Stock Barang!G6 "Stock Akhir" [SND]: 4400 → 3375
+~ Stock Barang!E7 "Barang Masuk" [Lime]: 0 → 5000
+~ Stock Barang!F7 "Barang Keluar" [Lime]: 2250 → 3500
+~ Stock Barang!G7 "Stock Akhir" [Lime]: 5250 → 9000
+~ Stock Barang!F12 "Barang Keluar" [Floc]: 50 → 100
+~ Stock Barang!G12 "Stock Akhir" [Floc]: 6375 → 6325
+Catatan: update penggunaan reagent dan stock yang tersedia
+_Dibandingkan 882 sel dari 4 sheet._
+
 ## 14 Sep 2026 · 00:37 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~25 sel
 + Sheet "Fiter Press" ditambahkan
