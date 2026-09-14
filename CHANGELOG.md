@@ -5,6 +5,21 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Sep 2026 · 20:15 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Fiter Press: ~10 sel
+- Sheet "RINGKASAN UPDATE SHEET" dihapus
+~ Fiter Press!R10 "Estimate Capacity per si" [7]: 1345.611 → 1449.911
+~ Fiter Press!C13 [10]: (kosong) → 14-09-2026 00:00
+~ Fiter Press!D13 [10]: (kosong) → Dat
+~ Fiter Press!E13 [10]: (kosong) → 9
+~ Fiter Press!F13 [10]: (kosong) → 54
+~ Fiter Press!K13 [10]: (kosong) → 14-09-2026 00:00
+~ Fiter Press!L13 [10]: (kosong) → Day
+~ Fiter Press!M13 [10]: (kosong) → 7
+~ Fiter Press!N13 [10]: 0 → 104.3
+~ Fiter Press!P13 [10]: 0 → 104.3
+_Dibandingkan 8602 sel dari 17 sheet._
+
 ## 14 Sep 2026 · 21:12 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~18 sel; LT Floculation: +1 baris; Milling and Leach Feed: +2 baris, ~457 sel, -1 baris
 ~ Au Cal Leaching Tank!C15 "Running Hours" [6]: 8 → 2
