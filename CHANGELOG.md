@@ -5,6 +5,31 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Sep 2026 · 21:07 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +3 baris; LT Floculation: +9 baris; Milling and Leach Feed: ~9 sel
++ Au Cal Leaching Tank baris 15 [6] ditambahkan: O·%solid sisa pada tanki=0.29, P·sg slurry=1.18, R·Solid on Tank,=36.90627
++ Au Cal Leaching Tank baris 16 [7] ditambahkan: AI·Metal Content Head Grade=0, AJ=0, AK=0, AL·Metal Content Calculated=0, AM=0, AN=0, BA=0, BB=0
++ Au Cal Leaching Tank baris 17 [8] ditambahkan: AI·Metal Content Head Grade=0, AJ=0, AK=0, AL·Metal Content Calculated=0, AM=0, AN=0, BA=0, BB=0
++ LT Floculation baris 25 ditambahkan: O=LT-Floc DS 1, P=4, Q=11-09-2026 00:00, R=0.065, S=0.21, T=4.11
++ LT Floculation baris 26 ditambahkan: O=LT-Floc DS 2, P=4, Q=11-09-2026 00:00, R=0.051, S=0.44, T=6.67
++ LT Floculation baris 27 ditambahkan: O=LT-Floc DS 3, P=4, Q=11-09-2026 00:00, R=0.062, S=0.48, T=6.68, V=Batch 6 13 night shift
++ LT Floculation baris 28 ditambahkan: O=LT-Floc DS 1, P=5, Q=12-09-2026 00:00, R=0.045, S=0.41, T=7.15
++ LT Floculation baris 29 ditambahkan: O=LT-Floc DS 2, P=5, Q=12-09-2026 00:00, R=0.041, S=0.6, T=7.18
++ LT Floculation baris 30 ditambahkan: O=LT-Floc DS 3, P=5, Q=12-09-2026 00:00, R=0.063, S=0.27, T=7.26
++ LT Floculation baris 31 ditambahkan: O=LT-Floc NS 1
++ LT Floculation baris 32 ditambahkan: O=LT-Floc NS 2
++ LT Floculation baris 33 ditambahkan: O=LT-Floc NS 3
+~ Milling and Leach Feed!AC8: 1210 → 1180
+~ Milling and Leach Feed!AC10: 1.21 → 1.18
+~ Milling and Leach Feed!AC13 [04-09-2026 00:00]: 0.33133 → 0.291217
+~ Milling and Leach Feed!AC14: 400.909091 → 343.636364
+~ Milling and Leach Feed!AC15 [05-09-2026 00:00]: 809.090909 → 836.363636
+~ Milling and Leach Feed!AC19 [07-09-2026 00:00]: 0.33133 → 0.291217
+~ Milling and Leach Feed!AB25 [5]: 335.093547 → 287.223041
+~ Milling and Leach Feed!AB26: 301.663547 → 253.793041
+~ Milling and Leach Feed!AB28 [6]: 273.093547 → 225.223041
+_Dibandingkan 8647 sel dari 17 sheet._
+
 ## 14 Sep 2026 · 10:16 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Crushing: +1 baris, ~8 sel; Daily Summary : ~19 sel; Fiter Press: ~13 sel
 ~ Crushing!N66 "Tonage/Day (Tpd)" [13-09-2026 00:00]: 0 → 148.8375
