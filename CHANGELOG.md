@@ -5,6 +5,121 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Sep 2026 · 23:44 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~21 sel; Fiter Press: +2 baris, ~82 sel; Milling Down Time Hours: ~2 sel; Reagent Consumption: ~4 sel
+~ Au Cal Leaching Tank!J15 "%solid" [6]: 0.35 → 0.33
+~ Au Cal Leaching Tank!K15 "Solid (Ton)" [6]: 353.6225 → 333.4155
+~ Au Cal Leaching Tank!L15 "Solid (Ton)" [6]: 297.243913 → 277.036913
+~ Au Cal Leaching Tank!S15 "Solution (m3)" [6]: 656.7275 → 676.9345
+~ Au Cal Leaching Tank!T15 "Cumulative" [6]: 1800.591593 → 1780.384593
+~ Au Cal Leaching Tank!AO15 [6]: 11.821095 → 12.184821
+~ Au Cal Leaching Tank!AV15 "Lab AAS Loaded Carbon" [6]: 272.939726 → 272.697242
+~ Au Cal Leaching Tank!AZ15 "Estimasi Metal Content R" [6]: -11.821095 → -12.184821
+~ Au Cal Leaching Tank!K60 "Solid (Ton)" [Average]: 337.944692 → 334.576858
+~ Au Cal Leaching Tank!K61 "Solid (Ton)" [Total]: 1800.591593 → 1780.384593
+~ Au Cal Leaching Tank!AZ61 "Estimasi Metal Content R" [Total]: 1067.696316 → 1067.33259
+~ Au Cal Leaching Tank!BC61 [Total]: 6018.309917 → 6017.946191
+~ Au Cal Leaching Tank!BC62: 0.177408 → 0.177358
+~ Au Cal Leaching Tank!BD62: 0.126265 → 0.126272
+~ Au Cal Leaching Tank!BE62: 0.696327 → 0.69637
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1289.497637 → 1275.02635
+~ Au Cal Leaching Tank!AZ65 "Estimasi Metal Content R": 2229.003673 → 2228.86896
+~ Au Cal Leaching Tank!K67 "Solid (Ton)": 9.693629 → 9.584843
+~ Au Cal Leaching Tank!M67 "Sg Slurry": 232.647097 → 230.036233
+~ Au Cal Leaching Tank!J74 "%solid": 9.693629 → 9.584843
+~ Au Cal Leaching Tank!J75 "%solid": 232.647097 → 230.036233
+~ Fiter Press!N4 [1]: 149 → 125
+~ Fiter Press!P4 [1]: 119.2 → 100
+~ Fiter Press!S4 [1]: 14.9 → 12.5
+~ Fiter Press!N5 [2]: 134.1 → 112.5
+~ Fiter Press!P5 [2]: 107.28 → 90
+~ Fiter Press!N6 [3]: 59.6 → 50
+~ Fiter Press!P6 [3]: 47.68 → 40
+~ Fiter Press!N7 [4]: 149 → 125
+~ Fiter Press!P7 [4]: 120.69 → 101.25
+~ Fiter Press!U7 [4]: (kosong) → 12524
+~ Fiter Press!N8 [5]: 59.6 → 50
+~ Fiter Press!P8 [5]: 48.872 → 41
+~ Fiter Press!N9 [6]: 178.8 → 150
+~ Fiter Press!P9 [6]: 144.828 → 121.5
+~ Fiter Press!C10 [7]: 12-09-2026 00:00 → 10-09-2026 00:00
+~ Fiter Press!E10 [7]: 7 → 4
+~ Fiter Press!F10 [7]: 42 → 24
+~ Fiter Press!G10 [7]: 0.19 → 0.2
+~ Fiter Press!H10 [7]: 34.02 → 19.2
+~ Fiter Press!K10 [7]: 12-09-2026 00:00 → 10-09-2026 00:00
+~ Fiter Press!M10 [7]: 7 → 8
+~ Fiter Press!N10 [7]: 104.3 → 100
+~ Fiter Press!O10 [7]: 0.19 → 0.2
+~ Fiter Press!P10 [7]: 84.483 → 80
+~ Fiter Press!R10 "Estimate Capacity per si" [7]: 1449.911 → 1655.39
+~ Fiter Press!C11 [8]: 12-09-2026 00:00 → 10-09-2026 00:00
+~ Fiter Press!E11 [8]: 11 → 3
+~ Fiter Press!F11 [8]: 66 → 18
+~ Fiter Press!G11 [8]: 0.18 → 0.2
+~ Fiter Press!H11 [8]: 54.12 → 14.4
+~ Fiter Press!K11 [8]: 12-09-2026 00:00 → 10-09-2026 00:00
+~ Fiter Press!M11 [8]: 11 → 3
+~ Fiter Press!N11 [8]: 163.9 → 37.5
+~ Fiter Press!P11 [8]: 134.398 → 30.75
+~ Fiter Press!C12 [9]: 13-09-2026 00:00 → 11-09-2026 00:00
+~ Fiter Press!D12 [9]: Night → Day
+~ Fiter Press!E12 [9]: 10 → 8
+~ Fiter Press!F12 [9]: 60 → 48
+~ Fiter Press!G12 [9]: 0.21 → 0.19
+~ Fiter Press!H12 [9]: 47.4 → 38.88
+~ Fiter Press!K12 [9]: 13-09-2026 00:00 → 11-09-2026 00:00
+~ Fiter Press!L12 [9]: Night → Day
+~ Fiter Press!M12 [9]: 10 → 8
+~ Fiter Press!N12 [9]: 149 → 100
+~ Fiter Press!O12 [9]: 0.2 → 0.19
+~ Fiter Press!P12 [9]: 119.2 → 81
+~ Fiter Press!C13 [10]: 14-09-2026 00:00 → 11-09-2026 00:00
+~ Fiter Press!D13 [10]: Dat → Night
+~ Fiter Press!E13 [10]: 9 → 4
+~ Fiter Press!F13 [10]: 54 → 24
+~ Fiter Press!G13 [10]: (kosong) → 0.19
+~ Fiter Press!H13 [10]: (kosong) → 19.44
+~ Fiter Press!K13 [10]: 14-09-2026 00:00 → 11-09-2026 00:00
+~ Fiter Press!L13 [10]: Day → Night
+~ Fiter Press!M13 [10]: 7 → 6
+~ Fiter Press!N13 [10]: 104.3 → 75
+~ Fiter Press!O13 [10]: (kosong) → 0.19
+~ Fiter Press!P13 [10]: 104.3 → 60.75
+~ Fiter Press!C14 [11]: (kosong) → 12-09-2026 00:00
+~ Fiter Press!D14 [11]: (kosong) → Day
+~ Fiter Press!E14 [11]: (kosong) → 7
+~ Fiter Press!F14 [11]: (kosong) → 42
+~ Fiter Press!G14 [11]: (kosong) → 0.19
+~ Fiter Press!H14 [11]: (kosong) → 34.02
+~ Fiter Press!K14 [11]: (kosong) → 12-09-2026 00:00
+~ Fiter Press!L14 [11]: (kosong) → Day
+~ Fiter Press!M14 [11]: (kosong) → 7
+~ Fiter Press!N14 [11]: 0 → 87.5
+~ Fiter Press!O14 [11]: (kosong) → 0.19
+~ Fiter Press!P14 [11]: 0 → 70.875
+~ Fiter Press!C15 [12]: (kosong) → 12-09-2026 00:00
+~ Fiter Press!D15 [12]: (kosong) → Night
+~ Fiter Press!E15 [12]: (kosong) → 11
+~ Fiter Press!F15 [12]: (kosong) → 66
+~ Fiter Press!G15 [12]: (kosong) → 0.18
+~ Fiter Press!H15 [12]: (kosong) → 54.12
+~ Fiter Press!K15 [12]: (kosong) → 12-09-2026 00:00
+~ Fiter Press!L15 [12]: (kosong) → Night
+~ Fiter Press!M15 [12]: (kosong) → 11
+~ Fiter Press!N15 [12]: 0 → 137.5
+~ Fiter Press!O15 [12]: (kosong) → 0.18
+~ Fiter Press!P15 [12]: 0 → 112.75
++ Fiter Press baris 16 [6] ditambahkan: A=6, C=13-09-2026 00:00, D=Night, E=10, F=60, G=0.21, H=47.4, K=13-09-2026 00:00, ...
++ Fiter Press baris 17 [14] ditambahkan: C=14-09-2026 00:00, D=Day, E=9, F=54, G=0.19, H=43.74, K=14-09-2026 00:00, L=Day, ...
+~ Milling Down Time Hours!N61 "Availbility (%)" [25-10-2026 00:00]: 7.565511 → 7.480608
+~ Milling Down Time Hours!N62 "Availbility (%)" [26-10-2026 00:00]: 1770.329549 → 1750.462163
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 0.902481 → 0.912724
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 1.943806 → 1.965867
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 1.388433 → 1.404191
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.041653 → 0.042126
+_Dibandingkan 8590 sel dari 16 sheet._
+
 ## 14 Sep 2026 · 20:15 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Fiter Press: ~10 sel
 - Sheet "RINGKASAN UPDATE SHEET" dihapus
