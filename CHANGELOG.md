@@ -5,6 +5,208 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 09:33 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~47 sel; Crushing: ~27 sel; Daily Summary : ~35 sel; LT Floculation: +6 baris; Reagent Consumption: +2 baris, ~54 sel, -2 baris; Rom File Inventory: ~11 sel, -13 baris
+~ Au Cal Leaching Tank!AC15 "Lab AAS Result Tail" [6]: (kosong) → 0.051667
+~ Au Cal Leaching Tank!AD15 [6]: (kosong) → 0.126
+~ Au Cal Leaching Tank!AE15 [6]: (kosong) → 12.413667
+~ Au Cal Leaching Tank!AL15 "Metal Content Calculated" [6]: 0 → 14.313574
+~ Au Cal Leaching Tank!AM15 [6]: 0 → 34.906651
+~ Au Cal Leaching Tank!AN15 [6]: 0 → 3439.043886
+~ Au Cal Leaching Tank!AQ15 "Estimasi %Recovery Metal" [6]: 0.923652 → 0.833966
+~ Au Cal Leaching Tank!AR15 [6]: 1 → 0.811471
+~ Au Cal Leaching Tank!AS15 [6]: 1 → -0.637687
+~ Au Cal Leaching Tank!AV15 "Lab AAS Loaded Carbon" [6]: 379.094808 → 369.552425
+~ Au Cal Leaching Tank!AW15 [6]: 336.213916 → 312.942815
+~ Au Cal Leaching Tank!AX15 [6]: 2382.267964 → 89.57204
+~ Au Cal Leaching Tank!AZ15 "Estimasi Metal Content R" [6]: 147.411527 → 133.097953
+~ Au Cal Leaching Tank!BA15 [6]: 185.153003 → 150.246352
+~ Au Cal Leaching Tank!BB15 [6]: 2099.939797 → -1339.104089
+~ Au Cal Leaching Tank!AC60 "Lab AAS Result Tail" [Average]: 0.10015 → 0.092069
+~ Au Cal Leaching Tank!AD60 [Average]: 0.254333 → 0.232944
+~ Au Cal Leaching Tank!AE60 [Average]: 7.3095 → 8.160194
+~ Au Cal Leaching Tank!AQ60 "Estimasi %Recovery Metal" [Average]: 0.830173 → 0.815225
+~ Au Cal Leaching Tank!AR60 [Average]: 0.651039 → 0.619618
+~ Au Cal Leaching Tank!AS60 [Average]: 0.30104 → 0.028092
+~ Au Cal Leaching Tank!AZ61 "Estimasi Metal Content R" [Total]: 1107.615951 → 1093.302377
+~ Au Cal Leaching Tank!BA61 [Total]: 790.942092 → 756.035441
+~ Au Cal Leaching Tank!BB61 [Total]: 4273.576454 → 834.532568
+~ Au Cal Leaching Tank!BC61 [Total]: 6172.134496 → 2683.870385
+~ Au Cal Leaching Tank!BC62: 0.179454 → 0.40736
+~ Au Cal Leaching Tank!BD62: 0.128147 → 0.281696
+~ Au Cal Leaching Tank!BE62: 0.692398 → 0.310944
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1088.539741 → 1068.940036
+~ Au Cal Leaching Tank!AZ65 "Estimasi Metal Content R": 2285.975739 → 994.026069
+~ Au Cal Leaching Tank!I99 "Volume Slurry (m3)": Rata-Rata → 6
+~ Au Cal Leaching Tank!J99 "%solid": (kosong) → 3
+~ Au Cal Leaching Tank!K99 "Solid (Ton)": (kosong) → 277.036913
+~ Au Cal Leaching Tank!L99 "Solid (Ton)": 0.768561 → 0.576083
+~ Au Cal Leaching Tank!M99 "Sg Slurry": 0.643328 → 0.668333
+~ Au Cal Leaching Tank!N99 "Leaching": 8.706872 → 7.58
+~ Au Cal Leaching Tank!R99 "Solid on Tank,": 0.10015 → (kosong)
+~ Au Cal Leaching Tank!S99 "Solution (m3)": 0.254333 → (kosong)
+~ Au Cal Leaching Tank!T99 "Cumulative": 7.3095 → (kosong)
+~ Au Cal Leaching Tank!I100 "Volume Slurry (m3)": Total Material → Rata-Rata
+~ Au Cal Leaching Tank!K100 "Solid (Ton)": 1503.34768 → (kosong)
+~ Au Cal Leaching Tank!L100 "Solid (Ton)": (kosong) → 0.736481
+~ Au Cal Leaching Tank!M100 "Sg Slurry": (kosong) → 0.647495
+~ Au Cal Leaching Tank!N100 "Leaching": (kosong) → 8.51906
+~ Au Cal Leaching Tank!R100 "Solid on Tank,": (kosong) → 0.10015
+~ Au Cal Leaching Tank!S100 "Solution (m3)": (kosong) → 0.254333
+~ Au Cal Leaching Tank!T100 "Cumulative": (kosong) → 7.3095
++ Au Cal Leaching Tank baris 101 ditambahkan: I·Volume Slurry (m3)=Total Material, K·Solid (Ton)=1780.384593
+~ Crushing!J60 "SG Bulk Density (ton/m3)" [10-09-2026 00:00]: 1.32 → 1.3
+~ Crushing!K60 "WMT/SHIFT (wet metrix to" [10-09-2026 00:00]: 74.58 → 73.45
+~ Crushing!L60 "DMT/SHIFT (dry metrix to" [10-09-2026 00:00]: 67.122 → 66.105
+~ Crushing!M60 "Ton/hour (tph)" [10-09-2026 00:00]: 6.215 → 6.120833
+~ Crushing!N60 "Tonage/Day (Tpd)" [10-09-2026 00:00]: 73.7748 → 72.657
+~ Crushing!J61 "SG Bulk Density (ton/m3)": 1.32 → 1.3
+~ Crushing!K61 "WMT/SHIFT (wet metrix to": 7.392 → 7.28
+~ Crushing!L61 "DMT/SHIFT (dry metrix to": 6.6528 → 6.552
+~ Crushing!M61 "Ton/hour (tph)": 0.616 → 0.606667
+~ Crushing!J64 "SG Bulk Density (ton/m3)" [12-09-2026 00:00]: 1.32 → 1.3
+~ Crushing!K64 "WMT/SHIFT (wet metrix to" [12-09-2026 00:00]: 217.14 → 213.85
+~ Crushing!L64 "DMT/SHIFT (dry metrix to" [12-09-2026 00:00]: 195.426 → 192.465
+~ Crushing!M64 "Ton/hour (tph)" [12-09-2026 00:00]: 18.095 → 17.820833
+~ Crushing!N64 "Tonage/Day (Tpd)" [12-09-2026 00:00]: 333.828 → 328.77
+~ Crushing!J65 "SG Bulk Density (ton/m3)": 1.32 → 1.3
+~ Crushing!K65 "WMT/SHIFT (wet metrix to": 153.78 → 151.45
+~ Crushing!L65 "DMT/SHIFT (dry metrix to": 138.402 → 136.305
+~ Crushing!M65 "Ton/hour (tph)": 12.815 → 12.620833
+~ Crushing!N66 "Tonage/Day (Tpd)" [13-09-2026 00:00]: 148.8375 → 143.325
+~ Crushing!J67 "SG Bulk Density (ton/m3)": 1.35 → 1.3
+~ Crushing!K67 "WMT/SHIFT (wet metrix to": 165.375 → 159.25
+~ Crushing!L67 "DMT/SHIFT (dry metrix to": 148.8375 → 143.325
+~ Crushing!M67 "Ton/hour (tph)": 13.78125 → 13.270833
+~ Crushing!K86 "WMT/SHIFT (wet metrix to" [Rata-rata]: 152.2451 → 151.59575
+~ Crushing!L86 "DMT/SHIFT (dry metrix to" [Rata-rata]: 135.357945 → 134.77353
+~ Crushing!N86 "Tonage/Day (Tpd)" [Rata-rata]: 69.414331 → 69.114631
+~ Crushing!N87 "Tonage/Day (Tpd)" [Total]: 2707.1589 → 2695.4706
+~ Daily Summary !Z18 "Consumption" [25-08-2026 00:00]: 125 → 175
+~ Daily Summary !Z19 "Consumption" [26-08-2026 00:00]: 50 → 175
+~ Daily Summary !Z20 "Consumption" [27-08-2026 00:00]: 125 → 300
+~ Daily Summary !Z21 "Consumption" [28-08-2026 00:00]: 0 → 200
+~ Daily Summary !AB21 [28-08-2026 00:00]: 0 → 500
+~ Daily Summary !AF21 [28-08-2026 00:00]: 0 → 50
+~ Daily Summary !Z22 "Consumption" [29-08-2026 00:00]: 0 → 100
+~ Daily Summary !Z23 "Consumption" [30-08-2026 00:00]: 0 → 100
+~ Daily Summary !C34 "Feeding, ton" [10-09-2026 00:00]: 73.7748 → 72.657
+~ Daily Summary !D34 [10-09-2026 00:00]: 2224.4934 → 2223.3756
+~ Daily Summary !D35 [11-09-2026 00:00]: 2224.4934 → 2223.3756
+~ Daily Summary !C36 "Feeding, ton" [12-09-2026 00:00]: 333.828 → 328.77
+~ Daily Summary !D36 [12-09-2026 00:00]: 2558.3214 → 2552.1456
+~ Daily Summary !C37 "Feeding, ton" [13-09-2026 00:00]: 148.8375 → 143.325
+~ Daily Summary !D37 [13-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D38 [14-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D39 [15-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D40 [16-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D41 [17-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D42 [18-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D43 [19-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D44 [20-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D45 [21-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D46 [22-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D47 [23-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D48 [24-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !D49 [25-09-2026 00:00]: 2707.1589 → 2695.4706
+~ Daily Summary !C50 "Feeding, ton" [Total]: 2707.1589 → 2695.4706
+~ Daily Summary !Z50 "Consumption" [Total]: 1625 → 2375
+~ Daily Summary !AB50 [Total]: 2500 → 3000
+~ Daily Summary !AF50 [Total]: 75 → 125
+~ Daily Summary !Z51 "Consumption" [Average]: 56.034483 → 81.896552
+~ Daily Summary !AB51 [Average]: 86.206897 → 103.448276
+~ Daily Summary !AF51 [Average]: 2.586207 → 4.310345
+~ Daily Summary !G57: 0.657305 → 0.660155
++ LT Floculation baris 9 [4] ditambahkan: K·Batch Process=4
++ LT Floculation baris 10 [5] ditambahkan: G·Lab AAS Result=0.124667, H=0.378333, I=7.518333, K·Batch Process=5
++ LT Floculation baris 11 [6] ditambahkan: C·Tanggal=13-09-2026 00:00, D·Shift=Night, E·Leaching=3, F·Batch=6, G·Lab AAS Result=0.051667, H=0.126, I=12.413667, J=0.018, ...
++ LT Floculation baris 34 ditambahkan: O=LT-Floc NS 1, P=6, Q=13-09-2026 00:00, R=0.086, S=0.11, T=11.708
++ LT Floculation baris 35 ditambahkan: O=LT-Floc NS 2, P=6, Q=13-09-2026 00:00, R=0.05, S=0.203, T=13.383
++ LT Floculation baris 36 ditambahkan: O=LT-Floc NS 3, P=6, Q=13-09-2026 00:00, R=0.019, S=0.065, T=12.15
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 1625 → 2375
+~ Reagent Consumption!Z8 [29-08-2026 00:00]: 2500 → 3000
+~ Reagent Consumption!AA8 [29-08-2026 00:00]: 75 → 125
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 0.912724 → 1.333981
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 1.404191 → 1.685029
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.042126 → 0.07021
+- Reagent Consumption baris 19 [07-09-2026 00:00] dikosongkan: X=hcl 1 file 35 kg/30 Liter
++ Reagent Consumption baris 20 [07-09-2026 00:00] ditambahkan: X=Reagent Price (Rp)
+~ Reagent Consumption!D21 "Leaching" [08-09-2026 00:00]: 125 → 175
+~ Reagent Consumption!O21 [08-09-2026 00:00]: 125 → 175
+~ Reagent Consumption!X21 [08-09-2026 00:00]: Sandios → Sandios kg
+~ Reagent Consumption!Y21 [08-09-2026 00:00]: Lime → Lime kg
+~ Reagent Consumption!Z21 [08-09-2026 00:00]: Floculant → Carbon
+~ Reagent Consumption!AA21 [08-09-2026 00:00]: Carbon → Flculant
+~ Reagent Consumption!AB21 [08-09-2026 00:00]: (kosong) → NaOH kg
+~ Reagent Consumption!AC21 [08-09-2026 00:00]: (kosong) → HCl/Jerigen
+~ Reagent Consumption!D22 "Leaching" [09-09-2026 00:00]: 50 → 175
+~ Reagent Consumption!O22 [09-09-2026 00:00]: 50 → 175
+~ Reagent Consumption!Z22 [09-09-2026 00:00]: 30000 → 44000
+~ Reagent Consumption!AA22 [09-09-2026 00:00]: 44000 → 30000
+~ Reagent Consumption!AB22 [09-09-2026 00:00]: (kosong) → 28000
+~ Reagent Consumption!AC22 [09-09-2026 00:00]: (kosong) → 450000
+~ Reagent Consumption!D24 "Leaching" [10-09-2026 00:00]: 125 → 150
+~ Reagent Consumption!O24 [10-09-2026 00:00]: 125 → 300
+~ Reagent Consumption!X24 [10-09-2026 00:00]: (kosong) → Total Estimasi Biaya Reagent Pengolahan
++ Reagent Consumption baris 25 [10-09-2026 00:00] ditambahkan: D·Leaching=150, X=Sandios, Y=Lime, Z=Floculant, AA=Carbon, AB=NaOH, AC=HCl
+~ Reagent Consumption!B26 [11-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!C26 [11-09-2026 00:00]: (kosong) → Ulan
+~ Reagent Consumption!D26 "Leaching" [11-09-2026 00:00]: (kosong) → 200
+~ Reagent Consumption!F26 [11-09-2026 00:00]: (kosong) → 500
+~ Reagent Consumption!K26 [11-09-2026 00:00]: (kosong) → 50
+~ Reagent Consumption!O26 [11-09-2026 00:00]: 0 → 200
+~ Reagent Consumption!Q26 [11-09-2026 00:00]: 0 → 500
+~ Reagent Consumption!T26 [11-09-2026 00:00]: 0 → 50
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 78000000 → 114000000
+~ Reagent Consumption!Z26 [11-09-2026 00:00]: 2250000 → 132000000
+~ Reagent Consumption!AA26 [11-09-2026 00:00]: 110000000 → 3750000
+~ Reagent Consumption!AB26 [11-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!AC26 [11-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!D27 "Leaching" [12-09-2026 00:00]: (kosong) → 100
+~ Reagent Consumption!O27 [12-09-2026 00:00]: 0 → 100
+~ Reagent Consumption!X27 [12-09-2026 00:00]: (kosong) → Total Estimasi Biaya Reagent Pengolahan
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: (kosong) → 257800000
+~ Reagent Consumption!D28 "Leaching" [13-09-2026 00:00]: (kosong) → 100
+~ Reagent Consumption!O28 [13-09-2026 00:00]: 0 → 100
+~ Reagent Consumption!X28 [13-09-2026 00:00]: (kosong) → 0.442203
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: (kosong) → 0.031226
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: (kosong) → 0.512025
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: (kosong) → 0.014546
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: (kosong) → 0
+- Reagent Consumption baris 31 [16-09-2026 00:00] dikosongkan: Y=Anjingggg
+~ Reagent Consumption!O56: 1625 → 2375
+~ Reagent Consumption!Q56: 2500 → 3000
+~ Reagent Consumption!T56: 75 → 125
+~ Reagent Consumption!O58: 78000000 → 114000000
+~ Reagent Consumption!Q58: 110000000 → 90000000
+~ Reagent Consumption!T58: 2250000 → 5500000
+- Rom File Inventory baris 24 [17] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 26 [19] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 27 [20] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 28 [21] dikosongkan: I·Bulk Density=1.35
+~ Rom File Inventory!I29 "Bulk Density" [22]: 1.35 → 1.3
+~ Rom File Inventory!J29 "Tonage by survey" [22]: 121.5 → 117
+~ Rom File Inventory!M29 "Metal Content (gr)" [22]: 97.2 → 93.6
+- Rom File Inventory baris 30 [23] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 31 [24] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 32 [25] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 33 [26] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 34 [27] dikosongkan: I·Bulk Density=1.35
+~ Rom File Inventory!I35 "Bulk Density" [28]: 1.35 → 1.3
+~ Rom File Inventory!J35 "Tonage by survey" [28]: 421.2 → 405.6
+~ Rom File Inventory!M35 "Metal Content (gr)" [28]: 547.56 → 527.28
+- Rom File Inventory baris 36 [29] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 37 [30] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 38 [31] dikosongkan: I·Bulk Density=1.35
+- Rom File Inventory baris 39 [32] dikosongkan: I·Bulk Density=1.35
+~ Rom File Inventory!I40 "Bulk Density" [Average]: (kosong) → 1.353889
+~ Rom File Inventory!M40 "Metal Content (gr)" [Average]: 5051.46805 → 5027.58805
+~ Rom File Inventory!J41 "Tonage by survey" [Total]: 2701.33 → 2681.23
+~ Rom File Inventory!M41 "Metal Content (gr)" [Total]: 2998.4763 → 2976.1653
+~ Rom File Inventory!M43 "Metal Content (gr)": 1.869993 → 1.875105
+_Dibandingkan 8786 sel dari 16 sheet._
+
 ## 15 Sep 2026 · 00:44 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~110 sel; Daily Summary : ~4 sel; LT Ball Mill: +6 baris; LT Floculation: +9 baris; Milling Down Time Hours: +1 baris, ~10 sel; Milling and Leach Feed: +2 baris, ~92 sel
 ~ Au Cal Leaching Tank!BD12 [3]: 658.286727 → 538.973739
