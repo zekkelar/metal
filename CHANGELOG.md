@@ -5,6 +5,62 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 10:38 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: ~21 sel, -3 baris; Milling and Leach Feed: +1 baris, ~14 sel
++ Sheet "Milling and Leach Feed (2)" ditambahkan
++ Au Cal Leaching Tank baris 16 [7] ditambahkan: E·Date start=14-09-2026 00:00
+~ Au Cal Leaching Tank!J67 "%solid": 158.766667 → 159.766667
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 14.354861 → 14.396528
+~ Au Cal Leaching Tank!J71 "%solid": 158.766667 → 159.766667
+~ Au Cal Leaching Tank!J72 "%solid": 344.516667 → 345.516667
+~ Au Cal Leaching Tank!J73 "%solid": 0.539161 → 0.537601
+~ Au Cal Leaching Tank!J76 "%solid": 14.354861 → 14.396528
+~ Au Cal Leaching Tank!J77 "%solid": 0.460839 → 0.462399
+~ Daily Summary !J38 "Hours Milling" [14-09-2026 00:00]: 24 → 23.5
+~ Daily Summary !L38 [14-09-2026 00:00]: 1 → 0.979167
+~ Daily Summary !N38 "Plant Usability" [14-09-2026 00:00]: 0 → 0.979167
+~ Daily Summary !N51 "Plant Usability" [Average]: 0.246966 → 0.272734
+~ Milling Down Time Hours!L20 "Total Down Time (Mins)" [10-09-2026 00:00]: 0 → 30
+~ Milling Down Time Hours!M20 "Running Time (Hr)" [10-09-2026 00:00]: 24 → 23.5
+~ Milling Down Time Hours!N20 "Availbility (%)" [10-09-2026 00:00]: 1 → 0.979167
+~ Milling Down Time Hours!O20 "Downtime (hr)" [10-09-2026 00:00]: 0 → 0.5
+- Milling Down Time Hours baris 23 [12-09-2026 00:00] dikosongkan: I·BATCH=6
+- Milling Down Time Hours baris 24 [12-09-2026 00:00] dikosongkan: I·BATCH=6
+- Milling Down Time Hours baris 25 [13-09-2026 00:00] dikosongkan: I·BATCH=6
+~ Milling Down Time Hours!D26 "PIC" [13-09-2026 00:00]: Toni → Bukan Toni
+~ Milling Down Time Hours!I26 "BATCH" [13-09-2026 00:00]: 7 → (kosong)
+~ Milling Down Time Hours!D28 "PIC" [14-09-2026 00:00]: Toni → Tony S
+~ Milling Down Time Hours!E28 "Stop Time" [14-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F28 "Start Time" [14-09-2026 00:00]: (kosong) → 00:31:00
+~ Milling Down Time Hours!G28 "Down Time (Mins)" [14-09-2026 00:00]: 0 → 30
+~ Milling Down Time Hours!I28 "BATCH" [14-09-2026 00:00]: (kosong) → 7
+~ Milling Down Time Hours!L28 "Total Down Time (Mins)" [14-09-2026 00:00]: 0 → 30
+~ Milling Down Time Hours!M28 "Running Time (Hr)" [14-09-2026 00:00]: 24 → 23.5
+~ Milling Down Time Hours!N28 "Availbility (%)" [14-09-2026 00:00]: 1 → 0.979167
+~ Milling Down Time Hours!O28 "Downtime (hr)" [14-09-2026 00:00]: 0 → 0.5
+~ Milling Down Time Hours!L58 "Total Down Time (Mins)" [22-10-2026 00:00]: 9526 → 9586
+~ Milling Down Time Hours!N58 "Availbility (%)" [22-10-2026 00:00]: 0.712379 → 0.710568
+~ Milling Down Time Hours!O58 "Downtime (hr)" [22-10-2026 00:00]: 158.766667 → 159.766667
+~ Milling Down Time Hours!L59 "Total Down Time (Mins)" [23-10-2026 00:00]: 158.766667 → 159.766667
+~ Milling Down Time Hours!O59 "Downtime (hr)" [23-10-2026 00:00]: 6.615278 → 6.656944
+~ Milling Down Time Hours!M60 "Running Time (Hr)" [24-10-2026 00:00]: 14.5 → 14.541667
+~ Milling and Leach Feed!AC8: 1310 → 1250
+~ Milling and Leach Feed!AC10: 1.31 → 1.25
+~ Milling and Leach Feed!AC13 [04-09-2026 00:00]: 0.45177 → 0.381818
+~ Milling and Leach Feed!AC14: 591.818182 → 477.272727
+~ Milling and Leach Feed!AC15 [05-09-2026 00:00]: 718.181818 → 772.727273
+~ Milling and Leach Feed!AC19 [07-09-2026 00:00]: 0.45177 → 0.381818
+~ Milling and Leach Feed!AB25 [5]: 170.206246 → 137.263102
+~ Milling and Leach Feed!AB26: 136.776246 → 103.833102
+~ Milling and Leach Feed!E28 [11-09-2026 00:00]: Batch 3 Start jam 12:36 → Batch 6 Start jam 12:36
+~ Milling and Leach Feed!AB29 [6]: 108.206246 → 75.263102
++ Milling and Leach Feed baris 33 [14-09-2026 00:00] ditambahkan: B·PIC=14-09-2026 00:00, E=START BALL MILL BATCH 7, TANK 2, G=0.38, L=0.75
+~ Milling and Leach Feed!P35: 24 → 23.5
+~ Milling and Leach Feed!R35: 0 → 30
+~ Milling and Leach Feed!P55: 14.5 → 14.541667
+~ Milling and Leach Feed!L99 [Average]: 0.722381 → 0.723636
+_Dibandingkan 9836 sel dari 17 sheet._
+
 ## 15 Sep 2026 · 10:46 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~26 sel; LT Floculation: +3 baris, ~3 sel
 ~ Au Cal Leaching Tank!AC15 "Lab AAS Result Tail" [6]: 0.051667 → 0.0435
