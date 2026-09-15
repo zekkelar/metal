@@ -5,6 +5,46 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 17:50 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +3 baris, ~33 sel
+~ Milling and Leach Feed!D33 [13-09-2026 00:00]: Toni → Hadi
+~ Milling and Leach Feed!E33 [13-09-2026 00:00]: START BALL MILL BATCH 7, TANK 2 → Perbaikan Thickener
+~ Milling and Leach Feed!G33 [13-09-2026 00:00]: 0.38 → (kosong)
+~ Milling and Leach Feed!H33 "Milling And Leach Feed M" [13-09-2026 00:00]: 179.74888 → (kosong)
+~ Milling and Leach Feed!I33 [13-09-2026 00:00]: 17.974888 → (kosong)
+~ Milling and Leach Feed!J33 [13-09-2026 00:00]: 287.59888 → (kosong)
+~ Milling and Leach Feed!K33 [13-09-2026 00:00]: 1.25 → (kosong)
+~ Milling and Leach Feed!L33 [13-09-2026 00:00]: 0.75 → (kosong)
+~ Milling and Leach Feed!M33 [13-09-2026 00:00]: 28.759468 → (kosong)
+~ Milling and Leach Feed!N33 [13-09-2026 00:00]: 28.759468 → (kosong)
+~ Milling and Leach Feed!O33 [13-09-2026 00:00]: 2.875947 → (kosong)
+~ Milling and Leach Feed!P33 [13-09-2026 00:00]: 10 → (kosong)
+~ Milling and Leach Feed!Q33 [13-09-2026 00:00]: 600 → (kosong)
+~ Milling and Leach Feed!R33 [13-09-2026 00:00]: 120 → (kosong)
+~ Milling and Leach Feed!W33 [13-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!X33 [13-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!Y33 [13-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!Z33 [13-09-2026 00:00]: 3.2 → (kosong)
++ Milling and Leach Feed baris 34 [14-09-2026 00:00] ditambahkan: D=Hadi, E=Perbaikan Thickener
+~ Milling and Leach Feed!A35 [7]: (kosong) → 7
+~ Milling and Leach Feed!D35 [7]: (kosong) → Toni
+~ Milling and Leach Feed!E35 [7]: (kosong) → START BALL MILL BATCH 7, TANK 2
+~ Milling and Leach Feed!G35 [7]: (kosong) → 0.38
+~ Milling and Leach Feed!H35 "Milling And Leach Feed M" [7]: (kosong) → 179.74888
+~ Milling and Leach Feed!I35 [7]: (kosong) → 17.974888
+~ Milling and Leach Feed!J35 [7]: (kosong) → 287.59888
+~ Milling and Leach Feed!K35 [7]: (kosong) → 1.25
+~ Milling and Leach Feed!L35 [7]: (kosong) → 0.75
+~ Milling and Leach Feed!M35 [7]: 0 → 28.759468
+~ Milling and Leach Feed!N35 [7]: (kosong) → 28.759468
+~ Milling and Leach Feed!O35 [7]: 0 → 2.875947
+~ Milling and Leach Feed!P35 [7]: 22 → 10
+~ Milling and Leach Feed!Q35 [7]: (kosong) → 600
+~ Milling and Leach Feed!Z35 [7]: (kosong) → 3.2
++ Milling and Leach Feed baris 36 [7] ditambahkan: A=7, D=Deny, E=BALL MILL JALAN 3 BIJI
++ Milling and Leach Feed baris 37 [7] ditambahkan: A=7
+_Dibandingkan 9979 sel dari 17 sheet._
+
 ## 15 Sep 2026 · 17:43 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: +5 baris, ~531 sel; Milling and Leach Feed: ~37 sel, -3 baris; Milling and Leach Feed_OLD: ~8 sel
 - Sheet "Milling Down Time Hours_OLD" dihapus
