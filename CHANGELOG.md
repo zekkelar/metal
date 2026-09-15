@@ -5,6 +5,60 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 21:56 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Milling Down Time Hours: +31 baris; Milling and Leach Feed: +2 baris, ~16 sel
++ Milling Down Time Hours baris 4 ditambahkan: K·Availibility=Availibility
++ Milling Down Time Hours baris 5 [31-08-2026 00:00] ditambahkan: K·Availibility=0.934722
++ Milling Down Time Hours baris 6 [31-08-2026 00:00] ditambahkan: K·Availibility=0
++ Milling Down Time Hours baris 7 [01-09-2026 00:00] ditambahkan: K·Availibility=0
++ Milling Down Time Hours baris 8 [01-09-2026 00:00] ditambahkan: K·Availibility=0.954167
++ Milling Down Time Hours baris 9 [02-09-2026 00:00] ditambahkan: K·Availibility=0.916667
++ Milling Down Time Hours baris 10 [02-09-2026 00:00] ditambahkan: K·Availibility=0
++ Milling Down Time Hours baris 11 [03-09-2026 00:00] ditambahkan: K·Availibility=0
++ Milling Down Time Hours baris 12 [03-09-2026 00:00] ditambahkan: K·Availibility=0.459028
++ Milling Down Time Hours baris 13 [04-09-2026 00:00] ditambahkan: K·Availibility=0.001389
++ Milling Down Time Hours baris 14 [05-09-2026 00:00] ditambahkan: K·Availibility=0.459028
++ Milling Down Time Hours baris 15 [05-09-2026 00:00] ditambahkan: K·Availibility=0.459028
++ Milling Down Time Hours baris 16 [06-09-2026 00:00] ditambahkan: K·Availibility=0.909722
++ Milling Down Time Hours baris 17 [06-09-2026 00:00] ditambahkan: K·Availibility=1
++ Milling Down Time Hours baris 18 [07-09-2026 00:00] ditambahkan: K·Availibility=0.986806
++ Milling Down Time Hours baris 19 [07-09-2026 00:00] ditambahkan: K·Availibility=0.948611
++ Milling Down Time Hours baris 20 [08-09-2026 00:00] ditambahkan: K·Availibility=0.930556
++ Milling Down Time Hours baris 21 [08-09-2026 00:00] ditambahkan: K·Availibility=0.89375
++ Milling Down Time Hours baris 22 [09-09-2026 00:00] ditambahkan: K·Availibility=0.625
++ Milling Down Time Hours baris 23 [09-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 24 [10-09-2026 00:00] ditambahkan: K·Availibility=0.940278
++ Milling Down Time Hours baris 25 [10-09-2026 00:00] ditambahkan: K·Availibility=0.936111
++ Milling Down Time Hours baris 26 [11-09-2026 00:00] ditambahkan: K·Availibility=0.957639
++ Milling Down Time Hours baris 27 [11-09-2026 00:00] ditambahkan: K·Availibility=0.583333
++ Milling Down Time Hours baris 28 [12-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 29 [12-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 30 [13-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 31 [13-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 32 [14-09-2026 00:00] ditambahkan: K·Availibility=0.5
++ Milling Down Time Hours baris 33 [14-09-2026 00:00] ditambahkan: K·Availibility=0.916667
++ Milling Down Time Hours baris 34 [15-09-2026 00:00] ditambahkan: K·Availibility=1
+~ Milling and Leach Feed!I7 [01-09-2026 00:00]: 12.371223 → 11.941667
+~ Milling and Leach Feed!O7 [01-09-2026 00:00]: 8.693244 → 8.391396
+~ Milling and Leach Feed!Q7 [01-09-2026 00:00]: 695 → 720
+~ Milling and Leach Feed!R7 [01-09-2026 00:00]: 25 → 0
+~ Milling and Leach Feed!I8: 17.496318 → 18.165138
+~ Milling and Leach Feed!O8: 10.387086 → 10.784146
+~ Milling and Leach Feed!Q8: 679 → 654
+~ Milling and Leach Feed!R8: 41 → 66
+~ Milling and Leach Feed!I11 [03-09-2026 00:00]: 11.454545 → 10.5
+~ Milling and Leach Feed!O11 [03-09-2026 00:00]: 8.212559 → 7.528179
+~ Milling and Leach Feed!Q11 [03-09-2026 00:00]: 660 → 720
+~ Milling and Leach Feed!R11 [03-09-2026 00:00]: 60 → 0
+~ Milling and Leach Feed!Q12: 0 → -59
+~ Milling and Leach Feed!R12: 720 → 779
++ Milling and Leach Feed baris 13 [04-09-2026 00:00] ditambahkan: O=0
++ Milling and Leach Feed baris 14 ditambahkan: P=0
+~ Milling and Leach Feed!Q15 [05-09-2026 00:00]: 0 → -59
+~ Milling and Leach Feed!R15 [05-09-2026 00:00]: 720 → 779
+Catatan: rapihin doang yan, coba cek sesuain yang down time mill itu
+_Dibandingkan 10012 sel dari 17 sheet._
+
 ## 15 Sep 2026 · 17:50 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Milling and Leach Feed: +3 baris, ~33 sel
 ~ Milling and Leach Feed!D33 [13-09-2026 00:00]: Toni → Hadi
