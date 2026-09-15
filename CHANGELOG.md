@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 17:43 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: +5 baris, ~531 sel; Milling and Leach Feed: ~37 sel, -3 baris; Milling and Leach Feed_OLD: ~8 sel
+- Sheet "Milling Down Time Hours_OLD" dihapus
+~ Au Cal Leaching Tank!J67 "%solid": 199.733333 → 198.766667
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 16.061806 → 16.021528
+~ Au Cal Leaching Tank!J71 "%solid": 199.733333 → 198.766667
+~ Au Cal Leaching Tank!J72 "%solid": 385.483333 → 384.516667
+~ Au Cal Leaching Tank!J73 "%solid": 0.481863 → 0.483074
+~ Au Cal Leaching Tank!J76 "%solid": 16.061806 → 16.021528
+~ Au Cal Leaching Tank!J77 "%solid": 0.518137 → 0.516926
+~ Daily Summary !J38 "Hours Milling" [14-09-2026 00:00]: 21.516667 → 22
+~ Daily Summary !L38 [14-09-2026 00:00]: 0.896528 → 0.916667
+~ Daily Summary !N38 "Plant Usability" [14-09-2026 00:00]: 0.896528 → 0.916667
+~ Daily Summary !N51 "Plant Usability" [Average]: 0.270559 → 0.271089
+~ Milling Down Time Hours!J4 "Running Time": Running Time (Hours) → Running Time
+~ Milling Down Time Hours!N4 "Date": Date → (kosong)
+~ Milling Down Time Hours!O4 "Date": Total Down Time (Mins) → Date
+~ Milling Down Time Hours!P4 "Total Down Time (Mins)": Running Time (Hr) → Total Down Time (Mins)
+~ Milling Down Time Hours!Q4 "Running Time (Hr)": Availbility (%) → Running Time (Hr)
+~ Milling Down Time Hours!R4 "Availbility (%)": Downtime (hr) → Availbility (%)
+~ Milling Down Time Hours!S4 "Downtime (hr)": Reason → Downtime (hr)
+~ Milling Down Time Hours!T4 "Reason": (kosong) → Reason
+~ Milling Down Time Hours!N5 "Date" [31-08-2026 00:00]: 31-08-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O5 "Date" [31-08-2026 00:00]: 94 → 31-08-2026 00:00
+~ Milling Down Time Hours!P5 "Total Down Time (Mins)" [31-08-2026 00:00]: 22.433333 → 94
+~ Milling Down Time Hours!Q5 "Running Time (Hr)" [31-08-2026 00:00]: 0.934722 → 22.433333
+~ Milling Down Time Hours!R5 "Availbility (%)" [31-08-2026 00:00]: 1.566667 → 0.934722
+~ Milling Down Time Hours!S5 "Downtime (hr)" [31-08-2026 00:00]: Start Ball Mill 1 08:35, start ball m... → 1.566667
+~ Milling Down Time Hours!T5 "Reason" [31-08-2026 00:00]: (kosong) → Start Ball Mill 1 08:35, start ball m...
+~ Milling Down Time Hours!A6 "Date" [31-08-2026 00:00]: 01-09-2026 00:00 → 31-08-2026 00:00
+~ Milling Down Time Hours!D6 "PIC" [31-08-2026 00:00]: Toni → (kosong)
+~ Milling Down Time Hours!E6 "Stop Time" [31-08-2026 00:00]: 00:01:00 → (kosong)
+~ Milling Down Time Hours!F6 "Start Time" [31-08-2026 00:00]: 01:07:00 → (kosong)
+~ Milling Down Time Hours!G6 "Down Time (Mins)" [31-08-2026 00:00]: 66 → 0
+~ Milling Down Time Hours!H6 "Reason" [31-08-2026 00:00]: shift malam jam 20:59-21:40 stop thic... → (kosong)
+~ Milling Down Time Hours!J6 "Running Time" [31-08-2026 00:00]: 22.9 → (kosong)
+~ Milling Down Time Hours!N6 "Date" [31-08-2026 00:00]: 01-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O6 "Date" [31-08-2026 00:00]: 66 → 01-09-2026 00:00
+~ Milling Down Time Hours!P6 "Total Down Time (Mins)" [31-08-2026 00:00]: 22.9 → 66
+~ Milling Down Time Hours!Q6 "Running Time (Hr)" [31-08-2026 00:00]: 0.954167 → 22.9
+~ Milling Down Time Hours!R6 "Availbility (%)" [31-08-2026 00:00]: 1.1 → 0.954167
+~ Milling Down Time Hours!S6 "Downtime (hr)" [31-08-2026 00:00]: shift malam jam 20:59-21:40 stop thic... → 1.1
+~ Milling Down Time Hours!T6 "Reason" [31-08-2026 00:00]: (kosong) → shift malam jam 20:59-21:40 stop thic...
+~ Milling Down Time Hours!A7 "Date" [01-09-2026 00:00]: 02-09-2026 00:00 → 01-09-2026 00:00
+~ Milling Down Time Hours!D7 "PIC" [01-09-2026 00:00]: Hadi → (kosong)
+~ Milling Down Time Hours!E7 "Stop Time" [01-09-2026 00:00]: 00:01:00 → (kosong)
+~ Milling Down Time Hours!F7 "Start Time" [01-09-2026 00:00]: 02:01:00 → (kosong)
+~ Milling Down Time Hours!G7 "Down Time (Mins)" [01-09-2026 00:00]: 120 → 0
+~ Milling Down Time Hours!H7 "Reason" [01-09-2026 00:00]: Ball mill sampai jam 12 Cuma berjalan... → (kosong)
+~ Milling Down Time Hours!I7 "BATCH" [01-09-2026 00:00]: 2 → (kosong)
+~ Milling Down Time Hours!J7 "Running Time" [01-09-2026 00:00]: 22 → (kosong)
+~ Milling Down Time Hours!N7 "Date" [01-09-2026 00:00]: 02-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O7 "Date" [01-09-2026 00:00]: 120 → 02-09-2026 00:00
+~ Milling Down Time Hours!P7 "Total Down Time (Mins)" [01-09-2026 00:00]: 22 → 120
+~ Milling Down Time Hours!Q7 "Running Time (Hr)" [01-09-2026 00:00]: 0.916667 → 22
+~ Milling Down Time Hours!R7 "Availbility (%)" [01-09-2026 00:00]: 2 → 0.916667
+~ Milling Down Time Hours!S7 "Downtime (hr)" [01-09-2026 00:00]: Ball mill sampai jam 12 Cuma berjalan... → 2
+~ Milling Down Time Hours!T7 "Reason" [01-09-2026 00:00]: (kosong) → Ball mill sampai jam 12 Cuma berjalan...
+~ Milling Down Time Hours!A8 "Date" [01-09-2026 00:00]: 03-09-2026 00:00 → 01-09-2026 00:00
+~ Milling Down Time Hours!F8 "Start Time" [01-09-2026 00:00]: 13:00:00 → 01:07:00
+~ Milling Down Time Hours!G8 "Down Time (Mins)" [01-09-2026 00:00]: 779 → 66
+~ Milling Down Time Hours!H8 "Reason" [01-09-2026 00:00]: Stop ball mill jam 18:00 material fin... → shift malam jam 20:59-21:40 stop thic...
+~ Milling Down Time Hours!J8 "Running Time" [01-09-2026 00:00]: 11.016667 → 22.9
+~ Milling Down Time Hours!N8 "Date" [01-09-2026 00:00]: 03-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O8 "Date" [01-09-2026 00:00]: 779 → 03-09-2026 00:00
+~ Milling Down Time Hours!P8 "Total Down Time (Mins)" [01-09-2026 00:00]: 11.016667 → 779
+~ Milling Down Time Hours!Q8 "Running Time (Hr)" [01-09-2026 00:00]: 0.459028 → 11.016667
+~ Milling Down Time Hours!R8 "Availbility (%)" [01-09-2026 00:00]: 12.983333 → 0.459028
+~ Milling Down Time Hours!S8 "Downtime (hr)" [01-09-2026 00:00]: Stop ball mill jam 18:00 material fin... → 12.983333
+~ Milling Down Time Hours!T8 "Reason" [01-09-2026 00:00]: (kosong) → Stop ball mill jam 18:00 material fin...
+~ Milling Down Time Hours!A9 "Date" [02-09-2026 00:00]: 04-09-2026 00:00 → 02-09-2026 00:00
+~ Milling Down Time Hours!F9 "Start Time" [02-09-2026 00:00]: 23:59:00 → 02:01:00
+~ Milling Down Time Hours!G9 "Down Time (Mins)" [02-09-2026 00:00]: 1438 → 120
+~ Milling Down Time Hours!H9 "Reason" [02-09-2026 00:00]: drain slurry tank 2 dan 3, batch proc... → Ball mill sampai jam 12 Cuma berjalan...
+~ Milling Down Time Hours!I9 "BATCH" [02-09-2026 00:00]: (kosong) → 2
+~ Milling Down Time Hours!J9 "Running Time" [02-09-2026 00:00]: 0.033333 → 22
+~ Milling Down Time Hours!N9 "Date" [02-09-2026 00:00]: 04-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O9 "Date" [02-09-2026 00:00]: 1438 → 04-09-2026 00:00
+~ Milling Down Time Hours!P9 "Total Down Time (Mins)" [02-09-2026 00:00]: 0.033333 → 1438
+~ Milling Down Time Hours!Q9 "Running Time (Hr)" [02-09-2026 00:00]: 0.001389 → 0.033333
+~ Milling Down Time Hours!R9 "Availbility (%)" [02-09-2026 00:00]: 23.966667 → 0.001389
+~ Milling Down Time Hours!S9 "Downtime (hr)" [02-09-2026 00:00]: drain slurry tank 2 dan 3, batch proc... → 23.966667
+~ Milling Down Time Hours!T9 "Reason" [02-09-2026 00:00]: (kosong) → drain slurry tank 2 dan 3, batch proc...
+~ Milling Down Time Hours!A10 "Date" [02-09-2026 00:00]: 05-09-2026 00:00 → 02-09-2026 00:00
+~ Milling Down Time Hours!D10 "PIC" [02-09-2026 00:00]: Toni → (kosong)
+~ Milling Down Time Hours!E10 "Stop Time" [02-09-2026 00:00]: 00:01:00 → (kosong)
+~ Milling Down Time Hours!F10 "Start Time" [02-09-2026 00:00]: 13:00:00 → (kosong)
+~ Milling Down Time Hours!G10 "Down Time (Mins)" [02-09-2026 00:00]: 779 → 0
+~ Milling Down Time Hours!H10 "Reason" [02-09-2026 00:00]: Drain Slurry tank 3, genset 600 dan 7... → (kosong)
+~ Milling Down Time Hours!I10 "BATCH" [02-09-2026 00:00]: 3 → (kosong)
+~ Milling Down Time Hours!J10 "Running Time" [02-09-2026 00:00]: 11.016667 → (kosong)
+~ Milling Down Time Hours!N10 "Date" [02-09-2026 00:00]: 05-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O10 "Date" [02-09-2026 00:00]: 779 → 05-09-2026 00:00
+~ Milling Down Time Hours!P10 "Total Down Time (Mins)" [02-09-2026 00:00]: 11.016667 → 779
+~ Milling Down Time Hours!Q10 "Running Time (Hr)" [02-09-2026 00:00]: 0.459028 → 11.016667
+~ Milling Down Time Hours!R10 "Availbility (%)" [02-09-2026 00:00]: 12.983333 → 0.459028
+~ Milling Down Time Hours!S10 "Downtime (hr)" [02-09-2026 00:00]: Drain Slurry tank 3, genset 600 dan 7... → 12.983333
+~ Milling Down Time Hours!T10 "Reason" [02-09-2026 00:00]: (kosong) → Drain Slurry tank 3, genset 600 dan 7...
+~ Milling Down Time Hours!A11 "Date" [03-09-2026 00:00]: 06-09-2026 00:00 → 03-09-2026 00:00
+~ Milling Down Time Hours!D11 "PIC" [03-09-2026 00:00]: Kristo → (kosong)
+~ Milling Down Time Hours!E11 "Stop Time" [03-09-2026 00:00]: 00:01:00 → (kosong)
+~ Milling Down Time Hours!F11 "Start Time" [03-09-2026 00:00]: 04:21:00 → (kosong)
+~ Milling Down Time Hours!G11 "Down Time (Mins)" [03-09-2026 00:00]: 130 → 0
+~ Milling Down Time Hours!H11 "Reason" [03-09-2026 00:00]: Genset mengalami masalah sekitar 120 ... → (kosong)
+~ Milling Down Time Hours!J11 "Running Time" [03-09-2026 00:00]: 21.833333 → (kosong)
+~ Milling Down Time Hours!N11 "Date" [03-09-2026 00:00]: 06-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O11 "Date" [03-09-2026 00:00]: 130 → 06-09-2026 00:00
+~ Milling Down Time Hours!P11 "Total Down Time (Mins)" [03-09-2026 00:00]: 21.833333 → 130
+~ Milling Down Time Hours!Q11 "Running Time (Hr)" [03-09-2026 00:00]: 0.909722 → 21.833333
+~ Milling Down Time Hours!R11 "Availbility (%)" [03-09-2026 00:00]: 2.166667 → 0.909722
+~ Milling Down Time Hours!S11 "Downtime (hr)" [03-09-2026 00:00]: (kosong) → 2.166667
+~ Milling Down Time Hours!A12 "Date" [03-09-2026 00:00]: 06-09-2026 00:00 → 03-09-2026 00:00
+~ Milling Down Time Hours!D12 "PIC" [03-09-2026 00:00]: Yanli → Toni
+~ Milling Down Time Hours!E12 "Stop Time" [03-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F12 "Start Time" [03-09-2026 00:00]: (kosong) → 13:00:00
+~ Milling Down Time Hours!G12 "Down Time (Mins)" [03-09-2026 00:00]: 0 → 779
+~ Milling Down Time Hours!H12 "Reason" [03-09-2026 00:00]: Shift malam ada kebocoran pada ball m... → Stop ball mill jam 18:00 material fin...
+~ Milling Down Time Hours!J12 "Running Time" [03-09-2026 00:00]: 24 → 11.016667
+~ Milling Down Time Hours!N12 "Date" [03-09-2026 00:00]: 07-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O12 "Date" [03-09-2026 00:00]: 93 → 07-09-2026 00:00
+~ Milling Down Time Hours!P12 "Total Down Time (Mins)" [03-09-2026 00:00]: 22.45 → 93
+~ Milling Down Time Hours!Q12 "Running Time (Hr)" [03-09-2026 00:00]: 0.935417 → 22.45
+~ Milling Down Time Hours!R12 "Availbility (%)" [03-09-2026 00:00]: 1.55 → 0.935417
+~ Milling Down Time Hours!S12 "Downtime (hr)" [03-09-2026 00:00]: Ball mill 3 yang baru start jam 09:15... → 1.55
+~ Milling Down Time Hours!T12 "Reason" [03-09-2026 00:00]: (kosong) → Ball mill 3 yang baru start jam 09:15...
+~ Milling Down Time Hours!A13 "Date" [04-09-2026 00:00]: 07-09-2026 00:00 → 04-09-2026 00:00
+~ Milling Down Time Hours!D13 "PIC" [04-09-2026 00:00]: Toni → Hadi
+~ Milling Down Time Hours!F13 "Start Time" [04-09-2026 00:00]: 00:20:00 → 23:59:00
+~ Milling Down Time Hours!G13 "Down Time (Mins)" [04-09-2026 00:00]: 19 → 1438
+~ Milling Down Time Hours!H13 "Reason" [04-09-2026 00:00]: Ball mill no 3 yang baru start jam 09... → drain slurry tank 2 dan 3, batch proc...
+~ Milling Down Time Hours!J13 "Running Time" [04-09-2026 00:00]: 23.683333 → 0.033333
+~ Milling Down Time Hours!N13 "Date" [04-09-2026 00:00]: 08-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O13 "Date" [04-09-2026 00:00]: 253 → 08-09-2026 00:00
+~ Milling Down Time Hours!P13 "Total Down Time (Mins)" [04-09-2026 00:00]: 19.783333 → 253
+~ Milling Down Time Hours!Q13 "Running Time (Hr)" [04-09-2026 00:00]: 0.824306 → 19.783333
+~ Milling Down Time Hours!R13 "Availbility (%)" [04-09-2026 00:00]: 4.216667 → 0.824306
+~ Milling Down Time Hours!S13 "Downtime (hr)" [04-09-2026 00:00]: Start ball mill 19:30 jalan 2 ball mi... → 4.216667
+~ Milling Down Time Hours!T13 "Reason" [04-09-2026 00:00]: (kosong) → Start ball mill 19:30 jalan 2 ball mi...
+~ Milling Down Time Hours!A14 "Date" [05-09-2026 00:00]: 07-09-2026 00:00 → 05-09-2026 00:00
+~ Milling Down Time Hours!C14 "Shift" [05-09-2026 00:00]: Night → Day
+~ Milling Down Time Hours!D14 "PIC" [05-09-2026 00:00]: Toni → (kosong)
+~ Milling Down Time Hours!F14 "Start Time" [05-09-2026 00:00]: 01:15:00 → 13:00:00
+~ Milling Down Time Hours!G14 "Down Time (Mins)" [05-09-2026 00:00]: 74 → 779
+~ Milling Down Time Hours!H14 "Reason" [05-09-2026 00:00]: Start ball mill 19:30 jalan 2 ball mi... → Stop Genset Rusak
+~ Milling Down Time Hours!I14 "BATCH" [05-09-2026 00:00]: 4 → 3
+~ Milling Down Time Hours!J14 "Running Time" [05-09-2026 00:00]: 22.766667 → 11.016667
+~ Milling Down Time Hours!N14 "Date" [05-09-2026 00:00]: 09-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O14 "Date" [05-09-2026 00:00]: 1260 → 09-09-2026 00:00
+~ Milling Down Time Hours!P14 "Total Down Time (Mins)" [05-09-2026 00:00]: 3 → 1260
+~ Milling Down Time Hours!Q14 "Running Time (Hr)" [05-09-2026 00:00]: 0.125 → 3
+~ Milling Down Time Hours!R14 "Availbility (%)" [05-09-2026 00:00]: 21 → 0.125
+~ Milling Down Time Hours!S14 "Downtime (hr)" [05-09-2026 00:00]: Ball Mill Finish pump to tank 3 batch... → 21
+~ Milling Down Time Hours!T14 "Reason" [05-09-2026 00:00]: (kosong) → Ball Mill Finish pump to tank 3 batch...
+~ Milling Down Time Hours!A15 "Date" [05-09-2026 00:00]: 08-09-2026 00:00 → 05-09-2026 00:00
+~ Milling Down Time Hours!C15 "Shift" [05-09-2026 00:00]: Day → Night
+~ Milling Down Time Hours!F15 "Start Time" [05-09-2026 00:00]: 01:41:00 → 13:00:00
+~ Milling Down Time Hours!G15 "Down Time (Mins)" [05-09-2026 00:00]: 100 → 779
+~ Milling Down Time Hours!H15 "Reason" [05-09-2026 00:00]: start 1 ball mill jam 07:04 masalah p... → Drain Slurry tank 3, genset 600 dan 7...
+~ Milling Down Time Hours!J15 "Running Time" [05-09-2026 00:00]: 22.333333 → 11.016667
+~ Milling Down Time Hours!N15 "Date" [05-09-2026 00:00]: 10-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O15 "Date" [05-09-2026 00:00]: 253 → 10-09-2026 00:00
+~ Milling Down Time Hours!P15 "Total Down Time (Mins)" [05-09-2026 00:00]: 19.783333 → 253
+~ Milling Down Time Hours!Q15 "Running Time (Hr)" [05-09-2026 00:00]: 0.824306 → 19.783333
+~ Milling Down Time Hours!R15 "Availbility (%)" [05-09-2026 00:00]: 4.216667 → 0.824306
+~ Milling Down Time Hours!S15 "Downtime (hr)" [05-09-2026 00:00]: (kosong) → 4.216667
+~ Milling Down Time Hours!A16 "Date" [06-09-2026 00:00]: 08-09-2026 00:00 → 06-09-2026 00:00
+~ Milling Down Time Hours!C16 "Shift" [06-09-2026 00:00]: Night → Day
+~ Milling Down Time Hours!D16 "PIC" [06-09-2026 00:00]: Deny → Kristo
+~ Milling Down Time Hours!F16 "Start Time" [06-09-2026 00:00]: 02:34:00 → 04:21:00
+~ Milling Down Time Hours!G16 "Down Time (Mins)" [06-09-2026 00:00]: 153 → 130
+~ Milling Down Time Hours!H16 "Reason" [06-09-2026 00:00]: start ball mill 1 dan 2, jam 20:33. b... → Genset mengalami masalah sekitar 120 ...
+~ Milling Down Time Hours!J16 "Running Time" [06-09-2026 00:00]: 21.45 → 21.833333
+~ Milling Down Time Hours!A17 "Date" [06-09-2026 00:00]: 09-09-2026 00:00 → 06-09-2026 00:00
+~ Milling Down Time Hours!C17 "Shift" [06-09-2026 00:00]: Day → Night
+~ Milling Down Time Hours!D17 "PIC" [06-09-2026 00:00]: Toni → Yanli
+~ Milling Down Time Hours!E17 "Stop Time" [06-09-2026 00:00]: 00:01:00 → (kosong)
+~ Milling Down Time Hours!F17 "Start Time" [06-09-2026 00:00]: 09:01:00 → (kosong)
+~ Milling Down Time Hours!G17 "Down Time (Mins)" [06-09-2026 00:00]: 540 → 0
+~ Milling Down Time Hours!H17 "Reason" [06-09-2026 00:00]: Ball Mill Finish pump slurry to tank ... → Shift malam ada kebocoran pada ball m...
+~ Milling Down Time Hours!J17 "Running Time" [06-09-2026 00:00]: 15 → 24
+~ Milling Down Time Hours!N17 "Date" [06-09-2026 00:00]: 11-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O17 "Date" [06-09-2026 00:00]: 661 → 11-09-2026 00:00
+~ Milling Down Time Hours!P17 "Total Down Time (Mins)" [06-09-2026 00:00]: 12.983333 → 661
+~ Milling Down Time Hours!Q17 "Running Time (Hr)" [06-09-2026 00:00]: 0.540972 → 12.983333
+~ Milling Down Time Hours!R17 "Availbility (%)" [06-09-2026 00:00]: 11.016667 → 0.540972
+~ Milling Down Time Hours!S17 "Downtime (hr)" [06-09-2026 00:00]: (kosong) → 11.016667
+~ Milling Down Time Hours!A18 "Date" [07-09-2026 00:00]: 09-09-2026 00:00 → 07-09-2026 00:00
+~ Milling Down Time Hours!C18 "Shift" [07-09-2026 00:00]: Night → Day
+~ Milling Down Time Hours!F18 "Start Time" [07-09-2026 00:00]: 12:01:00 → 00:20:00
+~ Milling Down Time Hours!G18 "Down Time (Mins)" [07-09-2026 00:00]: 720 → 19
+~ Milling Down Time Hours!H18 "Reason" [07-09-2026 00:00]: Drain Slurry Tank 2 Batch 3 → Ball mill no 3 yang baru start jam 09...
+~ Milling Down Time Hours!J18 "Running Time" [07-09-2026 00:00]: 12 → 23.683333
+~ Milling Down Time Hours!N18 "Date" [07-09-2026 00:00]: 12-09-2026 00:00 → (kosong)
+~ Milling Down Time Hours!O18 "Date" [07-09-2026 00:00]: 1440 → 12-09-2026 00:00
+~ Milling Down Time Hours!P18 "Total Down Time (Mins)" [07-09-2026 00:00]: 0 → 1440
+~ Milling Down Time Hours!R18 "Availbility (%)" [07-09-2026 00:00]: 24 → 0
+~ Milling Down Time Hours!S18 "Downtime (hr)" [07-09-2026 00:00]: (kosong) → 24
+~ Milling Down Time Hours!A19 "Date" [07-09-2026 00:00]: 10-09-2026 00:00 → 07-09-2026 00:00
+~ Milling Down Time Hours!C19 "Shift" [07-09-2026 00:00]: Day → Night
+~ Milling Down Time Hours!F19 "Start Time" [07-09-2026 00:00]: 01:27:00 → 01:15:00
+~ Milling Down Time Hours!G19 "Down Time (Mins)" [07-09-2026 00:00]: 86 → 74
+~ Milling Down Time Hours!H19 "Reason" [07-09-2026 00:00]: Start ball mill jam 07:23, jam 09:19-... → Start ball mill 19:30 jalan 2 ball mi...
+- ...dan 921 perubahan lain tidak ditampilkan
+_Dibandingkan 10473 sel dari 18 sheet._
+
 ## 15 Sep 2026 · 17:23 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: +1 baris, ~385 sel; Milling and Leach Feed: +4 baris, ~175 sel, -57 baris
 + Sheet "Milling Down Time Hours_OLD" ditambahkan
