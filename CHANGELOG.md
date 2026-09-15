@@ -5,6 +5,42 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 10:46 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~26 sel; LT Floculation: +3 baris, ~3 sel
+~ Au Cal Leaching Tank!AC15 "Lab AAS Result Tail" [6]: 0.051667 → 0.0435
+~ Au Cal Leaching Tank!AD15 [6]: 0.126 → 0.238
+~ Au Cal Leaching Tank!AE15 [6]: 12.413667 → 7.4
+~ Au Cal Leaching Tank!AL15 "Metal Content Calculated" [6]: 14.313574 → 12.051106
+~ Au Cal Leaching Tank!AM15 [6]: 34.906651 → 65.934785
+~ Au Cal Leaching Tank!AN15 [6]: 3439.043886 → 2050.073153
+~ Au Cal Leaching Tank!AQ15 "Estimasi %Recovery Metal" [6]: 0.833966 → 0.848142
+~ Au Cal Leaching Tank!AR15 [6]: 0.811471 → 0.64389
+~ Au Cal Leaching Tank!AS15 [6]: -0.637687 → 0.023747
+~ Au Cal Leaching Tank!AV15 "Lab AAS Loaded Carbon" [6]: 369.552425 → 371.060737
+~ Au Cal Leaching Tank!AW15 [6]: 312.942815 → 292.257392
+~ Au Cal Leaching Tank!AX15 [6]: 89.57204 → 1015.552529
+~ Au Cal Leaching Tank!AZ15 "Estimasi Metal Content R" [6]: 133.097953 → 135.360421
+~ Au Cal Leaching Tank!BA15 [6]: 150.246352 → 119.218218
+~ Au Cal Leaching Tank!BB15 [6]: -1339.104089 → 49.866644
+~ Au Cal Leaching Tank!AC60 "Lab AAS Result Tail" [Average]: 0.092069 → 0.090708
+~ Au Cal Leaching Tank!AD60 [Average]: 0.232944 → 0.251611
+~ Au Cal Leaching Tank!AE60 [Average]: 8.160194 → 7.324583
+~ Au Cal Leaching Tank!AQ60 "Estimasi %Recovery Metal" [Average]: 0.815225 → 0.817588
+~ Au Cal Leaching Tank!AR60 [Average]: 0.619618 → 0.591688
+~ Au Cal Leaching Tank!AS60 [Average]: 0.028092 → 0.138331
+~ Au Cal Leaching Tank!AZ61 "Estimasi Metal Content R" [Total]: 1093.302377 → 1095.564845
+~ Au Cal Leaching Tank!BA61 [Total]: 756.035441 → 725.007307
+~ Au Cal Leaching Tank!BB61 [Total]: 834.532568 → 2223.503301
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1068.940036 → 1072.038054
+~ Au Cal Leaching Tank!AZ65 "Estimasi Metal Content R": 2623925704.091 → 2629355627.576
+~ LT Floculation!G11 "Lab AAS Result" [6]: 0.051667 → 0.0435
+~ LT Floculation!H11 [6]: 0.126 → 0.238
+~ LT Floculation!I11 [6]: 12.413667 → 7.4
++ LT Floculation baris 37 ditambahkan: O=LT-Floc DS 1, P=6, Q=14-09-2026 00:00, R=0.048, S=0.35, T=7.47
++ LT Floculation baris 38 ditambahkan: O=LT-Floc DS 2, P=6, Q=14-09-2026 00:00, R=0.035, S=0.35, T=7.36
++ LT Floculation baris 39 ditambahkan: O=LT-Floc DS 3, P=6, Q=14-09-2026 00:00, R=0.023, S=0.35, T=7.37
+_Dibandingkan 8777 sel dari 16 sheet._
+
 ## 15 Sep 2026 · 09:39 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~3 sel, -12 baris
 - Au Cal Leaching Tank baris 9 [to tank leaching] dikosongkan: BE=%Au, BF=%Ag, BG=%Cu
