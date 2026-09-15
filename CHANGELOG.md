@@ -5,6 +5,25 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 09:39 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~3 sel, -12 baris
+- Au Cal Leaching Tank baris 9 [to tank leaching] dikosongkan: BE=%Au, BF=%Ag, BG=%Cu
+- Au Cal Leaching Tank baris 10 [1] dikosongkan: BD=540.498186, BE=0.306224, BF=0.214402, BG=0.479374
+- Au Cal Leaching Tank baris 12 [3] dikosongkan: BD=538.973739, BE=286.621218, BF=700.174507
+- Au Cal Leaching Tank baris 13 [4] dikosongkan: BD=421.230684, BE=319.16787, BF=1473.46215, BJ=6400
+- Au Cal Leaching Tank baris 14 [5] dikosongkan: BD=960.204424, BE=605.789088, BF=2173.636657, BJ=2560
+- Au Cal Leaching Tank baris 15 [6] dikosongkan: BJ=2176
+- Au Cal Leaching Tank baris 16 [7] dikosongkan: BJ=870.4
+- Au Cal Leaching Tank baris 17 [8] dikosongkan: BJ=1305.6
+- Au Cal Leaching Tank baris 20 [11] dikosongkan: BE=538.973739, BF=286.621218, BG=700.174507
+- Au Cal Leaching Tank baris 22 dikosongkan: BE=1017.179643
+- Au Cal Leaching Tank baris 61 [Total] dikosongkan: BC=2683.870385
+- Au Cal Leaching Tank baris 62 dikosongkan: BC=0.40736, BD=0.281696, BE=0.310944
+~ Au Cal Leaching Tank!AX65: (kosong) → Gold Price
+~ Au Cal Leaching Tank!AY65 "Batch": (kosong) → 2400000
+~ Au Cal Leaching Tank!AZ65 "Estimasi Metal Content R": 994.026069 → 2623925704.091
+_Dibandingkan 8786 sel dari 16 sheet._
+
 ## 15 Sep 2026 · 09:38 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
 Ringkasan: Barang Keluar : +1 baris; Stock Barang: ~2 sel
 + Barang Keluar  baris 28 [24] ditambahkan: C·Tanggal=04-09-2026 00:00, D·Kode Barang=Floc, E·Nama Barang=Floculant, F·Jumlah Barang Keluar  (k=25
