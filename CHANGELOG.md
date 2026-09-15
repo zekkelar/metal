@@ -5,6 +5,33 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 22:47 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Milling Down Time Hours: +1 baris; Milling and Leach Feed: ~22 sel
++ Milling Down Time Hours baris 34 [15-09-2026 00:00] ditambahkan: D·PIC=Deny, H·Reason=Ball mill jalan 3; ball mill 2 jam 15...
+~ Milling and Leach Feed!AI6: 1250 → 1245
+~ Milling and Leach Feed!AI8: 1.25 → 1.245
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.381818 → 0.375685
+~ Milling and Leach Feed!AI12: 477.272727 → 467.727273
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 772.727273 → 777.272727
+~ Milling and Leach Feed!B35 "PIC" [7]: (kosong) → 14-09-2026 00:00
+~ Milling and Leach Feed!N35 [7]: 28.759468 → 115.351896
+~ Milling and Leach Feed!G36 [7]: (kosong) → 0.37
+~ Milling and Leach Feed!H36 "Milling And Leach Feed M" [7]: (kosong) → 188.736765
+~ Milling and Leach Feed!I36 [7]: (kosong) → 15.728064
+~ Milling and Leach Feed!J36 [7]: (kosong) → 476.335645
+~ Milling and Leach Feed!K36 [7]: (kosong) → 1.24
+~ Milling and Leach Feed!L36 [7]: (kosong) → 0.75
+~ Milling and Leach Feed!M36 [7]: 0 → 86.592428
+~ Milling and Leach Feed!O36 [7]: (kosong) → 7.216036
+~ Milling and Leach Feed!P36 [7]: (kosong) → 12
+~ Milling and Leach Feed!Q36 [7]: (kosong) → 720
+~ Milling and Leach Feed!R36 [7]: (kosong) → 0
+~ Milling and Leach Feed!Z36 [7]: (kosong) → 5.3
+~ Milling and Leach Feed!L99 [Average]: 0.723636 → 0.724783
+~ Milling and Leach Feed!M99 [Average]: 1809.144061 → 1895.736489
+~ Milling and Leach Feed!AA102: 3.2 → 5.3
+_Dibandingkan 10026 sel dari 17 sheet._
+
 ## 15 Sep 2026 · 21:56 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Milling Down Time Hours: +31 baris; Milling and Leach Feed: +2 baris, ~16 sel
 + Milling Down Time Hours baris 4 ditambahkan: K·Availibility=Availibility
