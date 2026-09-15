@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 09:38 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
+Ringkasan: Barang Keluar : +1 baris; Stock Barang: ~2 sel
++ Barang Keluar  baris 28 [24] ditambahkan: C·Tanggal=04-09-2026 00:00, D·Kode Barang=Floc, E·Nama Barang=Floculant, F·Jumlah Barang Keluar  (k=25
+~ Stock Barang!F12 "Barang Keluar" [Floc]: 100 → 125
+~ Stock Barang!G12 "Stock Akhir" [Floc]: 6325 → 6300
+_Dibandingkan 886 sel dari 4 sheet._
+
 ## 15 Sep 2026 · 09:33 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~47 sel; Crushing: ~27 sel; Daily Summary : ~35 sel; LT Floculation: +6 baris; Reagent Consumption: +2 baris, ~54 sel, -2 baris; Rom File Inventory: ~11 sel, -13 baris
 ~ Au Cal Leaching Tank!AC15 "Lab AAS Result Tail" [6]: (kosong) → 0.051667
