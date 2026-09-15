@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Sep 2026 · 17:01 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: LT Floculation: +3 baris
++ LT Floculation baris 40 ditambahkan: O=LT-Floc DS 1, P=6, Q=14-09-2026 00:00, R=0.132, S=0.83, T=8.71
++ LT Floculation baris 41 ditambahkan: O=LT-Floc DS 2, P=6, Q=14-09-2026 00:00, R=0.116, S=0.83, T=8.84
++ LT Floculation baris 42 ditambahkan: O=LT-Floc DS 3, P=6, Q=14-09-2026 00:00, R=0.094, S=0.83, T=8.76
+_Dibandingkan 9934 sel dari 17 sheet._
+
 ## 15 Sep 2026 · 15:10 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~13 sel; Milling Down Time Hours: ~37 sel; Milling and Leach Feed: +60 baris, ~28 sel; Milling and Leach Feed (2): +1 baris, ~13 sel; Reagent Consumption: ~12 sel
 + Sheet "Filter Press" ditambahkan
