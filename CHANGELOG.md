@@ -5,6 +5,36 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 16 Sep 2026 · 20:03 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Daily Summary : ~4 sel; Reagent Consumption: ~22 sel
+~ Daily Summary !Z24 "Consumption" [31-08-2026 00:00]: 0 → 125
+~ Daily Summary !Z25 "Consumption" [01-09-2026 00:00]: 0 → 300
+~ Daily Summary !Z50 "Consumption" [Total]: 2500 → 2925
+~ Daily Summary !Z51 "Consumption" [Average]: 86.206897 → 100.862069
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 2500 → 2925
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.242863 → 1.45415
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 120000000 → 140400000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 263800000 → 284200000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.45489 → 0.494018
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.030516 → 0.028325
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.500379 → 0.464462
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.014215 → 0.013195
+~ Reagent Consumption!B29 [14-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!C29 [14-09-2026 00:00]: (kosong) → Ulan
+~ Reagent Consumption!D29 "Leaching" [14-09-2026 00:00]: (kosong) → 125
+~ Reagent Consumption!O29 [14-09-2026 00:00]: 0 → 125
+~ Reagent Consumption!B30 [15-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!C30 [15-09-2026 00:00]: (kosong) → Yan leee
+~ Reagent Consumption!D30 "Leaching" [15-09-2026 00:00]: (kosong) → 150
+~ Reagent Consumption!O30 [15-09-2026 00:00]: 0 → 300
+~ Reagent Consumption!A31 "Data ragents consumption" [15-09-2026 00:00]: 16-09-2026 00:00 → 15-09-2026 00:00
+~ Reagent Consumption!B31 [15-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!C31 [15-09-2026 00:00]: (kosong) → Ulan
+~ Reagent Consumption!D31 "Leaching" [15-09-2026 00:00]: (kosong) → 150
+~ Reagent Consumption!O56: 2500 → 2925
+~ Reagent Consumption!O58: 120000000 → 140400000
+_Dibandingkan 10116 sel dari 17 sheet._
+
 ## 16 Sep 2026 · 20:03 · Log sheet Leaching.xlsm · GanyuChan@MSI
 Ringkasan: Database: +49 baris, ~101 sel; Input Form: ~3 sel
 + Database baris 3 ditambahkan: Q·TOTAL SANDIOS=TOTAL SANDIOS
