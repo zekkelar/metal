@@ -5,6 +5,15 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 16 Sep 2026 · 10:08 · Perbandingan MET dan GC.xlsx · GanyuChan@MSI
+- Sheet "Sheet2" dihapus
+- Sheet "Sheet3" dihapus
+- Sheet "Sheet4" dihapus
+- Sheet "Sheet5" dihapus
+- Sheet "Sheet6" dihapus
+- Sheet "Sheet7" dihapus
+_Dibandingkan 1980 sel dari 7 sheet._
+
 ## 15 Sep 2026 · 22:47 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Milling Down Time Hours: +1 baris; Milling and Leach Feed: ~22 sel
 + Milling Down Time Hours baris 34 [15-09-2026 00:00] ditambahkan: D·PIC=Deny, H·Reason=Ball mill jalan 3; ball mill 2 jam 15...
