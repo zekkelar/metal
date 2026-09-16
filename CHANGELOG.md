@@ -5,6 +5,163 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 16 Sep 2026 · 20:03 · Log sheet Leaching.xlsm · GanyuChan@MSI
+Ringkasan: Database: +49 baris, ~101 sel; Input Form: ~3 sel
++ Database baris 3 ditambahkan: Q·TOTAL SANDIOS=TOTAL SANDIOS
+~ Database!C5 "Jam" [14-09-2026 00:00]: 22:30:00 → 20:00:00
+~ Database!H5 [14-09-2026 00:00]: 1.525 → (kosong)
+~ Database!K5 [14-09-2026 00:00]: 2 Menit → (kosong)
+~ Database!N5 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!P5 "Batch" [14-09-2026 00:00]: (kosong) → 7
+~ Database!Q5 "TOTAL SANDIOS" [14-09-2026 00:00]: (kosong) → 125
+~ Database!C6 "Jam" [14-09-2026 00:00]: 23:35:00 → 22:30:00
+~ Database!G6 "Parameter" [14-09-2026 00:00]: 11 → (kosong)
+~ Database!H6 [14-09-2026 00:00]: 1.58 → 1525
+~ Database!I6 [14-09-2026 00:00]: 1.32 → (kosong)
+~ Database!J6 [14-09-2026 00:00]: 1 Plat 5 cm → (kosong)
+~ Database!K6 [14-09-2026 00:00]: 5 Menit → 2 MENIT
+~ Database!N6 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C7 "Jam" [14-09-2026 00:00]: 00:33:00 → 23:35:00
+~ Database!H7 [14-09-2026 00:00]: 1.42 → 158
+~ Database!J7 [14-09-2026 00:00]: (kosong) → 1 PLAT 5 CM
+~ Database!K7 [14-09-2026 00:00]: 4 Menit → 5 MENIT
+~ Database!N7 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C8 "Jam" [14-09-2026 00:00]: 01:30:00 → 00:33:00
+~ Database!G8 "Parameter" [14-09-2026 00:00]: (kosong) → 11
+~ Database!H8 [14-09-2026 00:00]: 1.41 → 1.42
+~ Database!I8 [14-09-2026 00:00]: (kosong) → 1.32
+~ Database!K8 [14-09-2026 00:00]: (kosong) → 4 MENIT
+~ Database!N8 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C9 "Jam" [14-09-2026 00:00]: 02:07:00 → 01:30:00
+~ Database!G9 "Parameter" [14-09-2026 00:00]: 11 → (kosong)
+~ Database!H9 [14-09-2026 00:00]: 1.415 → 1.41
+~ Database!I9 [14-09-2026 00:00]: 1.3 → (kosong)
+~ Database!J9 [14-09-2026 00:00]: 1 Plat 50 cm → (kosong)
+~ Database!K9 [14-09-2026 00:00]: 4 Menit → 3 MENIT
+~ Database!L9 "Penambahan Reagent" [14-09-2026 00:00]: 25 → (kosong)
+~ Database!N9 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C10 "Jam" [14-09-2026 00:00]: 02:38:00 → 02:07:00
+~ Database!G10 "Parameter" [14-09-2026 00:00]: (kosong) → 11
+~ Database!H10 [14-09-2026 00:00]: 1.375 → 1.415
+~ Database!I10 [14-09-2026 00:00]: (kosong) → 1.3
+~ Database!J10 [14-09-2026 00:00]: 1 Plat 6 cm → 1 PLAT 50 CM
+~ Database!K10 [14-09-2026 00:00]: 3 Menit → 4 MENIT
+~ Database!L10 "Penambahan Reagent" [14-09-2026 00:00]: (kosong) → 25
+~ Database!N10 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C11 "Jam" [14-09-2026 00:00]: 03:06:00 → 02:38:00
+~ Database!G11 "Parameter" [14-09-2026 00:00]: 11 → (kosong)
+~ Database!H11 [14-09-2026 00:00]: 1.4 → 1.375
+~ Database!I11 [14-09-2026 00:00]: 1.295 → (kosong)
+~ Database!J11 [14-09-2026 00:00]: 1 Plat 70 cm → 1 PLAT 60 CM
+~ Database!K11 [14-09-2026 00:00]: 3 Menit → 3 MENIT
+~ Database!N11 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C12 "Jam" [14-09-2026 00:00]: (kosong) → 03:06:00
+~ Database!G12 "Parameter" [14-09-2026 00:00]: (kosong) → 11
+~ Database!H12 [14-09-2026 00:00]: 1.39 → 1.4
+~ Database!I12 [14-09-2026 00:00]: (kosong) → 1.295
+~ Database!J12 [14-09-2026 00:00]: 1 Plat 80 cm → 1 PLAT 70 CM
+~ Database!K12 [14-09-2026 00:00]: 3 Menit → 3 MENIT
+~ Database!N12 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C13 "Jam" [14-09-2026 00:00]: 04:08:00 → (kosong)
+~ Database!H13 [14-09-2026 00:00]: 1.32 → 1.39
+~ Database!I13 [14-09-2026 00:00]: 1.295 → (kosong)
+~ Database!J13 [14-09-2026 00:00]: 2 Plat → 1 PLAT 80 CM
+~ Database!K13 [14-09-2026 00:00]: 4 Menit → 3 MENIT
+~ Database!L13 "Penambahan Reagent" [14-09-2026 00:00]: 2 → (kosong)
+~ Database!N13 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C14 "Jam" [14-09-2026 00:00]: 04:30:00 → 04:08:00
+~ Database!G14 "Parameter" [14-09-2026 00:00]: 11 → (kosong)
+~ Database!H14 [14-09-2026 00:00]: 1.425 → 1.32
+~ Database!I14 [14-09-2026 00:00]: (kosong) → 1.295
+~ Database!J14 [14-09-2026 00:00]: 2 Plat 5 Cm → 2 PLAT
+~ Database!K14 [14-09-2026 00:00]: 4 Menit → 4 MENIT
+~ Database!L14 "Penambahan Reagent" [14-09-2026 00:00]: 2 → 25
+~ Database!N14 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C15 "Jam" [14-09-2026 00:00]: 05:04:00 → 04:32:00
+~ Database!G15 "Parameter" [14-09-2026 00:00]: 10 → 11
+~ Database!H15 [14-09-2026 00:00]: 1.315 → 1.425
+~ Database!I15 [14-09-2026 00:00]: 1.23 → (kosong)
+~ Database!J15 [14-09-2026 00:00]: 2 Plat 20 cm → 2 PLAT 5 CM
+~ Database!K15 [14-09-2026 00:00]: 3 Menit → 4 MENIT
+~ Database!L15 "Penambahan Reagent" [14-09-2026 00:00]: (kosong) → 25
+~ Database!N15 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:17 → 16-09-2026 19:31
+~ Database!C16 "Jam" [14-09-2026 00:00]: 08:00:00 → 05:04:00
+~ Database!G16 "Parameter" [14-09-2026 00:00]: (kosong) → 10
+~ Database!H16 [14-09-2026 00:00]: (kosong) → 1.315
+~ Database!I16 [14-09-2026 00:00]: (kosong) → 1.23
+~ Database!J16 [14-09-2026 00:00]: (kosong) → 2 PLAT 20 CM
+~ Database!K16 [14-09-2026 00:00]: (kosong) → 3 MENIT
+~ Database!L16 "Penambahan Reagent" [14-09-2026 00:00]: 75 → (kosong)
+~ Database!N16 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:19 → 16-09-2026 19:33
+~ Database!J17 [14-09-2026 00:00]: 2 Plat 30 Cm → 2 PLAT 30 CM
+~ Database!K17 [14-09-2026 00:00]: 3 Menit → 3 MENIT
+~ Database!L17 "Penambahan Reagent" [14-09-2026 00:00]: 25 → (kosong)
+~ Database!N17 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:19 → 16-09-2026 19:33
+~ Database!J18 [14-09-2026 00:00]: 2 Plat 40 Cm → 2 PLAT 40 CM
+~ Database!K18 [14-09-2026 00:00]: (kosong) → 3 MENIT
+~ Database!L18 "Penambahan Reagent" [14-09-2026 00:00]: (kosong) → 25
+~ Database!N18 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:19 → 16-09-2026 19:33
+~ Database!G19 "Parameter" [14-09-2026 00:00]: (kosong) → 11
+~ Database!J19 [14-09-2026 00:00]: 2 Plat 50 Cm → 2 PLAT 50 CM
+~ Database!K19 [14-09-2026 00:00]: (kosong) → 3 MENIT
+~ Database!L19 "Penambahan Reagent" [14-09-2026 00:00]: 25 → (kosong)
+~ Database!N19 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:19 → 16-09-2026 19:33
+~ Database!J20 [14-09-2026 00:00]: 2 Plat 80 Cm → 2 PLAT 80 CM
+~ Database!L20 "Penambahan Reagent" [14-09-2026 00:00]: (kosong) → 25
+~ Database!N20 "Waktu Upload" [14-09-2026 00:00]: 15-09-2026 15:19 → 16-09-2026 19:33
++ Database baris 21 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=07:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, G·Parameter=11.4, H=1.09, I=1.235, ...
++ Database baris 22 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=08:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.085, K=3 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 23 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=08:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.115, K=3 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 24 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=09:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.075, K=3 MENIT, L·Penambahan Reagent=25, ...
++ Database baris 25 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=09:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, G·Parameter=11.4, H=1.075, I=1.25, ...
++ Database baris 26 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=10:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.08, K=3 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 27 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=10:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.06, K=3 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 28 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=11:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.065, J=3 PLAT 40, K=3 MENIT, ...
++ Database baris 29 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=11:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.055, K=4 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 30 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=12:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1.05, K=4 MENIT, N·Waktu Upload=16-09-2026 19:39
++ Database baris 31 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=12:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, G·Parameter=11.5, H=1.07, I=1.235, ...
++ Database baris 32 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=13:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1080, K=3 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 33 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=13:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1065, I=1230, K=3 MENIT, ...
++ Database baris 34 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=14:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1075, K=3 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 35 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=14:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1075, K=3 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 36 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=15:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1075, K=2 MENIT, L·Penambahan Reagent=25, ...
++ Database baris 37 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=15:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1130, I=1230, K=3 MENIT, ...
++ Database baris 38 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=16:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1080, K=3 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 39 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=16:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1075, K=3 MENIT, L·Penambahan Reagent=25, ...
++ Database baris 40 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=17:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1215, K=4 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 41 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=17:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1220, I=1250, K=3 MENIT, ...
++ Database baris 42 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=18:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=1240, K=3 MENIT, N·Waktu Upload=16-09-2026 19:44
++ Database baris 43 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=18:30:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, H=12500, K=3 MENIT, N·Waktu Upload=16-09-2026 19:45
++ Database baris 44 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=19:00:00, D·Shift=Day, E·Operator=Yan lee, F·No Tangki=2, G·Parameter=11.3, H=1270, I=1245, ...
++ Database baris 45 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=19:15:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1310, I=1250, ...
++ Database baris 46 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=20:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1410, J=5 PLAT 62, K=4 MENIT, ...
++ Database baris 47 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=20:18:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1235, I=1255, ...
++ Database baris 48 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=20:59:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1455, I=1240, J=5 PLAT 90, ...
++ Database baris 49 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=21:31:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1390, I=1240, ...
++ Database baris 50 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=21:59:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1365, I=1235, J=6 PLAT 10, ...
++ Database baris 51 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=22:31:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1330, J=6 PLAT 20, ...
++ Database baris 52 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=23:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1300, I=1230, J=6 PLAT 60, ...
++ Database baris 53 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=23:30:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1350, J=6 PLAT 70, ...
++ Database baris 54 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=00:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1390, K=2 MENIT, N·Waktu Upload=16-09-2026 19:52
++ Database baris 55 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=00:30:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1335, I=1240, ...
++ Database baris 56 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=01:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1355, J=6 PLAT 10, K=2 MENIT, ...
++ Database baris 57 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=01:30:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1480, K=3 MENIT, N·Waktu Upload=16-09-2026 19:54
++ Database baris 58 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=02:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, G·Parameter=11, H=1570, I=1235, ...
++ Database baris 59 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=02:30:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=2, H=1630, K=2 MENIT, N·Waktu Upload=16-09-2026 19:54
++ Database baris 60 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=03:06:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1370, K=3 MENIT, N·Waktu Upload=16-09-2026 20:02, ...
++ Database baris 61 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=03:39:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1240, J=1 PLAT 40, K=3 MENIT, ...
++ Database baris 62 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=04:09:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1495, I=1190, J=1 PLAT 80, ...
++ Database baris 63 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=04:34:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1630, K=3 MENIT, N·Waktu Upload=16-09-2026 20:02
++ Database baris 64 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=05:05:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1505, I=1195, J=1 PLAT 100, ...
++ Database baris 65 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=05:31:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1535, J=1 PLAT 110, K=1 MENIT, ...
++ Database baris 66 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=06:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1620, I=1220, J=1 PLAT 110, ...
++ Database baris 67 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=06:30:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, G·Parameter=11, H=1630, I=1255, ...
++ Database baris 68 [15-09-2026 00:00] ditambahkan: B·Tanggal=15-09-2026 00:00, C·Jam=07:00:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, G·Parameter=11, H=1455, I=1245, ...
+~ Input Form!C6 "Logsheet Leaching Proces" [No Tangki]: 2 → 3
+~ Input Form!C7 "Logsheet Leaching Proces" [Tanggal]: 14/09/2026 → 15/09/2026
+~ Input Form!C9 "Logsheet Leaching Proces" [Operator]: Ulan/Suono → ULAN
+_Dibandingkan 659 sel dari 2 sheet._
+
 ## 16 Sep 2026 · 19:21 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~43 sel; LT Ball Mill: +10 baris, -27 baris; Milling Down Time Hours: +2 baris, ~2 sel; Milling and Leach Feed: +8 baris, ~56 sel; Reagent Consumption: ~4 sel
 ~ Au Cal Leaching Tank!C16 "Running Hours" [7]: (kosong) → 46
