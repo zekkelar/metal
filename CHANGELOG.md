@@ -5,6 +5,27 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 08:23 · Log sheet Leaching.xlsm · GanyuChan@MSI
+Ringkasan: Database: +15 baris; Input Form: ~2 sel
++ Database baris 69 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=10:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, G·Parameter=11, H=1010, I=1140, ...
++ Database baris 70 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=11:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1050, K=3 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 71 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=12:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1060, K=3 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 72 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=12:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1030, I=1145, J=2 PLAT 90, ...
++ Database baris 73 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=13:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1175, K=2 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 74 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=13:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1135, K=3 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 75 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=14:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1130, I=1155, J=3 PLAT, ...
++ Database baris 76 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=14:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1105, K=4 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 77 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=15:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1230, K=3 MENIT, N·Waktu Upload=17-09-2026 08:19
++ Database baris 78 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=15:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1240, I=1205, K=4 MENIT, ...
++ Database baris 79 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=16:30:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1150, K=25 MENIT, L·Penambahan Reagent=50, ...
++ Database baris 80 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=17:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1190, I=1195, J=4 PLAT, ...
++ Database baris 81 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=17:31:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1180, K=6 MENIT, N·Waktu Upload=17-09-2026 08:21
++ Database baris 82 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=18:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1035, K=5 MENIT, N·Waktu Upload=17-09-2026 08:21
++ Database baris 83 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=18:38:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, G·Parameter=11, H=1065, I=1190, ...
+~ Input Form!C7 "Logsheet Leaching Proces" [Tanggal]: 15/09/2026 → 16/09/2026
+~ Input Form!C8 "Logsheet Leaching Proces" [Shift]: Night → Day
+_Dibandingkan 800 sel dari 2 sheet._
+
 ## 17 Sep 2026 · 08:14 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: ~18 sel; Milling and Leach Feed: +6 baris, ~23 sel; Milling and Leach Feed_OLD: ~3 sel
 ~ Au Cal Leaching Tank!J67 "%solid": 138.133333 → 139.2
