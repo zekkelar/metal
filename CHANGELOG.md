@@ -5,6 +5,111 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 17:27 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~16 sel; Daily Summary : ~3 sel; LT Ball Mill: +14 baris; LT Floculation: -24 baris; Milling Down Time Hours: +18 baris; Milling and Leach Feed: ~7 sel; Reagent Consumption: ~19 sel
+~ Au Cal Leaching Tank!U16 "Head Grade LF Ball Mill" [7]: 0.498333 → 0.535556
+~ Au Cal Leaching Tank!V16 [7]: 0.526667 → 0.535556
+~ Au Cal Leaching Tank!W16 [7]: 9.083333 → 9.814444
+~ Au Cal Leaching Tank!X16 "Lab AAS Result (gpt)" [7]: 0.326907 → 0.535514
+~ Au Cal Leaching Tank!Y16 [7]: 0.346129 → 0.535357
+~ Au Cal Leaching Tank!Z16 [7]: 5.981528 → 9.837907
+~ Au Cal Leaching Tank!AA16 "Au Variance" [7]: 0.171426 → 0.000041
+~ Au Cal Leaching Tank!AB16 "%Different" [7]: 0.103864 → 0.000019
+~ Au Cal Leaching Tank!U60 "Head Grade LF Ball Mill" [Average]: 0.70246 → 0.707778
+~ Au Cal Leaching Tank!V60 [Average]: 0.630234 → 0.631504
+~ Au Cal Leaching Tank!W60 [Average]: 8.599671 → 8.704115
+~ Au Cal Leaching Tank!X60 "Lab AAS Result (gpt)" [Average]: 0.657876 → 0.687677
+~ Au Cal Leaching Tank!Y60 [Average]: 0.575587 → 0.60262
+~ Au Cal Leaching Tank!Z60 [Average]: 7.708415 → 8.259326
+~ Au Cal Leaching Tank!Z62: 7.447769 → 8.950932
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1163.844123 → 1172.654151
+~ Daily Summary !Z26 "Consumption" [02-09-2026 00:00]: 0 → 200
+~ Daily Summary !Z50 "Consumption" [Total]: 3000 → 3200
+~ Daily Summary !Z51 "Consumption" [Average]: 103.448276 → 110.344828
++ LT Ball Mill baris 73 [70] ditambahkan: F·au (g/t)=0.64, G·ag (g/t)=0.58, H·Cu (g/t)=11.12
++ LT Ball Mill baris 74 [71] ditambahkan: F·au (g/t)=0.583, G·ag (g/t)=0.53, H·Cu (g/t)=11.35
++ LT Ball Mill baris 75 [72] ditambahkan: F·au (g/t)=0.607, G·ag (g/t)=0.55, H·Cu (g/t)=11.36
++ LT Ball Mill baris 76 [73] ditambahkan: C·id batch=8, D·Id sampel=LF Ball Mill DS 1, E·date=16-09-2026 00:00
++ LT Ball Mill baris 77 [74] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=16-09-2026 00:00
++ LT Ball Mill baris 78 [75] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=16-09-2026 00:00
++ LT Ball Mill baris 79 [76] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=16-09-2026 00:00
++ LT Ball Mill baris 80 [77] ditambahkan: B·No=77, D·Id sampel=LF Ball Mill NS 2, E·date=16-09-2026 00:00
++ LT Ball Mill baris 81 [78] ditambahkan: B·No=78, D·Id sampel=LF Ball Mill NS 3, E·date=16-09-2026 00:00
++ LT Ball Mill baris 82 [79] ditambahkan: B·No=79, E·date=16-09-2026 00:00
++ LT Ball Mill baris 83 [80] ditambahkan: B·No=80
++ LT Ball Mill baris 84 [81] ditambahkan: B·No=81
++ LT Ball Mill baris 85 [82] ditambahkan: B·No=82
++ LT Ball Mill baris 86 [83] ditambahkan: B·No=83
+- LT Floculation baris 6 [1] dikosongkan: P=1
+- LT Floculation baris 7 [2] dikosongkan: P=1
+- LT Floculation baris 8 [3] dikosongkan: P=1
+- LT Floculation baris 10 [5] dikosongkan: P=2
+- LT Floculation baris 11 [6] dikosongkan: P=2
+- LT Floculation baris 12 [7] dikosongkan: P=2
+- LT Floculation baris 14 [9] dikosongkan: P=3
+- LT Floculation baris 15 [10] dikosongkan: P=3
+- LT Floculation baris 16 [11] dikosongkan: P=3
+- LT Floculation baris 17 [12] dikosongkan: P=3
+- LT Floculation baris 18 [13] dikosongkan: P=3
+- LT Floculation baris 20 [15] dikosongkan: P=4
+- LT Floculation baris 21 [16] dikosongkan: P=4
+- LT Floculation baris 22 [17] dikosongkan: P=4
+- LT Floculation baris 23 [18] dikosongkan: P=4
+- LT Floculation baris 24 [19] dikosongkan: P=4
+- LT Floculation baris 25 dikosongkan: P=4
+- LT Floculation baris 26 dikosongkan: P=4
+- LT Floculation baris 27 dikosongkan: P=4
+- LT Floculation baris 29 dikosongkan: P=5
+- LT Floculation baris 30 dikosongkan: P=5
+- LT Floculation baris 31 dikosongkan: P=5
+- LT Floculation baris 32 dikosongkan: P=5
+- LT Floculation baris 33 dikosongkan: P=5
++ Milling Down Time Hours baris 4 ditambahkan: L·Availibility Per Day=Availibility Per Day
++ Milling Down Time Hours baris 5 [31-08-2026 00:00] ditambahkan: L·Availibility Per Day=0.934722
++ Milling Down Time Hours baris 7 [01-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.954167
++ Milling Down Time Hours baris 9 [02-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.916667
++ Milling Down Time Hours baris 11 [03-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.958333
++ Milling Down Time Hours baris 13 [04-09-2026 00:00] ditambahkan: L·Availibility Per Day=0
++ Milling Down Time Hours baris 15 [05-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.458333
++ Milling Down Time Hours baris 17 [06-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.909722
++ Milling Down Time Hours baris 19 [07-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.935417
++ Milling Down Time Hours baris 21 [08-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.824306
++ Milling Down Time Hours baris 23 [09-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.125
++ Milling Down Time Hours baris 25 [10-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.876389
++ Milling Down Time Hours baris 27 [11-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.540972
++ Milling Down Time Hours baris 29 [12-09-2026 00:00] ditambahkan: L·Availibility Per Day=0
++ Milling Down Time Hours baris 31 [13-09-2026 00:00] ditambahkan: L·Availibility Per Day=0
++ Milling Down Time Hours baris 33 [14-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.416667
++ Milling Down Time Hours baris 35 [15-09-2026 00:00] ditambahkan: L·Availibility Per Day=1
++ Milling Down Time Hours baris 37 [16-09-2026 00:00] ditambahkan: L·Availibility Per Day=0.955556
+~ Milling and Leach Feed!T37: (kosong) → 0.61
+~ Milling and Leach Feed!U37: (kosong) → 0.553333
+~ Milling and Leach Feed!V37: (kosong) → 11.276667
+~ Milling and Leach Feed!W37: 0 → 51.33347
+~ Milling and Leach Feed!X37: 0 → 46.564787
+~ Milling and Leach Feed!Y37: 0 → 948.967921
+~ Milling and Leach Feed!AB37: 0 → 128333675.416025
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 3000 → 3200
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.480413 → 1.579107
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 144000000 → 153600000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 287800000 → 297400000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.500347 → 0.516476
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.027971 → 0.027068
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.458652 → 0.443847
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.01303 → 0.012609
+~ Reagent Consumption!O31 [15-09-2026 00:00]: 0 → 200
+~ Reagent Consumption!A32 "Data ragents consumption" [16-09-2026 00:00]: 17-09-2026 00:00 → 16-09-2026 00:00
+~ Reagent Consumption!B32 [16-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!C32 [16-09-2026 00:00]: (kosong) → Yan leee Huang
+~ Reagent Consumption!D32 "Leaching" [16-09-2026 00:00]: (kosong) → 175
+~ Reagent Consumption!A33 "Data ragents consumption" [16-09-2026 00:00]: 18-09-2026 00:00 → 16-09-2026 00:00
+~ Reagent Consumption!B33 [16-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!C33 [16-09-2026 00:00]: (kosong) → Ulan
+~ Reagent Consumption!D33 "Leaching" [16-09-2026 00:00]: (kosong) → 25
+~ Reagent Consumption!O56: 3000 → 3200
+~ Reagent Consumption!O58: 144000000 → 153600000
+_Dibandingkan 10441 sel dari 18 sheet._
+
 ## 17 Sep 2026 · 14:06 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Crushing: ~17 sel; Daily Summary : ~16 sel
 ~ Crushing!E66 "PIC" [13-09-2026 00:00]: (kosong) → Adi
