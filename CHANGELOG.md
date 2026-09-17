@@ -5,6 +5,71 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 08:14 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~7 sel; Daily Summary : ~4 sel; Milling Down Time Hours: ~18 sel; Milling and Leach Feed: +6 baris, ~23 sel; Milling and Leach Feed_OLD: ~3 sel
+~ Au Cal Leaching Tank!J67 "%solid": 138.133333 → 139.2
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 13.994444 → 14.038889
+~ Au Cal Leaching Tank!J71 "%solid": 138.133333 → 139.2
+~ Au Cal Leaching Tank!J72 "%solid": 335.866667 → 336.933333
+~ Au Cal Leaching Tank!J73 "%solid": 0.588726 → 0.586862
+~ Au Cal Leaching Tank!J76 "%solid": 13.994444 → 14.038889
+~ Au Cal Leaching Tank!J77 "%solid": 0.411274 → 0.413138
+~ Daily Summary !J38 "Hours Milling" [14-09-2026 00:00]: 24 → 22.933333
+~ Daily Summary !L38 [14-09-2026 00:00]: 1 → 0.955556
+~ Daily Summary !N38 "Plant Usability" [14-09-2026 00:00]: 0 → 0.955556
+~ Daily Summary !N51 "Plant Usability" [Average]: 0.229624 → 0.25477
+~ Milling Down Time Hours!K4 "Availibility per Shift": Availibility → Availibility per Shift
+~ Milling Down Time Hours!P21 "Total Down Time (Mins)" [08-09-2026 00:00]: 0 → 64
+~ Milling Down Time Hours!Q21 "Running Time (Hr)" [08-09-2026 00:00]: 24 → 22.933333
+~ Milling Down Time Hours!R21 "Availbility (%)" [08-09-2026 00:00]: 1 → 0.955556
+~ Milling Down Time Hours!S21 "Downtime (hr)" [08-09-2026 00:00]: 0 → 1.066667
+~ Milling Down Time Hours!D38 "PIC" [16-09-2026 00:00]: (kosong) → Suono
+~ Milling Down Time Hours!E38 "Stop Time" [16-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F38 "Start Time" [16-09-2026 00:00]: (kosong) → 01:05:00
+~ Milling Down Time Hours!G38 "Down Time (Mins)" [16-09-2026 00:00]: 0 → 64
+~ Milling Down Time Hours!H38 "Reason" [16-09-2026 00:00]: (kosong) → Ball mill 1-2 perbaikan gear grith 00...
+~ Milling Down Time Hours!J38 "Running Time Hour/Shift" [16-09-2026 00:00]: 12 → 10.933333
+~ Milling Down Time Hours!K38 "Availibility per Shift" [16-09-2026 00:00]: 1 → 0.911111
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 8288 → 8352
+~ Milling Down Time Hours!R59 "Availbility (%)" [27-09-2026 00:00]: 0.814161 → 0.812228
+~ Milling Down Time Hours!S59 "Downtime (hr)" [27-09-2026 00:00]: 102.583333 → 103.65
+~ Milling Down Time Hours!P60 "Total Down Time (Mins)" [27-09-2026 00:00]: 138.133333 → 139.2
+~ Milling Down Time Hours!S60 "Downtime (hr)" [27-09-2026 00:00]: 4.274306 → 4.31875
+~ Milling Down Time Hours!M61 [28-09-2026 00:00]: 13 → 13.044444
+~ Milling and Leach Feed!AI6: 1215 → 1190
+~ Milling and Leach Feed!AI8: 1.215 → 1.19
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.337823 → 0.304813
+~ Milling and Leach Feed!AI12: 410.454545 → 362.727273
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 804.545455 → 827.272727
++ Milling and Leach Feed baris 32 [13-09-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 33 [13-09-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 34 [14-09-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 35 [7] ditambahkan: AB=126415465.04
++ Milling and Leach Feed baris 36 [15-09-2026 00:00] ditambahkan: AB=74695882.13587
++ Milling and Leach Feed baris 37 ditambahkan: AB=0
+~ Milling and Leach Feed!N38 [8]: 115.50675 → 170.051675
+~ Milling and Leach Feed!S38 [8]: 115.50675 → 170.051675
+~ Milling and Leach Feed!AB38 [8]: (kosong) → 0
+~ Milling and Leach Feed!D39: (kosong) → Suono
+~ Milling and Leach Feed!E39: (kosong) → Ball mill 3-4; ball mill 1,2 maintenance
+~ Milling and Leach Feed!G39: (kosong) → 0.3
+~ Milling and Leach Feed!H39 "Milling And Leach Feed M": (kosong) → 152.786905
+~ Milling and Leach Feed!I39: (kosong) → 13.974412
+~ Milling and Leach Feed!J39: (kosong) → 584.185225
+~ Milling and Leach Feed!K39: (kosong) → 1.19
+~ Milling and Leach Feed!M39: 0 → 54.544925
+~ Milling and Leach Feed!O39: 0 → 2.272705
+~ Milling and Leach Feed!Q39: (kosong) → 656
+~ Milling and Leach Feed!R39: 0 → 64
+~ Milling and Leach Feed!Z39: (kosong) → 6.5
+~ Milling and Leach Feed!AB39: (kosong) → 0
+~ Milling and Leach Feed!P55: 13 → 13.044444
+~ Milling and Leach Feed!M99 [Average]: 2141.987687 → 2196.532612
+~ Milling and Leach Feed_OLD!P35: 24 → 22.933333
+~ Milling and Leach Feed_OLD!R35: 0 → 64
+~ Milling and Leach Feed_OLD!P55: 13 → 13.044444
+_Dibandingkan 10201 sel dari 17 sheet._
+
 ## 16 Sep 2026 · 20:03 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Daily Summary : ~4 sel; Reagent Consumption: ~22 sel
 ~ Daily Summary !Z24 "Consumption" [31-08-2026 00:00]: 0 → 125
