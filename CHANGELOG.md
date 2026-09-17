@@ -5,6 +5,23 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 17:33 · Log Sheet Ball Mill - Thickener.xlsx · GanyuChan@MSI
+Ringkasan: Monitoring: +2 baris, ~11 sel
+~ Monitoring!P18 "Keterangan" [15-09-2026 00:00]: Suara getaran di gear → Suara getaran di gear girth
+~ Monitoring!M48 "Waktu Stop" [16-09-2026 00:00]: 00:30:00 → (kosong)
+~ Monitoring!N48 "Waktu Start" [16-09-2026 00:00]: (kosong) → 19:00:00
+~ Monitoring!L49 "Ball Mill" [16-09-2026 00:00]: Ball Mill 2 → Ball Mill 3
+~ Monitoring!M49 "Waktu Stop" [16-09-2026 00:00]: 00:30:00 → (kosong)
+~ Monitoring!N49 "Waktu Start" [16-09-2026 00:00]: (kosong) → 19:00:00
+~ Monitoring!L50 "Ball Mill" [16-09-2026 00:00]: Ball Mill 3 → Ball Mill 1
+~ Monitoring!M50 "Waktu Stop" [16-09-2026 00:00]: 04:00:00 → 23:22:00
+~ Monitoring!N50 "Waktu Start" [16-09-2026 00:00]: 05:05:00 → (kosong)
+~ Monitoring!O50 "Durasi Downtime (menit)" [16-09-2026 00:00]: 65 → (kosong)
+~ Monitoring!P50 "Keterangan" [16-09-2026 00:00]: Maintenance → Maintenance, gear girth rusak
++ Monitoring baris 51 [16-09-2026 00:00] ditambahkan: L·Ball Mill=Ball Mill 3, M·Waktu Stop=04:23:00, N·Waktu Start=05:02:00, O·Durasi Downtime (menit)=39, P·Keterangan=Baut Longgar
++ Monitoring baris 52 [16-09-2026 00:00] ditambahkan: L·Ball Mill=Ball Mill 4, N·Waktu Start=06:03:00
+_Dibandingkan 389 sel dari 1 sheet._
+
 ## 17 Sep 2026 · 17:27 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~16 sel; Daily Summary : ~3 sel; LT Ball Mill: +14 baris; LT Floculation: -24 baris; Milling Down Time Hours: +18 baris; Milling and Leach Feed: ~7 sel; Reagent Consumption: ~19 sel
 ~ Au Cal Leaching Tank!U16 "Head Grade LF Ball Mill" [7]: 0.498333 → 0.535556
