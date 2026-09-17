@@ -5,6 +5,35 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 22:27 · Log Sheet Ball Mill - Thickener.xlsx · GanyuChan@MSI
+Ringkasan: Monitoring: +25 baris
++ Monitoring baris 48 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 49 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 50 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 51 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 52 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 53 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 54 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 55 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 56 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 57 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 58 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 59 [16-09-2026 00:00] ditambahkan: D·Operator=Lupa
++ Monitoring baris 60 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=07:25:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1045, H·Keterangan=14:10 Cuma jalan 1 ball mill, J·Tanggal=17/09/2026, K·Shift=Day, ...
++ Monitoring baris 61 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=08:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1055, H·Keterangan=14:40 jalan 2 ball mill, L·Ball Mill=Ball Mill 4, N·Waktu Start=07:00:00
++ Monitoring baris 62 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=09:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1060, H·Keterangan=17:10 jalan 1 ball mill, L·Ball Mill=Ball Mill 4, M·Waktu Stop=14:09:00, ...
++ Monitoring baris 63 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=10:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1055, H·Keterangan=17:42 jalan 2 ball mill (3&4), L·Ball Mill=Ball Mill 3, M·Waktu Stop=17:09:00, ...
++ Monitoring baris 64 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=11:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1060
++ Monitoring baris 65 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=12:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1060
++ Monitoring baris 66 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=13:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1080
++ Monitoring baris 67 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=14:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1045
++ Monitoring baris 68 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=15:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1055
++ Monitoring baris 69 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=16:00:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1070
++ Monitoring baris 70 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=16:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1070
++ Monitoring baris 71 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=17:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1040
++ Monitoring baris 72 [17-09-2026 00:00] ditambahkan: A·Tanggal=17-09-2026 00:00, B·Shift=Day, C·Jam=18:30:00, D·Operator=Septian, G·Timbangan Slurry BM 3–4 =1070
+_Dibandingkan 487 sel dari 1 sheet._
+
 ## 17 Sep 2026 · 21:51 · Log sheet Leaching.xlsm · GanyuChan@MSI
 Ringkasan: Database: +18 baris; Input Form: ~3 sel
 + Database baris 101 [17-09-2026 00:00] ditambahkan: B·Tanggal=17-09-2026 00:00, C·Jam=08:00:00, D·Shift=Day, E·Operator=Yan Lee Huang, F·No Tangki=3, H=1175, K=9 MENIT, N·Waktu Upload=17-09-2026 21:45
