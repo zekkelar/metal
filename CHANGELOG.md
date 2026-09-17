@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 17:54 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: LT Ball Mill: +3 baris
++ LT Ball Mill baris 76 [73] ditambahkan: F·au (g/t)=0.449, G·ag (g/t)=0.63, H·Cu (g/t)=11.56
++ LT Ball Mill baris 77 [74] ditambahkan: F·au (g/t)=0.468, G·ag (g/t)=0.6, H·Cu (g/t)=11.66
++ LT Ball Mill baris 78 [75] ditambahkan: F·au (g/t)=0.438, G·ag (g/t)=0.67, H·Cu (g/t)=11.67
+_Dibandingkan 10450 sel dari 18 sheet._
+
 ## 17 Sep 2026 · 17:33 · Log Sheet Ball Mill - Thickener.xlsx · GanyuChan@MSI
 Ringkasan: Monitoring: +2 baris, ~11 sel
 ~ Monitoring!P18 "Keterangan" [15-09-2026 00:00]: Suara getaran di gear → Suara getaran di gear girth
