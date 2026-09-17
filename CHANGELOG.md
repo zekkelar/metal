@@ -5,6 +5,176 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 13:41 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Filter Press: +1 baris, ~163 sel, -1 baris
++ Sheet "Tailing Check " ditambahkan
+- Filter Press baris 4 [1] dikosongkan: B·Filter Press 01=1, C=01-09-2026 00:00, D=Day, E=10, F=60, G=0.2, H=48, J·Filter Press 02=1, ...
+~ Filter Press!B5 "Filter Press 01" [1]: 2 → 1
+~ Filter Press!J5 "Filter Press 02" [1]: 2 → 1
+~ Filter Press!B6 "Filter Press 01" [2]: 3 → 2
+~ Filter Press!J6 "Filter Press 02" [2]: 3 → 2
+~ Filter Press!B7 "Filter Press 01" [3]: 4 → 3
+~ Filter Press!J7 "Filter Press 02" [3]: 4 → 3
+~ Filter Press!B8 "Filter Press 01" [4]: 5 → 4
+~ Filter Press!C8 [4]: 09-09-2026 00:00 → 05-09-2026 00:00
+~ Filter Press!E8 [4]: 4 → 10
+~ Filter Press!F8 [4]: 24 → 60
+~ Filter Press!G8 [4]: 0.19 → 0.2
+~ Filter Press!H8 [4]: 19.44 → 48
+~ Filter Press!J8 "Filter Press 02" [4]: 5 → 4
+~ Filter Press!K8 [4]: 09-09-2026 00:00 → 05-09-2026 00:00
+~ Filter Press!M8 [4]: 4 → 10
+~ Filter Press!N8 [4]: 50 → 125
+~ Filter Press!O8 [4]: 0.18 → 0.2
+~ Filter Press!P8 [4]: 41 → 100
+~ Filter Press!B9 "Filter Press 01" [5]: 6 → 5
+~ Filter Press!D9 [5]: Night → Day
+~ Filter Press!E9 [5]: 12 → 4
+~ Filter Press!F9 [5]: 72 → 24
+~ Filter Press!G9 [5]: 0.2 → 0.19
+~ Filter Press!H9 [5]: 57.6 → 19.44
+~ Filter Press!J9 "Filter Press 02" [5]: 6 → 5
+~ Filter Press!L9 [5]: Night → Day
+~ Filter Press!M9 [5]: 12 → 4
+~ Filter Press!N9 [5]: 150 → 50
+~ Filter Press!O9 [5]: 0.19 → 0.18
+~ Filter Press!P9 [5]: 121.5 → 41
+~ Filter Press!R9 "Estimate Capacity per si" [5]: Total Production → (kosong)
+~ Filter Press!B10 "Filter Press 01" [6]: 7 → 6
+~ Filter Press!C10 [6]: 10-09-2026 00:00 → 09-09-2026 00:00
+~ Filter Press!D10 [6]: Day → Night
+~ Filter Press!E10 [6]: 4 → 12
+~ Filter Press!F10 [6]: 24 → 72
+~ Filter Press!H10 [6]: 19.2 → 57.6
+~ Filter Press!J10 "Filter Press 02" [6]: 7 → 6
+~ Filter Press!K10 [6]: 10-09-2026 00:00 → 09-09-2026 00:00
+~ Filter Press!L10 [6]: Day → Night
+~ Filter Press!M10 [6]: 8 → 12
+~ Filter Press!N10 [6]: 100 → 150
+~ Filter Press!O10 [6]: 0.2 → 0.19
+~ Filter Press!P10 [6]: 80 → 121.5
+~ Filter Press!R10 "Estimate Capacity per si" [6]: 1655.39 → Total Production
+~ Filter Press!B11 "Filter Press 01" [7]: 8 → 7
+~ Filter Press!D11 [7]: Night → Day
+~ Filter Press!E11 [7]: 3 → 4
+~ Filter Press!F11 [7]: 18 → 24
+~ Filter Press!H11 [7]: 14.4 → 19.2
+~ Filter Press!J11 "Filter Press 02" [7]: 8 → 7
+~ Filter Press!L11 [7]: Night → Day
+~ Filter Press!M11 [7]: 3 → 8
+~ Filter Press!N11 [7]: 37.5 → 100
+~ Filter Press!O11 [7]: 0.18 → 0.2
+~ Filter Press!P11 [7]: 30.75 → 80
+~ Filter Press!R11 "Estimate Capacity per si" [7]: (kosong) → 1655.39
+~ Filter Press!B12 "Filter Press 01" [8]: 9 → 8
+~ Filter Press!C12 [8]: 11-09-2026 00:00 → 10-09-2026 00:00
+~ Filter Press!D12 [8]: Day → Night
+~ Filter Press!E12 [8]: 8 → 3
+~ Filter Press!F12 [8]: 48 → 18
+~ Filter Press!G12 [8]: 0.19 → 0.2
+~ Filter Press!H12 [8]: 38.88 → 14.4
+~ Filter Press!J12 "Filter Press 02" [8]: 9 → 8
+~ Filter Press!K12 [8]: 11-09-2026 00:00 → 10-09-2026 00:00
+~ Filter Press!L12 [8]: Day → Night
+~ Filter Press!M12 [8]: 8 → 3
+~ Filter Press!N12 [8]: 100 → 37.5
+~ Filter Press!O12 [8]: 0.19 → 0.18
+~ Filter Press!P12 [8]: 81 → 30.75
+~ Filter Press!B13 "Filter Press 01" [9]: 10 → 9
+~ Filter Press!D13 [9]: Night → Day
+~ Filter Press!E13 [9]: 4 → 8
+~ Filter Press!F13 [9]: 24 → 48
+~ Filter Press!H13 [9]: 19.44 → 38.88
+~ Filter Press!J13 "Filter Press 02" [9]: 10 → 9
+~ Filter Press!L13 [9]: Night → Day
+~ Filter Press!M13 [9]: 6 → 8
+~ Filter Press!N13 [9]: 75 → 100
+~ Filter Press!P13 [9]: 60.75 → 81
+~ Filter Press!B14 "Filter Press 01" [10]: 11 → 10
+~ Filter Press!C14 [10]: 12-09-2026 00:00 → 11-09-2026 00:00
+~ Filter Press!D14 [10]: Day → Night
+~ Filter Press!E14 [10]: 7 → 4
+~ Filter Press!F14 [10]: 42 → 24
+~ Filter Press!H14 [10]: 34.02 → 19.44
+~ Filter Press!J14 "Filter Press 02" [10]: 11 → 10
+~ Filter Press!K14 [10]: 12-09-2026 00:00 → 11-09-2026 00:00
+~ Filter Press!L14 [10]: Day → Night
+~ Filter Press!M14 [10]: 7 → 6
+~ Filter Press!N14 [10]: 87.5 → 75
+~ Filter Press!P14 [10]: 70.875 → 60.75
+~ Filter Press!B15 "Filter Press 01" [11]: 12 → 11
+~ Filter Press!D15 [11]: Night → Day
+~ Filter Press!E15 [11]: 11 → 7
+~ Filter Press!F15 [11]: 66 → 42
+~ Filter Press!G15 [11]: 0.18 → 0.19
+~ Filter Press!H15 [11]: 54.12 → 34.02
+~ Filter Press!J15 "Filter Press 02" [11]: 12 → 11
+~ Filter Press!L15 [11]: Night → Day
+~ Filter Press!M15 [11]: 11 → 7
+~ Filter Press!N15 [11]: 137.5 → 87.5
+~ Filter Press!O15 [11]: 0.18 → 0.19
+~ Filter Press!P15 [11]: 112.75 → 70.875
+~ Filter Press!A16 [6]: 6 → (kosong)
+~ Filter Press!B16 "Filter Press 01" [6]: 13 → 12
+~ Filter Press!C16 [6]: 13-09-2026 00:00 → 12-09-2026 00:00
+~ Filter Press!E16 [6]: 10 → 11
+~ Filter Press!F16 [6]: 60 → 66
+~ Filter Press!G16 [6]: 0.21 → 0.18
+~ Filter Press!H16 [6]: 47.4 → 54.12
+~ Filter Press!J16 "Filter Press 02" [6]: 13 → 12
+~ Filter Press!K16 [6]: 13-09-2026 00:00 → 12-09-2026 00:00
+~ Filter Press!M16 [6]: 10 → 11
+~ Filter Press!N16 [6]: 125 → 137.5
+~ Filter Press!O16 [6]: 0.2 → 0.18
+~ Filter Press!P16 [6]: 100 → 112.75
+~ Filter Press!A17 [6]: (kosong) → 6
+~ Filter Press!B17 "Filter Press 01" [6]: 14 → 13
+~ Filter Press!C17 [6]: 14-09-2026 00:00 → 13-09-2026 00:00
+~ Filter Press!D17 [6]: Day → Night
+~ Filter Press!E17 [6]: 9 → 10
+~ Filter Press!F17 [6]: 54 → 60
+~ Filter Press!G17 [6]: 0.19 → 0.21
+~ Filter Press!H17 [6]: 43.74 → 47.4
+~ Filter Press!J17 "Filter Press 02" [6]: 14 → 13
+~ Filter Press!K17 [6]: 14-09-2026 00:00 → 13-09-2026 00:00
+~ Filter Press!L17 [6]: Day → Night
+~ Filter Press!M17 [6]: 7 → 10
+~ Filter Press!N17 [6]: 87.5 → 125
+~ Filter Press!O17 [6]: 0.19 → 0.2
+~ Filter Press!P17 [6]: 70.875 → 100
+~ Filter Press!B18 "Filter Press 01" [14]: 15 → 14
+~ Filter Press!C18 [14]: (kosong) → 14-09-2026 00:00
+~ Filter Press!D18 [14]: (kosong) → Day
+~ Filter Press!E18 [14]: (kosong) → 9
+~ Filter Press!F18 [14]: (kosong) → 54
+~ Filter Press!G18 [14]: (kosong) → 0.19
+~ Filter Press!H18 [14]: (kosong) → 43.74
+~ Filter Press!J18 "Filter Press 02" [14]: 15 → 14
+~ Filter Press!K18 [14]: (kosong) → 14-09-2026 00:00
+~ Filter Press!L18 [14]: (kosong) → Day
+~ Filter Press!M18 [14]: (kosong) → 7
+~ Filter Press!N18 [14]: (kosong) → 87.5
+~ Filter Press!O18 [14]: (kosong) → 0.19
+~ Filter Press!P18 [14]: (kosong) → 70.875
+~ Filter Press!B19 "Filter Press 01" [15]: 16 → 15
+~ Filter Press!J19 "Filter Press 02" [15]: 16 → 15
+~ Filter Press!B20 "Filter Press 01" [16]: 17 → 16
+~ Filter Press!J20 "Filter Press 02" [16]: 17 → 16
+~ Filter Press!B21 "Filter Press 01" [17]: 18 → 17
+~ Filter Press!J21 "Filter Press 02" [17]: 18 → 17
+~ Filter Press!B22 "Filter Press 01" [18]: 19 → 18
+~ Filter Press!J22 "Filter Press 02" [18]: 19 → 18
+~ Filter Press!B23 "Filter Press 01" [19]: 20 → 19
+~ Filter Press!J23 "Filter Press 02" [19]: 20 → 19
+~ Filter Press!B24 "Filter Press 01" [20]: 21 → 20
+~ Filter Press!J24 "Filter Press 02" [20]: 21 → 20
+~ Filter Press!B25 "Filter Press 01" [21]: 22 → 21
+~ Filter Press!J25 "Filter Press 02" [21]: 22 → 21
+~ Filter Press!B26 "Filter Press 01" [22]: 23 → 22
+~ Filter Press!J26 "Filter Press 02" [22]: 23 → 22
++ Filter Press baris 27 [23] ditambahkan: B·Filter Press 01=23, J·Filter Press 02=23
+_Dibandingkan 10399 sel dari 18 sheet._
+
 ## 17 Sep 2026 · 12:10 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Milling and Leach Feed: ~5 sel
 ~ Milling and Leach Feed!M38 [8]: 115.50675 → 117.10293
