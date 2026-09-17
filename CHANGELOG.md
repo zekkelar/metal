@@ -5,6 +5,45 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 21:29 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~2 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: ~30 sel
++ Au Cal Leaching Tank baris 17 [8] ditambahkan: C·Running Hours=72, E·Date start=17-09-2026 00:00, Q·Volume slurry=107.85
++ Au Cal Leaching Tank baris 18 [9] ditambahkan: Q·Volume slurry=107.85
+~ Au Cal Leaching Tank!C60 "Running Hours" [Average]: 32.461905 → 37.404167
+~ Au Cal Leaching Tank!C61 "Running Hours" [Total]: 227.233333 → 299.233333
++ Milling Down Time Hours baris 39 [17-09-2026 00:00] ditambahkan: D·PIC=Yan Lee, H·Reason=Running with two Ball Mill (3&4), bal..., L·Availibility Per Day=1
+~ Milling and Leach Feed!AI6: 1190 → 1225
+~ Milling and Leach Feed!AI8: 1.19 → 1.225
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.304813 → 0.350649
+~ Milling and Leach Feed!AI12: 362.727273 → 429.545455
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 827.272727 → 795.454545
+~ Milling and Leach Feed!D38 [8]: Yanli → Yan Lee Huang
+~ Milling and Leach Feed!S38 [8]: 171.647855 → 286.777282
+~ Milling and Leach Feed!T38 [8]: (kosong) → 0.451667
+~ Milling and Leach Feed!U38 [8]: (kosong) → 0.633333
+~ Milling and Leach Feed!V38 [8]: (kosong) → 11.63
+~ Milling and Leach Feed!W38 [8]: 0 → 52.89149
+~ Milling and Leach Feed!X38 [8]: 0 → 74.165189
+~ Milling and Leach Feed!Y38 [8]: 0 → 1361.907079
+~ Milling and Leach Feed!AB38 [8]: 0 → 132228725.396
+~ Milling and Leach Feed!D40 [17-09-2026 00:00]: (kosong) → Yan Lee Huang
+~ Milling and Leach Feed!E40 [17-09-2026 00:00]: (kosong) → Running with 2 ball mill (3&4); ball ...
+~ Milling and Leach Feed!G40 [17-09-2026 00:00]: (kosong) → 0.35
+~ Milling and Leach Feed!H40 "Milling And Leach Feed M" [17-09-2026 00:00]: (kosong) → 170.761835
+~ Milling and Leach Feed!I40 [17-09-2026 00:00]: (kosong) → 14.230153
+~ Milling and Leach Feed!J40 [17-09-2026 00:00]: (kosong) → 754.94706
+~ Milling and Leach Feed!K40 [17-09-2026 00:00]: (kosong) → 1.225
+~ Milling and Leach Feed!M40 [17-09-2026 00:00]: 0 → 115.129427
+~ Milling and Leach Feed!N40 [17-09-2026 00:00]: (kosong) → 115.129427
+~ Milling and Leach Feed!O40 [17-09-2026 00:00]: (kosong) → 4.797059
+~ Milling and Leach Feed!P40 [17-09-2026 00:00]: (kosong) → 24
+~ Milling and Leach Feed!Q40 [17-09-2026 00:00]: (kosong) → 720
+~ Milling and Leach Feed!R40 [17-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Z40 [17-09-2026 00:00]: (kosong) → 8.4
+~ Milling and Leach Feed!AB40 [17-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!M99 [Average]: 2198.128792 → 2313.258218
+_Dibandingkan 10474 sel dari 18 sheet._
+
 ## 17 Sep 2026 · 17:54 · Production Report June 2026_DYAN New.xlsx · GanyuChan@MSI
 Ringkasan: LT Ball Mill: +3 baris
 + LT Ball Mill baris 76 [73] ditambahkan: F·au (g/t)=0.449, G·ag (g/t)=0.63, H·Cu (g/t)=11.56
