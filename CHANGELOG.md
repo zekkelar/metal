@@ -5,6 +5,16 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 12:10 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Milling and Leach Feed: ~5 sel
+~ Milling and Leach Feed!M38 [8]: 115.50675 → 117.10293
+~ Milling and Leach Feed!N38 [8]: 170.051675 → 171.647855
+~ Milling and Leach Feed!O38 [8]: 4.812781 → 4.879289
+~ Milling and Leach Feed!S38 [8]: 170.051675 → 171.647855
+~ Milling and Leach Feed!M99 [Average]: 2196.532612 → 2198.128792
+~ rumus Milling and Leach Feed!M39: =H39*K39*G39 → =(J39*K39*G39)-'Au Cal Leaching Tank'...
+_Dibandingkan 10201 sel dari 17 sheet._
+
 ## 17 Sep 2026 · 08:34 · Log sheet Leaching.xlsm · GanyuChan@MSI
 Ringkasan: Database: +17 baris; Input Form: ~1 sel
 + Database baris 84 [16-09-2026 00:00] ditambahkan: B·Tanggal=16-09-2026 00:00, C·Jam=19:34:00, D·Shift=Night, E·Operator=ULAN, F·No Tangki=3, H=1565, K=3 MENIT, N·Waktu Upload=17-09-2026 08:29, ...
