@@ -5,6 +5,43 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Sep 2026 · 14:06 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: ~17 sel; Daily Summary : ~16 sel
+~ Crushing!E66 "PIC" [13-09-2026 00:00]: (kosong) → Adi
+~ Crushing!F66 "Bucket" [13-09-2026 00:00]: (kosong) → 204
+~ Crushing!G66 "Type" [13-09-2026 00:00]: (kosong) → Exca PC 130
+~ Crushing!H66 "Moisture %" [13-09-2026 00:00]: (kosong) → 0.1
+~ Crushing!I66 "Volume Bucket" [13-09-2026 00:00]: (kosong) → 0.5
+~ Crushing!J66 "SG Bulk Density (ton/m3)" [13-09-2026 00:00]: (kosong) → 1.3
+~ Crushing!K66 "WMT/SHIFT (wet metrix to" [13-09-2026 00:00]: (kosong) → 132.6
+~ Crushing!L66 "DMT/SHIFT (dry metrix to" [13-09-2026 00:00]: (kosong) → 119.34
+~ Crushing!M66 "Ton/hour (tph)" [13-09-2026 00:00]: (kosong) → 11.05
+~ Crushing!N66 "Tonage/Day (Tpd)" [13-09-2026 00:00]: 143.325 → 262.665
+~ Crushing!F86 "Bucket" [Rata-rata]: 220.45 → 219.666667
+~ Crushing!H86 "Moisture %" [Rata-rata]: 0.1145 → 0.11381
+~ Crushing!K86 "WMT/SHIFT (wet metrix to" [Rata-rata]: 151.59575 → 150.69119
+~ Crushing!L86 "DMT/SHIFT (dry metrix to" [Rata-rata]: 134.77353 → 134.0386
+~ Crushing!N86 "Tonage/Day (Tpd)" [Rata-rata]: 69.114631 → 72.174631
+~ Crushing!F87 "Bucket" [Total]: 4409 → 4613
+~ Crushing!N87 "Tonage/Day (Tpd)" [Total]: 2695.4706 → 2814.8106
+~ Daily Summary !C37 "Feeding, ton" [13-09-2026 00:00]: 143.325 → 262.665
+~ Daily Summary !D37 [13-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D38 [14-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D39 [15-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D40 [16-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D41 [17-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D42 [18-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D43 [19-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D44 [20-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D45 [21-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D46 [22-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D47 [23-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D48 [24-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !D49 [25-09-2026 00:00]: 2695.4706 → 2814.8106
+~ Daily Summary !C50 "Feeding, ton" [Total]: 2695.4706 → 2814.8106
+~ Daily Summary !G57: 0.660155 → 0.632167
+_Dibandingkan 10408 sel dari 18 sheet._
+
 ## 17 Sep 2026 · 13:41 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Filter Press: +1 baris, ~163 sel, -1 baris
 + Sheet "Tailing Check " ditambahkan
