@@ -5,6 +5,129 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Sep 2026 · 19:20 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~4 sel; Reagent Consumption: +5 baris, ~110 sel
+~ Daily Summary !Z27 "Consumption" [03-09-2026 00:00]: 0 → 250
+~ Daily Summary !Z28 "Consumption" [04-09-2026 00:00]: 0 → 275
+~ Daily Summary !Z50 "Consumption" [Total]: 3200 → 3725
+~ Daily Summary !Z51 "Consumption" [Average]: 110.344828 → 128.448276
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 3200 → 3725
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.341295 → 1.561352
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 153600000 → 178800000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 297400000 → 322600000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.516476 → 0.554247
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.027068 → 0.024954
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.443847 → 0.409175
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.012609 → 0.011624
+~ Reagent Consumption!O32 [16-09-2026 00:00]: 0 → 250
+~ Reagent Consumption!O33 [16-09-2026 00:00]: 0 → 275
+~ Reagent Consumption!A34 "Data ragents consumption" [17-09-2026 00:00]: 19-09-2026 00:00 → 17-09-2026 00:00
+~ Reagent Consumption!B34 [17-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!D34 "Leaching" [17-09-2026 00:00]: (kosong) → 125
+~ Reagent Consumption!N34 [17-09-2026 00:00]: 19-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U34 "Gold Rom" [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V34 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A35 "Data ragents consumption" [17-09-2026 00:00]: 20-09-2026 00:00 → 17-09-2026 00:00
+~ Reagent Consumption!B35 [17-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!D35 "Leaching" [17-09-2026 00:00]: (kosong) → 125
+~ Reagent Consumption!N35 [17-09-2026 00:00]: 20-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U35 "Gold Rom" [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V35 [17-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A36 "Data ragents consumption" [18-09-2026 00:00]: 21-09-2026 00:00 → 18-09-2026 00:00
+~ Reagent Consumption!B36 [18-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!D36 "Leaching" [18-09-2026 00:00]: (kosong) → 125
+~ Reagent Consumption!N36 [18-09-2026 00:00]: 21-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U36 "Gold Rom" [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V36 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A37 "Data ragents consumption" [18-09-2026 00:00]: 22-09-2026 00:00 → 18-09-2026 00:00
+~ Reagent Consumption!B37 [18-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!D37 "Leaching" [18-09-2026 00:00]: (kosong) → 150
+~ Reagent Consumption!N37 [18-09-2026 00:00]: 22-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U37 "Gold Rom" [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V37 [18-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A38 "Data ragents consumption" [19-09-2026 00:00]: 23-09-2026 00:00 → 19-09-2026 00:00
+~ Reagent Consumption!N38 [19-09-2026 00:00]: 23-09-2026 00:00 → 19-09-2026 00:00
+~ Reagent Consumption!A39 "Data ragents consumption" [20-09-2026 00:00]: 24-09-2026 00:00 → 20-09-2026 00:00
+~ Reagent Consumption!N39 [20-09-2026 00:00]: 24-09-2026 00:00 → 20-09-2026 00:00
+~ Reagent Consumption!A40 "Data ragents consumption" [21-09-2026 00:00]: 25-09-2026 00:00 → 21-09-2026 00:00
+~ Reagent Consumption!N40 [21-09-2026 00:00]: 25-09-2026 00:00 → 21-09-2026 00:00
+~ Reagent Consumption!A41 "Data ragents consumption" [22-09-2026 00:00]: 26-09-2026 00:00 → 22-09-2026 00:00
+~ Reagent Consumption!N41 [22-09-2026 00:00]: 26-09-2026 00:00 → 22-09-2026 00:00
+~ Reagent Consumption!A42 "Data ragents consumption" [23-09-2026 00:00]: 27-09-2026 00:00 → 23-09-2026 00:00
+~ Reagent Consumption!N42 [23-09-2026 00:00]: 27-09-2026 00:00 → 23-09-2026 00:00
+~ Reagent Consumption!A43 "Data ragents consumption" [24-09-2026 00:00]: 28-09-2026 00:00 → 24-09-2026 00:00
+~ Reagent Consumption!N43 [24-09-2026 00:00]: 28-09-2026 00:00 → 24-09-2026 00:00
+~ Reagent Consumption!A44 "Data ragents consumption" [25-09-2026 00:00]: 29-09-2026 00:00 → 25-09-2026 00:00
+~ Reagent Consumption!N44 [25-09-2026 00:00]: 29-09-2026 00:00 → 25-09-2026 00:00
+~ Reagent Consumption!A45 "Data ragents consumption" [26-09-2026 00:00]: 30-09-2026 00:00 → 26-09-2026 00:00
+~ Reagent Consumption!N45 [26-09-2026 00:00]: 30-09-2026 00:00 → 26-09-2026 00:00
+~ Reagent Consumption!A46 "Data ragents consumption" [27-09-2026 00:00]: 01-10-2026 00:00 → 27-09-2026 00:00
+~ Reagent Consumption!N46 [27-09-2026 00:00]: 01-10-2026 00:00 → 27-09-2026 00:00
+~ Reagent Consumption!A47 "Data ragents consumption" [28-09-2026 00:00]: 02-10-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!N47 [28-09-2026 00:00]: 02-10-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!A48 "Data ragents consumption" [29-09-2026 00:00]: 03-10-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!N48 [29-09-2026 00:00]: 03-10-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!A49 "Data ragents consumption" [30-09-2026 00:00]: 04-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!N49 [30-09-2026 00:00]: 04-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!A50 "Data ragents consumption" [01-10-2026 00:00]: 05-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!N50 [01-10-2026 00:00]: 05-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!A51 "Data ragents consumption" [02-10-2026 00:00]: 06-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!N51 [02-10-2026 00:00]: 06-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!A52 "Data ragents consumption" [03-10-2026 00:00]: 07-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!N52 [03-10-2026 00:00]: 07-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!A53 "Data ragents consumption" [04-10-2026 00:00]: 08-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!N53 [04-10-2026 00:00]: 08-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!A54 "Data ragents consumption" [05-10-2026 00:00]: 09-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!N54 [05-10-2026 00:00]: 09-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!A55 "Data ragents consumption" [06-10-2026 00:00]: 10-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!N55 [06-10-2026 00:00]: 10-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!A56 "Data ragents consumption" [07-10-2026 00:00]: (kosong) → 07-10-2026 00:00
+~ Reagent Consumption!N56 [07-10-2026 00:00]: Total → 07-10-2026 00:00
+~ Reagent Consumption!O56 [07-10-2026 00:00]: 3200 → 0
+~ Reagent Consumption!P56 [07-10-2026 00:00]: 3500 → 0
+~ Reagent Consumption!Q56 [07-10-2026 00:00]: 3000 → 0
+~ Reagent Consumption!T56 [07-10-2026 00:00]: 125 → 0
++ Reagent Consumption baris 57 [08-10-2026 00:00] ditambahkan: A·Data ragents consumption=08-10-2026 00:00, N=08-10-2026 00:00, O=0, P=0, Q=0, R=0, S=0, T=0, ...
+~ Reagent Consumption!A58 "Data ragents consumption" [09-10-2026 00:00]: (kosong) → 09-10-2026 00:00
+~ Reagent Consumption!N58 [09-10-2026 00:00]: (kosong) → 09-10-2026 00:00
+~ Reagent Consumption!O58 [09-10-2026 00:00]: 153600000 → 0
+~ Reagent Consumption!P58 [09-10-2026 00:00]: 8050000 → 0
+~ Reagent Consumption!Q58 [09-10-2026 00:00]: 90000000 → 0
+~ Reagent Consumption!R58 [09-10-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!S58 [09-10-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!T58 [09-10-2026 00:00]: 5500000 → 0
+~ Reagent Consumption!U58 "Gold Rom" [09-10-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!V58 [09-10-2026 00:00]: (kosong) → 0
++ Reagent Consumption baris 59 [10-10-2026 00:00] ditambahkan: A·Data ragents consumption=10-10-2026 00:00, N=10-10-2026 00:00, O=0, P=0, Q=0, R=0, S=0, T=0, ...
++ Reagent Consumption baris 60 ditambahkan: N=Total, O=3725, P=3500, Q=3000, R=0, S=0, T=125, U·Gold Rom=0, ...
++ Reagent Consumption baris 62 ditambahkan: O=178800000, P=8050000, Q=90000000, T=5500000
++ Reagent Consumption baris 63 ditambahkan: O=0
+_Dibandingkan 10597 sel dari 18 sheet._
+
 ## 18 Sep 2026 · 18:42 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~5 sel
 ~ Au Cal Leaching Tank!E10 "Date start" [1]: 02-09-2026 00:00 → 01-09-2026 00:00
