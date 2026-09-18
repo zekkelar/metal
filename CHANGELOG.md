@@ -5,6 +5,15 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Sep 2026 · 18:42 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~5 sel
+~ Au Cal Leaching Tank!E10 "Date start" [1]: 02-09-2026 00:00 → 01-09-2026 00:00
+~ Au Cal Leaching Tank!G10 "Date Finish" [1]: 04-09-2026 00:00 → 03-09-2026 00:00
+~ Au Cal Leaching Tank!H10 "Time Finish" [1]: 06:00:00 → 19:00:00
+~ Au Cal Leaching Tank!G11 "Date Finish" [2]: 05-09-2026 00:00 → 04-09-2026 00:00
+~ Au Cal Leaching Tank!H11 "Time Finish" [2]: 07:00:00 → 12:00:00
+_Dibandingkan 10584 sel dari 18 sheet._
+
 ## 18 Sep 2026 · 17:29 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~816 sel; Daily Summary : ~22 sel; LT Ball Mill: +2 baris, ~2 sel; Milling Down Time Hours: +5 baris, ~51 sel; Milling and Leach Feed: +1 baris, ~34 sel, -13 baris; Milling and Leach Feed_OLD: ~19 sel; Reagent Consumption: ~4 sel; Rom File Inventory: +21 baris, ~4 sel, -9 baris
 ~ Au Cal Leaching Tank!J7 "%solid": %solid → (kosong)
