@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Sep 2026 · 17:13 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~860 sel; Crushing: +17 baris, ~15 sel; Daily Summary : ~40 sel; Filter Press: +111 baris, ~1 sel, -1 baris; Fuel Consumption: +26 baris, ~36 sel, -16 baris; LT Ball Mill: +9 baris; LT Floculation: +7 baris; Milling Down Time Hours: ~6 sel; Milling and Leach Feed: ~63 sel, -2 baris; Reagent Consumption: ~25 sel, -1 baris; Rom File Inventory: -6 baris; Tailing Check : +22 baris, ~1 sel
+~ Au Cal Leaching Tank!J7 "%solid": (kosong) → %solid
+~ Au Cal Leaching Tank!K7 "Solid (Ton)": (kosong) → Solid (Ton)
+~ Au Cal Leaching Tank!L7 "Solid (Ton)": %solid → Solid (Ton)
+~ Au Cal Leaching Tank!M7 "Sg Slurry": (kosong) → Sg Slurry
+~ Au Cal Leaching Tank!N7 "Leaching": (kosong) → Leaching
+~ Au Cal Leaching Tank!O7 "%solid sisa pada tanki": Solid (Ton) → %solid sisa pada tanki
+~ Au Cal Leaching Tank!P7 "sg slurry": Solid (Ton) → sg slurry
+~ Au Cal Leaching Tank!Q7 "Volume slurry": Sg Slurry → Volume slurry
+~ Au Cal Leaching Tank!R7 "Solid on Tank,": Leaching → Solid on Tank,
+~ Au Cal Leaching Tank!S7 "Solution (m3)": %solid sisa pada tanki → Solution (m3)
+~ Au Cal Leaching Tank!T7 "Cumulative": sg slurry → Cumulative
+~ Au Cal Leaching Tank!U7 "Head Grade LF Ball Mill": Volume slurry → Head Grade LF Ball Mill
+~ Au Cal Leaching Tank!V7 "Solid on Tank,": Solid on Tank, → (kosong)
+~ Au Cal Leaching Tank!W7 "Solution (m3)": Solution (m3) → (kosong)
+~ Au Cal Leaching Tank!X7 "Lab AAS Result (gpt)": Cumulative → Lab AAS Result (gpt)
+~ Au Cal Leaching Tank!Y7 "Head Grade LF Ball Mill": Head Grade LF Ball Mill → (kosong)
+~ Au Cal Leaching Tank!AA7 "Au Variance": (kosong) → Au Variance
+~ Au Cal Leaching Tank!AB7 "%Different": Lab AAS Result (gpt) → %Different
+~ Au Cal Leaching Tank!AC7 "Lab AAS Result Tail": (kosong) → Lab AAS Result Tail
+~ Au Cal Leaching Tank!AE7 "Au Variance": Au Variance → (kosong)
+~ Au Cal Leaching Tank!AF7 "%Different": %Different → (kosong)
+~ Au Cal Leaching Tank!AG7 "Lab AAS Result Tail": Lab AAS Result Tail → (kosong)
+~ Au Cal Leaching Tank!AI7 "Metal Content Head Grade": (kosong) → Metal Content Head Grade Calculated (gr)
+~ Au Cal Leaching Tank!AL7 "Metal Content Calculated": (kosong) → Metal Content Calculated Solid Tail (gr)
+~ Au Cal Leaching Tank!AM7 "Metal Content Head Grade": Metal Content Head Grade Calculated (gr) → (kosong)
+~ Au Cal Leaching Tank!AP7 "Batch": Metal Content Calculated Solid Tail (gr) → Batch
+~ Au Cal Leaching Tank!AQ7 "Estimasi %Recovery Metal": (kosong) → Estimasi %Recovery Metal
+~ Au Cal Leaching Tank!AT7 "Batch": Batch → (kosong)
+~ Au Cal Leaching Tank!AU7 "Carbon": Estimasi %Recovery Metal → Carbon
+~ Au Cal Leaching Tank!AV7 "Lab AAS Loaded Carbon": (kosong) → Lab AAS Loaded Carbon
+~ Au Cal Leaching Tank!AY7 "Batch": Carbon → Batch
+~ Au Cal Leaching Tank!AZ7 "Estimasi Metal Content R": Lab AAS Loaded Carbon → Estimasi Metal Content Recovered
+~ Au Cal Leaching Tank!BC7 "Batch": Batch → (kosong)
+~ Au Cal Leaching Tank!BD7 "Estimasi Metal Content R": Estimasi Metal Content Recovered → (kosong)
+~ Au Cal Leaching Tank!L8 "Solid (Ton)" [milling process]: (kosong) → pengurangan oleh batch sebelum
+~ Au Cal Leaching Tank!N8 "Leaching" [milling process]: (kosong) → Tank
+~ Au Cal Leaching Tank!O8 "%solid sisa pada tanki" [milling process]: (kosong) → setelah selesai batch
+~ Au Cal Leaching Tank!P8 "sg slurry" [milling process]: pengurangan oleh batch sebelum → sisa pada tanki
+~ Au Cal Leaching Tank!Q8 "Volume slurry" [milling process]: (kosong) → sisa pada tanki
+~ Au Cal Leaching Tank!R8 "Solid on Tank," [milling process]: Tank → After Finish
+~ Au Cal Leaching Tank!S8 "Solution (m3)" [milling process]: setelah selesai batch → (kosong)
+~ Au Cal Leaching Tank!T8 "Cumulative" [milling process]: sisa pada tanki → Tonage
+~ Au Cal Leaching Tank!U8 "Head Grade LF Ball Mill" [milling process]: sisa pada tanki → gpt
+~ Au Cal Leaching Tank!V8 "Solid on Tank," [milling process]: After Finish → (kosong)
+~ Au Cal Leaching Tank!X8 "Lab AAS Result (gpt)" [milling process]: Tonage → Leach Feed Head Grade Calculated
+~ Au Cal Leaching Tank!Y8 "Head Grade LF Ball Mill" [milling process]: gpt → (kosong)
+~ Au Cal Leaching Tank!AB8 "%Different" [milling process]: Leach Feed Head Grade Calculated → (kosong)
+~ Au Cal Leaching Tank!AC8 "Lab AAS Result Tail" [milling process]: (kosong) → Solid (gpt)
+~ Au Cal Leaching Tank!AF8 "%Different" [milling process]: (kosong) → Solution (gr/m3)
+~ Au Cal Leaching Tank!AG8 "Lab AAS Result Tail" [milling process]: Solid (gpt) → (kosong)
+~ Au Cal Leaching Tank!AI8 "Metal Content Head Grade" [milling process]: (kosong) → Solid
+~ Au Cal Leaching Tank!AJ8 [milling process]: Solution (gr/m3) → (kosong)
+~ Au Cal Leaching Tank!AL8 "Metal Content Calculated" [milling process]: (kosong) → Solid
+~ Au Cal Leaching Tank!AM8 "Metal Content Head Grade" [milling process]: Solid → (kosong)
+~ Au Cal Leaching Tank!AO8 [milling process]: (kosong) → Solution
+~ Au Cal Leaching Tank!AP8 "Batch" [milling process]: Solid → Process
+~ Au Cal Leaching Tank!AS8 [milling process]: Solution → (kosong)
+~ Au Cal Leaching Tank!AT8 "Batch" [milling process]: Process → Leach Tank No
+~ Au Cal Leaching Tank!AV8 "Lab AAS Loaded Carbon" [milling process]: (kosong) → gpt
+~ Au Cal Leaching Tank!AX8 [milling process]: Leach Tank No → (kosong)
+~ Au Cal Leaching Tank!AY8 "Batch" [milling process]: (kosong) → Process
+~ Au Cal Leaching Tank!AZ8 "Estimasi Metal Content R" [milling process]: gpt → gr
+~ Au Cal Leaching Tank!BC8 "Batch" [milling process]: Process → (kosong)
+~ Au Cal Leaching Tank!BD8 "Estimasi Metal Content R" [milling process]: gr → (kosong)
+~ Au Cal Leaching Tank!L9 "Solid (Ton)" [to tank leaching]: (kosong) → Solid Before-After Batch
+~ Au Cal Leaching Tank!N9 "Leaching" [to tank leaching]: (kosong) → No
+~ Au Cal Leaching Tank!P9 "sg slurry" [to tank leaching]: Solid Before-After Batch → selesai batch
+~ Au Cal Leaching Tank!Q9 "Volume slurry" [to tank leaching]: (kosong) → selesai batch
+~ Au Cal Leaching Tank!R9 "Solid on Tank," [to tank leaching]: No → Process Batch
+~ Au Cal Leaching Tank!T9 "Cumulative" [to tank leaching]: selesai batch → Production
+~ Au Cal Leaching Tank!U9 "Head Grade LF Ball Mill" [to tank leaching]: selesai batch → Au
+~ Au Cal Leaching Tank!V9 "Solid on Tank," [to tank leaching]: Process Batch → Ag
+~ Au Cal Leaching Tank!W9 "Solution (m3)" [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!X9 "Lab AAS Result (gpt)" [to tank leaching]: Production → Au
+~ Au Cal Leaching Tank!Y9 "Head Grade LF Ball Mill" [to tank leaching]: Au → Ag
+~ Au Cal Leaching Tank!Z9 [to tank leaching]: Ag → Cu
+~ Au Cal Leaching Tank!AA9 "Au Variance" [to tank leaching]: Cu → (kosong)
+~ Au Cal Leaching Tank!AB9 "%Different" [to tank leaching]: Au → (kosong)
+~ Au Cal Leaching Tank!AC9 "Lab AAS Result Tail" [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AD9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AE9 "Au Variance" [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!AF9 "%Different" [to tank leaching]: (kosong) → Au
+~ Au Cal Leaching Tank!AG9 "Lab AAS Result Tail" [to tank leaching]: Au → Ag
+~ Au Cal Leaching Tank!AH9 [to tank leaching]: Ag → Cu
+~ Au Cal Leaching Tank!AI9 "Metal Content Head Grade" [to tank leaching]: Cu → Au
+~ Au Cal Leaching Tank!AJ9 [to tank leaching]: Au → Ag
+~ Au Cal Leaching Tank!AK9 [to tank leaching]: Ag → Cu
+~ Au Cal Leaching Tank!AL9 "Metal Content Calculated" [to tank leaching]: Cu → Au
+~ Au Cal Leaching Tank!AM9 "Metal Content Head Grade" [to tank leaching]: Au → Ag
+~ Au Cal Leaching Tank!AN9 [to tank leaching]: Ag → Cu
+~ Au Cal Leaching Tank!AO9 [to tank leaching]: Cu → Au
+~ Au Cal Leaching Tank!AP9 "Batch" [to tank leaching]: Au → No
+~ Au Cal Leaching Tank!AQ9 "Estimasi %Recovery Metal" [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AR9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AS9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!AT9 "Batch" [to tank leaching]: No → (kosong)
+~ Au Cal Leaching Tank!AU9 "Carbon" [to tank leaching]: Au → Usage (Ton)
+~ Au Cal Leaching Tank!AV9 "Lab AAS Loaded Carbon" [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AW9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AX9 [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!AY9 "Batch" [to tank leaching]: Usage (Ton) → No
+~ Au Cal Leaching Tank!BC9 "Batch" [to tank leaching]: No → (kosong)
+~ Au Cal Leaching Tank!BD9 "Estimasi Metal Content R" [to tank leaching]: Au → (kosong)
+~ Au Cal Leaching Tank!BE9 [to tank leaching]: Ag → (kosong)
+~ Au Cal Leaching Tank!BF9 [to tank leaching]: Cu → (kosong)
+~ Au Cal Leaching Tank!J10 "%solid" [1]: (kosong) → 0.41
+~ Au Cal Leaching Tank!K10 "Solid (Ton)" [1]: (kosong) → 292.3136
+~ Au Cal Leaching Tank!L10 "Solid (Ton)" [1]: 0.41 → (kosong)
+~ Au Cal Leaching Tank!M10 "Sg Slurry" [1]: (kosong) → 1.28
+~ Au Cal Leaching Tank!N10 "Leaching" [1]: (kosong) → 2
+~ Au Cal Leaching Tank!O10 "%solid sisa pada tanki" [1]: 292.3136 → 0.399
+~ Au Cal Leaching Tank!P10 "sg slurry" [1]: (kosong) → 1.265
+~ Au Cal Leaching Tank!Q10 "Volume slurry" [1]: 1.28 → 107.85
+~ Au Cal Leaching Tank!R10 "Solid on Tank," [1]: 2 → 54.43567
+~ Au Cal Leaching Tank!S10 "Solution (m3)" [1]: 0.399 → 420.6464
+~ Au Cal Leaching Tank!T10 "Cumulative" [1]: 1.265 → 292.3136
+~ Au Cal Leaching Tank!U10 "Head Grade LF Ball Mill" [1]: 107.85 → 0.708
+~ Au Cal Leaching Tank!V10 "Solid on Tank," [1]: 54.43567 → 0.53525
+~ Au Cal Leaching Tank!W10 "Solution (m3)" [1]: 420.6464 → 7.222417
+~ Au Cal Leaching Tank!X10 "Lab AAS Result (gpt)" [1]: 292.3136 → 0.658974
+~ Au Cal Leaching Tank!Y10 "Head Grade LF Ball Mill" [1]: 0.708 → 0.566436
+~ Au Cal Leaching Tank!Z10 [1]: 0.53525 → 7.43638
+~ Au Cal Leaching Tank!AA10 "Au Variance" [1]: 7.222417 → 0.049026
+~ Au Cal Leaching Tank!AB10 "%Different" [1]: 0.658974 → 0.017932
+~ Au Cal Leaching Tank!AC10 "Lab AAS Result Tail" [1]: 0.566436 → 0.113
+~ Au Cal Leaching Tank!AD10 [1]: 7.43638 → 0.17
+~ Au Cal Leaching Tank!AE10 "Au Variance" [1]: 0.049026 → 6.55
+~ Au Cal Leaching Tank!AF10 "%Different" [1]: 0.017932 → 0.02
+~ Au Cal Leaching Tank!AG10 "Lab AAS Result Tail" [1]: 0.113 → (kosong)
+~ Au Cal Leaching Tank!AH10 [1]: 0.17 → (kosong)
+~ Au Cal Leaching Tank!AI10 "Metal Content Head Grade" [1]: 6.55 → 206.958029
+~ Au Cal Leaching Tank!AJ10 [1]: 0.02 → 165.576957
+~ Au Cal Leaching Tank!AK10 [1]: (kosong) → 2173.754957
+~ Au Cal Leaching Tank!AL10 "Metal Content Calculated" [1]: (kosong) → 33.031437
+~ Au Cal Leaching Tank!AM10 "Metal Content Head Grade" [1]: 206.958029 → 49.693312
+~ Au Cal Leaching Tank!AN10 [1]: 165.576957 → 1914.65408
+~ Au Cal Leaching Tank!AO10 [1]: 2173.754957 → 8.412928
+~ Au Cal Leaching Tank!AP10 "Batch" [1]: 33.031437 → 1
+~ Au Cal Leaching Tank!AQ10 "Estimasi %Recovery Metal" [1]: 49.693312 → 0.799745
+~ Au Cal Leaching Tank!AR10 [1]: 1914.65408 → 0.664884
+~ Au Cal Leaching Tank!AS10 [1]: 8.412928 → 0.113235
+~ Au Cal Leaching Tank!AT10 "Batch" [1]: 1 → 2
+~ Au Cal Leaching Tank!AU10 "Carbon" [1]: 0.799745 → 1
+~ Au Cal Leaching Tank!AV10 "Lab AAS Loaded Carbon" [1]: 0.664884 → 165.513664
+~ Au Cal Leaching Tank!AW10 [1]: 0.113235 → 115.883645
+~ Au Cal Leaching Tank!AX10 [1]: 2 → 259.100877
+~ Au Cal Leaching Tank!BC10 "Batch" [1]: 1 → (kosong)
+~ Au Cal Leaching Tank!BD10 "Estimasi Metal Content R" [1]: 165.513664 → (kosong)
+~ Au Cal Leaching Tank!BE10 [1]: 115.883645 → (kosong)
+~ Au Cal Leaching Tank!BF10 [1]: 259.100877 → (kosong)
+~ Au Cal Leaching Tank!J11 "%solid" [2]: (kosong) → 0.43
+~ Au Cal Leaching Tank!K11 "Solid (Ton)" [2]: (kosong) → 300.14215
+~ Au Cal Leaching Tank!L11 "Solid (Ton)" [2]: 0.43 → (kosong)
+~ Au Cal Leaching Tank!M11 "Sg Slurry" [2]: (kosong) → 1.295
+~ Au Cal Leaching Tank!N11 "Leaching" [2]: (kosong) → 3
+~ Au Cal Leaching Tank!O11 "%solid sisa pada tanki" [2]: 300.14215 → 0.4
+~ Au Cal Leaching Tank!P11 "sg slurry" [2]: (kosong) → 1.265
+~ Au Cal Leaching Tank!Q11 "Volume slurry" [2]: 1.295 → 107.85
+~ Au Cal Leaching Tank!R11 "Solid on Tank," [2]: 3 → 54.5721
+~ Au Cal Leaching Tank!S11 "Solution (m3)" [2]: 0.4 → 397.86285
+~ Au Cal Leaching Tank!T11 "Cumulative" [2]: 1.265 → 592.45575
+~ Au Cal Leaching Tank!U11 "Head Grade LF Ball Mill" [2]: 107.85 → 0.684
+~ Au Cal Leaching Tank!V11 "Solid on Tank," [2]: 54.5721 → 0.793333
+~ Au Cal Leaching Tank!W11 "Solution (m3)" [2]: 397.86285 → 9.051111
+~ Au Cal Leaching Tank!X11 "Lab AAS Result (gpt)" [2]: 592.45575 → 0.685346
+~ Au Cal Leaching Tank!Y11 "Head Grade LF Ball Mill" [2]: 0.684 → 0.79554
+~ Au Cal Leaching Tank!Z11 [2]: 0.793333 → 9.10082
+~ Au Cal Leaching Tank!AA11 "Au Variance" [2]: 9.051111 → 0.001346
+~ Au Cal Leaching Tank!AB11 "%Different" [2]: 0.685346 → 0.000492
+~ Au Cal Leaching Tank!AC11 "Lab AAS Result Tail" [2]: 0.79554 → 0.05575
+~ Au Cal Leaching Tank!AD11 [2]: 9.10082 → 0.25
+~ Au Cal Leaching Tank!AE11 "Au Variance" [2]: 0.001346 → 8.3525
+~ Au Cal Leaching Tank!AF11 "%Different" [2]: 0.000492 → 0.029
+~ Au Cal Leaching Tank!AG11 "Lab AAS Result Tail" [2]: 0.05575 → (kosong)
+~ Au Cal Leaching Tank!AH11 [2]: 0.25 → (kosong)
+~ Au Cal Leaching Tank!AI11 "Metal Content Head Grade" [2]: 8.3525 → 205.297231
+~ Au Cal Leaching Tank!AJ11 [2]: 0.029 → 238.112772
+~ Au Cal Leaching Tank!AK11 [2]: (kosong) → 2716.619949
+~ Au Cal Leaching Tank!AL11 "Metal Content Calculated" [2]: (kosong) → 16.732925
+~ Au Cal Leaching Tank!AM11 "Metal Content Head Grade" [2]: 205.297231 → 75.035538
+~ Au Cal Leaching Tank!AN11 [2]: 238.112772 → 2506.937308
+~ Au Cal Leaching Tank!AO11 [2]: 2716.619949 → 11.538023
+~ Au Cal Leaching Tank!AP11 "Batch" [2]: 16.732925 → 2
+~ Au Cal Leaching Tank!AQ11 "Estimasi %Recovery Metal" [2]: 75.035538 → 0.862293
+~ Au Cal Leaching Tank!AR11 [2]: 2506.937308 → 0.684874
+~ Au Cal Leaching Tank!AS11 [2]: 11.538023 → 0.077185
+~ Au Cal Leaching Tank!AT11 "Batch" [2]: 2 → 3
+~ Au Cal Leaching Tank!AU11 "Carbon" [2]: 0.862293 → 1
+~ Au Cal Leaching Tank!AV11 "Lab AAS Loaded Carbon" [2]: 0.684874 → 177.026283
+~ Au Cal Leaching Tank!AW11 [2]: 0.077185 → 163.077235
+~ Au Cal Leaching Tank!AX11 [2]: 3 → 209.682641
+~ Au Cal Leaching Tank!AY11 "Batch" [2]: 1 → 2
+~ Au Cal Leaching Tank!BC11 "Batch" [2]: 2 → (kosong)
+~ Au Cal Leaching Tank!BD11 "Estimasi Metal Content R" [2]: 177.026283 → (kosong)
+~ Au Cal Leaching Tank!BE11 [2]: 163.077235 → (kosong)
+~ Au Cal Leaching Tank!BF11 [2]: 209.682641 → (kosong)
+~ Au Cal Leaching Tank!J12 "%solid" [3]: (kosong) → 0.45
+~ Au Cal Leaching Tank!K12 "Solid (Ton)" [3]: (kosong) → 381.4065
+~ Au Cal Leaching Tank!L12 "Solid (Ton)" [3]: 0.45 → 326.97083
+~ Au Cal Leaching Tank!M12 "Sg Slurry" [3]: (kosong) → 1.31
+- ...dan 1518 perubahan lain tidak ditampilkan
+_Dibandingkan 11278 sel dari 18 sheet._
+
 ## 18 Sep 2026 · 19:20 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~4 sel; Reagent Consumption: +5 baris, ~110 sel
 ~ Daily Summary !Z27 "Consumption" [03-09-2026 00:00]: 0 → 250
