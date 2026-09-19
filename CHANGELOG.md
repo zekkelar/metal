@@ -5,6 +5,91 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Sep 2026 · 22:12 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
+Ringkasan: Barang Keluar : +3 baris, ~72 sel; Stock Barang: ~6 sel
+~ Barang Keluar !D7 "Kode Barang" [3]: CBN → Floc
+~ Barang Keluar !E7 "Nama Barang" [3]: Carbon → Floculant
+~ Barang Keluar !F7 "Jumlah Barang Keluar  (k" [3]: 1000 → 25
+~ Barang Keluar !D8 "Kode Barang" [4]: Lime → CBN
+~ Barang Keluar !E8 "Nama Barang" [4]: Kapur → Carbon
+~ Barang Keluar !F8 "Jumlah Barang Keluar  (k" [4]: 1250 → 1000
+~ Barang Keluar !D9 "Kode Barang" [5]: Floc → Lime
+~ Barang Keluar !E9 "Nama Barang" [5]: Floculant → Kapur
+~ Barang Keluar !F9 "Jumlah Barang Keluar  (k" [5]: 25 → 1250
+~ Barang Keluar !D10 "Kode Barang" [6]: CBN → Lime
+~ Barang Keluar !E10 "Nama Barang" [6]: Carbon → Kapur
+~ Barang Keluar !F10 "Jumlah Barang Keluar  (k" [6]: 1000 → 500
+~ Barang Keluar !F11 "Jumlah Barang Keluar  (k" [7]: 275 → 375
+~ Barang Keluar !C12 "Tanggal" [8]: 03-09-2026 00:00 → 02-09-2026 00:00
+~ Barang Keluar !D12 "Kode Barang" [8]: SND → Floc
+~ Barang Keluar !E12 "Nama Barang" [8]: Sandios → Floculant
+~ Barang Keluar !F12 "Jumlah Barang Keluar  (k" [8]: 100 → 25
+~ Barang Keluar !C13 "Tanggal" [9]: 02-09-2026 00:00 → 03-09-2026 00:00
+~ Barang Keluar !D13 "Kode Barang" [9]: Floc → CBN
+~ Barang Keluar !E13 "Nama Barang" [9]: Floculant → Carbon
+~ Barang Keluar !F13 "Jumlah Barang Keluar  (k" [9]: 25 → 1000
+~ Barang Keluar !C14 "Tanggal" [10]: 06-09-2026 00:00 → 03-09-2026 00:00
+~ Barang Keluar !D14 "Kode Barang" [10]: SND → Lime
+~ Barang Keluar !E14 "Nama Barang" [10]: Sandios → Kapur
+~ Barang Keluar !F14 "Jumlah Barang Keluar  (k" [10]: 175 → 250
+~ Barang Keluar !C15 "Tanggal" [11]: 06-09-2026 00:00 → 04-09-2026 00:00
+~ Barang Keluar !D15 "Kode Barang" [11]: Lime → SND
+~ Barang Keluar !E15 "Nama Barang" [11]: Kapur → Sandios
+~ Barang Keluar !F15 "Jumlah Barang Keluar  (k" [11]: 500 → 375
+~ Barang Keluar !C16 "Tanggal" [12]: 07-09-2026 00:00 → 04-09-2026 00:00
+~ Barang Keluar !D16 "Kode Barang" [12]: SND → Floc
+~ Barang Keluar !E16 "Nama Barang" [12]: Sandios → Floculant
+~ Barang Keluar !F16 "Jumlah Barang Keluar  (k" [12]: 150 → 25
+~ Barang Keluar !C17 "Tanggal" [13]: 07-09-2026 00:00 → 06-09-2026 00:00
+~ Barang Keluar !F17 "Jumlah Barang Keluar  (k" [13]: 750 → 500
+~ Barang Keluar !C18 "Tanggal" [14]: 08-09-2026 00:00 → 07-09-2026 00:00
+~ Barang Keluar !D18 "Kode Barang" [14]: SND → Lime
+~ Barang Keluar !E18 "Nama Barang" [14]: Sandios → Kapur
+~ Barang Keluar !F18 "Jumlah Barang Keluar  (k" [14]: 350 → 250
+~ Barang Keluar !C19 "Tanggal" [15]: 09-09-2026 00:00 → 07-09-2026 00:00
+~ Barang Keluar !F19 "Jumlah Barang Keluar  (k" [15]: 75 → 375
+~ Barang Keluar !C20 "Tanggal" [16]: 10-09-2026 00:00 → 09-09-2026 00:00
+~ Barang Keluar !D20 "Kode Barang" [16]: CBN → SND
+~ Barang Keluar !E20 "Nama Barang" [16]: Carbon → Sandios
+~ Barang Keluar !F20 "Jumlah Barang Keluar  (k" [16]: 500 → 375
+~ Barang Keluar !C21 "Tanggal" [17]: 11-09-2026 00:00 → 10-09-2026 00:00
+~ Barang Keluar !D21 "Kode Barang" [17]: SND → CBN
+~ Barang Keluar !E21 "Nama Barang" [17]: Sandios → Carbon
+~ Barang Keluar !F21 "Jumlah Barang Keluar  (k" [17]: 375 → 500
+~ Barang Keluar !C22 "Tanggal" [18]: 12-09-2026 00:00 → 11-09-2026 00:00
+~ Barang Keluar !F22 "Jumlah Barang Keluar  (k" [18]: 125 → 375
+~ Barang Keluar !C23 "Tanggal" [19]: 13-09-2026 00:00 → 11-09-2026 00:00
+~ Barang Keluar !D23 "Kode Barang" [19]: SND → Floc
+~ Barang Keluar !E23 "Nama Barang" [19]: Sandios → Floculant
+~ Barang Keluar !F23 "Jumlah Barang Keluar  (k" [19]: 375 → 50
+~ Barang Keluar !C24 "Tanggal" [20]: 12-09-2026 00:00 → 11-09-2026 00:00
+~ Barang Keluar !C25 "Tanggal" [21]: 11-09-2026 00:00 → 12-09-2026 00:00
+~ Barang Keluar !D25 "Kode Barang" [21]: Floc → SND
+~ Barang Keluar !E25 "Nama Barang" [21]: Floculant → Sandios
+~ Barang Keluar !F25 "Jumlah Barang Keluar  (k" [21]: 50 → 125
+~ Barang Keluar !C26 "Tanggal" [22]: 02-09-2026 00:00 → 13-09-2026 00:00
+~ Barang Keluar !D26 "Kode Barang" [22]: Lime → SND
+~ Barang Keluar !E26 "Nama Barang" [22]: Kapur → Sandios
+~ Barang Keluar !F26 "Jumlah Barang Keluar  (k" [22]: 500 → 375
+~ Barang Keluar !C27 "Tanggal" [23]: 03-09-2026 00:00 → 13-09-2026 00:00
+~ Barang Keluar !D27 "Kode Barang" [23]: Lime → Floc
+~ Barang Keluar !E27 "Nama Barang" [23]: Kapur → Floculant
+~ Barang Keluar !F27 "Jumlah Barang Keluar  (k" [23]: 250 → 25
+~ Barang Keluar !C28 "Tanggal" [24]: 04-09-2026 00:00 → 15-09-2026 00:00
+~ Barang Keluar !D28 "Kode Barang" [24]: Floc → SND
+~ Barang Keluar !E28 "Nama Barang" [24]: Floculant → Sandios
+~ Barang Keluar !F28 "Jumlah Barang Keluar  (k" [24]: 25 → 450
++ Barang Keluar  baris 29 [25] ditambahkan: C·Tanggal=15-09-2026 00:00, D·Kode Barang=Floc, E·Nama Barang=Floculant, F·Jumlah Barang Keluar  (k=25
++ Barang Keluar  baris 30 [26] ditambahkan: C·Tanggal=18-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Keluar  (k=525
++ Barang Keluar  baris 31 [27] ditambahkan: C·Tanggal=18-09-2026 00:00, D·Kode Barang=Floc, E·Nama Barang=Floculant, F·Jumlah Barang Keluar  (k=25
+~ Stock Barang!F6 "Barang Keluar" [SND]: 2375 → 3725
+~ Stock Barang!G6 "Stock Akhir" [SND]: 3375 → 2025
+~ Stock Barang!F7 "Barang Keluar" [Lime]: 3500 → 3000
+~ Stock Barang!G7 "Stock Akhir" [Lime]: 9000 → 9500
+~ Stock Barang!F12 "Barang Keluar" [Floc]: 125 → 200
+~ Stock Barang!G12 "Stock Akhir" [Floc]: 6300 → 6225
+_Dibandingkan 898 sel dari 4 sheet._
+
 ## 19 Sep 2026 · 17:13 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~860 sel; Crushing: +17 baris, ~15 sel; Daily Summary : ~40 sel; Filter Press: +111 baris, ~1 sel, -1 baris; Fuel Consumption: +26 baris, ~36 sel, -16 baris; LT Ball Mill: +9 baris; LT Floculation: +7 baris; Milling Down Time Hours: ~6 sel; Milling and Leach Feed: ~63 sel, -2 baris; Reagent Consumption: ~25 sel, -1 baris; Rom File Inventory: -6 baris; Tailing Check : +22 baris, ~1 sel
 ~ Au Cal Leaching Tank!J7 "%solid": (kosong) → %solid
