@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 15:13 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~41 sel; Crushing: +1 baris, ~110 sel; Daily Summary : ~17 sel; Fuel Consumption: ~1 sel; LT Ball Mill: +3 baris; LT Floculation: +5 baris, ~1 sel; Milling Down Time Hours: +2 baris, ~27 sel; Milling and Leach Feed: +1 baris, ~44 sel; Milling and Leach Feed_OLD: ~7 sel; Reagent Consumption: ~4 sel; Rom File Inventory: +7 baris, ~5 sel
++ Au Cal Leaching Tank baris 16 [7] ditambahkan: AV·Lab AAS Loaded Carbon=421.729039, AW=177.622913, AX=564.369751
+~ Au Cal Leaching Tank!AC17 "Lab AAS Result Tail" [8]: (kosong) → 0.042667
+~ Au Cal Leaching Tank!AD17 [8]: (kosong) → 0.346667
+~ Au Cal Leaching Tank!AE17 [8]: (kosong) → 10.2
+~ Au Cal Leaching Tank!AL17 "Metal Content Calculated" [8]: 0 → 15.32977
+~ Au Cal Leaching Tank!AM17 [8]: 0 → 124.554385
+~ Au Cal Leaching Tank!AN17 [8]: 0 → 3664.773249
+~ Au Cal Leaching Tank!AQ17 "Estimasi %Recovery Metal" [8]: 0.89964 → 0.826685
+~ Au Cal Leaching Tank!AR17 [8]: 1 → 0.410765
+~ Au Cal Leaching Tank!AS17 [8]: 1 → 0.017104
+~ Au Cal Leaching Tank!AV17 "Lab AAS Loaded Carbon" [8]: (kosong) → 486.86586
+~ Au Cal Leaching Tank!AW17 [8]: (kosong) → 241.425087
+~ Au Cal Leaching Tank!AX17 [8]: (kosong) → 918.280262
+~ Au Cal Leaching Tank!AZ17 "Estimasi Metal Content R" [8]: 189.037455 → 173.707684
+~ Au Cal Leaching Tank!BA17 [8]: 211.383163 → 86.828778
+~ Au Cal Leaching Tank!BB17 [8]: 3728.547489 → 63.77424
++ Au Cal Leaching Tank baris 18 [9] ditambahkan: C·Running Hours=45.083333, I·Volume Slurry (m3)=970, J·%solid=0.34, K·Solid (Ton)=402.356, L·Solid (Ton)=359.291495, M·Sg Slurry=1.22, S·Solution (m3)=781.044, T·Cumulative=2745.045058, ...
+~ Au Cal Leaching Tank!C60 "Running Hours" [Average]: 34.270833 → 35.472222
+~ Au Cal Leaching Tank!K60 "Solid (Ton)" [Average]: 339.061788 → 346.094478
+~ Au Cal Leaching Tank!AC60 "Lab AAS Result Tail" [Average]: 0.09206 → 0.085885
+~ Au Cal Leaching Tank!AD60 [Average]: 0.236619 → 0.250375
+~ Au Cal Leaching Tank!AE60 [Average]: 7.444881 → 7.789271
+~ Au Cal Leaching Tank!AQ60 "Estimasi %Recovery Metal" [Average]: 0.814444 → 0.805324
+~ Au Cal Leaching Tank!AR60 [Average]: 0.659533 → 0.585879
+~ Au Cal Leaching Tank!AS60 [Average]: 0.249735 → 0.126873
+~ Au Cal Leaching Tank!C61 "Running Hours" [Total]: 274.166667 → 319.25
+~ Au Cal Leaching Tank!K61 "Solid (Ton)" [Total]: 2385.753563 → 2745.045058
+~ Au Cal Leaching Tank!AZ61 "Estimasi Metal Content R" [Total]: 1378.222118 → 1362.892348
+~ Au Cal Leaching Tank!BA61 [Total]: 1032.087265 → 907.53288
+~ Au Cal Leaching Tank!BB61 [Total]: 6357.531786 → 2692.758537
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1345.394993 → 1530.676572
+~ Au Cal Leaching Tank!AZ65 "Estimasi Metal Content R": 3307733083.952 → 3270941634.864
+~ Au Cal Leaching Tank!J67 "%solid": 139.2 → 142.133333
+~ Au Cal Leaching Tank!K67 "Solid (Ton)": 12.06551 → 13.882561
+~ Au Cal Leaching Tank!M67 "Sg Slurry": 289.572246 → 333.181464
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 14.038889 → 14.161111
+~ Au Cal Leaching Tank!J71 "%solid": 139.2 → 142.133333
+~ Au Cal Leaching Tank!J72 "%solid": 336.933333 → 339.866667
+~ Au Cal Leaching Tank!J73 "%solid": 0.586862 → 0.581797
+~ Au Cal Leaching Tank!J74 "%solid": 12.06551 → 13.882561
+~ Au Cal Leaching Tank!J75 "%solid": 289.572246 → 333.181464
+~ Au Cal Leaching Tank!J76 "%solid": 14.038889 → 14.161111
+~ Au Cal Leaching Tank!J77 "%solid": 0.413138 → 0.418203
+~ Crushing!E78 "PIC" [19-09-2026 00:00]: (kosong) → Toni
+~ Crushing!F78 "Bucket" [19-09-2026 00:00]: (kosong) → 178
+~ Crushing!G78 "Type" [19-09-2026 00:00]: (kosong) → Exca PC 200
+~ Crushing!H78 "Moisture %" [19-09-2026 00:00]: (kosong) → 0.1
+~ Crushing!I78 "Volume Bucket" [19-09-2026 00:00]: (kosong) → 0.8
+~ Crushing!J78 "SG Bulk Density (ton/m3)" [19-09-2026 00:00]: (kosong) → 1.3
+~ Crushing!K78 "WMT/SHIFT (wet metrix to" [19-09-2026 00:00]: (kosong) → 185.12
+~ Crushing!L78 "DMT/SHIFT (dry metrix to" [19-09-2026 00:00]: (kosong) → 166.608
+~ Crushing!M78 "Ton/hour (tph)" [19-09-2026 00:00]: (kosong) → 15.426667
+~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 0 → 387.068
+~ Crushing!O78 "Keterangan" [19-09-2026 00:00]: (kosong) → Material dari cell A1 Heap Leach Labuha
+~ Crushing!D79 "Shift": Night → Day
+~ Crushing!E79 "PIC": (kosong) → Toni
+~ Crushing!F79 "Bucket": (kosong) → 10
+~ Crushing!G79 "Type": (kosong) → Loader
+~ Crushing!H79 "Moisture %": (kosong) → 0.1
+~ Crushing!I79 "Volume Bucket": (kosong) → 2.8
+~ Crushing!J79 "SG Bulk Density (ton/m3)": (kosong) → 2.3
+~ Crushing!K79 "WMT/SHIFT (wet metrix to": (kosong) → 64.4
+~ Crushing!L79 "DMT/SHIFT (dry metrix to": (kosong) → 57.96
+~ Crushing!M79 "Ton/hour (tph)": (kosong) → 5.366667
+~ Crushing!B80 "Date" [20-09-2026 00:00]: 20-09-2026 00:00 → (kosong)
+~ Crushing!D80 "Shift" [20-09-2026 00:00]: Day → Night
+~ Crushing!E80 "PIC" [20-09-2026 00:00]: (kosong) → Toni
+~ Crushing!F80 "Bucket" [20-09-2026 00:00]: (kosong) → 250
+~ Crushing!G80 "Type" [20-09-2026 00:00]: (kosong) → Exca PC 130
+~ Crushing!I80 "Volume Bucket" [20-09-2026 00:00]: (kosong) → 0.5
+~ Crushing!J80 "SG Bulk Density (ton/m3)" [20-09-2026 00:00]: (kosong) → 1.3
+~ Crushing!K80 "WMT/SHIFT (wet metrix to" [20-09-2026 00:00]: (kosong) → 162.5
+~ Crushing!L80 "DMT/SHIFT (dry metrix to" [20-09-2026 00:00]: (kosong) → 162.5
+~ Crushing!M80 "Ton/hour (tph)" [20-09-2026 00:00]: (kosong) → 13.541667
+~ Crushing!N80 "Tonage/Day (Tpd)" [20-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B81 "Date" [20-09-2026 00:00]: (kosong) → 20-09-2026 00:00
+~ Crushing!D81 "Shift" [20-09-2026 00:00]: Night → Day
+~ Crushing!N81 "Tonage/Day (Tpd)" [20-09-2026 00:00]: (kosong) → 0
+~ Crushing!B82 "Date" [21-09-2026 00:00]: 21-09-2026 00:00 → (kosong)
+~ Crushing!D82 "Shift" [21-09-2026 00:00]: Day → Night
+~ Crushing!N82 "Tonage/Day (Tpd)" [21-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B83 "Date" [21-09-2026 00:00]: (kosong) → 21-09-2026 00:00
+~ Crushing!D83 "Shift" [21-09-2026 00:00]: Night → Day
+~ Crushing!N83 "Tonage/Day (Tpd)" [21-09-2026 00:00]: (kosong) → 0
+~ Crushing!B84 "Date" [22-09-2026 00:00]: 22-09-2026 00:00 → (kosong)
+~ Crushing!D84 "Shift" [22-09-2026 00:00]: Day → Night
+~ Crushing!N84 "Tonage/Day (Tpd)" [22-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B85 "Date" [22-09-2026 00:00]: (kosong) → 22-09-2026 00:00
+~ Crushing!D85 "Shift" [22-09-2026 00:00]: Night → Day
+~ Crushing!N85 "Tonage/Day (Tpd)" [22-09-2026 00:00]: (kosong) → 0
+~ Crushing!B86 "Date" [23-09-2026 00:00]: 23-09-2026 00:00 → (kosong)
+~ Crushing!D86 "Shift" [23-09-2026 00:00]: Day → Night
+~ Crushing!N86 "Tonage/Day (Tpd)" [23-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B87 "Date" [23-09-2026 00:00]: (kosong) → 23-09-2026 00:00
+~ Crushing!D87 "Shift" [23-09-2026 00:00]: Night → Day
+~ Crushing!N87 "Tonage/Day (Tpd)" [23-09-2026 00:00]: (kosong) → 0
+~ Crushing!B88 "Date" [24-09-2026 00:00]: 24-09-2026 00:00 → (kosong)
+~ Crushing!D88 "Shift" [24-09-2026 00:00]: Day → Night
+~ Crushing!N88 "Tonage/Day (Tpd)" [24-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B89 "Date" [24-09-2026 00:00]: (kosong) → 24-09-2026 00:00
+~ Crushing!D89 "Shift" [24-09-2026 00:00]: Night → Day
+~ Crushing!N89 "Tonage/Day (Tpd)" [24-09-2026 00:00]: (kosong) → 0
+~ Crushing!B90 "Date" [25-09-2026 00:00]: 25-09-2026 00:00 → (kosong)
+~ Crushing!D90 "Shift" [25-09-2026 00:00]: Day → Night
+~ Crushing!N90 "Tonage/Day (Tpd)" [25-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B91 "Date" [25-09-2026 00:00]: (kosong) → 25-09-2026 00:00
+~ Crushing!D91 "Shift" [25-09-2026 00:00]: Night → Day
+~ Crushing!N91 "Tonage/Day (Tpd)" [25-09-2026 00:00]: (kosong) → 0
+~ Crushing!B92 "Date" [26-09-2026 00:00]: 26-09-2026 00:00 → (kosong)
+~ Crushing!D92 "Shift" [26-09-2026 00:00]: Day → Night
+~ Crushing!N92 "Tonage/Day (Tpd)" [26-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B93 "Date" [26-09-2026 00:00]: (kosong) → 26-09-2026 00:00
+~ Crushing!D93 "Shift" [26-09-2026 00:00]: Night → Day
+~ Crushing!N93 "Tonage/Day (Tpd)" [26-09-2026 00:00]: (kosong) → 0
+~ Crushing!B94 "Date" [27-09-2026 00:00]: 27-09-2026 00:00 → (kosong)
+~ Crushing!D94 "Shift" [27-09-2026 00:00]: Day → Night
+~ Crushing!N94 "Tonage/Day (Tpd)" [27-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B95 "Date" [27-09-2026 00:00]: (kosong) → 27-09-2026 00:00
+~ Crushing!D95 "Shift" [27-09-2026 00:00]: Night → Day
+~ Crushing!N95 "Tonage/Day (Tpd)" [27-09-2026 00:00]: (kosong) → 0
+~ Crushing!B96 "Date" [28-09-2026 00:00]: 28-09-2026 00:00 → (kosong)
+~ Crushing!D96 "Shift" [28-09-2026 00:00]: Day → Night
+~ Crushing!N96 "Tonage/Day (Tpd)" [28-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B97 "Date" [28-09-2026 00:00]: (kosong) → 28-09-2026 00:00
+~ Crushing!D97 "Shift" [28-09-2026 00:00]: Night → Day
+~ Crushing!N97 "Tonage/Day (Tpd)" [28-09-2026 00:00]: (kosong) → 0
+~ Crushing!B98 "Date" [29-09-2026 00:00]: 29-09-2026 00:00 → (kosong)
+~ Crushing!D98 "Shift" [29-09-2026 00:00]: Day → Night
+~ Crushing!N98 "Tonage/Day (Tpd)" [29-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B99 "Date" [29-09-2026 00:00]: (kosong) → 29-09-2026 00:00
+~ Crushing!D99 "Shift" [29-09-2026 00:00]: Night → Day
+~ Crushing!N99 "Tonage/Day (Tpd)" [29-09-2026 00:00]: (kosong) → 0
+~ Crushing!B100 "Date" [30-09-2026 00:00]: 30-09-2026 00:00 → (kosong)
+~ Crushing!D100 "Shift" [30-09-2026 00:00]: Day → Night
+~ Crushing!N100 "Tonage/Day (Tpd)" [30-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B101 "Date" [30-09-2026 00:00]: (kosong) → 30-09-2026 00:00
+~ Crushing!D101 "Shift" [30-09-2026 00:00]: Night → Day
+~ Crushing!N101 "Tonage/Day (Tpd)" [30-09-2026 00:00]: (kosong) → 0
+~ Crushing!B102 "Date" [Rata-rata]: Rata-rata → (kosong)
+~ Crushing!D102 "Shift" [Rata-rata]: (kosong) → Night
+~ Crushing!F102 "Bucket" [Rata-rata]: 226.045455 → (kosong)
+~ Crushing!H102 "Moisture %" [Rata-rata]: 0.113182 → (kosong)
+~ Crushing!K102 "WMT/SHIFT (wet metrix to" [Rata-rata]: 150.69119 → (kosong)
+~ Crushing!L102 "DMT/SHIFT (dry metrix to" [Rata-rata]: 131.539591 → (kosong)
+~ Crushing!M102 "Ton/hour (tph)" [Rata-rata]: 12.78625 → (kosong)
+~ Crushing!N102 "Tonage/Day (Tpd)" [Rata-rata]: 77.574631 → (kosong)
+~ Crushing!B103 "Date" [Rata-rata]: Total → Rata-rata
+~ Crushing!F103 "Bucket" [Rata-rata]: 4973 → 216.44
+~ Crushing!H103 "Moisture %" [Rata-rata]: (kosong) → 0.112083
+~ Crushing!K103 "WMT/SHIFT (wet metrix to" [Rata-rata]: (kosong) → 150.69119
+~ Crushing!L103 "DMT/SHIFT (dry metrix to" [Rata-rata]: (kosong) → 131.249177
+~ Crushing!M103 "Ton/hour (tph)" [Rata-rata]: (kosong) → 13.561493
+~ Crushing!N103 "Tonage/Day (Tpd)" [Rata-rata]: 3025.4106 → 87.499451
++ Crushing baris 104 [Total] ditambahkan: B·Date=Total, F·Bucket=5411, N·Tonage/Day (Tpd)=3412.4786
+~ Daily Summary !F37 [13-09-2026 00:00]: (kosong) → 0.632286
+~ Daily Summary !G37 [13-09-2026 00:00]: 0 → 166.079327
+~ Daily Summary !H37 [13-09-2026 00:00]: 0 → 0.166079
+~ Daily Summary !J40 "Hours Milling" [16-09-2026 00:00]: 0 → 21.066667
+~ Daily Summary !L40 [16-09-2026 00:00]: 0 → 0.877778
+~ Daily Summary !N40 "Plant Usability" [16-09-2026 00:00]: 0 → 0.877778
+~ Daily Summary !J41 "Hours Milling" [17-09-2026 00:00]: 0 → 24
+~ Daily Summary !L41 [17-09-2026 00:00]: 0 → 1
+~ Daily Summary !G50 [Total]: 1901.430222 → 2067.509549
+~ Daily Summary !H50 [Total]: 1.90143 → 2.06751
+~ Daily Summary !F51 [Average]: 0.892421 → 0.875079
+~ Daily Summary !G51 [Average]: 61.336459 → 66.693856
+~ Daily Summary !N51 "Plant Usability" [Average]: 0.25477 → 0.277869
+~ Daily Summary !F53: 0.821 → 0.77
+~ Daily Summary !X55: 0.821 → 0.77
+~ Daily Summary !X56: 0.892421 → 0.875079
+~ Daily Summary !G57: 0.675509 → 0.734511
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 13.182418 → 11.457007
++ LT Ball Mill baris 88 [85] ditambahkan: B·No=85, D·Id sampel=LF Ball Mill DS 1, E·date=18-09-2026 00:00, F·au (g/t)=0.782, G·ag (g/t)=0.55, H·Cu (g/t)=12.04
++ LT Ball Mill baris 89 [86] ditambahkan: B·No=86, D·Id sampel=LF Ball Mill DS 2, E·date=18-09-2026 00:00, F·au (g/t)=0.759, G·ag (g/t)=0.52, H·Cu (g/t)=12.08
++ LT Ball Mill baris 90 [87] ditambahkan: B·No=87, D·Id sampel=LF Ball Mill DS 3, E·date=18-09-2026 00:00, F·au (g/t)=0.763, G·ag (g/t)=0.54, H·Cu (g/t)=12.03
+~ LT Floculation!J12 [7]: #DIV/0! → 0.021
++ LT Floculation baris 13 [8] ditambahkan: C·Tanggal=18-09-2026 00:00, E·Leaching=3, F·Batch=8, G·Lab AAS Result=0.042667, H=0.346667, I=10.2, J=0.027, K·Batch Process=8
++ LT Floculation baris 14 [9] ditambahkan: E·Leaching=2, F·Batch=9
++ LT Floculation baris 49 ditambahkan: O=LT-Floc NS 1, P=8, Q=18-09-2026 00:00, R=0.055, S=0.32, T=10.4
++ LT Floculation baris 50 ditambahkan: O=LT-Floc NS 2, P=8, Q=18-09-2026 00:00, R=0.037, S=0.34, T=9.42
++ LT Floculation baris 51 ditambahkan: O=LT-Floc NS 3, P=8, Q=18-09-2026 00:00, R=0.036, S=0.38, T=10.78
+~ Milling Down Time Hours!AH6 [31-08-2026 00:00]: 292.8 → 337.866667
+~ Milling Down Time Hours!AI6 [31-08-2026 00:00]: 139.2 → 142.133333
+~ Milling Down Time Hours!AJ6 [31-08-2026 00:00]: 0.677778 → 0.703889
+~ Milling Down Time Hours!P23 "Total Down Time (Mins)" [09-09-2026 00:00]: (kosong) → 176
+~ Milling Down Time Hours!Q23 "Running Time (Hr)" [09-09-2026 00:00]: (kosong) → 21.066667
+~ Milling Down Time Hours!R23 "Availbility (%)" [09-09-2026 00:00]: 0 → 0.877778
+~ Milling Down Time Hours!S23 "Downtime (hr)" [09-09-2026 00:00]: 0 → 2.933333
+~ Milling Down Time Hours!P24 "Total Down Time (Mins)" [09-09-2026 00:00]: (kosong) → 0
+~ Milling Down Time Hours!Q24 "Running Time (Hr)" [09-09-2026 00:00]: (kosong) → 24
+~ Milling Down Time Hours!R24 "Availbility (%)" [09-09-2026 00:00]: 0 → 1
++ Milling Down Time Hours baris 41 [18-09-2026 00:00] ditambahkan: H·Reason=Kabel putus kena batu mengakibatkan p..., I·BATCH=9, L·Availibility Per Day=0.877778
+~ Milling Down Time Hours!D42 "PIC" [18-09-2026 00:00]: (kosong) → Awal/Suono
+~ Milling Down Time Hours!E42 "Stop Time" [18-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F42 "Start Time" [18-09-2026 00:00]: (kosong) → 00:02:00
+~ Milling Down Time Hours!G42 "Down Time (Mins)" [18-09-2026 00:00]: 0 → 1
+~ Milling Down Time Hours!J42 "Running Time Hour/Shift" [18-09-2026 00:00]: 12 → 11.983333
+~ Milling Down Time Hours!K42 "Availibility per Shift" [18-09-2026 00:00]: 1 → 0.998611
++ Milling Down Time Hours baris 43 [19-09-2026 00:00] ditambahkan: H·Reason=Running Ball Mill No 1,3 dan 4, L·Availibility Per Day=1
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 8352 → 8528
+- ...dan 146 perubahan lain tidak ditampilkan
+_Dibandingkan 11440 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 09:48 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris
 + Au Cal Leaching Tank baris 18 [9] ditambahkan: E·Date start=20-09-2026 00:00, F·Time Start=07:50:00
