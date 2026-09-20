@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 19:06 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : +7 baris, ~218 sel, -14 baris
+- Daily Summary  baris 7 [01-06-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 8 [02-06-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 9 [03-06-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 10 [04-06-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 11 [18-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 12 [19-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 13 [20-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 14 [21-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 15 [22-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 16 [23-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 17 [24-08-2026 00:00] dikosongkan: U=#DIV/0!
+- Daily Summary  baris 18 [25-08-2026 00:00] dikosongkan: U=#DIV/0!
+~ Daily Summary !M19 [26-08-2026 00:00]: 0.934722 → 1
+~ Daily Summary !U19 [26-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M20 [27-08-2026 00:00]: 0.954167 → 1
+~ Daily Summary !U20 [27-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M21 [28-08-2026 00:00]: 0.916667 → 1
+~ Daily Summary !U21 [28-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M22 [29-08-2026 00:00]: 0.958333 → 1
+~ Daily Summary !U22 [29-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M23 [30-08-2026 00:00]: 0 → 1
+~ Daily Summary !U23 [30-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E24 [31-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M24 [31-08-2026 00:00]: 0.458333 → 1
+~ Daily Summary !U24 [31-08-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E25 [01-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M25 [01-09-2026 00:00]: 0.909722 → 1
+~ Daily Summary !U25 [01-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E26 [02-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M26 [02-09-2026 00:00]: 0.935417 → 1
+~ Daily Summary !U26 [02-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E27 [03-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M27 [03-09-2026 00:00]: 0.824306 → 1
+~ Daily Summary !U27 [03-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E28 [04-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M28 [04-09-2026 00:00]: 0.876389 → 1
+~ Daily Summary !U28 [04-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E29 [05-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M29 [05-09-2026 00:00]: 0.540972 → 1
+~ Daily Summary !U29 [05-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E30 [06-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M30 [06-09-2026 00:00]: 0 → 1
+~ Daily Summary !U30 [06-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E31 [07-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M31 [07-09-2026 00:00]: 0.416667 → 1
+~ Daily Summary !U31 [07-09-2026 00:00]: #DIV/0! → (kosong)
+- Daily Summary  baris 32 [08-09-2026 00:00] dikosongkan: E=#DIV/0!, U=#DIV/0!
+~ Daily Summary !E33 [09-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L33 [09-09-2026 00:00]: 0.876389 → 0.51875
+~ Daily Summary !N33 "Plant Usability" [09-09-2026 00:00]: 0.876389 → 0.51875
+~ Daily Summary !U33 [09-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E34 [10-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L34 [10-09-2026 00:00]: 0.540972 → 0.876389
+~ Daily Summary !N34 "Plant Usability" [10-09-2026 00:00]: 0.540972 → 0.876389
+~ Daily Summary !U34 [10-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E35 [11-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L35 [11-09-2026 00:00]: 0 → 0.540972
+~ Daily Summary !N35 "Plant Usability" [11-09-2026 00:00]: 0 → 0.540972
+~ Daily Summary !U35 [11-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E36 [12-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L36 [12-09-2026 00:00]: 0.416667 → 0
+~ Daily Summary !N36 "Plant Usability" [12-09-2026 00:00]: 0.416667 → 0
+~ Daily Summary !U36 [12-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E37 [13-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L37 [13-09-2026 00:00]: 1 → 0
+~ Daily Summary !U37 [13-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !E38 [14-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L38 [14-09-2026 00:00]: 0.955556 → 0.416667
+~ Daily Summary !M38 [14-09-2026 00:00]: 2 → 1
+~ Daily Summary !N38 "Plant Usability" [14-09-2026 00:00]: 0.955556 → 0.416667
+~ Daily Summary !E39 [15-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M39 [15-09-2026 00:00]: 3 → 1
+~ Daily Summary !N39 "Plant Usability" [15-09-2026 00:00]: 0 → 1
+~ Daily Summary !E40 [16-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L40 [16-09-2026 00:00]: 0.878472 → 0.955556
+~ Daily Summary !M40 [16-09-2026 00:00]: 4 → 1
+~ Daily Summary !N40 "Plant Usability" [16-09-2026 00:00]: 0.878472 → 0.955556
+~ Daily Summary !E41 [17-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L41 [17-09-2026 00:00]: 0.75 → 1
+~ Daily Summary !M41 [17-09-2026 00:00]: 5 → 1
+~ Daily Summary !C42 "Feeding, ton" [18-09-2026 00:00]: 0 → 210.6
+~ Daily Summary !D42 [18-09-2026 00:00]: 2814.8106 → 3025.4106
+~ Daily Summary !E42 [18-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L42 [18-09-2026 00:00]: 0 → 0.878472
+~ Daily Summary !M42 [18-09-2026 00:00]: 6 → 1
+~ Daily Summary !N42 "Plant Usability" [18-09-2026 00:00]: 0 → 0.878472
+~ Daily Summary !C43 "Feeding, ton" [19-09-2026 00:00]: 0 → 387.068
+~ Daily Summary !D43 [19-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !E43 [19-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !L43 [19-09-2026 00:00]: 0 → 0.75
+~ Daily Summary !M43 [19-09-2026 00:00]: 7 → 1
+~ Daily Summary !N43 "Plant Usability" [19-09-2026 00:00]: 0 → 0.75
+~ Daily Summary !D44 [20-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !E44 [20-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M44 [20-09-2026 00:00]: 8 → 1
+~ Daily Summary !D45 [21-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !E45 [21-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M45 [21-09-2026 00:00]: 9 → 1
+~ Daily Summary !D46 [22-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !E46 [22-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M46 [22-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N46 "Plant Usability" [22-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !D47 [23-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !E47 [23-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !M47 [23-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N47 "Plant Usability" [23-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !D48 [24-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !M48 [24-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N48 "Plant Usability" [24-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !D49 [25-09-2026 00:00]: 2814.8106 → 3412.4786
+~ Daily Summary !M49 [25-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N49 "Plant Usability" [25-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !B50 "Date" [26-09-2026 00:00]: Total → 26-09-2026 00:00
+~ Daily Summary !C50 "Feeding, ton" [26-09-2026 00:00]: 2814.8106 → (kosong)
+~ Daily Summary !D50 [26-09-2026 00:00]: (kosong) → 3412.4786
+~ Daily Summary !G50 [26-09-2026 00:00]: 2067.509549 → (kosong)
+~ Daily Summary !H50 [26-09-2026 00:00]: 2.06751 → (kosong)
+~ Daily Summary !I50 "Hours Run Crushing" [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !M50 [26-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N50 "Plant Usability" [26-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !O50 "Gold Rom ( Elution and E" [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !P50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Q50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !T50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !V50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !W50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !X50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Y50 [26-09-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Z50 "Consumption" [26-09-2026 00:00]: 3725 → (kosong)
+~ Daily Summary !AB50 [26-09-2026 00:00]: 3000 → (kosong)
+~ Daily Summary !AC50 [26-09-2026 00:00]: 3500 → (kosong)
+~ Daily Summary !AF50 [26-09-2026 00:00]: 200 → (kosong)
+~ Daily Summary !AG50 [26-09-2026 00:00]: 31450 → (kosong)
+~ Daily Summary !B51 "Date" [27-09-2026 00:00]: Average → 27-09-2026 00:00
+~ Daily Summary !C51 "Feeding, ton" [27-09-2026 00:00]: 155.541167 → (kosong)
+~ Daily Summary !D51 [27-09-2026 00:00]: (kosong) → 3412.4786
+~ Daily Summary !E51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !F51 [27-09-2026 00:00]: 0.875079 → (kosong)
+~ Daily Summary !G51 [27-09-2026 00:00]: 66.693856 → (kosong)
+~ Daily Summary !H51 [27-09-2026 00:00]: 0.065567 → (kosong)
+~ Daily Summary !I51 "Hours Run Crushing" [27-09-2026 00:00]: 9.129167 → (kosong)
+~ Daily Summary !K51 "Availability, %" [27-09-2026 00:00]: 0.62619 → (kosong)
+~ Daily Summary !L51 [27-09-2026 00:00]: 0.300886 → (kosong)
+~ Daily Summary !M51 [27-09-2026 00:00]: 0.85261 → 1
+~ Daily Summary !N51 "Plant Usability" [27-09-2026 00:00]: 0.297624 → 0
+~ Daily Summary !O51 "Gold Rom ( Elution and E" [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !P51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !Q51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !V51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !W51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !X51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !Y51 [27-09-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !Z51 "Consumption" [27-09-2026 00:00]: 128.448276 → (kosong)
+~ Daily Summary !AA51 [27-09-2026 00:00]: 1073.448276 → (kosong)
+~ Daily Summary !AB51 [27-09-2026 00:00]: 103.448276 → (kosong)
+~ Daily Summary !AC51 [27-09-2026 00:00]: 120.689655 → (kosong)
+~ Daily Summary !AF51 [27-09-2026 00:00]: 6.896552 → (kosong)
++ Daily Summary  baris 52 [28-09-2026 00:00] ditambahkan: B·Date=28-09-2026 00:00, D=3412.4786, M=1, N·Plant Usability=0
+~ Daily Summary !B53 "Date" [29-09-2026 00:00]: (kosong) → 29-09-2026 00:00
+~ Daily Summary !D53 [29-09-2026 00:00]: (kosong) → 3412.4786
+~ Daily Summary !E53 [29-09-2026 00:00]: Median → (kosong)
+~ Daily Summary !F53 [29-09-2026 00:00]: 0.77 → (kosong)
+~ Daily Summary !M53 [29-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N53 "Plant Usability" [29-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !B54 "Date" [30-09-2026 00:00]: (kosong) → 30-09-2026 00:00
+~ Daily Summary !D54 [30-09-2026 00:00]: (kosong) → 3412.4786
+~ Daily Summary !E54 [30-09-2026 00:00]: Max → (kosong)
+~ Daily Summary !F54 [30-09-2026 00:00]: 1.45 → (kosong)
+~ Daily Summary !M54 [30-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !N54 "Plant Usability" [30-09-2026 00:00]: (kosong) → 0
+~ Daily Summary !W54 [30-09-2026 00:00]: Au Grade → (kosong)
+~ Daily Summary !B55 "Date" [01-10-2026 00:00]: (kosong) → 01-10-2026 00:00
+~ Daily Summary !D55 [01-10-2026 00:00]: (kosong) → 3412.4786
+~ Daily Summary !E55 [01-10-2026 00:00]: Min → (kosong)
+~ Daily Summary !F55 [01-10-2026 00:00]: 0.442 → (kosong)
+~ Daily Summary !M55 [01-10-2026 00:00]: (kosong) → 1
+~ Daily Summary !N55 "Plant Usability" [01-10-2026 00:00]: (kosong) → 0
+~ Daily Summary !W55 [01-10-2026 00:00]: Median → (kosong)
+~ Daily Summary !X55 [01-10-2026 00:00]: 0.77 → (kosong)
+~ Daily Summary !B56 "Date" [Total]: (kosong) → Total
+~ Daily Summary !C56 "Feeding, ton" [Total]: (kosong) → 3412.4786
+~ Daily Summary !G56 [Total]: Metal Content (gr) → 2067.509549
+~ Daily Summary !H56 [Total]: (kosong) → 2.06751
+~ Daily Summary !I56 "Hours Run Crushing" [Total]: (kosong) → 0
+~ Daily Summary !O56 "Gold Rom ( Elution and E" [Total]: (kosong) → 0
+~ Daily Summary !P56 [Total]: (kosong) → 0
+~ Daily Summary !Q56 [Total]: (kosong) → 0
+~ Daily Summary !T56 [Total]: (kosong) → 0
+~ Daily Summary !V56 [Total]: (kosong) → 0
+~ Daily Summary !W56 [Total]: Average → 0
+~ Daily Summary !X56 [Total]: 0.875079 → 0
+~ Daily Summary !Y56 [Total]: (kosong) → 0
+~ Daily Summary !Z56 "Consumption" [Total]: (kosong) → 3725
+~ Daily Summary !AB56 [Total]: (kosong) → 3000
+~ Daily Summary !AC56 [Total]: (kosong) → 3500
+~ Daily Summary !AF56 [Total]: (kosong) → 200
+~ Daily Summary !AG56 [Total]: (kosong) → 31450
+~ Daily Summary !AI56 [Total]: 0.84 → (kosong)
+~ Daily Summary !B57 "Date" [Average]: (kosong) → Average
+~ Daily Summary !C57 "Feeding, ton" [Average]: (kosong) → 155.541167
+- ...dan 51 perubahan lain tidak ditampilkan
+_Dibandingkan 11549 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 18:59 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~3 sel; Reagent Consumption: ~11 sel
 ~ Daily Summary !Z28 "Consumption" [04-09-2026 00:00]: 200 → 275
