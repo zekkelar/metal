@@ -5,6 +5,24 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 18:59 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~3 sel; Reagent Consumption: ~11 sel
+~ Daily Summary !Z28 "Consumption" [04-09-2026 00:00]: 200 → 275
+~ Daily Summary !Z50 "Consumption" [Total]: 3650 → 3725
+~ Daily Summary !Z51 "Consumption" [Average]: 125.862069 → 128.448276
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 3650 → 3725
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.276752 → 1.302986
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 175200000 → 178800000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 321250000 → 324850000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.54537 → 0.550408
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.025058 → 0.024781
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.410895 → 0.406341
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.018677 → 0.01847
+~ Reagent Consumption!O33 [16-09-2026 00:00]: 200 → 275
+~ Reagent Consumption!D37 "Leaching" [18-09-2026 00:00]: 150 → 225
+~ Reagent Consumption!O60: 3650 → 3725
+_Dibandingkan 11549 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 18:38 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: LT Ball Mill: +1 baris
 + LT Ball Mill baris 88 [85] ditambahkan: C·id batch=9
