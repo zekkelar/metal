@@ -5,6 +5,11 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 18:38 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: LT Ball Mill: +1 baris
++ LT Ball Mill baris 88 [85] ditambahkan: C·id batch=9
+_Dibandingkan 11511 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 16:38 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +43 baris, ~16 sel; Daily Summary : ~7 sel; Filter Press: +2 baris, ~301 sel; Milling Down Time Hours: +1 baris, ~35 sel; Milling and Leach Feed: ~8 sel; Milling and Leach Feed_OLD: ~5 sel
 ~ Au Cal Leaching Tank!C18 "Running Hours" [9]: 45.083333 → 39.083333
