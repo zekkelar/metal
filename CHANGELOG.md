@@ -5,6 +5,11 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 09:48 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris
++ Au Cal Leaching Tank baris 18 [9] ditambahkan: E·Date start=20-09-2026 00:00, F·Time Start=07:50:00
+_Dibandingkan 11280 sel dari 18 sheet._
+
 ## 19 Sep 2026 · 22:12 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
 Ringkasan: Barang Keluar : +3 baris, ~72 sel; Stock Barang: ~6 sel
 ~ Barang Keluar !D7 "Kode Barang" [3]: CBN → Floc
