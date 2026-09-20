@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 16:38 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +43 baris, ~16 sel; Daily Summary : ~7 sel; Filter Press: +2 baris, ~301 sel; Milling Down Time Hours: +1 baris, ~35 sel; Milling and Leach Feed: ~8 sel; Milling and Leach Feed_OLD: ~5 sel
+~ Au Cal Leaching Tank!C18 "Running Hours" [9]: 45.083333 → 39.083333
+~ Au Cal Leaching Tank!F18 "Time Start" [9]: 07:50:00 → 03:20:00
++ Au Cal Leaching Tank baris 22 [13] ditambahkan: B·Batch Process=13
++ Au Cal Leaching Tank baris 23 [14] ditambahkan: B·Batch Process=14
++ Au Cal Leaching Tank baris 24 [15] ditambahkan: B·Batch Process=15
++ Au Cal Leaching Tank baris 25 [16] ditambahkan: B·Batch Process=16
++ Au Cal Leaching Tank baris 26 [17] ditambahkan: B·Batch Process=17
++ Au Cal Leaching Tank baris 27 [18] ditambahkan: B·Batch Process=18
++ Au Cal Leaching Tank baris 28 [19] ditambahkan: B·Batch Process=19
++ Au Cal Leaching Tank baris 29 [20] ditambahkan: B·Batch Process=20
++ Au Cal Leaching Tank baris 30 [21] ditambahkan: B·Batch Process=21
++ Au Cal Leaching Tank baris 31 [22] ditambahkan: B·Batch Process=22
++ Au Cal Leaching Tank baris 32 [23] ditambahkan: B·Batch Process=23
++ Au Cal Leaching Tank baris 33 [24] ditambahkan: B·Batch Process=24
++ Au Cal Leaching Tank baris 34 [25] ditambahkan: B·Batch Process=25
++ Au Cal Leaching Tank baris 35 [26] ditambahkan: B·Batch Process=26
++ Au Cal Leaching Tank baris 36 [27] ditambahkan: B·Batch Process=27
++ Au Cal Leaching Tank baris 37 [28] ditambahkan: B·Batch Process=28
++ Au Cal Leaching Tank baris 38 [29] ditambahkan: B·Batch Process=29
++ Au Cal Leaching Tank baris 39 [30] ditambahkan: B·Batch Process=30
++ Au Cal Leaching Tank baris 40 [31] ditambahkan: B·Batch Process=31
++ Au Cal Leaching Tank baris 41 [32] ditambahkan: B·Batch Process=32
++ Au Cal Leaching Tank baris 42 [33] ditambahkan: B·Batch Process=33
++ Au Cal Leaching Tank baris 43 [34] ditambahkan: B·Batch Process=34
++ Au Cal Leaching Tank baris 44 [35] ditambahkan: B·Batch Process=35
++ Au Cal Leaching Tank baris 45 [36] ditambahkan: B·Batch Process=36
++ Au Cal Leaching Tank baris 46 [37] ditambahkan: B·Batch Process=37
++ Au Cal Leaching Tank baris 47 [38] ditambahkan: B·Batch Process=38
++ Au Cal Leaching Tank baris 48 [39] ditambahkan: B·Batch Process=39
++ Au Cal Leaching Tank baris 49 [40] ditambahkan: B·Batch Process=40
++ Au Cal Leaching Tank baris 50 [41] ditambahkan: B·Batch Process=41
++ Au Cal Leaching Tank baris 51 [42] ditambahkan: B·Batch Process=42
++ Au Cal Leaching Tank baris 52 [43] ditambahkan: B·Batch Process=43
++ Au Cal Leaching Tank baris 53 [44] ditambahkan: B·Batch Process=44
++ Au Cal Leaching Tank baris 54 [45] ditambahkan: B·Batch Process=45
++ Au Cal Leaching Tank baris 55 [46] ditambahkan: B·Batch Process=46
++ Au Cal Leaching Tank baris 56 [47] ditambahkan: B·Batch Process=47
++ Au Cal Leaching Tank baris 57 [48] ditambahkan: B·Batch Process=48
++ Au Cal Leaching Tank baris 58 [49] ditambahkan: B·Batch Process=49
++ Au Cal Leaching Tank baris 59 [50] ditambahkan: B·Batch Process=50
+~ Au Cal Leaching Tank!B60 "Batch Process" [51]: Average → 51
+~ Au Cal Leaching Tank!C60 "Running Hours" [51]: 35.472222 → 34.805556
+~ Au Cal Leaching Tank!B61 "Batch Process" [52]: Total → 52
+~ Au Cal Leaching Tank!C61 "Running Hours" [52]: 319.25 → 313.25
++ Au Cal Leaching Tank baris 66 ditambahkan: E·Date start=6.448094
+~ Au Cal Leaching Tank!E67 "Date start": (kosong) → 6.669826
+~ Au Cal Leaching Tank!J67 "%solid": 142.133333 → 148.116667
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 14.161111 → 14.410417
++ Au Cal Leaching Tank baris 68 ditambahkan: E·Date start=6.907834
++ Au Cal Leaching Tank baris 69 ditambahkan: E·Date start=9.888777
++ Au Cal Leaching Tank baris 70 ditambahkan: E·Date start=10.262106
+~ Au Cal Leaching Tank!J71 "%solid": 142.133333 → 148.116667
+~ Au Cal Leaching Tank!E72 "Date start": (kosong) → 8.341609
+~ Au Cal Leaching Tank!J72 "%solid": 339.866667 → 345.85
+~ Au Cal Leaching Tank!E73 "Date start": (kosong) → 7.655359
+~ Au Cal Leaching Tank!J73 "%solid": 0.581797 → 0.571731
++ Au Cal Leaching Tank baris 74 ditambahkan: E·Date start=9.192959
+~ Au Cal Leaching Tank!J76 "%solid": 14.161111 → 14.410417
+~ Au Cal Leaching Tank!J77 "%solid": 0.418203 → 0.428269
+~ Daily Summary !J40 "Hours Milling" [16-09-2026 00:00]: 21.066667 → 21.083333
+~ Daily Summary !L40 [16-09-2026 00:00]: 0.877778 → 0.878472
+~ Daily Summary !N40 "Plant Usability" [16-09-2026 00:00]: 0.877778 → 0.878472
+~ Daily Summary !J41 "Hours Milling" [17-09-2026 00:00]: 24 → 18
+~ Daily Summary !L41 [17-09-2026 00:00]: 1 → 0.75
+~ Daily Summary !N41 "Plant Usability" [17-09-2026 00:00]: 0 → 0.75
+~ Daily Summary !N51 "Plant Usability" [Average]: 0.277869 → 0.297624
+~ Filter Press!S4: 12.5 → 14.9
+~ Filter Press!N5 [1]: 112.5 → 134.1
+~ Filter Press!P5 [1]: 90 → 107.28
+~ Filter Press!N6 [2]: 50 → 59.6
+~ Filter Press!P6 [2]: 40 → 47.68
+~ Filter Press!N7 [3]: 125 → 149
+~ Filter Press!P7 [3]: 101.25 → 120.69
+~ Filter Press!N8 [4]: 125 → 149
+~ Filter Press!P8 [4]: 100 → 119.2
+~ Filter Press!N9 [5]: 50 → 59.6
+~ Filter Press!P9 [5]: 41 → 48.872
+~ Filter Press!N10 [6]: 150 → 178.8
+~ Filter Press!P10 [6]: 121.5 → 144.828
+~ Filter Press!N11 [7]: 100 → 119.2
+~ Filter Press!P11 [7]: 80 → 95.36
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 1960.39 → 2496.364
+~ Filter Press!N12 [8]: 37.5 → 44.7
+~ Filter Press!P12 [8]: 30.75 → 36.654
+~ Filter Press!N13 [9]: 100 → 119.2
+~ Filter Press!P13 [9]: 81 → 96.552
+~ Filter Press!N14 [10]: 75 → 89.4
+~ Filter Press!P14 [10]: 60.75 → 72.414
+~ Filter Press!N15 [11]: 87.5 → 104.3
+~ Filter Press!P15 [11]: 70.875 → 84.483
+~ Filter Press!N16 [12]: 137.5 → 163.9
+~ Filter Press!P16 [12]: 112.75 → 134.398
+~ Filter Press!N17 [6]: 125 → 149
+~ Filter Press!P17 [6]: 100 → 119.2
+~ Filter Press!N18 [14]: 87.5 → 104.3
+~ Filter Press!P18 [14]: 70.875 → 84.483
+~ Filter Press!C19 [15]: 15-09-2026 00:00 → 14-09-2026 00:00
+~ Filter Press!D19 [15]: (kosong) → Night
+~ Filter Press!E19 [15]: (kosong) → 6
+~ Filter Press!F19 [15]: (kosong) → 36
+~ Filter Press!G19 [15]: (kosong) → 0.19
+~ Filter Press!H19 [15]: (kosong) → 29.16
+~ Filter Press!J19 "Filter Press 02" [15]: 15 → (kosong)
+~ Filter Press!K19 [15]: 15-09-2026 00:00 → (kosong)
+~ Filter Press!L19 [15]: Day → (kosong)
+~ Filter Press!M19 [15]: 7 → (kosong)
+~ Filter Press!N19 [15]: 87.5 → (kosong)
+~ Filter Press!O19 [15]: 0.19 → (kosong)
+~ Filter Press!P19 [15]: 70.875 → (kosong)
+~ Filter Press!J20 "Filter Press 02" [16]: 16 → 15
+~ Filter Press!L20 [16]: Night → Day
+~ Filter Press!M20 [16]: (kosong) → 7
+~ Filter Press!N20 [16]: 0 → 104.3
+~ Filter Press!O20 [16]: (kosong) → 0.19
+~ Filter Press!P20 [16]: 0 → 84.483
+~ Filter Press!C21 [17]: 16-09-2026 00:00 → 15-09-2026 00:00
+~ Filter Press!J21 "Filter Press 02" [17]: 17 → 16
+~ Filter Press!K21 [17]: 16-09-2026 00:00 → 15-09-2026 00:00
+~ Filter Press!L21 [17]: Day → Night
+~ Filter Press!J22 "Filter Press 02" [18]: 18 → 17
+~ Filter Press!L22 [18]: Night → Day
+~ Filter Press!C23 [19]: 17-09-2026 00:00 → 16-09-2026 00:00
+~ Filter Press!J23 "Filter Press 02" [19]: 19 → 18
+~ Filter Press!K23 [19]: 17-09-2026 00:00 → 16-09-2026 00:00
+~ Filter Press!L23 [19]: Day → Night
+~ Filter Press!A24 [7]: 7 → (kosong)
+~ Filter Press!J24 "Filter Press 02" [7]: 20 → 19
+~ Filter Press!L24 [7]: Night → Day
+~ Filter Press!M24 [7]: 10 → (kosong)
+~ Filter Press!N24 [7]: 125 → 0
+~ Filter Press!O24 [7]: 0.18 → (kosong)
+~ Filter Press!P24 [7]: 102.5 → 0
+~ Filter Press!C25 [21]: 18-09-2026 00:00 → 17-09-2026 00:00
+~ Filter Press!D25 [21]: (kosong) → Perbaikan
+~ Filter Press!J25 "Filter Press 02" [21]: 21 → 20
+~ Filter Press!K25 [21]: 18-09-2026 00:00 → 17-09-2026 00:00
+~ Filter Press!L25 [21]: Day → Night
+~ Filter Press!N25 [21]: 125 → 149
+~ Filter Press!O25 [21]: 0.19 → 0.18
+~ Filter Press!P25 [21]: 101.25 → 122.18
+~ Filter Press!D26 [22]: (kosong) → Perbaikan
+~ Filter Press!J26 "Filter Press 02" [22]: 22 → 21
+~ Filter Press!L26 [22]: Night → Day
+~ Filter Press!M26 [22]: 3 → 10
+~ Filter Press!N26 [22]: 37.5 → 149
+~ Filter Press!P26 [22]: 30.375 → 120.69
+~ Filter Press!C27 [23]: 19-09-2026 00:00 → 18-09-2026 00:00
+~ Filter Press!D27 [23]: (kosong) → Perbaikan
+~ Filter Press!J27 "Filter Press 02" [23]: 23 → 22
+~ Filter Press!K27 [23]: 19-09-2026 00:00 → 18-09-2026 00:00
+~ Filter Press!L27 [23]: Day → Night
+~ Filter Press!M27 [23]: (kosong) → 3
+~ Filter Press!N27 [23]: 0 → 44.7
+~ Filter Press!O27 [23]: (kosong) → 0.19
+~ Filter Press!P27 [23]: 0 → 36.207
+~ Filter Press!J28 "Filter Press 02" [24]: 24 → 23
+~ Filter Press!L28 [24]: Night → Day
+~ Filter Press!M28 [24]: (kosong) → 10
+~ Filter Press!N28 [24]: (kosong) → 149
+~ Filter Press!O28 [24]: (kosong) → 0.21
+~ Filter Press!P28 [24]: (kosong) → 117.71
+~ Filter Press!C29 [25]: (kosong) → 19-09-2026 00:00
+~ Filter Press!J29 "Filter Press 02" [25]: 25 → 24
+~ Filter Press!K29 [25]: (kosong) → 19-09-2026 00:00
+~ Filter Press!L29 [25]: Day → Night
+~ Filter Press!M29 [25]: (kosong) → 10
+~ Filter Press!N29 [25]: (kosong) → 149
+~ Filter Press!O29 [25]: (kosong) → 0.2
+~ Filter Press!P29 [25]: (kosong) → 119.2
+~ Filter Press!J30 "Filter Press 02" [26]: 26 → 25
+~ Filter Press!L30 [26]: Night → Day
+~ Filter Press!J31 "Filter Press 02" [27]: 27 → 26
+~ Filter Press!L31 [27]: Day → Night
+~ Filter Press!J32 "Filter Press 02" [28]: 28 → 27
+~ Filter Press!L32 [28]: Night → Day
+~ Filter Press!J33 "Filter Press 02" [29]: 29 → 28
+~ Filter Press!L33 [29]: Day → Night
+~ Filter Press!J34 "Filter Press 02" [30]: 30 → 29
+~ Filter Press!L34 [30]: Night → Day
+~ Filter Press!J35 "Filter Press 02" [31]: 31 → 30
+~ Filter Press!L35 [31]: Day → Night
+~ Filter Press!J36 "Filter Press 02" [32]: 32 → 31
+~ Filter Press!L36 [32]: Night → Day
+~ Filter Press!J37 "Filter Press 02" [33]: 33 → 32
+~ Filter Press!L37 [33]: Day → Night
+~ Filter Press!J38 "Filter Press 02" [34]: 34 → 33
+~ Filter Press!L38 [34]: Night → Day
+~ Filter Press!J39 "Filter Press 02" [35]: 35 → 34
+~ Filter Press!L39 [35]: Day → Night
+~ Filter Press!J40 "Filter Press 02" [36]: 36 → 35
+~ Filter Press!L40 [36]: Night → Day
+~ Filter Press!J41 "Filter Press 02" [37]: 37 → 36
+~ Filter Press!L41 [37]: Day → Night
+~ Filter Press!J42 "Filter Press 02" [38]: 38 → 37
+~ Filter Press!L42 [38]: Night → Day
+~ Filter Press!J43 "Filter Press 02" [39]: 39 → 38
+~ Filter Press!L43 [39]: Day → Night
+~ Filter Press!J44 "Filter Press 02" [40]: 40 → 39
+~ Filter Press!L44 [40]: Night → Day
+~ Filter Press!J45 "Filter Press 02" [41]: 41 → 40
+- ...dan 219 perubahan lain tidak ditampilkan
+_Dibandingkan 11510 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 15:13 · Production Report June 2026_DYAN New.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~41 sel; Crushing: +1 baris, ~110 sel; Daily Summary : ~17 sel; Fuel Consumption: ~1 sel; LT Ball Mill: +3 baris; LT Floculation: +5 baris, ~1 sel; Milling Down Time Hours: +2 baris, ~27 sel; Milling and Leach Feed: +1 baris, ~44 sel; Milling and Leach Feed_OLD: ~7 sel; Reagent Consumption: ~4 sel; Rom File Inventory: +7 baris, ~5 sel
 + Au Cal Leaching Tank baris 16 [7] ditambahkan: AV·Lab AAS Loaded Carbon=421.729039, AW=177.622913, AX=564.369751
