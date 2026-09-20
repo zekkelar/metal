@@ -5,6 +5,17 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Sep 2026 · 19:10 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
+Ringkasan: Barang Masuk: +2 baris; Stock Barang: ~4 sel
+- Sheet "Sheet4" dihapus
++ Barang Masuk baris 6 [2] ditambahkan: C·Tanggal=20-09-2026 00:00, D·Kode Barang=HCL, E·Nama Barang=HCL, F·Jumlah Barang Masuk (kg)=375
++ Barang Masuk baris 7 [3] ditambahkan: C·Tanggal=20-09-2026 00:00, D·Kode Barang=NaOH, E·Nama Barang=Kaustik, F·Jumlah Barang Masuk (kg)=250
+~ Stock Barang!E8 "Barang Masuk" [NaOH]: 0 → 250
+~ Stock Barang!G8 "Stock Akhir" [NaOH]: 400 → 650
+~ Stock Barang!E10 "Barang Masuk" [HCL]: 0 → 375
+~ Stock Barang!G10 "Stock Akhir" [HCL]: 125 → 500
+_Dibandingkan 906 sel dari 4 sheet._
+
 ## 20 Sep 2026 · 19:06 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : +7 baris, ~218 sel, -14 baris
 - Daily Summary  baris 7 [01-06-2026 00:00] dikosongkan: U=#DIV/0!
