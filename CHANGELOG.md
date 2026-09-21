@@ -5,6 +5,124 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Sep 2026 · 09:25 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~7 sel, -1 baris; Daily Summary : ~42 sel; Fuel Consumption: +19 baris, ~6 sel; Milling Down Time Hours: +7 baris, ~20 sel; Milling and Leach Feed: +1 baris, ~7 sel; Milling and Leach Feed_OLD: ~2 sel
++ Au Cal Leaching Tank baris 17 [8] ditambahkan: O·%solid sisa pada tanki=0.35, P·sg slurry=1.225, R·Solid on Tank,=46.240687
++ Au Cal Leaching Tank baris 18 [9] ditambahkan: G·Date Finish=21-09-2026 00:00, H·Time Finish=08:00:00
+- Au Cal Leaching Tank baris 65 dikosongkan: AZ·Estimasi Metal Content R=3270941634.864
+~ Au Cal Leaching Tank!J67 "%solid": 148.116667 → 172.116667
+~ Au Cal Leaching Tank!R67 "Solid on Tank,": 14.410417 → 15.410417
+~ Au Cal Leaching Tank!J71 "%solid": 148.116667 → 172.116667
+~ Au Cal Leaching Tank!J72 "%solid": 345.85 → 369.85
+~ Au Cal Leaching Tank!J73 "%solid": 0.571731 → 0.534631
+~ Au Cal Leaching Tank!J76 "%solid": 14.410417 → 15.410417
+~ Au Cal Leaching Tank!J77 "%solid": 0.428269 → 0.465369
+~ Daily Summary !AA21 [28-08-2026 00:00]: 26237 → 1798
+~ Daily Summary !AG21 [28-08-2026 00:00]: 26237 → 1798
+~ Daily Summary !AA22 [29-08-2026 00:00]: 0 → 1841
+~ Daily Summary !AG22 [29-08-2026 00:00]: 0 → 1841
+~ Daily Summary !AA23 [30-08-2026 00:00]: 0 → 2492
+~ Daily Summary !AG23 [30-08-2026 00:00]: 0 → 2492
+~ Daily Summary !AA24 [31-08-2026 00:00]: 0 → 864
+~ Daily Summary !AG24 [31-08-2026 00:00]: 0 → 864
+~ Daily Summary !AA25 [01-09-2026 00:00]: 0 → 837
+~ Daily Summary !AG25 [01-09-2026 00:00]: 0 → 837
+~ Daily Summary !AA26 [02-09-2026 00:00]: 0 → 810
+~ Daily Summary !AG26 [02-09-2026 00:00]: 0 → 810
+~ Daily Summary !AA27 [03-09-2026 00:00]: 0 → 1841
+~ Daily Summary !AG27 [03-09-2026 00:00]: 0 → 1841
+~ Daily Summary !AA28 [04-09-2026 00:00]: 0 → 1784
+~ Daily Summary !AG28 [04-09-2026 00:00]: 0 → 1784
+~ Daily Summary !AA29 [05-09-2026 00:00]: 0 → 2237
+~ Daily Summary !AG29 [05-09-2026 00:00]: 0 → 2237
+~ Daily Summary !AA30 [06-09-2026 00:00]: 0 → 1203
+~ Daily Summary !AG30 [06-09-2026 00:00]: 0 → 1203
+~ Daily Summary !AA31 [07-09-2026 00:00]: 0 → 2655
+~ Daily Summary !AG31 [07-09-2026 00:00]: 0 → 2655
+~ Daily Summary !AA32 [08-09-2026 00:00]: 0 → 1557
+~ Daily Summary !AG32 [08-09-2026 00:00]: 0 → 1557
+~ Daily Summary !AA33 [09-09-2026 00:00]: 0 → 1278
+~ Daily Summary !AG33 [09-09-2026 00:00]: 0 → 1278
+~ Daily Summary !AA34 [10-09-2026 00:00]: 0 → 1099
+~ Daily Summary !AG34 [10-09-2026 00:00]: 0 → 1099
+~ Daily Summary !AA35 [11-09-2026 00:00]: 0 → 1988
+~ Daily Summary !AG35 [11-09-2026 00:00]: 0 → 1988
+~ Daily Summary !AA36 [12-09-2026 00:00]: 0 → 1588
+~ Daily Summary !AG36 [12-09-2026 00:00]: 0 → 1588
+~ Daily Summary !AA37 [13-09-2026 00:00]: 0 → 2109
+~ Daily Summary !AG37 [13-09-2026 00:00]: 0 → 2109
+~ Daily Summary !AA38 [14-09-2026 00:00]: 0 → 2436
+~ Daily Summary !AG38 [14-09-2026 00:00]: 0 → 2436
+~ Daily Summary !AA39 [15-09-2026 00:00]: 0 → 2232
+~ Daily Summary !AG39 [15-09-2026 00:00]: 0 → 2232
+~ Daily Summary !AA40 [16-09-2026 00:00]: 0 → 1968
+~ Daily Summary !AG40 [16-09-2026 00:00]: 0 → 1968
+~ Daily Summary !AG56 [Total]: 31450 → 33194
+~ Daily Summary !AA57 [Average]: 1073.448276 → 1060.862069
+~ Fuel Consumption!C18 "Date" [15]: 19-09-2026 00:00 → 01-09-2026 00:00
+~ Fuel Consumption!D18 "Diesel Consumption (L)" [15]: 26237 → 1798
+~ Fuel Consumption!E18 [15]: Sementara nanti final dari scm update → (kosong)
++ Fuel Consumption baris 19 [16] ditambahkan: C·Date=02-09-2026 00:00, D·Diesel Consumption (L)=1841
++ Fuel Consumption baris 20 [17] ditambahkan: C·Date=03-09-2026 00:00, D·Diesel Consumption (L)=2492
++ Fuel Consumption baris 21 [18] ditambahkan: C·Date=04-09-2026 00:00, D·Diesel Consumption (L)=864
++ Fuel Consumption baris 22 [19] ditambahkan: C·Date=05-09-2026 00:00, D·Diesel Consumption (L)=837
++ Fuel Consumption baris 23 [20] ditambahkan: C·Date=06-09-2026 00:00, D·Diesel Consumption (L)=810
++ Fuel Consumption baris 24 [21] ditambahkan: C·Date=07-09-2026 00:00, D·Diesel Consumption (L)=1841
++ Fuel Consumption baris 25 [22] ditambahkan: C·Date=08-09-2026 00:00, D·Diesel Consumption (L)=1784
++ Fuel Consumption baris 26 [23] ditambahkan: C·Date=09-09-2026 00:00, D·Diesel Consumption (L)=2237
++ Fuel Consumption baris 27 [24] ditambahkan: C·Date=10-09-2026 00:00, D·Diesel Consumption (L)=1203
++ Fuel Consumption baris 28 [25] ditambahkan: C·Date=11-09-2026 00:00, D·Diesel Consumption (L)=2655
++ Fuel Consumption baris 29 [26] ditambahkan: C·Date=12-09-2026 00:00, D·Diesel Consumption (L)=1557
++ Fuel Consumption baris 30 [27] ditambahkan: C·Date=13-09-2026 00:00, D·Diesel Consumption (L)=1278
++ Fuel Consumption baris 31 [28] ditambahkan: C·Date=14-09-2026 00:00, D·Diesel Consumption (L)=1099
++ Fuel Consumption baris 32 [29] ditambahkan: C·Date=15-09-2026 00:00, D·Diesel Consumption (L)=1988
++ Fuel Consumption baris 33 [30] ditambahkan: C·Date=16-09-2026 00:00, D·Diesel Consumption (L)=1588
++ Fuel Consumption baris 34 [31] ditambahkan: C·Date=17-09-2026 00:00, D·Diesel Consumption (L)=2109
++ Fuel Consumption baris 35 [32] ditambahkan: C·Date=18-09-2026 00:00, D·Diesel Consumption (L)=2436
++ Fuel Consumption baris 36 [33] ditambahkan: C·Date=19-09-2026 00:00, D·Diesel Consumption (L)=2232
++ Fuel Consumption baris 37 [34] ditambahkan: C·Date=20-09-2026 00:00, D·Diesel Consumption (L)=1968
+~ Fuel Consumption!D58 "Diesel Consumption (L)" [Total]: 31450 → 39830
+~ Fuel Consumption!D59 "Diesel Consumption (L)" [Total Price]: 739075000 → 936005000
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 11.001054 → 13.932336
+~ Milling Down Time Hours!AI6 [31-08-2026 00:00]: 148.116667 → 172.116667
+~ Milling Down Time Hours!AJ6 [31-08-2026 00:00]: 0.691424 → 0.658499
+~ Milling Down Time Hours!P25 "Total Down Time (Mins)" [10-09-2026 00:00]: (kosong) → 1440
+~ Milling Down Time Hours!Q25 "Running Time (Hr)" [10-09-2026 00:00]: (kosong) → 0
+~ Milling Down Time Hours!S25 "Downtime (hr)" [10-09-2026 00:00]: 0 → 24
+~ Milling Down Time Hours!T25 "Reason" [10-09-2026 00:00]: (kosong) → Perbaikan Tank Floculation
++ Milling Down Time Hours baris 45 [20-09-2026 00:00] ditambahkan: L·Availibility Per Day=0
+~ Milling Down Time Hours!D46 "PIC" [20-09-2026 00:00]: (kosong) → Yanli
+~ Milling Down Time Hours!E46 "Stop Time" [20-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F46 "Start Time" [20-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G46 "Down Time (Mins)" [20-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!H46 "Reason" [20-09-2026 00:00]: (kosong) → Perbaikan tanki Floculation
+~ Milling Down Time Hours!J46 "Running Time Hour/Shift" [20-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K46 "Availibility per Shift" [20-09-2026 00:00]: 1 → 0
++ Milling Down Time Hours baris 47 [21-09-2026 00:00] ditambahkan: L·Availibility Per Day=1
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 8887 → 10327
+~ Milling Down Time Hours!R59 "Availbility (%)" [27-09-2026 00:00]: 0.691424 → 0.658499
+~ Milling Down Time Hours!S59 "Downtime (hr)" [27-09-2026 00:00]: 148.116667 → 172.116667
+~ Milling Down Time Hours!P60 "Total Down Time (Mins)" [27-09-2026 00:00]: 148.116667 → 172.116667
+~ Milling Down Time Hours!R60 "Availbility (%)" [27-09-2026 00:00]: 20 → 21
+~ Milling Down Time Hours!S60 "Downtime (hr)" [27-09-2026 00:00]: 6.171528 → 7.171528
+~ Milling Down Time Hours!M61 [28-09-2026 00:00]: 20 → 21
++ Milling Down Time Hours baris 62 [28-09-2026 00:00] ditambahkan: S·Downtime (hr)=6.3
++ Milling Down Time Hours baris 63 [29-09-2026 00:00] ditambahkan: S·Downtime (hr)=5.04
++ Milling Down Time Hours baris 64 [29-09-2026 00:00] ditambahkan: S·Downtime (hr)=4.2336
++ Milling Down Time Hours baris 65 [30-09-2026 00:00] ditambahkan: S·Downtime (hr)=10160640
++ Milling Down Time Hours baris 66 [30-09-2026 00:00] ditambahkan: S·Downtime (hr)=243855360
+~ Milling and Leach Feed!AI6: 1270 → 1225
+~ Milling and Leach Feed!AI8: 1.27 → 1.225
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.40587 → 0.350649
+~ Milling and Leach Feed!AI12: 515.454545 → 429.545455
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 754.545455 → 795.454545
+~ Milling and Leach Feed!M46 [20-09-2026 00:00]: 0 → -46.240687
++ Milling and Leach Feed baris 47 ditambahkan: D=Yanli, E=Trouble pada tanki floculant
+~ Milling and Leach Feed!M99 [Average]: 2858.892419 → 2812.651732
+~ Milling and Leach Feed_OLD!R43: 0 → 1440
+~ Milling and Leach Feed_OLD!P55: 20 → 21
+_Dibandingkan 11583 sel dari 18 sheet._
+
 ## 20 Sep 2026 · 19:10 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
 Ringkasan: Barang Masuk: +2 baris; Stock Barang: ~4 sel
 - Sheet "Sheet4" dihapus
