@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Sep 2026 · 21:57 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: -2 baris; Crushing: ~1 sel; Filter Press: +1 baris, ~20 sel; Milling Down Time Hours: ~6 sel; Milling and Leach Feed: ~33 sel; Rom File Inventory: ~991 sel, -2 baris; Tailing Check : +19 baris, ~1 sel
+- Au Cal Leaching Tank baris 63 dikosongkan: L·Solid (Ton)=2385.753563
+- Au Cal Leaching Tank baris 64 dikosongkan: L·Solid (Ton)=2296.44837
+~ Crushing!B4 "Date" [Crushing Production]: Data Crushing February 2025 → Crushing Production
+~ Filter Press!O7 [3]: 0.19 → 0.2
+~ Filter Press!P7 [3]: 97.2 → 96
+~ Filter Press!G9 [5]: 0.19 → 0.18
+~ Filter Press!H9 [5]: 19.44 → 19.68
+~ Filter Press!G10 [6]: 0.2 → 0.19
+~ Filter Press!H10 [6]: 57.6 → 58.32
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 2337.24 → 2447.04
+~ Filter Press!G12 [8]: 0.2 → 0.18
+~ Filter Press!H12 [8]: 14.4 → 14.76
+~ Filter Press!O17 [6]: 0.2 → 0.21
+~ Filter Press!P17 [6]: 96 → 94.8
+~ Filter Press!G18 [14]: 0.19 → 0.21
+~ Filter Press!H18 [14]: 43.74 → 42.66
+~ Filter Press!O18 [14]: 0.2 → 0.21
+~ Filter Press!P18 [14]: 67.2 → 66.36
+~ Filter Press!G20 [16]: 0.19 → 0.2
+~ Filter Press!O25 [9]: 0.18 → 0.2
+~ Filter Press!P25 [9]: 98.4 → 96
+~ Filter Press!O26 [22]: 0.19 → 0.23
+~ Filter Press!P26 [22]: 97.2 → 92.4
++ Filter Press baris 32 [10] ditambahkan: K=21-09-2026 00:00, M=10, N=120, P=120
+~ Milling Down Time Hours!F47 "Start Time" [21-09-2026 00:00]: 09:01:00 → 09:36:00
+~ Milling Down Time Hours!G47 "Down Time (Mins)" [21-09-2026 00:00]: 540 → 575
+~ Milling Down Time Hours!H47 "Reason" [21-09-2026 00:00]: Perbaikan tanki Floculation → Perbaikan tanki Floculation, Ada kebo...
+~ Milling Down Time Hours!J47 "Running Time Hour/Shift" [21-09-2026 00:00]: 3 → 2.416667
+~ Milling Down Time Hours!K47 "Availibility per Shift" [21-09-2026 00:00]: 0.25 → 0.201389
+~ Milling Down Time Hours!L47 "Availibility Per Day" [21-09-2026 00:00]: 0.625 → 0.600694
+~ Milling and Leach Feed!AI6: 1225 → 1190
+~ Milling and Leach Feed!AI8: 1.225 → 1.19
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.350649 → 0.304813
+~ Milling and Leach Feed!AI12: 429.545455 → 362.727273
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 795.454545 → 827.272727
+~ Milling and Leach Feed!A46 [10]: (kosong) → 10
+~ Milling and Leach Feed!H46 "Milling And Leach Feed M" [10]: -107.85 → (kosong)
+~ Milling and Leach Feed!I46 [10]: #DIV/0! → (kosong)
+~ Milling and Leach Feed!L46 [10]: 0.75 → (kosong)
+~ Milling and Leach Feed!M46 [10]: -46.240687 → (kosong)
+~ Milling and Leach Feed!Z46 [10]: (kosong) → 0
+~ Milling and Leach Feed!M47: 0 → (kosong)
+~ Milling and Leach Feed!Z47: (kosong) → 0
+~ Milling and Leach Feed!E48 [21-09-2026 00:00]: Start Ball Mill Batch 10 tank 3, Jam ... → Start Ball Mill Batch 10 tank 3, Jam ...
+~ Milling and Leach Feed!G48 [21-09-2026 00:00]: (kosong) → 0.3
+~ Milling and Leach Feed!H48 "Milling And Leach Feed M" [21-09-2026 00:00]: (kosong) → 62.911835
+~ Milling and Leach Feed!I48 [21-09-2026 00:00]: (kosong) → 26.032483
+~ Milling and Leach Feed!J48 [21-09-2026 00:00]: (kosong) → 170.761835
+~ Milling and Leach Feed!K48 [21-09-2026 00:00]: (kosong) → 1.19
+~ Milling and Leach Feed!L48 [21-09-2026 00:00]: (kosong) → 0.72
+~ Milling and Leach Feed!M48 [21-09-2026 00:00]: 0 → 14.721288
+~ Milling and Leach Feed!N48 [21-09-2026 00:00]: (kosong) → 14.721288
+~ Milling and Leach Feed!O48 [21-09-2026 00:00]: 0 → 6.091567
+~ Milling and Leach Feed!P48 [21-09-2026 00:00]: 3 → 2.416667
+~ Milling and Leach Feed!Q48 [21-09-2026 00:00]: 180 → 145
+~ Milling and Leach Feed!R48 [21-09-2026 00:00]: 540 → 575
+~ Milling and Leach Feed!Z48 [21-09-2026 00:00]: (kosong) → 1.9
+~ Milling and Leach Feed!L99 [Average]: 0.732424 → 0.731515
+~ Milling and Leach Feed!M99 [Average]: 2812.651732 → 2873.613707
+~ Milling and Leach Feed!P99 [Average]: 338.75 → 338.166667
+~ Milling and Leach Feed!Q99 [Average]: 20325 → 20290
+~ Milling and Leach Feed!R99 [Average]: 9975 → 10010
+~ Milling and Leach Feed!AA101: 3.2 → 0
+~ Rom File Inventory!B2 "No" [Stock ROM CIL APRIL-Sept]: Stock ROM CIL APRIL-Agustus 2026 → Stock ROM CIL APRIL-September 2026
+~ Rom File Inventory!Z9 [2]: 0.778147 → 0.773007
+~ Rom File Inventory!Z10 [3]: 0.6075 → 0.604
+~ Rom File Inventory!Z13 [6]: 0.061577 → 0.061367
+~ Rom File Inventory!Z14 [7]: 0.170647 → 0.169007
+~ Rom File Inventory!Z15 [8]: 0.602627 → 0.603318
+~ Rom File Inventory!B28 "No" [Average]: 31 → Average
+~ Rom File Inventory!C28 "Date" [Average]: 13-09-2026 00:00 → (kosong)
+~ Rom File Inventory!I28 "Bulk Density" [Average]: (kosong) → 1.351053
+~ Rom File Inventory!J28 "Tonage by survey (WMT)" [Average]: 0 → (kosong)
+~ Rom File Inventory!L28 "Grade (g/t)" [Average]: (kosong) → 1.8268
+~ Rom File Inventory!M28 "Metal Content (gr)" [Average]: 0 → 7410.22805
+~ Rom File Inventory!Q28 "Assay Lab Result" [Average]: 30 → 32
+~ Rom File Inventory!R28 [Average]: Crusher DS 8 → Crusher DS 10
+~ Rom File Inventory!T28 [Average]: 1.552 → 1.235
+~ Rom File Inventory!AD28 [Average]: 38 → 40
+~ Rom File Inventory!AE28 [Average]: 0.454 → 0.458
+~ Rom File Inventory!B29 "No" [Total]: 32 → Total
+~ Rom File Inventory!C29 "Date" [Total]: 14-09-2026 00:00 → (kosong)
+~ Rom File Inventory!G29 "Truckcount (m3)" [Total]: (kosong) → 1420
+~ Rom File Inventory!H29 "Survey (m3)" [Total]: (kosong) → 4277
+~ Rom File Inventory!J29 "Tonage by survey (WMT)" [Total]: 0 → 5659.53
+~ Rom File Inventory!K29 "Toange By Truckcount" [Total]: (kosong) → 1939.6
+~ Rom File Inventory!L29 "Grade (g/t)" [Total]: (kosong) → 1.11
+~ Rom File Inventory!M29 "Metal Content (gr)" [Total]: 0 → 6282.0783
+~ Rom File Inventory!Q29 "Assay Lab Result" [Total]: 31 → 33
+~ Rom File Inventory!R29 [Total]: Crusher DS 9 → SR_1 Composite
+~ Rom File Inventory!S29 [Total]: 03-06-2026 00:00 → 17-08-2026 00:00
+~ Rom File Inventory!T29 [Total]: 0.765 → 1.035
+~ Rom File Inventory!AD29 [Total]: 39 → 41
+~ Rom File Inventory!AE29 [Total]: 0.455 → 0.488
+~ Rom File Inventory!AG29 [Total]: Untuk Grafik Line → 1
+~ Rom File Inventory!AH29 [Total]: (kosong) → 0.81
+~ Rom File Inventory!AJ29 [Total]: (kosong) → 1
+~ Rom File Inventory!AK29 [Total]: (kosong) → 1.6
+~ Rom File Inventory!B30 "No" [Average]: Average → (kosong)
+~ Rom File Inventory!I30 "Bulk Density" [Average]: 1.351053 → (kosong)
+~ Rom File Inventory!L30 "Grade (g/t)" [Average]: 1.8268 → (kosong)
+~ Rom File Inventory!M30 "Metal Content (gr)" [Average]: 7410.22805 → (kosong)
+~ Rom File Inventory!Q30 "Assay Lab Result" [Average]: 32 → 34
+~ Rom File Inventory!R30 [Average]: Crusher DS 10 → SR_1 Rock
+~ Rom File Inventory!S30 [Average]: 03-06-2026 00:00 → 17-08-2026 00:00
+~ Rom File Inventory!T30 [Average]: 1.235 → 0.526
+~ Rom File Inventory!AD30 [Average]: 40 → 42
+~ Rom File Inventory!AE30 [Average]: 0.458 → 0.489
+~ Rom File Inventory!AG30 [Average]: (kosong) → 2
+~ Rom File Inventory!AH30 [Average]: (kosong) → 0.81
+~ Rom File Inventory!AJ30 [Average]: (kosong) → 2
+~ Rom File Inventory!AK30 [Average]: (kosong) → 1.6
+~ Rom File Inventory!B31 "No" [Total]: Total → (kosong)
+~ Rom File Inventory!G31 "Truckcount (m3)" [Total]: 1420 → (kosong)
+~ Rom File Inventory!H31 "Survey (m3)" [Total]: 4277 → (kosong)
+~ Rom File Inventory!J31 "Tonage by survey (WMT)" [Total]: 5659.53 → (kosong)
+~ Rom File Inventory!K31 "Toange By Truckcount" [Total]: 1939.6 → (kosong)
+~ Rom File Inventory!L31 "Grade (g/t)" [Total]: 1.11 → Estimate by metal contenct
+~ Rom File Inventory!M31 "Metal Content (gr)" [Total]: 6282.0783 → 1.309336
+~ Rom File Inventory!Q31 "Assay Lab Result" [Total]: 33 → 35
+~ Rom File Inventory!R31 [Total]: SR_1 Composite → SR_1 Sandly
+~ Rom File Inventory!T31 [Total]: 1.035 → 0.816
+~ Rom File Inventory!AD31 [Total]: 41 → 43
+~ Rom File Inventory!AE31 [Total]: 0.488 → 0.501
+~ Rom File Inventory!AG31 [Total]: 1 → 3
+~ Rom File Inventory!AJ31 [Total]: 1 → 3
+~ Rom File Inventory!Q32 "Assay Lab Result": 34 → 36
+~ Rom File Inventory!R32: SR_1 Rock → SR_2 Composite
+~ Rom File Inventory!T32: 0.526 → 0.344
+~ Rom File Inventory!AD32: 42 → 44
+~ Rom File Inventory!AE32: 0.489 → 0.502
+~ Rom File Inventory!AG32: 2 → 4
+~ Rom File Inventory!AJ32: 2 → 4
+~ Rom File Inventory!L33 "Grade (g/t)": Estimate by metal contenct → (kosong)
+~ Rom File Inventory!M33 "Metal Content (gr)": 1.309336 → (kosong)
+~ Rom File Inventory!Q33 "Assay Lab Result": 35 → 37
+~ Rom File Inventory!R33: SR_1 Sandly → SR_2 Rock
+~ Rom File Inventory!T33: 0.816 → 0.304
+~ Rom File Inventory!AD33: 43 → 45
+~ Rom File Inventory!AE33: 0.501 → 0.506
+~ Rom File Inventory!AG33: 3 → 5
+~ Rom File Inventory!AJ33: 3 → 5
+~ Rom File Inventory!Q34 "Assay Lab Result": 36 → 38
+~ Rom File Inventory!R34: SR_2 Composite → SR_2 Sandly
+~ Rom File Inventory!T34: 0.344 → 0.744
+~ Rom File Inventory!AD34: 44 → 46
+~ Rom File Inventory!AE34: 0.502 → 0.526
+~ Rom File Inventory!AG34: 4 → 6
+~ Rom File Inventory!AJ34: 4 → 6
+~ Rom File Inventory!B35 "No" [Pengukuran pada sr setel]: (kosong) → Pengukuran pada sr setelah crusher
+~ Rom File Inventory!C35 "Date" [Pengukuran pada sr setel]: (kosong) → 11-08-2026 00:00
+~ Rom File Inventory!D35 "Sampel ID" [Pengukuran pada sr setel]: (kosong) → Total Material after Crusher
+~ Rom File Inventory!E35 "Ore Stacking (Dome)" [Pengukuran pada sr setel]: (kosong) → SR Agustus 2026
+~ Rom File Inventory!H35 "Survey (m3)" [Pengukuran pada sr setel]: (kosong) → 271
+~ Rom File Inventory!I35 "Bulk Density" [Pengukuran pada sr setel]: (kosong) → 1.35
+~ Rom File Inventory!J35 "Tonage by survey (WMT)" [Pengukuran pada sr setel]: (kosong) → 365.85
+~ Rom File Inventory!Q35 "Assay Lab Result" [Pengukuran pada sr setel]: 37 → 39
+~ Rom File Inventory!R35 [Pengukuran pada sr setel]: SR_2 Rock → SR_3 Composite
+~ Rom File Inventory!T35 [Pengukuran pada sr setel]: 0.304 → 0.563
+~ Rom File Inventory!AD35 [Pengukuran pada sr setel]: 45 → 47
+~ Rom File Inventory!AE35 [Pengukuran pada sr setel]: 0.506 → 0.538
+~ Rom File Inventory!AG35 [Pengukuran pada sr setel]: 5 → 7
+~ Rom File Inventory!AJ35 [Pengukuran pada sr setel]: 5 → 7
+~ Rom File Inventory!Q36 "Assay Lab Result": 38 → 40
+~ Rom File Inventory!R36: SR_2 Sandly → SR_3 Rock
+~ Rom File Inventory!T36: 0.744 → 0.438
+~ Rom File Inventory!AD36: 46 → 48
+~ Rom File Inventory!AE36: 0.526 → 0.546
+~ Rom File Inventory!AG36: 6 → 8
+~ Rom File Inventory!AJ36: 6 → 8
+~ Rom File Inventory!B37 "No" [Pengukuran pada sr setel]: Pengukuran pada sr setelah crusher → (kosong)
+~ Rom File Inventory!C37 "Date" [Pengukuran pada sr setel]: 11-08-2026 00:00 → (kosong)
+~ Rom File Inventory!D37 "Sampel ID" [Pengukuran pada sr setel]: Total Material after Crusher → (kosong)
+~ Rom File Inventory!E37 "Ore Stacking (Dome)" [Pengukuran pada sr setel]: SR Agustus 2026 → (kosong)
+~ Rom File Inventory!H37 "Survey (m3)" [Pengukuran pada sr setel]: 271 → (kosong)
+~ Rom File Inventory!I37 "Bulk Density" [Pengukuran pada sr setel]: 1.35 → (kosong)
+~ Rom File Inventory!J37 "Tonage by survey (WMT)" [Pengukuran pada sr setel]: 365.85 → (kosong)
+~ Rom File Inventory!Q37 "Assay Lab Result" [Pengukuran pada sr setel]: 39 → 41
+~ Rom File Inventory!R37 [Pengukuran pada sr setel]: SR_3 Composite → SR_3 Sandly
+~ Rom File Inventory!T37 [Pengukuran pada sr setel]: 0.563 → 0.458
+~ Rom File Inventory!AD37 [Pengukuran pada sr setel]: 47 → 49
+~ Rom File Inventory!AE37 [Pengukuran pada sr setel]: 0.538 → 0.555
+~ Rom File Inventory!AG37 [Pengukuran pada sr setel]: 7 → 9
+~ Rom File Inventory!AJ37 [Pengukuran pada sr setel]: 7 → 9
+~ Rom File Inventory!G38 "Truckcount (m3)": (kosong) → 41
+~ Rom File Inventory!Q38 "Assay Lab Result": 40 → 42
+~ Rom File Inventory!R38: SR_3 Rock → Crusher 16:30
+~ Rom File Inventory!S38: 17-08-2026 00:00 → 18-08-2026 00:00
+~ Rom File Inventory!T38: 0.438 → 0.558
+~ Rom File Inventory!AD38: 48 → 50
+~ Rom File Inventory!AE38: 0.546 → 0.556
+~ Rom File Inventory!AG38: 8 → 10
+~ Rom File Inventory!AJ38: 8 → 10
+~ Rom File Inventory!G39 "Truckcount (m3)": (kosong) → 16
+~ Rom File Inventory!Q39 "Assay Lab Result": 41 → 43
+~ Rom File Inventory!R39: SR_3 Sandly → Crusher 17:00
+~ Rom File Inventory!S39: 17-08-2026 00:00 → 18-08-2026 00:00
+~ Rom File Inventory!T39: 0.458 → 0.501
+~ Rom File Inventory!AD39: 49 → 51
+~ Rom File Inventory!AE39: 0.555 → 0.558
+- ...dan 890 perubahan lain tidak ditampilkan
+_Dibandingkan 11751 sel dari 18 sheet._
+
 ## 21 Sep 2026 · 16:57 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~20 sel; Crushing: +1 baris, ~115 sel; Daily Summary : ~18 sel; Filter Press: +105 baris, ~61 sel; LT Ball Mill: +4 baris; LT Floculation: +12 baris, ~3 sel; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: +2 baris, ~15 sel; Rom File Inventory: ~1281 sel, -10 baris
 ~ Au Cal Leaching Tank!AV7 "Estimasi Lab AAS Loaded ": Lab AAS Loaded Carbon → Estimasi Lab AAS Loaded Carbon
