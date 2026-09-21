@@ -5,6 +5,53 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Sep 2026 · 11:05 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: ~13 sel; Daily Summary : ~16 sel; Rom File Inventory: ~14 sel
+~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 387.068 → 347.5342
+~ Crushing!H79 "Moisture %": 0.1 → 0.092
+~ Crushing!J79 "SG Bulk Density (ton/m3)": 2.3 → 1.3
+~ Crushing!K79 "WMT/SHIFT (wet metrix to": 64.4 → 36.4
+~ Crushing!L79 "DMT/SHIFT (dry metrix to": 57.96 → 33.0512
+~ Crushing!M79 "Ton/hour (tph)": 5.366667 → 3.033333
+~ Crushing!H80 "Moisture %": (kosong) → 0.09
+~ Crushing!L80 "DMT/SHIFT (dry metrix to": 162.5 → 147.875
+~ Crushing!H103 "Moisture %" [Rata-rata]: 0.112083 → 0.11088
+~ Crushing!L103 "DMT/SHIFT (dry metrix to" [Rata-rata]: 131.249177 → 129.728646
+~ Crushing!M103 "Ton/hour (tph)" [Rata-rata]: 13.561493 → 13.464271
+~ Crushing!N103 "Tonage/Day (Tpd)" [Rata-rata]: 87.499451 → 86.485764
+~ Crushing!N104 "Tonage/Day (Tpd)" [Total]: 3412.4786 → 3372.9448
+~ Daily Summary !C43 "Feeding, ton" [19-09-2026 00:00]: 387.068 → 347.5342
+~ Daily Summary !D43 [19-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D44 [20-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D45 [21-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D46 [22-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D47 [23-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D48 [24-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D49 [25-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D50 [26-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D51 [27-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D52 [28-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D53 [29-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D54 [30-09-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !D55 [01-10-2026 00:00]: 3412.4786 → 3372.9448
+~ Daily Summary !C56 "Feeding, ton" [Total]: 3412.4786 → 3372.9448
+~ Daily Summary !G63: 0.605867 → 0.612969
+~ Rom File Inventory!O8 [1]: 1.116 → 1.11
+~ Rom File Inventory!O9 [2]: 1.707333 → 1.659579
+~ Rom File Inventory!F36 "Ore  Type - Lithology" [29]: (kosong) → Oxide Cell A1
+~ Rom File Inventory!H36 "Survey (m3)" [29]: (kosong) → 2291
+~ Rom File Inventory!I36 "Bulk Density" [29]: (kosong) → 1.3
+~ Rom File Inventory!J36 "Tonage by survey" [29]: 0 → 2978.3
+~ Rom File Inventory!L36 "Grade (g/t)" [29]: (kosong) → 0.8
+~ Rom File Inventory!M36 "Metal Content (gr)" [29]: 0 → 2382.64
+~ Rom File Inventory!I40 "Bulk Density" [Average]: 1.353889 → 1.351053
+~ Rom File Inventory!M40 "Metal Content (gr)" [Average]: 5027.58805 → 7410.22805
+~ Rom File Inventory!H41 "Survey (m3)" [Total]: 1986 → 4277
+~ Rom File Inventory!J41 "Tonage by survey" [Total]: 2681.23 → 5659.53
+~ Rom File Inventory!M41 "Metal Content (gr)" [Total]: 2976.1653 → 6282.0783
+~ Rom File Inventory!M43 "Metal Content (gr)": 1.875105 → 1.309336
+_Dibandingkan 11588 sel dari 18 sheet._
+
 ## 21 Sep 2026 · 09:25 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~7 sel, -1 baris; Daily Summary : ~42 sel; Fuel Consumption: +19 baris, ~6 sel; Milling Down Time Hours: +7 baris, ~20 sel; Milling and Leach Feed: +1 baris, ~7 sel; Milling and Leach Feed_OLD: ~2 sel
 + Au Cal Leaching Tank baris 17 [8] ditambahkan: O·%solid sisa pada tanki=0.35, P·sg slurry=1.225, R·Solid on Tank,=46.240687
