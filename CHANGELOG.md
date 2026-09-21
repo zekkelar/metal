@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Sep 2026 · 16:57 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~20 sel; Crushing: +1 baris, ~115 sel; Daily Summary : ~18 sel; Filter Press: +105 baris, ~61 sel; LT Ball Mill: +4 baris; LT Floculation: +12 baris, ~3 sel; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: +2 baris, ~15 sel; Rom File Inventory: ~1281 sel, -10 baris
+~ Au Cal Leaching Tank!AV7 "Estimasi Lab AAS Loaded ": Lab AAS Loaded Carbon → Estimasi Lab AAS Loaded Carbon
+~ Au Cal Leaching Tank!AC10 "Lab AAS Result Tail" [1]: 0.113 → 0.05575
+~ Au Cal Leaching Tank!AL10 "Metal Content Calculated" [1]: 33.031437 → 16.296483
+~ Au Cal Leaching Tank!AQ10 "Estimasi %Recovery Metal" [1]: 0.799745 → 0.880607
+~ Au Cal Leaching Tank!AV10 "Estimasi Lab AAS Loaded " [1]: 165.513664 → 182.248618
+~ Au Cal Leaching Tank!AZ10 "Estimasi Metal Content R" [1]: 165.513664 → 182.248618
+~ Au Cal Leaching Tank!AV12 "Estimasi Lab AAS Loaded " [3]: 428.266673 → 445.001627
+~ Au Cal Leaching Tank!AV14 "Estimasi Lab AAS Loaded " [5]: 359.315826 → 370.472462
+~ Au Cal Leaching Tank!AV16 "Estimasi Lab AAS Loaded " [7]: 421.729039 → 432.885674
+~ Au Cal Leaching Tank!AF18 [9]: (kosong) → 0.02
+~ Au Cal Leaching Tank!AO18 [9]: 0 → 15.48384
+~ Au Cal Leaching Tank!AZ18 "Estimasi Metal Content R" [9]: 0 → -15.48384
+~ Au Cal Leaching Tank!AC60 "Lab AAS Result Tail" [51]: 0.085885 → 0.078729
+~ Au Cal Leaching Tank!AF60 [51]: 0.02475 → 0.024222
+~ Au Cal Leaching Tank!AQ60 "Estimasi %Recovery Metal" [51]: 0.805324 → 0.815432
+~ Au Cal Leaching Tank!AZ61 "Estimasi Metal Content R" [52]: 1362.892348 → 1364.143461
+~ Au Cal Leaching Tank!L63 "Solid (Ton)": (kosong) → 2385.753563
+~ Au Cal Leaching Tank!AI63 "Metal Content Head Grade": 1594.117474 → 1614.125386
++ Au Cal Leaching Tank baris 64 ditambahkan: L·Solid (Ton)=2296.44837
+~ Au Cal Leaching Tank!R94 "Solid on Tank,": 0.113 → 0.05575
+~ Au Cal Leaching Tank!R101 "Solid on Tank,": 0.10015 → 0.0887
+~ Crushing!T7: 0.8 → 0.7
+~ Crushing!N76 "Tonage/Day (Tpd)" [18-09-2026 00:00]: 210.6 → 201.24
+~ Crushing!H77 "Moisture %": 0.1 → 0.14
+~ Crushing!L77 "DMT/SHIFT (dry metrix to": 210.6 → 201.24
+~ Crushing!H78 "Moisture %" [19-09-2026 00:00]: 0.1 → 0.13
+~ Crushing!I78 "Volume Bucket" [19-09-2026 00:00]: 0.8 → 0.7
+~ Crushing!K78 "WMT/SHIFT (wet metrix to" [19-09-2026 00:00]: 185.12 → 161.98
+~ Crushing!L78 "DMT/SHIFT (dry metrix to" [19-09-2026 00:00]: 166.608 → 140.9226
+~ Crushing!M78 "Ton/hour (tph)" [19-09-2026 00:00]: 15.426667 → 13.498333
+~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 347.5342 → 321.8488
+~ Crushing!E81 "PIC" [20-09-2026 00:00]: (kosong) → Toni
+~ Crushing!F81 "Bucket" [20-09-2026 00:00]: (kosong) → 50
+~ Crushing!G81 "Type" [20-09-2026 00:00]: (kosong) → Exca PC 200
+~ Crushing!H81 "Moisture %" [20-09-2026 00:00]: (kosong) → 0.1
+~ Crushing!I81 "Volume Bucket" [20-09-2026 00:00]: (kosong) → 0.7
+~ Crushing!J81 "SG Bulk Density (ton/m3)" [20-09-2026 00:00]: (kosong) → 1.3
+~ Crushing!K81 "WMT/SHIFT (wet metrix to" [20-09-2026 00:00]: (kosong) → 45.5
+~ Crushing!L81 "DMT/SHIFT (dry metrix to" [20-09-2026 00:00]: (kosong) → 40.95
+~ Crushing!M81 "Ton/hour (tph)" [20-09-2026 00:00]: (kosong) → 3.791667
+~ Crushing!N81 "Tonage/Day (Tpd)" [20-09-2026 00:00]: 0 → 209.989
+~ Crushing!O81 "Keterangan" [20-09-2026 00:00]: (kosong) → Material dari cell A1 Heap Leach Labuha
+~ Crushing!D82 "Shift": Night → Day
+~ Crushing!E82 "PIC": (kosong) → Toni
+~ Crushing!F82 "Bucket": (kosong) → 20
+~ Crushing!G82 "Type": (kosong) → Exca PC 130
+~ Crushing!H82 "Moisture %": (kosong) → 0.1
+~ Crushing!I82 "Volume Bucket": (kosong) → 0.5
+~ Crushing!J82 "SG Bulk Density (ton/m3)": (kosong) → 1.3
+~ Crushing!K82 "WMT/SHIFT (wet metrix to": (kosong) → 13
+~ Crushing!L82 "DMT/SHIFT (dry metrix to": (kosong) → 11.7
+~ Crushing!M82 "Ton/hour (tph)": (kosong) → 1.083333
+~ Crushing!B83 "Date" [21-09-2026 00:00]: 21-09-2026 00:00 → (kosong)
+~ Crushing!D83 "Shift" [21-09-2026 00:00]: Day → Night
+~ Crushing!E83 "PIC" [21-09-2026 00:00]: (kosong) → Adit
+~ Crushing!F83 "Bucket" [21-09-2026 00:00]: (kosong) → 190
+~ Crushing!G83 "Type" [21-09-2026 00:00]: (kosong) → Exca PC 200
+~ Crushing!H83 "Moisture %" [21-09-2026 00:00]: (kosong) → 0.09
+~ Crushing!I83 "Volume Bucket" [21-09-2026 00:00]: (kosong) → 0.7
+~ Crushing!J83 "SG Bulk Density (ton/m3)" [21-09-2026 00:00]: (kosong) → 1.3
+~ Crushing!K83 "WMT/SHIFT (wet metrix to" [21-09-2026 00:00]: (kosong) → 172.9
+~ Crushing!L83 "DMT/SHIFT (dry metrix to" [21-09-2026 00:00]: (kosong) → 157.339
+~ Crushing!M83 "Ton/hour (tph)" [21-09-2026 00:00]: (kosong) → 14.408333
+~ Crushing!N83 "Tonage/Day (Tpd)" [21-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B84 "Date" [21-09-2026 00:00]: (kosong) → 21-09-2026 00:00
+~ Crushing!D84 "Shift" [21-09-2026 00:00]: Night → Day
+~ Crushing!N84 "Tonage/Day (Tpd)" [21-09-2026 00:00]: (kosong) → 0
+~ Crushing!B85 "Date" [22-09-2026 00:00]: 22-09-2026 00:00 → (kosong)
+~ Crushing!D85 "Shift" [22-09-2026 00:00]: Day → Night
+~ Crushing!N85 "Tonage/Day (Tpd)" [22-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B86 "Date" [22-09-2026 00:00]: (kosong) → 22-09-2026 00:00
+~ Crushing!D86 "Shift" [22-09-2026 00:00]: Night → Day
+~ Crushing!N86 "Tonage/Day (Tpd)" [22-09-2026 00:00]: (kosong) → 0
+~ Crushing!B87 "Date" [23-09-2026 00:00]: 23-09-2026 00:00 → (kosong)
+~ Crushing!D87 "Shift" [23-09-2026 00:00]: Day → Night
+~ Crushing!N87 "Tonage/Day (Tpd)" [23-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B88 "Date" [23-09-2026 00:00]: (kosong) → 23-09-2026 00:00
+~ Crushing!D88 "Shift" [23-09-2026 00:00]: Night → Day
+~ Crushing!N88 "Tonage/Day (Tpd)" [23-09-2026 00:00]: (kosong) → 0
+~ Crushing!B89 "Date" [24-09-2026 00:00]: 24-09-2026 00:00 → (kosong)
+~ Crushing!D89 "Shift" [24-09-2026 00:00]: Day → Night
+~ Crushing!N89 "Tonage/Day (Tpd)" [24-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B90 "Date" [24-09-2026 00:00]: (kosong) → 24-09-2026 00:00
+~ Crushing!D90 "Shift" [24-09-2026 00:00]: Night → Day
+~ Crushing!N90 "Tonage/Day (Tpd)" [24-09-2026 00:00]: (kosong) → 0
+~ Crushing!B91 "Date" [25-09-2026 00:00]: 25-09-2026 00:00 → (kosong)
+~ Crushing!D91 "Shift" [25-09-2026 00:00]: Day → Night
+~ Crushing!N91 "Tonage/Day (Tpd)" [25-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B92 "Date" [25-09-2026 00:00]: (kosong) → 25-09-2026 00:00
+~ Crushing!D92 "Shift" [25-09-2026 00:00]: Night → Day
+~ Crushing!N92 "Tonage/Day (Tpd)" [25-09-2026 00:00]: (kosong) → 0
+~ Crushing!B93 "Date" [26-09-2026 00:00]: 26-09-2026 00:00 → (kosong)
+~ Crushing!D93 "Shift" [26-09-2026 00:00]: Day → Night
+~ Crushing!N93 "Tonage/Day (Tpd)" [26-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B94 "Date" [26-09-2026 00:00]: (kosong) → 26-09-2026 00:00
+~ Crushing!D94 "Shift" [26-09-2026 00:00]: Night → Day
+~ Crushing!N94 "Tonage/Day (Tpd)" [26-09-2026 00:00]: (kosong) → 0
+~ Crushing!B95 "Date" [27-09-2026 00:00]: 27-09-2026 00:00 → (kosong)
+~ Crushing!D95 "Shift" [27-09-2026 00:00]: Day → Night
+~ Crushing!N95 "Tonage/Day (Tpd)" [27-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B96 "Date" [27-09-2026 00:00]: (kosong) → 27-09-2026 00:00
+~ Crushing!D96 "Shift" [27-09-2026 00:00]: Night → Day
+~ Crushing!N96 "Tonage/Day (Tpd)" [27-09-2026 00:00]: (kosong) → 0
+~ Crushing!B97 "Date" [28-09-2026 00:00]: 28-09-2026 00:00 → (kosong)
+~ Crushing!D97 "Shift" [28-09-2026 00:00]: Day → Night
+~ Crushing!N97 "Tonage/Day (Tpd)" [28-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B98 "Date" [28-09-2026 00:00]: (kosong) → 28-09-2026 00:00
+~ Crushing!D98 "Shift" [28-09-2026 00:00]: Night → Day
+~ Crushing!N98 "Tonage/Day (Tpd)" [28-09-2026 00:00]: (kosong) → 0
+~ Crushing!B99 "Date" [29-09-2026 00:00]: 29-09-2026 00:00 → (kosong)
+~ Crushing!D99 "Shift" [29-09-2026 00:00]: Day → Night
+~ Crushing!N99 "Tonage/Day (Tpd)" [29-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B100 "Date" [29-09-2026 00:00]: (kosong) → 29-09-2026 00:00
+~ Crushing!D100 "Shift" [29-09-2026 00:00]: Night → Day
+~ Crushing!N100 "Tonage/Day (Tpd)" [29-09-2026 00:00]: (kosong) → 0
+~ Crushing!B101 "Date" [30-09-2026 00:00]: 30-09-2026 00:00 → (kosong)
+~ Crushing!D101 "Shift" [30-09-2026 00:00]: Day → Night
+~ Crushing!N101 "Tonage/Day (Tpd)" [30-09-2026 00:00]: 0 → (kosong)
+~ Crushing!B102 "Date" [30-09-2026 00:00]: (kosong) → 30-09-2026 00:00
+~ Crushing!D102 "Shift" [30-09-2026 00:00]: Night → Day
+~ Crushing!N102 "Tonage/Day (Tpd)" [30-09-2026 00:00]: (kosong) → 0
+~ Crushing!B103 "Date" [Rata-rata]: Rata-rata → (kosong)
+~ Crushing!D103 "Shift" [Rata-rata]: (kosong) → Night
+~ Crushing!F103 "Bucket" [Rata-rata]: 216.44 → (kosong)
+~ Crushing!H103 "Moisture %" [Rata-rata]: 0.11088 → (kosong)
+~ Crushing!K103 "WMT/SHIFT (wet metrix to" [Rata-rata]: 150.69119 → (kosong)
+~ Crushing!L103 "DMT/SHIFT (dry metrix to" [Rata-rata]: 129.728646 → (kosong)
+~ Crushing!M103 "Ton/hour (tph)" [Rata-rata]: 13.464271 → (kosong)
+~ Crushing!N103 "Tonage/Day (Tpd)" [Rata-rata]: 86.485764 → (kosong)
+~ Crushing!B104 "Date" [Rata-rata]: Total → Rata-rata
+~ Crushing!F104 "Bucket" [Rata-rata]: 5411 → 202.535714
+~ Crushing!H104 "Moisture %" [Rata-rata]: (kosong) → 0.111857
+~ Crushing!K104 "WMT/SHIFT (wet metrix to" [Rata-rata]: (kosong) → 150.69119
+~ Crushing!L104 "DMT/SHIFT (dry metrix to" [Rata-rata]: (kosong) → 128.380746
+~ Crushing!M104 "Ton/hour (tph)" [Rata-rata]: (kosong) → 12.611019
+~ Crushing!N104 "Tonage/Day (Tpd)" [Rata-rata]: 3372.9448 → 90.971497
++ Crushing baris 105 [Total] ditambahkan: B·Date=Total, F·Bucket=5671, N·Tonage/Day (Tpd)=3547.8884
+~ Daily Summary !C42 "Feeding, ton" [18-09-2026 00:00]: 210.6 → 201.24
+~ Daily Summary !D42 [18-09-2026 00:00]: 3025.4106 → 3016.0506
+~ Daily Summary !C43 "Feeding, ton" [19-09-2026 00:00]: 347.5342 → 321.8488
+~ Daily Summary !D43 [19-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D44 [20-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D45 [21-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D46 [22-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D47 [23-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D48 [24-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D49 [25-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D50 [26-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D51 [27-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D52 [28-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D53 [29-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D54 [30-09-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !D55 [01-10-2026 00:00]: 3372.9448 → 3337.8994
+~ Daily Summary !C56 "Feeding, ton" [Total]: 3372.9448 → 3337.8994
+~ Daily Summary !G63: 0.612969 → 0.619404
+~ Filter Press!S4: 14.9 → 12
+~ Filter Press!N5 [1]: 134.1 → 108
+~ Filter Press!P5 [1]: 107.28 → 86.4
+~ Filter Press!N6 [2]: 59.6 → 48
+~ Filter Press!P6 [2]: 47.68 → 38.4
+~ Filter Press!N7 [3]: 149 → 120
+~ Filter Press!P7 [3]: 120.69 → 97.2
+~ Filter Press!N8 [4]: 149 → 120
+~ Filter Press!P8 [4]: 119.2 → 96
+~ Filter Press!N9 [5]: 59.6 → 48
+~ Filter Press!P9 [5]: 48.872 → 39.36
+~ Filter Press!N10 [6]: 178.8 → 144
+~ Filter Press!P10 [6]: 144.828 → 116.64
+~ Filter Press!N11 [7]: 119.2 → 96
+~ Filter Press!P11 [7]: 95.36 → 76.8
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 2496.364 → 2337.24
+~ Filter Press!N12 [8]: 44.7 → 36
+~ Filter Press!P12 [8]: 36.654 → 29.52
+~ Filter Press!N13 [9]: 119.2 → 96
+~ Filter Press!P13 [9]: 96.552 → 77.76
+~ Filter Press!N14 [10]: 89.4 → 72
+~ Filter Press!P14 [10]: 72.414 → 58.32
+~ Filter Press!N15 [11]: 104.3 → 84
+~ Filter Press!P15 [11]: 84.483 → 68.04
+~ Filter Press!N16 [12]: 163.9 → 132
+~ Filter Press!P16 [12]: 134.398 → 108.24
+~ Filter Press!N17 [6]: 149 → 120
+~ Filter Press!P17 [6]: 119.2 → 96
+~ Filter Press!N18 [14]: 104.3 → 84
+~ Filter Press!O18 [14]: 0.19 → 0.2
+~ Filter Press!P18 [14]: 84.483 → 67.2
+~ Filter Press!F20 [16]: (kosong) → 0
+~ Filter Press!G20 [16]: (kosong) → 0.19
+~ Filter Press!H20 [16]: (kosong) → 0
+~ Filter Press!N20 [16]: 104.3 → 84
+~ Filter Press!O20 [16]: 0.19 → 0.2
+~ Filter Press!P20 [16]: 84.483 → 67.2
++ Filter Press baris 21 [17] ditambahkan: F=0, H=0
++ Filter Press baris 22 [18] ditambahkan: F=0, H=0
++ Filter Press baris 23 [19] ditambahkan: F=0, H=0
++ Filter Press baris 24 [20] ditambahkan: F=0, H=0
+~ Filter Press!A25 [9]: (kosong) → 9
+~ Filter Press!F25 [9]: (kosong) → 0
+~ Filter Press!H25 [9]: (kosong) → 0
+~ Filter Press!N25 [9]: 149 → 120
+- ...dan 1524 perubahan lain tidak ditampilkan
+_Dibandingkan 11734 sel dari 18 sheet._
+
 ## 21 Sep 2026 · 11:05 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Crushing: ~13 sel; Daily Summary : ~16 sel; Rom File Inventory: ~14 sel
 ~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 387.068 → 347.5342
