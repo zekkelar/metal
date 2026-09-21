@@ -5,6 +5,40 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 22 Sep 2026 · 04:15 · Production Report June 2026_DYAN New Anjim2.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +8 baris, ~22 sel
++ Milling and Leach Feed baris 41 ditambahkan: AB=135251390.13878
++ Milling and Leach Feed baris 42 [9] ditambahkan: AB=260888674.82112
++ Milling and Leach Feed baris 43 ditambahkan: AB=121251687.808
++ Milling and Leach Feed baris 44 [19-09-2026 00:00] ditambahkan: AB=145707586.66908
++ Milling and Leach Feed baris 45 ditambahkan: AB=197700203.510233
++ Milling and Leach Feed baris 46 [10] ditambahkan: AB=0
+~ Milling and Leach Feed!G47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!H47 "Milling And Leach Feed M": (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!I47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!J47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!K47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!L47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!M47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!N47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!O47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!P47: 0 → CUTI DLU KAWAN
+~ Milling and Leach Feed!Q47: 0 → CUTI DLU KAWAN
+~ Milling and Leach Feed!R47: 720 → CUTI DLU KAWAN
+~ Milling and Leach Feed!S47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!T47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!U47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!V47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!W47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!X47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!Y47: (kosong) → CUTI DLU KAWAN
+~ Milling and Leach Feed!Z47: 0 → CUTI DLU KAWAN
+~ Milling and Leach Feed!AB47: (kosong) → #VALUE!
++ Milling and Leach Feed baris 48 [21-09-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 49 ditambahkan: AB=0
+~ Milling and Leach Feed!R99 [Average]: 10040 → 9320
+_Dibandingkan 11876 sel dari 18 sheet._
+
 ## 22 Sep 2026 · 04:11 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~49 sel; Daily Summary : ~32 sel; Filter Press: ~299 sel, -4 baris; LT Ball Mill: +6 baris; LT Floculation: +7 baris, ~2 sel; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: ~19 sel; Reagent Consumption: +3 baris, ~67 sel, -1 baris; Rom File Inventory: +16 baris, ~5 sel; Tailing Check : ~8 sel
 ~ Au Cal Leaching Tank!AC17 "Lab AAS Result Tail" [8]: 0.042667 → 0.058889
