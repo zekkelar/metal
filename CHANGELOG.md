@@ -5,6 +5,163 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Sep 2026 · 16:00 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +38 baris, ~42 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: +4 baris, ~11 sel; Milling and Leach Feed: +2 baris, ~36 sel; Reagent Consumption: ~4 sel; Rom File Inventory: +4 baris, ~11 sel
+~ Au Cal Leaching Tank!M17 "Solid (Ton)" [8]: 359.291495 → 365.44973
+~ Au Cal Leaching Tank!U17 "Cumulative" [8]: 2385.753563 → 2391.911798
+~ Au Cal Leaching Tank!Y17 "Lab AAS Result (gpt)" [8]: 0.576164 → 0.574066
+~ Au Cal Leaching Tank!Z17 [8]: 0.593514 → 0.594185
+~ Au Cal Leaching Tank!AA17 [8]: 10.648088 → 10.664635
+~ Au Cal Leaching Tank!AB17 "Au Variance" [8]: 0.008669 → 0.010767
+~ Au Cal Leaching Tank!AC17 "%Different" [8]: 0.003734 → 0.004645
+~ Au Cal Leaching Tank!AJ17 "Metal Content Head Grade" [8]: 210.125643 → 213.727184
+~ Au Cal Leaching Tank!AK17 [8]: 211.383163 → 215.006258
+~ Au Cal Leaching Tank!AL17 [8]: 3728.547489 → 3792.454573
+~ Au Cal Leaching Tank!AM17 "Metal Content Calculated" [8]: 21.158277 → 21.520929
+~ Au Cal Leaching Tank!AN17 [8]: 139.325258 → 141.713284
+~ Au Cal Leaching Tank!AO17 [8]: 3664.773249 → 3727.587246
+~ Au Cal Leaching Tank!AR17 "Estimasi %Recovery Metal" [8]: 0.798947 → 0.800638
+~ Au Cal Leaching Tank!AW17 "Estimasi Lab AAS Loaded " [8]: 482.980189 → 485.139449
+~ Au Cal Leaching Tank!AX17 [8]: 231.577839 → 341.119374
+~ Au Cal Leaching Tank!AY17 [8]: 918.280262 → 1058.797414
+~ Au Cal Leaching Tank!BA17 "Estimasi Metal Content R" [8]: 167.879178 → 171.118067
+~ Au Cal Leaching Tank!BB17 [8]: 72.057905 → 73.292974
+~ Au Cal Leaching Tank!BC17 [8]: 63.77424 → 64.867327
+~ Au Cal Leaching Tank!P18 "%solid sisa pada tanki" [9]: (kosong) → 0.31
+~ Au Cal Leaching Tank!Q18 "sg slurry" [9]: (kosong) → 1.2
+~ Au Cal Leaching Tank!S18 "Solid on Tank," [9]: (kosong) → 40.1202
+~ Au Cal Leaching Tank!U18 "Cumulative" [9]: 2858.817058 → 2864.975293
+~ Au Cal Leaching Tank!AX18 [9]: (kosong) → 241.212397
+~ Au Cal Leaching Tank!AY18 [9]: (kosong) → 1030.140222
++ Au Cal Leaching Tank baris 19 [10] ditambahkan: U·Cumulative=3143.762105
++ Au Cal Leaching Tank baris 22 [13] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 23 [14] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 24 [15] ditambahkan: D·Tank CIP=2
+~ Au Cal Leaching Tank!D25 "Tank CIP" [16]: (kosong) → 3
+~ Au Cal Leaching Tank!S25 "Solid on Tank," [16]: x → (kosong)
++ Au Cal Leaching Tank baris 26 [17] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 27 [18] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 28 [19] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 29 [20] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 30 [21] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 31 [22] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 32 [23] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 33 [24] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 34 [25] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 35 [26] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 36 [27] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 37 [28] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 38 [29] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 39 [30] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 40 [31] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 41 [32] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 42 [33] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 43 [34] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 44 [35] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 45 [36] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 46 [37] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 47 [38] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 48 [39] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 49 [40] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 50 [41] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 51 [42] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 52 [43] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 53 [44] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 54 [45] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 55 [46] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 56 [47] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 57 [48] ditambahkan: D·Tank CIP=3
++ Au Cal Leaching Tank baris 58 [49] ditambahkan: D·Tank CIP=2
++ Au Cal Leaching Tank baris 59 [50] ditambahkan: D·Tank CIP=3
+~ Au Cal Leaching Tank!Y60 "Lab AAS Result (gpt)" [51]: 0.667044 → 0.666811
+~ Au Cal Leaching Tank!Z60 [51]: 0.631824 → 0.631898
+~ Au Cal Leaching Tank!AA60 [51]: 9.260503 → 9.262341
+~ Au Cal Leaching Tank!AR60 "Estimasi %Recovery Metal" [51]: 0.792781 → 0.792969
+~ Au Cal Leaching Tank!L61 "Solid (Ton)" [52]: 3137.60387 → 3143.762105
+~ Au Cal Leaching Tank!BA61 "Estimasi Metal Content R" [52]: 1556.998303 → 1560.237193
+~ Au Cal Leaching Tank!BB61 [52]: 872.26259 → 873.497658
+~ Au Cal Leaching Tank!BC61 [52]: 3132.313367 → 3133.406454
+~ Au Cal Leaching Tank!Z62: 0.593514 → 0.594185
+~ Au Cal Leaching Tank!AJ63 "Metal Content Head Grade": 1698.371152 → 1702.107923
+~ Au Cal Leaching Tank!L67 "Solid (Ton)": 15.867855 → 15.898999
+~ Au Cal Leaching Tank!N67 "Sg Slurry": 380.828521 → 381.57598
+~ Au Cal Leaching Tank!K74 "%solid": 15.867855 → 15.898999
+~ Au Cal Leaching Tank!K75 "%solid": 380.828521 → 381.57598
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 12.6944 → 12.669534
++ Milling Down Time Hours baris 31 [13-09-2026 00:00] ditambahkan: S·Downtime (hr)=0
++ Milling Down Time Hours baris 32 [13-09-2026 00:00] ditambahkan: S·Downtime (hr)=0
++ Milling Down Time Hours baris 33 [14-09-2026 00:00] ditambahkan: S·Downtime (hr)=0
++ Milling Down Time Hours baris 34 [14-09-2026 00:00] ditambahkan: S·Downtime (hr)=0
+~ Milling Down Time Hours!N62 [28-09-2026 00:00]: 13.18321 → 13.209084
+~ Milling Down Time Hours!S62 "Downtime (hr)" [28-09-2026 00:00]: 6.3 → (kosong)
+~ Milling Down Time Hours!N63 [29-09-2026 00:00]: 3084.871032 → 3090.925767
+~ Milling Down Time Hours!Q63 "Running Time (Hr)" [29-09-2026 00:00]: (kosong) → 1664.55
+~ Milling Down Time Hours!S63 "Downtime (hr)" [29-09-2026 00:00]: 5.04 → (kosong)
+~ Milling Down Time Hours!Q64 "Running Time (Hr)" [29-09-2026 00:00]: (kosong) → 1165.185
+~ Milling Down Time Hours!S64 "Downtime (hr)" [29-09-2026 00:00]: 4.2336 → (kosong)
+~ Milling Down Time Hours!Q65 "Running Time (Hr)" [30-09-2026 00:00]: (kosong) → 932.148
+~ Milling Down Time Hours!S65 "Downtime (hr)" [30-09-2026 00:00]: 10160640 → (kosong)
+~ Milling Down Time Hours!Q66 "Running Time (Hr)" [30-09-2026 00:00]: (kosong) → 2237155200
+~ Milling Down Time Hours!S66 "Downtime (hr)" [30-09-2026 00:00]: 243855360 → (kosong)
+~ Milling and Leach Feed!N5 [1]: 74.069659 → 95.90022
+~ Milling and Leach Feed!M6: 43.953156 → 65.783717
+~ Milling and Leach Feed!O6: 3.662763 → 5.481976
+~ Milling and Leach Feed!W6: 26.767472 → 40.062284
+~ Milling and Leach Feed!X6: 23.221917 → 34.75573
+~ Milling and Leach Feed!Y6: 335.069559 → 501.491202
+~ Milling and Leach Feed!AB6: 66918680.01 → 100155708.91935
+~ Milling and Leach Feed!AI6: 1230 → 1200
+~ Milling and Leach Feed!M7 [01-09-2026 00:00]: 100.696746 → 78.866186
+~ Milling and Leach Feed!N7 [01-09-2026 00:00]: 218.243941 → 196.41338
+~ Milling and Leach Feed!O7 [01-09-2026 00:00]: 8.391396 → 6.572182
+~ Milling and Leach Feed!W7 [01-09-2026 00:00]: 65.150795 → 51.026422
+~ Milling and Leach Feed!X7 [01-09-2026 00:00]: 67.903173 → 53.182098
+~ Milling and Leach Feed!Y7 [01-09-2026 00:00]: 758.582156 → 594.125264
+~ Milling and Leach Feed!AB7 [01-09-2026 00:00]: 162876987.2373 → 127566055.04625
+~ Milling and Leach Feed!AI8: 1.23 → 1.2
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.356984 → 0.318182
+~ Milling and Leach Feed!AI12: 439.090909 → 381.818182
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 790.909091 → 818.181818
++ Milling and Leach Feed baris 16 [3] ditambahkan: L=0.7
+~ Milling and Leach Feed!S25 [5]: 327.094213 → 266.9858
+~ Milling and Leach Feed!M38 [8]: 110.944695 → 117.10293
+~ Milling and Leach Feed!N38 [8]: 165.48962 → 171.647855
+~ Milling and Leach Feed!O38 [8]: 9.245391 → 9.758578
+~ Milling and Leach Feed!S38 [8]: 359.559547 → 365.717782
+~ Milling and Leach Feed!W38 [8]: 50.110021 → 52.89149
+~ Milling and Leach Feed!X38 [8]: 70.264974 → 74.165189
+~ Milling and Leach Feed!Y38 [8]: 1290.286806 → 1361.907079
+~ Milling and Leach Feed!AB38 [8]: 125275051.7085 → 132228725.396
++ Milling and Leach Feed baris 51 ditambahkan: L=0.67
+~ Milling and Leach Feed!AA98: 1188347787.252208 → 1186273883.970508
+~ Milling and Leach Feed!L99 [Average]: 0.726286 → 0.724054
+~ Milling and Leach Feed!M99 [Average]: 3137.656441 → 3143.814676
+~ Milling and Leach Feed!O99 [Average]: (kosong) → 8.811781
+~ Milling and Leach Feed!S99 [Average]: (kosong) → 3143.814676
+~ Milling and Leach Feed!W99 [Average]: 426.93209 → 426.102528
+~ Milling and Leach Feed!X99 [Average]: 424.701925 → 421.514663
+~ Milling and Leach Feed!Y99 [Average]: 5118.879409 → 5120.844159
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.322665 → 1.320074
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 1.115501 → 1.113316
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.956144 → 0.954271
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.063743 → 0.063618
+~ Rom File Inventory!O8 [1]: 1.11 → 1.116
+~ Rom File Inventory!O9 [2]: 1.659579 → 1.7266
++ Rom File Inventory baris 23 [18] ditambahkan: K·Toange By Truckcount=0
++ Rom File Inventory baris 24 [22] ditambahkan: K·Toange By Truckcount=0
++ Rom File Inventory baris 25 [28] ditambahkan: K·Toange By Truckcount=0
++ Rom File Inventory baris 26 [29] ditambahkan: K·Toange By Truckcount=0
+~ Rom File Inventory!C27 "Date" [30]: 12-09-2026 00:00 → 23-09-2026 00:00
+~ Rom File Inventory!F27 "Ore  Type - Lithology" [30]: (kosong) → Vein Sandly
+~ Rom File Inventory!G27 "Truckcount (m3)" [30]: (kosong) → 182
+~ Rom File Inventory!I27 "Bulk Density" [30]: (kosong) → 1.39
+~ Rom File Inventory!K27 "Toange By Truckcount" [30]: (kosong) → 252.98
+~ Rom File Inventory!L27 "Grade (g/t)" [30]: (kosong) → 3
+~ Rom File Inventory!I28 "Bulk Density" [Average]: 1.351053 → 1.353
+~ Rom File Inventory!G29 "Truckcount (m3)" [Total]: 1420 → 1602
+~ Rom File Inventory!K29 "Toange By Truckcount" [Total]: 1939.6 → 2192.58
+_Dibandingkan 12165 sel dari 18 sheet._
+
 ## 23 Sep 2026 · 10:02 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~16 sel; Crushing: ~27 sel; Daily Summary : ~6 sel; Filter Press: +3 baris, ~7 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: ~24 sel; Milling and Leach Feed: +2 baris, ~22 sel; Milling and Leach Feed_OLD: ~3 sel; Reagent Consumption: +2 baris, ~96 sel; Tailing Check : ~4 sel
 + Au Cal Leaching Tank baris 18 [9] ditambahkan: AW·Estimasi Lab AAS Loaded =555.01868
