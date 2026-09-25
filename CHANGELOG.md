@@ -5,6 +5,65 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Sep 2026 · 02:06 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~37 sel; LT Ball Mill: +6 baris; Milling and Leach Feed: ~12 sel
+~ Au Cal Leaching Tank!W19 "Head Grade LF Ball Mill" [10]: 0.833733 → 0.825905
+~ Au Cal Leaching Tank!X19 [10]: 1.262667 → 1.139048
+~ Au Cal Leaching Tank!Y19 [10]: 18.410667 → 17.893333
+~ Au Cal Leaching Tank!Z19 "Lab AAS Result (gpt)" [10]: 0.649627 → 0.785262
+~ Au Cal Leaching Tank!AA19 [10]: 0.951385 → 1.096042
+~ Au Cal Leaching Tank!AB19 [10]: 15.148659 → 17.877616
+~ Au Cal Leaching Tank!AC19 "Au Variance" [10]: (kosong) → 0.040643
+~ Au Cal Leaching Tank!AD19 "%Different" [10]: (kosong) → 0.012613
+~ Au Cal Leaching Tank!AK19 "Metal Content Head Grade" [10]: (kosong) → 321.662908
+~ Au Cal Leaching Tank!AL19 [10]: (kosong) → 443.621815
+~ Au Cal Leaching Tank!AM19 [10]: (kosong) → 6962.746872
+~ Au Cal Leaching Tank!AN19 "Metal Content Calculated" [10]: (kosong) → 0
+~ Au Cal Leaching Tank!AO19 [10]: (kosong) → 0
+~ Au Cal Leaching Tank!AP19 [10]: (kosong) → 0
+~ Au Cal Leaching Tank!AS19 "Estimasi %Recovery Metal" [10]: (kosong) → 0.860331
+~ Au Cal Leaching Tank!AT19 [10]: (kosong) → 1
+~ Au Cal Leaching Tank!AU19 [10]: (kosong) → 1
+~ Au Cal Leaching Tank!AX19 "Estimasi Lab AAS Loaded " [10]: 455.188558 → 669.630497
+~ Au Cal Leaching Tank!AY19 [10]: 341.119374 → 636.867251
+~ Au Cal Leaching Tank!AZ19 [10]: 1058.797414 → 5700.628662
+~ Au Cal Leaching Tank!BB19 "Estimasi Metal Content R" [10]: -44.926336 → 276.736572
+~ Au Cal Leaching Tank!BC19 [10]: 0 → 443.621815
+~ Au Cal Leaching Tank!BD19 [10]: 0 → 6962.746872
+~ Au Cal Leaching Tank!W60 "Head Grade LF Ball Mill" [51]: 0.697876 → 0.697093
+~ Au Cal Leaching Tank!X60 [51]: 0.713486 → 0.701124
+~ Au Cal Leaching Tank!Y60 [51]: 10.439281 → 10.387547
+~ Au Cal Leaching Tank!Z60 "Lab AAS Result (gpt)" [51]: 0.604629 → 0.61696
+~ Au Cal Leaching Tank!AA60 [51]: 0.603497 → 0.616648
+~ Au Cal Leaching Tank!AB60 [51]: 9.850973 → 10.123869
+~ Au Cal Leaching Tank!AS60 "Estimasi %Recovery Metal" [51]: 0.809086 → 0.81421
+~ Au Cal Leaching Tank!AT60 [51]: 0.571747 → 0.614573
+~ Au Cal Leaching Tank!AU60 [51]: 0.11374 → 0.202366
+~ Au Cal Leaching Tank!BB61 "Estimasi Metal Content R" [52]: 1556.877369 → 1878.540277
+~ Au Cal Leaching Tank!BC61 [52]: 1109.871718 → 1553.493533
+~ Au Cal Leaching Tank!BD61 [52]: 2754.949582 → 9717.696454
+~ Au Cal Leaching Tank!AK63 "Metal Content Head Grade": 1837.594093 → 1847.158452
+~ Au Cal Leaching Tank!BB63 "Estimasi Metal Content R": (kosong) → 1690.68625
++ LT Ball Mill baris 115 [112] ditambahkan: F·au (g/t)=0.713, G·ag (g/t)=0.64, H·Cu (g/t)=16.61
++ LT Ball Mill baris 116 [113] ditambahkan: F·au (g/t)=0.745, G·ag (g/t)=0.61, H·Cu (g/t)=16.53
++ LT Ball Mill baris 117 [114] ditambahkan: F·au (g/t)=0.747, G·ag (g/t)=0.69, H·Cu (g/t)=16.4
++ LT Ball Mill baris 118 [115] ditambahkan: F·au (g/t)=0.861, G·ag (g/t)=1.02, H·Cu (g/t)=16.37
++ LT Ball Mill baris 119 [116] ditambahkan: F·au (g/t)=0.905, G·ag (g/t)=1.14, H·Cu (g/t)=16.22
++ LT Ball Mill baris 120 [117] ditambahkan: F·au (g/t)=0.867, G·ag (g/t)=0.88, H·Cu (g/t)=17.47
+~ Milling and Leach Feed!T53: (kosong) → 0.735
+~ Milling and Leach Feed!U53: (kosong) → 0.646667
+~ Milling and Leach Feed!V53: (kosong) → 16.513333
+~ Milling and Leach Feed!W53: 0 → 16.931953
+~ Milling and Leach Feed!X53: 0 → 14.897047
+~ Milling and Leach Feed!Y53: 0 → 380.412215
+~ Milling and Leach Feed!T54 [24-09-2026 00:00]: (kosong) → 0.877667
+~ Milling and Leach Feed!U54 [24-09-2026 00:00]: (kosong) → 1.013333
+~ Milling and Leach Feed!V54 [24-09-2026 00:00]: (kosong) → 16.686667
+~ Milling and Leach Feed!W54 [24-09-2026 00:00]: 0 → 35.893548
+~ Milling and Leach Feed!X54 [24-09-2026 00:00]: 0 → 41.441848
+~ Milling and Leach Feed!Y54 [24-09-2026 00:00]: 0 → 682.427277
+_Dibandingkan 12730 sel dari 18 sheet._
+
 ## 25 Sep 2026 · 20:12 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~29 sel; Daily Summary : ~42 sel; LT Floculation: +15 baris, -17 baris; Milling Down Time Hours: ~79 sel; Milling and Leach Feed: +1 baris, ~29 sel; Milling and Leach Feed_OLD: ~12 sel; Rom File Inventory: +6 baris, ~1111 sel, -4 baris
 ~ Au Cal Leaching Tank!H19 "Date Finish" [10]: (kosong) → 25-09-2026 00:00
