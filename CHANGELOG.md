@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 25 Sep 2026 · 20:12 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~29 sel; Daily Summary : ~42 sel; LT Floculation: +15 baris, -17 baris; Milling Down Time Hours: ~79 sel; Milling and Leach Feed: +1 baris, ~29 sel; Milling and Leach Feed_OLD: ~12 sel; Rom File Inventory: +6 baris, ~1111 sel, -4 baris
+~ Au Cal Leaching Tank!H19 "Date Finish" [10]: (kosong) → 25-09-2026 00:00
+~ Au Cal Leaching Tank!I19 "Time Finish" [10]: (kosong) → 13:50:00
+~ Au Cal Leaching Tank!W19 "Head Grade LF Ball Mill" [10]: 0.788444 → 0.833733
+~ Au Cal Leaching Tank!X19 [10]: 1.437778 → 1.262667
+~ Au Cal Leaching Tank!Y19 [10]: 19.5 → 18.410667
+~ Au Cal Leaching Tank!Z19 "Lab AAS Result (gpt)" [10]: 0.357882 → 0.649627
+~ Au Cal Leaching Tank!AA19 [10]: 0.603898 → 0.951385
+~ Au Cal Leaching Tank!AB19 [10]: 9.561136 → 15.148659
+~ Au Cal Leaching Tank!AH19 [10]: 0.062 → 0.058
+~ Au Cal Leaching Tank!AQ19 [10]: 48.024704 → 44.926336
+~ Au Cal Leaching Tank!AX19 "Estimasi Lab AAS Loaded " [10]: 453.122979 → 455.188558
+~ Au Cal Leaching Tank!BB19 "Estimasi Metal Content R" [10]: -48.024704 → -44.926336
+~ Au Cal Leaching Tank!W60 "Head Grade LF Ball Mill" [51]: 0.693347 → 0.697876
+~ Au Cal Leaching Tank!X60 [51]: 0.730997 → 0.713486
+~ Au Cal Leaching Tank!Y60 [51]: 10.548214 → 10.439281
+~ Au Cal Leaching Tank!Z60 "Lab AAS Result (gpt)" [51]: 0.578107 → 0.604629
+~ Au Cal Leaching Tank!AA60 [51]: 0.571907 → 0.603497
+~ Au Cal Leaching Tank!AB60 [51]: 9.292221 → 9.850973
+~ Au Cal Leaching Tank!AH60 [51]: 0.0277 → 0.0273
+~ Au Cal Leaching Tank!BB61 "Estimasi Metal Content R" [52]: 1553.779001 → 1556.877369
+~ Au Cal Leaching Tank!Z62 "Lab AAS Result (gpt)": 0.613489 → 0.614642
+~ Au Cal Leaching Tank!AK63 "Metal Content Head Grade": 1825.668969 → 1837.594093
+~ Au Cal Leaching Tank!L67 "%solid": 189.45 → 192.133333
+~ Au Cal Leaching Tank!T67 "Solid on Tank,": 16.132639 → 16.244444
+~ Au Cal Leaching Tank!L71 "%solid": 189.45 → 192.133333
+~ Au Cal Leaching Tank!L72 "%solid": 387.183333 → 389.866667
+~ Au Cal Leaching Tank!L73 "%solid": 0.510697 → 0.507182
+~ Au Cal Leaching Tank!L76 "%solid": 16.132639 → 16.244444
+~ Au Cal Leaching Tank!L77 "%solid": 0.489303 → 0.492818
+~ Daily Summary !F15 [22-08-2026 00:00]: 0.629333 → 0.967889
+~ Daily Summary !G15 [22-08-2026 00:00]: 123.99912 → 190.705567
+~ Daily Summary !H15 [22-08-2026 00:00]: 0.123999 → 0.190706
+~ Daily Summary !F17 [24-08-2026 00:00]: 1.030222 → 0.670889
+~ Daily Summary !G17 [24-08-2026 00:00]: 168.833848 → 109.945942
+~ Daily Summary !H17 [24-08-2026 00:00]: 0.168834 → 0.109946
+~ Daily Summary !F20 [27-08-2026 00:00]: 0.751143 → 0.554571
+~ Daily Summary !G20 [27-08-2026 00:00]: 93.853122 → 69.292092
+~ Daily Summary !H20 [27-08-2026 00:00]: 0.093853 → 0.069292
+~ Daily Summary !F21 [28-08-2026 00:00]: 0.664111 → 1.125556
+~ Daily Summary !G21 [28-08-2026 00:00]: 111.414601 → 188.828828
+~ Daily Summary !H21 [28-08-2026 00:00]: 0.111415 → 0.188829
+~ Daily Summary !F22 [29-08-2026 00:00]: 0.872 → 0.606273
+~ Daily Summary !G22 [29-08-2026 00:00]: 209.65932 → 145.769183
+~ Daily Summary !H22 [29-08-2026 00:00]: 0.209659 → 0.145769
+~ Daily Summary !F23 [30-08-2026 00:00]: 0.989 → 0.3535
+~ Daily Summary !G23 [30-08-2026 00:00]: 53.22798 → 19.02537
+~ Daily Summary !H23 [30-08-2026 00:00]: 0.053228 → 0.019025
+~ Daily Summary !F36 [12-09-2026 00:00]: 0.371083 → 0.526083
+~ Daily Summary !G36 [12-09-2026 00:00]: 122.001068 → 172.960418
+~ Daily Summary !H36 [12-09-2026 00:00]: 0.122001 → 0.17296
+~ Daily Summary !F37 [13-09-2026 00:00]: 0.632286 → 0.624571
+~ Daily Summary !G37 [13-09-2026 00:00]: 166.079327 → 164.053054
+~ Daily Summary !H37 [13-09-2026 00:00]: 0.166079 → 0.164053
+~ Daily Summary !F42 [18-09-2026 00:00]: 0.585941 → 0.675882
+~ Daily Summary !G42 [18-09-2026 00:00]: 117.914802 → 136.014565
+~ Daily Summary !H42 [18-09-2026 00:00]: 0.117915 → 0.136015
+~ Daily Summary !F43 [19-09-2026 00:00]: 0.585941 → 0.675882
+~ Daily Summary !G43 [19-09-2026 00:00]: 188.584465 → 217.531924
+~ Daily Summary !H43 [19-09-2026 00:00]: 0.188584 → 0.217532
+~ Daily Summary !F44 [20-09-2026 00:00]: 0.6945 → #DIV/0!
+~ Daily Summary !G44 [20-09-2026 00:00]: 145.837361 → #DIV/0!
+~ Daily Summary !H44 [20-09-2026 00:00]: 0.145837 → #DIV/0!
+~ Daily Summary !G56 [Total]: 2519.846176 → #DIV/0!
+~ Daily Summary !H56 [Total]: 2.06751 → 2.079022
+~ Daily Summary !F57 [Average]: 0.83292 → #DIV/0!
+~ Daily Summary !G57 [Average]: 66.693856 → 67.065213
+~ Daily Summary !H57 [Average]: 0.065567 → 0.066033
+~ Daily Summary !F59: 0.722821 → #DIV/0!
+~ Daily Summary !X61: 0.722821 → #DIV/0!
+~ Daily Summary !X62: 0.83292 → #DIV/0!
+~ Daily Summary !G63: 0.556759 → #DIV/0!
++ LT Floculation baris 15 [10] ditambahkan: C·Tanggal=25-09-2026 00:00, E·Leaching=3, F·Batch=10, J=0.058, K·Batch Process=10
++ LT Floculation baris 16 [11] ditambahkan: F·Batch=11
++ LT Floculation baris 17 [12] ditambahkan: F·Batch=12
+- LT Floculation baris 35 dikosongkan: P=6
+- LT Floculation baris 36 dikosongkan: P=6
+- LT Floculation baris 37 dikosongkan: P=6
+- LT Floculation baris 38 dikosongkan: P=6
+- LT Floculation baris 39 dikosongkan: P=6
+- LT Floculation baris 40 dikosongkan: P=6
+- LT Floculation baris 41 dikosongkan: P=6
+- LT Floculation baris 42 dikosongkan: P=6
+- LT Floculation baris 59 dikosongkan: P=9
+- LT Floculation baris 60 dikosongkan: P=9
+- LT Floculation baris 61 dikosongkan: P=9
+- LT Floculation baris 62 dikosongkan: P=9
+- LT Floculation baris 63 dikosongkan: P=9
+- LT Floculation baris 64 dikosongkan: P=9
+- LT Floculation baris 65 dikosongkan: P=9
+- LT Floculation baris 66 dikosongkan: P=9
+- LT Floculation baris 67 dikosongkan: P=9
++ LT Floculation baris 68 ditambahkan: O=LT-Floc DS 1, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 69 ditambahkan: O=LT-Floc DS 2, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 70 ditambahkan: O=LT-Floc DS 3, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 71 ditambahkan: O=LT-Floc NS 1, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 72 ditambahkan: O=LT-Floc NS 2, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 73 ditambahkan: O=LT-Floc NS 3, P=10, Q=25-09-2026 00:00
++ LT Floculation baris 74 ditambahkan: O=LT-Floc DS 1, P=10, Q=26-09-2026 00:00
++ LT Floculation baris 75 ditambahkan: O=LT-Floc DS 2, P=10, Q=26-09-2026 00:00
++ LT Floculation baris 76 ditambahkan: O=LT-Floc DS 3, P=10, Q=26-09-2026 00:00
++ LT Floculation baris 77 ditambahkan: O=LT-Floc NS 1, P=10, Q=26-09-2026 00:00
++ LT Floculation baris 78 ditambahkan: O=LT-Floc NS 2, P=10, Q=26-09-2026 00:00
++ LT Floculation baris 79 ditambahkan: O=LT-Floc NS 3, P=10, Q=26-09-2026 00:00
+~ Milling Down Time Hours!AH6 [31-08-2026 00:00]: 1106.55 → 431.866667
+~ Milling Down Time Hours!AI6 [31-08-2026 00:00]: 189.45 → 192.133333
+~ Milling Down Time Hours!AJ6 [31-08-2026 00:00]: 0.853819 → 0.692094
+~ Milling Down Time Hours!P30 "Total Down Time (Mins)" [12-09-2026 00:00]: 0 → 161
+~ Milling Down Time Hours!Q30 "Running Time (Hr)" [12-09-2026 00:00]: 24 → 21.316667
+~ Milling Down Time Hours!R30 "Availbility (%)" [12-09-2026 00:00]: 1 → 0.888194
+~ Milling Down Time Hours!S30 "Downtime (hr)" [12-09-2026 00:00]: 0 → 2.683333
+~ Milling Down Time Hours!Q31 "Running Time (Hr)" [13-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R31 "Availbility (%)" [13-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q32 "Running Time (Hr)" [13-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R32 "Availbility (%)" [13-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q33 "Running Time (Hr)" [14-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R33 "Availbility (%)" [14-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q34 "Running Time (Hr)" [14-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R34 "Availbility (%)" [14-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q35 "Running Time (Hr)" [15-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R35 "Availbility (%)" [15-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q36 "Running Time (Hr)" [15-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R36 "Availbility (%)" [15-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q37 "Running Time (Hr)" [16-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R37 "Availbility (%)" [16-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q38 "Running Time (Hr)" [16-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R38 "Availbility (%)" [16-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q39 "Running Time (Hr)" [17-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R39 "Availbility (%)" [17-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q40 "Running Time (Hr)" [17-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R40 "Availbility (%)" [17-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q41 "Running Time (Hr)" [18-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R41 "Availbility (%)" [18-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q42 "Running Time (Hr)" [18-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R42 "Availbility (%)" [18-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q43 "Running Time (Hr)" [19-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R43 "Availbility (%)" [19-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q44 "Running Time (Hr)" [19-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R44 "Availbility (%)" [19-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q45 "Running Time (Hr)" [20-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R45 "Availbility (%)" [20-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q46 "Running Time (Hr)" [20-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R46 "Availbility (%)" [20-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q47 "Running Time (Hr)" [21-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R47 "Availbility (%)" [21-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q48 "Running Time (Hr)" [21-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R48 "Availbility (%)" [21-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q49 "Running Time (Hr)" [22-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R49 "Availbility (%)" [22-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q50 "Running Time (Hr)" [22-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R50 "Availbility (%)" [22-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q51 "Running Time (Hr)" [23-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R51 "Availbility (%)" [23-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q52 "Running Time (Hr)" [23-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R52 "Availbility (%)" [23-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q53 "Running Time (Hr)" [24-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R53 "Availbility (%)" [24-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!I54 "BATCH" [24-09-2026 00:00]: (kosong) → 11
+~ Milling Down Time Hours!Q54 "Running Time (Hr)" [24-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R54 "Availbility (%)" [24-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!D55 "PIC" [25-09-2026 00:00]: (kosong) → Kristo
+~ Milling Down Time Hours!E55 "Stop Time" [25-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F55 "Start Time" [25-09-2026 00:00]: (kosong) → 02:42:00
+~ Milling Down Time Hours!G55 "Down Time (Mins)" [25-09-2026 00:00]: 0 → 161
+~ Milling Down Time Hours!H55 "Reason" [25-09-2026 00:00]: (kosong) → Perbaikan tanki thickener tank batch ...
+~ Milling Down Time Hours!J55 "Running Time Hour/Shift" [25-09-2026 00:00]: 12 → 9.316667
+~ Milling Down Time Hours!K55 "Availibility per Shift" [25-09-2026 00:00]: 1 → 0.776389
+~ Milling Down Time Hours!Q55 "Running Time (Hr)" [25-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R55 "Availbility (%)" [25-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q56 "Running Time (Hr)" [25-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R56 "Availbility (%)" [25-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q57 "Running Time (Hr)" [26-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R57 "Availbility (%)" [26-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!Q58 "Running Time (Hr)" [26-09-2026 00:00]: 24 → (kosong)
+~ Milling Down Time Hours!R58 "Availbility (%)" [26-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 11367 → 11528
+~ Milling Down Time Hours!Q59 "Running Time (Hr)" [27-09-2026 00:00]: 1106.55 → 431.866667
+~ Milling Down Time Hours!R59 "Availbility (%)" [27-09-2026 00:00]: 0.853819 → 0.692094
+~ Milling Down Time Hours!S59 "Downtime (hr)" [27-09-2026 00:00]: 189.45 → 192.133333
+~ Milling Down Time Hours!P60 "Total Down Time (Mins)" [27-09-2026 00:00]: 189.45 → 192.133333
+~ Milling Down Time Hours!Q60 "Running Time (Hr)" [27-09-2026 00:00]: 46.10625 → 17.994444
+~ Milling Down Time Hours!R60 "Availbility (%)" [27-09-2026 00:00]: 54 → 26
+~ Milling Down Time Hours!S60 "Downtime (hr)" [27-09-2026 00:00]: 7.89375 → 8.005556
+~ Milling and Leach Feed!T51: (kosong) → 0.749
+~ Milling and Leach Feed!U51: (kosong) → 1.066667
+~ Milling and Leach Feed!V51: (kosong) → 15.506667
+~ Milling and Leach Feed!W51: 0 → 64.48547
+~ Milling and Leach Feed!X51: 0 → 91.835116
+~ Milling and Leach Feed!Y51: 0 → 1335.052994
+~ Milling and Leach Feed!T52 [23-09-2026 00:00]: (kosong) → 1.054333
+~ Milling and Leach Feed!U52 [23-09-2026 00:00]: (kosong) → 0.933333
+~ Milling and Leach Feed!V52 [23-09-2026 00:00]: (kosong) → 18.046667
+~ Milling and Leach Feed!W52 [23-09-2026 00:00]: 0 → 49.13952
+~ Milling and Leach Feed!X52 [23-09-2026 00:00]: 0 → 43.50005
+~ Milling and Leach Feed!Y52 [23-09-2026 00:00]: 0 → 841.10453
+~ Milling and Leach Feed!N54 [24-09-2026 00:00]: 293.489084 → 299.609572
+~ Milling and Leach Feed!O54 [24-09-2026 00:00]: 12.228712 → 12.483732
+~ Milling and Leach Feed!A55 [11]: (kosong) → 11
+~ Milling and Leach Feed!D55 [11]: (kosong) → Septian/Nipto
+~ Milling and Leach Feed!E55 [11]: (kosong) → Batch 11 Tank 2 mulai start pengisian...
+~ Milling and Leach Feed!H55 "Milling And Leach Feed M" [11]: (kosong) → 521.27255
+- ...dan 1194 perubahan lain tidak ditampilkan
+_Dibandingkan 12694 sel dari 18 sheet._
+
 ## 25 Sep 2026 · 12:01 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~1197 sel; Crushing: +1 baris, ~14 sel; Daily Summary : ~21 sel; LT Ball Mill: +9 baris, -1 baris; LT Floculation: +3 baris, ~3 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +14 baris, ~28 sel; Reagent Consumption: +2 baris, ~61 sel, -1 baris; Rom File Inventory: +6 baris, ~9 sel
 ~ Au Cal Leaching Tank!D2 "CIP Batch Process Month ": CIP Batch Process Month To Date → (kosong)
