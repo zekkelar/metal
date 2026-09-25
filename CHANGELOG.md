@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 25 Sep 2026 · 12:01 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~1197 sel; Crushing: +1 baris, ~14 sel; Daily Summary : ~21 sel; LT Ball Mill: +9 baris, -1 baris; LT Floculation: +3 baris, ~3 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +14 baris, ~28 sel; Reagent Consumption: +2 baris, ~61 sel, -1 baris; Rom File Inventory: +6 baris, ~9 sel
+~ Au Cal Leaching Tank!D2 "CIP Batch Process Month ": CIP Batch Process Month To Date → (kosong)
+~ Au Cal Leaching Tank!E2 "CIP Batch Process Month ": (kosong) → CIP Batch Process Month To Date
+~ Au Cal Leaching Tank!D3 "CIP Batch Process Month ": PT BULAWAN DAYA LESTARI → (kosong)
+~ Au Cal Leaching Tank!E3 "CIP Batch Process Month ": (kosong) → PT BULAWAN DAYA LESTARI
+~ Au Cal Leaching Tank!D4 "CIP Batch Process Month ": 31 Agustus - September 2026 → (kosong)
+~ Au Cal Leaching Tank!E4 "CIP Batch Process Month ": (kosong) → 31 Agustus - September 2026
+~ Au Cal Leaching Tank!D7 "CIP Batch Process Month " [Batch Process]: Tank CIP → Estimasi
+~ Au Cal Leaching Tank!E7 "CIP Batch Process Month " [Batch Process]: Date start → Tank CIP
+~ Au Cal Leaching Tank!F7 [Batch Process]: Time Start → Date start
+~ Au Cal Leaching Tank!G7 [Batch Process]: Date Finish → Time Start
+~ Au Cal Leaching Tank!H7 [Batch Process]: Time Finish → Date Finish
+~ Au Cal Leaching Tank!I7 [Batch Process]: Volume Slurry (m3) → Time Finish
+~ Au Cal Leaching Tank!J7 [Batch Process]: Carbon (gpl) → Volume Slurry (m3)
+~ Au Cal Leaching Tank!K7 [Batch Process]: %solid → Carbon (gpl)
+~ Au Cal Leaching Tank!L7 [Batch Process]: Solid (Ton) → %solid
+~ Au Cal Leaching Tank!N7 [Batch Process]: Sg Slurry → Solid (Ton)
+~ Au Cal Leaching Tank!O7 [Batch Process]: Leaching → Sg Slurry
+~ Au Cal Leaching Tank!P7 [Batch Process]: %solid sisa pada tanki → Leaching
+~ Au Cal Leaching Tank!Q7 [Batch Process]: sg slurry → %solid sisa pada tanki
+~ Au Cal Leaching Tank!R7 [Batch Process]: Volume slurry → sg slurry
+~ Au Cal Leaching Tank!S7 [Batch Process]: Solid on Tank, → Volume slurry
+~ Au Cal Leaching Tank!T7 [Batch Process]: Solution (m3) → Solid on Tank,
+~ Au Cal Leaching Tank!U7 [Batch Process]: Cumulative → Solution (m3)
+~ Au Cal Leaching Tank!V7 [Batch Process]: Head Grade LF Ball Mill → Cumulative
+~ Au Cal Leaching Tank!W7 [Batch Process]: (kosong) → Head Grade LF Ball Mill
+~ Au Cal Leaching Tank!Y7 [Batch Process]: Lab AAS Result (gpt) → (kosong)
+~ Au Cal Leaching Tank!Z7 [Batch Process]: (kosong) → Lab AAS Result (gpt)
+~ Au Cal Leaching Tank!AB7 [Batch Process]: Au Variance → (kosong)
+~ Au Cal Leaching Tank!AC7 [Batch Process]: %Different → Au Variance
+~ Au Cal Leaching Tank!AD7 [Batch Process]: Lab AAS Result Tail → %Different
+~ Au Cal Leaching Tank!AE7 [Batch Process]: (kosong) → Lab AAS Result Tail
+~ Au Cal Leaching Tank!AJ7 [Batch Process]: Metal Content Head Grade Calculated (gr) → (kosong)
+~ Au Cal Leaching Tank!AK7 [Batch Process]: (kosong) → Metal Content Head Grade Calculated (gr)
+~ Au Cal Leaching Tank!AM7 [Batch Process]: Metal Content Calculated Solid Tail (gr) → (kosong)
+~ Au Cal Leaching Tank!AN7 [Batch Process]: (kosong) → Metal Content Calculated Solid Tail (gr)
+~ Au Cal Leaching Tank!AQ7 [Batch Process]: Batch → (kosong)
+~ Au Cal Leaching Tank!AR7 [Batch Process]: Estimasi %Recovery Metal → Batch
+~ Au Cal Leaching Tank!AS7 [Batch Process]: (kosong) → Estimasi %Recovery Metal
+~ Au Cal Leaching Tank!AV7 [Batch Process]: Carbon → (kosong)
+~ Au Cal Leaching Tank!AW7 [Batch Process]: Estimasi Lab AAS Loaded Carbon → Carbon
+~ Au Cal Leaching Tank!AX7 [Batch Process]: (kosong) → Estimasi Lab AAS Loaded Carbon
+~ Au Cal Leaching Tank!AZ7 [Batch Process]: Batch → (kosong)
+~ Au Cal Leaching Tank!BA7 [Batch Process]: Estimasi Metal Content Recovered → Batch
+~ Au Cal Leaching Tank!BB7 [Batch Process]: (kosong) → Estimasi Metal Content Recovered
+~ Au Cal Leaching Tank!D8 "CIP Batch Process Month " [milling process]: (kosong) → Tph
+~ Au Cal Leaching Tank!M8 [milling process]: pengurangan oleh batch sebelum → (kosong)
+~ Au Cal Leaching Tank!N8 [milling process]: (kosong) → pengurangan oleh batch sebelum
+~ Au Cal Leaching Tank!O8 [milling process]: Tank → (kosong)
+~ Au Cal Leaching Tank!P8 [milling process]: setelah selesai batch → Tank
+~ Au Cal Leaching Tank!Q8 [milling process]: sisa pada tanki → setelah selesai batch
+~ Au Cal Leaching Tank!S8 [milling process]: After Finish → sisa pada tanki
+~ Au Cal Leaching Tank!T8 [milling process]: (kosong) → After Finish
+~ Au Cal Leaching Tank!U8 [milling process]: Tonage → (kosong)
+~ Au Cal Leaching Tank!V8 [milling process]: gpt → Tonage
+~ Au Cal Leaching Tank!W8 [milling process]: (kosong) → gpt
+~ Au Cal Leaching Tank!Y8 [milling process]: Leach Feed Head Grade Calculated → (kosong)
+~ Au Cal Leaching Tank!Z8 [milling process]: (kosong) → Leach Feed Head Grade Calculated
+~ Au Cal Leaching Tank!AD8 [milling process]: Solid (gpt) → (kosong)
+~ Au Cal Leaching Tank!AE8 [milling process]: (kosong) → Solid (gpt)
+~ Au Cal Leaching Tank!AG8 [milling process]: Solution (gr/m3) → (kosong)
+~ Au Cal Leaching Tank!AH8 [milling process]: (kosong) → Solution (gr/m3)
+~ Au Cal Leaching Tank!AJ8 [milling process]: Solid → (kosong)
+~ Au Cal Leaching Tank!AK8 [milling process]: (kosong) → Solid
+~ Au Cal Leaching Tank!AM8 [milling process]: Solid → (kosong)
+~ Au Cal Leaching Tank!AN8 [milling process]: (kosong) → Solid
+~ Au Cal Leaching Tank!AP8 [milling process]: Solution → (kosong)
+~ Au Cal Leaching Tank!AQ8 [milling process]: Process → Solution
+~ Au Cal Leaching Tank!AR8 [milling process]: (kosong) → Process
+~ Au Cal Leaching Tank!AU8 [milling process]: Leach Tank No → (kosong)
+~ Au Cal Leaching Tank!AV8 [milling process]: (kosong) → Leach Tank No
+~ Au Cal Leaching Tank!AW8 [milling process]: gpt → (kosong)
+~ Au Cal Leaching Tank!AX8 [milling process]: (kosong) → gpt
+~ Au Cal Leaching Tank!AZ8 [milling process]: Process → (kosong)
+~ Au Cal Leaching Tank!BA8 [milling process]: gr → Process
+~ Au Cal Leaching Tank!BB8 [milling process]: (kosong) → gr
+~ Au Cal Leaching Tank!M9 [to tank leaching]: Solid Before-After Batch → (kosong)
+~ Au Cal Leaching Tank!N9 [to tank leaching]: (kosong) → Solid Before-After Batch
+~ Au Cal Leaching Tank!O9 [to tank leaching]: No → (kosong)
+~ Au Cal Leaching Tank!P9 [to tank leaching]: (kosong) → No
+~ Au Cal Leaching Tank!Q9 [to tank leaching]: selesai batch → (kosong)
+~ Au Cal Leaching Tank!S9 [to tank leaching]: Process Batch → selesai batch
+~ Au Cal Leaching Tank!T9 [to tank leaching]: (kosong) → Process Batch
+~ Au Cal Leaching Tank!U9 [to tank leaching]: Production → (kosong)
+~ Au Cal Leaching Tank!V9 [to tank leaching]: Au → Production
+~ Au Cal Leaching Tank!W9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!X9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!Y9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!Z9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AA9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AB9 [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!AD9 [to tank leaching]: Au → (kosong)
+~ Au Cal Leaching Tank!AE9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AF9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AG9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!AH9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AI9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AJ9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!AK9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AL9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AM9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!AN9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AO9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AP9 [to tank leaching]: Au → Cu
+~ Au Cal Leaching Tank!AQ9 [to tank leaching]: No → Au
+~ Au Cal Leaching Tank!AR9 [to tank leaching]: Au → No
+~ Au Cal Leaching Tank!AS9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AT9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AU9 [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!AV9 [to tank leaching]: Usage (Ton) → (kosong)
+~ Au Cal Leaching Tank!AW9 [to tank leaching]: Au → Usage (Ton)
+~ Au Cal Leaching Tank!AX9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!AY9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!AZ9 [to tank leaching]: No → Cu
+~ Au Cal Leaching Tank!BA9 [to tank leaching]: Au → No
+~ Au Cal Leaching Tank!BB9 [to tank leaching]: Ag → Au
+~ Au Cal Leaching Tank!BC9 [to tank leaching]: Cu → Ag
+~ Au Cal Leaching Tank!BD9 [to tank leaching]: (kosong) → Cu
+~ Au Cal Leaching Tank!D10 "CIP Batch Process Month " [1]: 2 → 6.448094
+~ Au Cal Leaching Tank!E10 "CIP Batch Process Month " [1]: 01-09-2026 00:00 → 2
+~ Au Cal Leaching Tank!F10 [1]: 06:00:00 → 01-09-2026 00:00
+~ Au Cal Leaching Tank!G10 [1]: 03-09-2026 00:00 → 06:00:00
+~ Au Cal Leaching Tank!H10 [1]: 19:00:00 → 03-09-2026 00:00
+~ Au Cal Leaching Tank!I10 [1]: 557 → 19:00:00
+~ Au Cal Leaching Tank!J10 [1]: 1.795332 → 557
+~ Au Cal Leaching Tank!K10 [1]: 0.41 → 1.795332
+~ Au Cal Leaching Tank!L10 [1]: 292.3136 → 0.41
+~ Au Cal Leaching Tank!M10 [1]: (kosong) → 292.3136
+~ Au Cal Leaching Tank!N10 [1]: 1.28 → (kosong)
+~ Au Cal Leaching Tank!O10 [1]: 2 → 1.28
+~ Au Cal Leaching Tank!P10 [1]: 0.399 → 2
+~ Au Cal Leaching Tank!Q10 [1]: 1.265 → 0.399
+~ Au Cal Leaching Tank!R10 [1]: 107.85 → 1.265
+~ Au Cal Leaching Tank!S10 [1]: 54.43567 → 107.85
+~ Au Cal Leaching Tank!T10 [1]: 420.6464 → 54.43567
+~ Au Cal Leaching Tank!U10 [1]: 292.3136 → 420.6464
+~ Au Cal Leaching Tank!V10 [1]: 0.708 → 292.3136
+~ Au Cal Leaching Tank!W10 [1]: 0.53525 → 0.708
+~ Au Cal Leaching Tank!X10 [1]: 7.222417 → 0.53525
+~ Au Cal Leaching Tank!Y10 [1]: 0.658974 → 7.222417
+~ Au Cal Leaching Tank!Z10 [1]: 0.566436 → 0.658974
+~ Au Cal Leaching Tank!AA10 [1]: 7.43638 → 0.566436
+~ Au Cal Leaching Tank!AB10 [1]: 0.049026 → 7.43638
+~ Au Cal Leaching Tank!AC10 [1]: 0.017932 → 0.049026
+~ Au Cal Leaching Tank!AD10 [1]: 0.05575 → 0.017932
+~ Au Cal Leaching Tank!AE10 [1]: 0.17 → 0.05575
+~ Au Cal Leaching Tank!AF10 [1]: 6.55 → 0.17
+~ Au Cal Leaching Tank!AG10 [1]: 0.02 → 6.55
+~ Au Cal Leaching Tank!AH10 [1]: (kosong) → 0.02
+~ Au Cal Leaching Tank!AJ10 [1]: 206.958029 → (kosong)
+~ Au Cal Leaching Tank!AK10 [1]: 165.576957 → 206.958029
+~ Au Cal Leaching Tank!AL10 [1]: 2173.754957 → 165.576957
+~ Au Cal Leaching Tank!AM10 [1]: 16.296483 → 2173.754957
+~ Au Cal Leaching Tank!AN10 [1]: 49.693312 → 16.296483
+~ Au Cal Leaching Tank!AO10 [1]: 1914.65408 → 49.693312
+~ Au Cal Leaching Tank!AP10 [1]: 8.412928 → 1914.65408
+~ Au Cal Leaching Tank!AQ10 [1]: 1 → 8.412928
+~ Au Cal Leaching Tank!AR10 [1]: 0.880607 → 1
+~ Au Cal Leaching Tank!AS10 [1]: 0.664884 → 0.880607
+~ Au Cal Leaching Tank!AT10 [1]: 0.113235 → 0.664884
+~ Au Cal Leaching Tank!AU10 [1]: 2 → 0.113235
+~ Au Cal Leaching Tank!AV10 [1]: 1 → 2
+~ Au Cal Leaching Tank!AW10 [1]: 182.248618 → 1
+~ Au Cal Leaching Tank!AX10 [1]: 115.883645 → 182.248618
+~ Au Cal Leaching Tank!AY10 [1]: 259.100877 → 115.883645
+~ Au Cal Leaching Tank!AZ10 [1]: 1 → 259.100877
+~ Au Cal Leaching Tank!BA10 [1]: 182.248618 → 1
+~ Au Cal Leaching Tank!BB10 [1]: 115.883645 → 182.248618
+~ Au Cal Leaching Tank!BC10 [1]: 259.100877 → 115.883645
+~ Au Cal Leaching Tank!BD10 [1]: (kosong) → 259.100877
+~ Au Cal Leaching Tank!D11 "CIP Batch Process Month " [2]: 3 → 6.669826
+~ Au Cal Leaching Tank!E11 "CIP Batch Process Month " [2]: 03-09-2026 00:00 → 3
+~ Au Cal Leaching Tank!F11 [2]: 18:00:00 → 03-09-2026 00:00
+~ Au Cal Leaching Tank!G11 [2]: 04-09-2026 00:00 → 18:00:00
+~ Au Cal Leaching Tank!H11 [2]: 12:00:00 → 04-09-2026 00:00
+~ Au Cal Leaching Tank!I11 [2]: 539 → 12:00:00
+~ Au Cal Leaching Tank!J11 [2]: 1.855288 → 539
+~ Au Cal Leaching Tank!K11 [2]: 0.43 → 1.855288
+~ Au Cal Leaching Tank!L11 [2]: 300.14215 → 0.43
+~ Au Cal Leaching Tank!M11 [2]: (kosong) → 300.14215
+~ Au Cal Leaching Tank!N11 [2]: 1.295 → (kosong)
+~ Au Cal Leaching Tank!O11 [2]: 3 → 1.295
+~ Au Cal Leaching Tank!P11 [2]: 0.4 → 3
+~ Au Cal Leaching Tank!Q11 [2]: 1.265 → 0.4
+~ Au Cal Leaching Tank!R11 [2]: 107.85 → 1.265
+~ Au Cal Leaching Tank!S11 [2]: 54.5721 → 107.85
+~ Au Cal Leaching Tank!T11 [2]: 397.86285 → 54.5721
+~ Au Cal Leaching Tank!U11 [2]: 592.45575 → 397.86285
+~ Au Cal Leaching Tank!V11 [2]: 0.684 → 592.45575
+~ Au Cal Leaching Tank!W11 [2]: 0.793333 → 0.684
+~ Au Cal Leaching Tank!X11 [2]: 9.051111 → 0.793333
+~ Au Cal Leaching Tank!Y11 [2]: 0.685346 → 9.051111
+~ Au Cal Leaching Tank!Z11 [2]: 0.79554 → 0.685346
+~ Au Cal Leaching Tank!AA11 [2]: 9.10082 → 0.79554
+~ Au Cal Leaching Tank!AB11 [2]: 0.001346 → 9.10082
+~ Au Cal Leaching Tank!AC11 [2]: 0.000492 → 0.001346
+~ Au Cal Leaching Tank!AD11 [2]: 0.05575 → 0.000492
+~ Au Cal Leaching Tank!AE11 [2]: 0.25 → 0.05575
+~ Au Cal Leaching Tank!AF11 [2]: 8.3525 → 0.25
+~ Au Cal Leaching Tank!AG11 [2]: 0.029 → 8.3525
+~ Au Cal Leaching Tank!AH11 [2]: (kosong) → 0.029
+- ...dan 1248 perubahan lain tidak ditampilkan
+_Dibandingkan 12603 sel dari 18 sheet._
+
 ## 24 Sep 2026 · 15:00 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +40 baris, ~58 sel; Crushing: +1 baris, ~13 sel; Daily Summary : ~3 sel; Filter Press: +2 baris; Fuel Consumption: ~1 sel; LT Ball Mill: +12 baris; LT Floculation: +3 baris, ~3 sel; Milling Down Time Hours: +2 baris, ~22 sel; Milling and Leach Feed: +2 baris, ~59 sel; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: +2 baris, ~66 sel, -2 baris; Rom File Inventory: +4 baris, ~1068 sel, -1 baris
 ~ Au Cal Leaching Tank!AD18 "Lab AAS Result Tail" [9]: 0.096 → 0.109286
