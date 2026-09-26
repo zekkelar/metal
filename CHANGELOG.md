@@ -5,6 +5,83 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Sep 2026 · 21:27 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~30 sel; Filter Press: +3 baris, ~6 sel; Fuel Consumption: ~1 sel; Milling and Leach Feed: ~29 sel; Reagent Consumption: ~4 sel
+~ Au Cal Leaching Tank!D20 "Estimasi" [11]: 16.455378 → 16.637137
+~ Au Cal Leaching Tank!G20 "Time Start" [11]: 07:00:00 → 12:30:00
+~ Au Cal Leaching Tank!J20 "Volume Slurry (m3)" [11]: 908 → 917
+~ Au Cal Leaching Tank!K20 "Carbon (gpl)" [11]: 1.651982 → 1.635769
+~ Au Cal Leaching Tank!M20 "Solid (Ton)" [11]: 390.894 → 394.7685
+~ Au Cal Leaching Tank!N20 "Solid (Ton)" [11]: 350.7738 → 354.6483
+~ Au Cal Leaching Tank!U20 "Solution (m3)" [11]: 725.946 → 733.1415
+~ Au Cal Leaching Tank!V20 "Cumulative" [11]: 3605.216405 → 3609.090905
+~ Au Cal Leaching Tank!W20 "Head Grade LF Ball Mill" [11]: 0.729111 → 0.729467
+~ Au Cal Leaching Tank!X20 [11]: 1.361111 → 1.303333
+~ Au Cal Leaching Tank!Y20 [11]: 18.117778 → 18.88
+~ Au Cal Leaching Tank!Z20 "Lab AAS Result (gpt)" [11]: 0.872064 → 0.684138
+~ Au Cal Leaching Tank!AA20 [11]: 1.817335 → 1.486876
+~ Au Cal Leaching Tank!AB20 [11]: 23.221788 → 17.856298
+~ Au Cal Leaching Tank!AC20 "Au Variance" [11]: 0.142953 → 0.045328
+~ Au Cal Leaching Tank!AD20 "%Different" [11]: 0.04464 → 0.016033
+~ Au Cal Leaching Tank!D60 "Estimasi" [51]: 9.133731 → 9.151907
+~ Au Cal Leaching Tank!M60 "Solid (Ton)" [51]: 368.656755 → 369.008982
+~ Au Cal Leaching Tank!W60 "Head Grade LF Ball Mill" [51]: 0.700004 → 0.700036
+~ Au Cal Leaching Tank!X60 [51]: 0.761123 → 0.75587
+~ Au Cal Leaching Tank!Y60 [51]: 11.090295 → 11.159588
+~ Au Cal Leaching Tank!Z60 "Lab AAS Result (gpt)" [51]: 0.696239 → 0.679154
+~ Au Cal Leaching Tank!AA60 [51]: 0.78186 → 0.751818
+~ Au Cal Leaching Tank!AB60 [51]: 11.314589 → 10.826817
+~ Au Cal Leaching Tank!M61 "Solid (Ton)" [52]: 3605.216405 → 3609.090905
+~ Au Cal Leaching Tank!E65 "Tank CIP": 9.084571 → 9.13212
+~ Au Cal Leaching Tank!M67 "Solid (Ton)": 9.133296 → 9.143112
+~ Au Cal Leaching Tank!O67 "Sg Slurry": 219.199106 → 219.434678
+~ Au Cal Leaching Tank!L74 "%solid": 9.133296 → 9.143112
+~ Au Cal Leaching Tank!L75 "%solid": 219.199106 → 219.434678
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 2752.68 → 2854.68
++ Filter Press baris 33 [33] ditambahkan: N=0
++ Filter Press baris 34 [34] ditambahkan: K=26-09-2026 00:00, M=4, N=48, P=48
++ Filter Press baris 37 [37] ditambahkan: F=0
+~ Filter Press!C38 [38]: (kosong) → 26-09-2026 00:00
+~ Filter Press!D38 [38]: (kosong) → Day
+~ Filter Press!E38 [38]: (kosong) → 9
+~ Filter Press!F38 [38]: (kosong) → 54
+~ Filter Press!H38 [38]: 0 → 54
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 11.04788 → 11.03602
+~ Milling and Leach Feed!AI6: 1240 → 1230
+~ Milling and Leach Feed!AI8: 1.24 → 1.23
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.369501 → 0.356984
+~ Milling and Leach Feed!AI12: 458.181818 → 439.090909
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 781.818182 → 790.909091
+~ Milling and Leach Feed!AA51: 2.4 → 9.6
+~ Milling and Leach Feed!S56 [11]: 350.659272 → 354.528376
+~ Milling and Leach Feed!W57 [25-09-2026 00:00]: 133.214112 → 58.647433
+~ Milling and Leach Feed!X57 [25-09-2026 00:00]: 222.023519 → 97.745722
+~ Milling and Leach Feed!Y57 [25-09-2026 00:00]: 3653.959672 → 1608.653568
+~ Milling and Leach Feed!T58: (kosong) → 0.73
+~ Milling and Leach Feed!U58: (kosong) → 1.216667
+~ Milling and Leach Feed!V58: (kosong) → 20.023333
+~ Milling and Leach Feed!W58: 0 → 8.473337
+~ Milling and Leach Feed!X58: 0 → 14.122228
+~ Milling and Leach Feed!Y58: 0 → 232.417058
+~ Milling and Leach Feed!G59 [26-09-2026 00:00]: (kosong) → 0.35
+~ Milling and Leach Feed!J59 [26-09-2026 00:00]: (kosong) → 916.72143
+~ Milling and Leach Feed!K59 [26-09-2026 00:00]: (kosong) → 1.23
+~ Milling and Leach Feed!M59 [26-09-2026 00:00]: 0 → 3.869104
+~ Milling and Leach Feed!T59 [26-09-2026 00:00]: (kosong) → 0.73
+~ Milling and Leach Feed!U59 [26-09-2026 00:00]: (kosong) → 1.216667
+~ Milling and Leach Feed!V59 [26-09-2026 00:00]: (kosong) → 20.023333
+~ Milling and Leach Feed!W59 [26-09-2026 00:00]: (kosong) → 2.824446
+~ Milling and Leach Feed!X59 [26-09-2026 00:00]: (kosong) → 4.707409
+~ Milling and Leach Feed!Y59 [26-09-2026 00:00]: (kosong) → 77.472353
+~ Milling and Leach Feed!Z59 [26-09-2026 00:00]: (kosong) → 10.2
+~ Milling and Leach Feed!M100 [Average]: 3605.014375 → 3608.883479
+~ Milling and Leach Feed!S100 [Average]: 3605.014375 → 3608.883479
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.421551 → 1.420025
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.970816 → 0.969773
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.832128 → 0.831234
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.055475 → 0.055416
+_Dibandingkan 13240 sel dari 19 sheet._
+
 ## 26 Sep 2026 · 18:37 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +4 baris, ~69 sel; Fuel Consumption: ~1 sel; LT Ball Mill: +3 baris; LT Floculation: +1 baris, ~12 sel, -8 baris; Milling and Leach Feed: +2 baris, ~350 sel, -1 baris; Reagent Consumption: ~4 sel; Rom File Inventory: ~20 sel
 ~ Au Cal Leaching Tank!AE19 "Lab AAS Result Tail" [10]: (kosong) → 0.146
