@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Sep 2026 · 18:37 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +4 baris, ~69 sel; Fuel Consumption: ~1 sel; LT Ball Mill: +3 baris; LT Floculation: +1 baris, ~12 sel, -8 baris; Milling and Leach Feed: +2 baris, ~350 sel, -1 baris; Reagent Consumption: ~4 sel; Rom File Inventory: ~20 sel
+~ Au Cal Leaching Tank!AE19 "Lab AAS Result Tail" [10]: (kosong) → 0.146
+~ Au Cal Leaching Tank!AF19 [10]: (kosong) → 0.673333
+~ Au Cal Leaching Tank!AG19 [10]: (kosong) → 18.85
+~ Au Cal Leaching Tank!AN19 "Metal Content Calculated" [10]: 0 → 56.862228
+~ Au Cal Leaching Tank!AO19 [10]: 0 → 262.241324
+~ Au Cal Leaching Tank!AP19 [10]: 0 → 7341.458841
+~ Au Cal Leaching Tank!AS19 "Estimasi %Recovery Metal" [10]: 0.860331 → 0.683555
+~ Au Cal Leaching Tank!AT19 [10]: 1 → 0.408863
+~ Au Cal Leaching Tank!AU19 [10]: 1 → -0.054391
+~ Au Cal Leaching Tank!AX19 "Estimasi Lab AAS Loaded " [10]: 669.630497 → 631.722345
+~ Au Cal Leaching Tank!AY19 [10]: 636.867251 → 462.039702
+~ Au Cal Leaching Tank!AZ19 [10]: 5700.628662 → 806.322768
+~ Au Cal Leaching Tank!BB19 "Estimasi Metal Content R" [10]: 276.736572 → 219.874344
+~ Au Cal Leaching Tank!BC19 [10]: 443.621815 → 181.380491
+~ Au Cal Leaching Tank!BD19 [10]: 6962.746872 → -378.711968
+~ Au Cal Leaching Tank!W20 "Head Grade LF Ball Mill" [11]: (kosong) → 0.729111
+~ Au Cal Leaching Tank!X20 [11]: (kosong) → 1.361111
+~ Au Cal Leaching Tank!Y20 [11]: (kosong) → 18.117778
+~ Au Cal Leaching Tank!Z20 "Lab AAS Result (gpt)" [11]: 0 → 0.872064
+~ Au Cal Leaching Tank!AA20 [11]: 0 → 1.817335
+~ Au Cal Leaching Tank!AB20 [11]: (kosong) → 23.221788
+~ Au Cal Leaching Tank!AC20 "Au Variance" [11]: (kosong) → 0.142953
+~ Au Cal Leaching Tank!AD20 "%Different" [11]: (kosong) → 0.04464
++ Au Cal Leaching Tank baris 22 [13] ditambahkan: AW·Carbon=1.5
++ Au Cal Leaching Tank baris 23 [14] ditambahkan: AW·Carbon=1.5
+~ Au Cal Leaching Tank!D60 "Estimasi" [51]: 8.320214 → 9.133731
+~ Au Cal Leaching Tank!W60 "Head Grade LF Ball Mill" [51]: 0.697093 → 0.700004
+~ Au Cal Leaching Tank!X60 [51]: 0.701124 → 0.761123
+~ Au Cal Leaching Tank!Y60 [51]: 10.387547 → 11.090295
+~ Au Cal Leaching Tank!Z60 "Lab AAS Result (gpt)" [51]: 0.61696 → 0.696239
+~ Au Cal Leaching Tank!AA60 [51]: 0.616648 → 0.78186
+~ Au Cal Leaching Tank!AB60 [51]: 10.123869 → 11.314589
+~ Au Cal Leaching Tank!AE60 "Lab AAS Result Tail" [51]: 0.083206 → 0.089486
+~ Au Cal Leaching Tank!AF60 [51]: 0.272346 → 0.312444
+~ Au Cal Leaching Tank!AG60 [51]: 8.562907 → 9.591617
+~ Au Cal Leaching Tank!AK60 "Metal Content Head Grade" [51]: (kosong) → 2282.376618
+~ Au Cal Leaching Tank!AL60 [51]: (kosong) → 2367.86595
+~ Au Cal Leaching Tank!AM60 [51]: (kosong) → 35479.693012
+~ Au Cal Leaching Tank!AN60 "Metal Content Calculated" [51]: (kosong) → 296.723994
+~ Au Cal Leaching Tank!AO60 [51]: (kosong) → 1076.613741
+~ Au Cal Leaching Tank!AP60 [51]: (kosong) → 33103.455398
+~ Au Cal Leaching Tank!AQ60 [51]: (kosong) → 163.974575
+~ Au Cal Leaching Tank!AS60 "Estimasi %Recovery Metal" [51]: 0.81421 → 0.796533
+~ Au Cal Leaching Tank!AT60 [51]: 0.614573 → 0.555459
+~ Au Cal Leaching Tank!AU60 [51]: 0.202366 → 0.096927
+~ Au Cal Leaching Tank!M61 "Solid (Ton)" [52]: 3254.442605 → 3605.216405
+~ Au Cal Leaching Tank!BB61 "Estimasi Metal Content R" [52]: 1878.540277 → 1821.67805
+~ Au Cal Leaching Tank!BC61 [52]: 1553.493533 → 1291.252209
+~ Au Cal Leaching Tank!BD61 [52]: 9717.696454 → 2376.237614
+~ Au Cal Leaching Tank!W62 "Head Grade LF Ball Mill": 0.644875 → 0.684
+~ Au Cal Leaching Tank!X62: 0.663611 → 0.668333
+~ Au Cal Leaching Tank!Y62: 9.109861 → 9.150833
+~ Au Cal Leaching Tank!Z62 "Lab AAS Result (gpt)": 0.614642 → 0.658974
+~ Au Cal Leaching Tank!AA62: 0.594185 → 0.652418
+~ Au Cal Leaching Tank!AB62: 9.225613 → 9.350406
+~ Au Cal Leaching Tank!E63 "Tank CIP": (kosong) → 544.022713
+~ Au Cal Leaching Tank!AK63 "Metal Content Head Grade": 1847.158452 → 1821.67805
+~ Au Cal Leaching Tank!BB63 "Estimasi Metal Content R": 1690.68625 → 1639.510245
++ Au Cal Leaching Tank baris 64 ditambahkan: E·Tank CIP=19.417824, F·Date start=Tph
++ Au Cal Leaching Tank baris 65 ditambahkan: E·Tank CIP=9.084571
+~ Au Cal Leaching Tank!J67 "Volume Slurry (m3)": 197.733333 → 394.733333
+~ Au Cal Leaching Tank!M67 "Solid (Ton)": 16.458745 → 9.133296
+~ Au Cal Leaching Tank!O67 "Sg Slurry": 395.009891 → 219.199106
+~ Au Cal Leaching Tank!T67 "Solid on Tank,": 16.744444 → 24.952778
+~ Au Cal Leaching Tank!J68 "Volume Slurry (m3)": 8.238889 → 16.447222
+~ Au Cal Leaching Tank!L68 "%solid": (kosong) → 8.505556
+~ Au Cal Leaching Tank!L70 "%solid": 197.733333 → 394.733333
+~ Au Cal Leaching Tank!L72 "%solid": 401.866667 → 598.866667
+~ Au Cal Leaching Tank!L73 "%solid": 0.492037 → 0.659134
+~ Au Cal Leaching Tank!L74 "%solid": 16.458745 → 9.133296
+~ Au Cal Leaching Tank!L75 "%solid": 395.009891 → 219.199106
+~ Au Cal Leaching Tank!L76 "%solid": 16.744444 → 24.952778
+~ Au Cal Leaching Tank!L77 "%solid": 0.507963 → 0.340866
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 12.238655 → 11.04788
++ LT Ball Mill baris 124 [121] ditambahkan: F·au (g/t)=0.75, G·ag (g/t)=1.24, H·Cu (g/t)=20.04
++ LT Ball Mill baris 125 [122] ditambahkan: F·au (g/t)=0.712, G·ag (g/t)=1.12, H·Cu (g/t)=19.91
++ LT Ball Mill baris 126 [123] ditambahkan: F·au (g/t)=0.728, G·ag (g/t)=1.29, H·Cu (g/t)=20.12
++ LT Floculation baris 15 [10] ditambahkan: G·Lab AAS Result=0.146, H=0.673333, I=18.85
+- LT Floculation baris 69 dikosongkan: P=10
+- LT Floculation baris 70 dikosongkan: P=10
+~ LT Floculation!P71: 10 → (kosong)
+~ LT Floculation!R71: (kosong) → 0.158
+~ LT Floculation!S71: (kosong) → 0.65
+~ LT Floculation!T71: (kosong) → 18.88
+~ LT Floculation!P72: 10 → (kosong)
+~ LT Floculation!R72: (kosong) → 0.146
+~ LT Floculation!S72: (kosong) → 0.68
+~ LT Floculation!T72: (kosong) → 18.93
+~ LT Floculation!P73: 10 → (kosong)
+~ LT Floculation!R73: (kosong) → 0.134
+~ LT Floculation!S73: (kosong) → 0.69
+~ LT Floculation!T73: (kosong) → 18.74
+- LT Floculation baris 74 dikosongkan: P=10
+- LT Floculation baris 75 dikosongkan: P=10
+- LT Floculation baris 76 dikosongkan: P=10
+- LT Floculation baris 77 dikosongkan: P=10
+- LT Floculation baris 78 dikosongkan: P=10
+- LT Floculation baris 79 dikosongkan: P=10
+~ Milling and Leach Feed!AI6: 1230 → 1240
+~ Milling and Leach Feed!AI8: 1.23 → 1.24
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.356984 → 0.369501
+~ Milling and Leach Feed!AI12: 439.090909 → 458.181818
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 790.909091 → 781.818182
+~ Milling and Leach Feed!AA51: 9.6 → 2.4
+~ Milling and Leach Feed!A55 [11]: 11 → (kosong)
+~ Milling and Leach Feed!D55 [11]: Septian/Nipto → Kristo
+~ Milling and Leach Feed!E55 [11]: Batch 11 Tank 2 mulai start pengisian... → Start Batch 11 Tank 2 Mulai jam 13:30
+~ Milling and Leach Feed!F55 [11]: Night → Day
+~ Milling and Leach Feed!G55 [11]: 0.38 → 0.36
+~ Milling and Leach Feed!H55 "Milling And Leach Feed M" [11]: 521.27255 → 152.636485
+~ Milling and Leach Feed!I55 [11]: 43.439379 → (kosong)
+~ Milling and Leach Feed!J55 [11]: 629.12255 → 260.636485
+~ Milling and Leach Feed!K55 [11]: 1.25 → 1.24
+~ Milling and Leach Feed!L55 [11]: 0.77 → 0.74
+~ Milling and Leach Feed!M55 [11]: 258.713011 → 76.227927
+~ Milling and Leach Feed!P55 [11]: 12 → (kosong)
+~ Milling and Leach Feed!Q55 [11]: 720 → (kosong)
+~ Milling and Leach Feed!R55 [11]: 0 → (kosong)
+~ Milling and Leach Feed!T55 [11]: 0.579667 → 0.877667
+~ Milling and Leach Feed!U55 [11]: 1.853333 → 1.013333
+~ Milling and Leach Feed!V55 [11]: 17.643333 → 16.686667
+~ Milling and Leach Feed!W55 [11]: 149.967309 → 66.902711
+~ Milling and Leach Feed!X55 [11]: 479.481448 → 77.244299
+~ Milling and Leach Feed!Y55 [11]: 4564.559895 → 1271.990007
+~ Milling and Leach Feed!Z55 [11]: 7 → 2.9
+~ Milling and Leach Feed!AA55 [11]: 83.305642 → (kosong)
+~ Milling and Leach Feed!AG55 [11]: 83 → (kosong)
+~ Milling and Leach Feed!A56 [11]: (kosong) → 11
+~ Milling and Leach Feed!B56 "PIC" [11]: 25-09-2026 00:00 → (kosong)
+~ Milling and Leach Feed!D56 [11]: Kristo → Septian/Nipto
+~ Milling and Leach Feed!E56 [11]: Batch 11 Tank 2 → Batch 11 Tank 2 mulai start pengisian...
+~ Milling and Leach Feed!F56 [11]: Day → Night
+~ Milling and Leach Feed!G56 [11]: 0.35 → 0.38
+~ Milling and Leach Feed!H56 "Milling And Leach Feed M" [11]: 251.64902 → 521.27255
+~ Milling and Leach Feed!I56 [11]: 27.010628 → 43.439379
+~ Milling and Leach Feed!J56 [11]: 880.77157 → 629.12255
+~ Milling and Leach Feed!K56 [11]: 1.23 → 1.25
+~ Milling and Leach Feed!L56 [11]: (kosong) → 0.77
+~ Milling and Leach Feed!M56 [11]: 80.33895 → 182.485084
+~ Milling and Leach Feed!P56 [11]: 9.316667 → 12
+~ Milling and Leach Feed!Q56 [11]: 559 → 720
+~ Milling and Leach Feed!R56 [11]: 161 → 0
+~ Milling and Leach Feed!S56 [11]: (kosong) → 350.659272
+~ Milling and Leach Feed!T56 [11]: (kosong) → 0.579667
+~ Milling and Leach Feed!U56 [11]: (kosong) → 1.853333
+~ Milling and Leach Feed!V56 [11]: (kosong) → 17.643333
+~ Milling and Leach Feed!W56 [11]: 0 → 105.780521
+~ Milling and Leach Feed!X56 [11]: 0 → 338.20569
+~ Milling and Leach Feed!Y56 [11]: 0 → 3219.645171
+~ Milling and Leach Feed!Z56 [11]: 9.8 → 7
+~ Milling and Leach Feed!AA56 [11]: (kosong) → 39.118854
+~ Milling and Leach Feed!AG56 [11]: 82 → 83
+~ Milling and Leach Feed!B57 "PIC" [25-09-2026 00:00]: (kosong) → 25-09-2026 00:00
+~ Milling and Leach Feed!D57 [25-09-2026 00:00]: Septian/Nipto → Kristo
+~ Milling and Leach Feed!E57 [25-09-2026 00:00]: Finish Pump tank 2 batch 11, jam 07:00 → Batch 11 Tank 2
+~ Milling and Leach Feed!F57 [25-09-2026 00:00]: Night → Day
+~ Milling and Leach Feed!H57 "Milling And Leach Feed M" [25-09-2026 00:00]: 26.962395 → 251.64902
+~ Milling and Leach Feed!I57 [25-09-2026 00:00]: (kosong) → 27.010628
+~ Milling and Leach Feed!J57 [25-09-2026 00:00]: 907.733965 → 880.77157
+~ Milling and Leach Feed!M57 [25-09-2026 00:00]: 11.607311 → 80.33895
+~ Milling and Leach Feed!N57 [25-09-2026 00:00]: (kosong) → 91.946261
+~ Milling and Leach Feed!P57 [25-09-2026 00:00]: 0 → 9.316667
+~ Milling and Leach Feed!Q57 [25-09-2026 00:00]: 0 → 559
+~ Milling and Leach Feed!R57 [25-09-2026 00:00]: 720 → 161
+~ Milling and Leach Feed!T57 [25-09-2026 00:00]: (kosong) → 0.73
+~ Milling and Leach Feed!U57 [25-09-2026 00:00]: (kosong) → 1.216667
+~ Milling and Leach Feed!V57 [25-09-2026 00:00]: (kosong) → 20.023333
+~ Milling and Leach Feed!W57 [25-09-2026 00:00]: 0 → 133.214112
+~ Milling and Leach Feed!X57 [25-09-2026 00:00]: 0 → 222.023519
+~ Milling and Leach Feed!Y57 [25-09-2026 00:00]: 0 → 3653.959672
+~ Milling and Leach Feed!Z57 [25-09-2026 00:00]: 10.1 → 9.8
+~ Milling and Leach Feed!AG57 [25-09-2026 00:00]: 83 → 82
+~ Milling and Leach Feed!B58 "PIC" [26-09-2026 00:00]: 26-09-2026 00:00 → (kosong)
+~ Milling and Leach Feed!D58 [26-09-2026 00:00]: (kosong) → Septian/Nipto
+~ Milling and Leach Feed!E58 [26-09-2026 00:00]: (kosong) → Finish Pump tank 2 batch 11, jam 07:00
+~ Milling and Leach Feed!F58 [26-09-2026 00:00]: Day → Night
+~ Milling and Leach Feed!G58 [26-09-2026 00:00]: (kosong) → 0.35
+~ Milling and Leach Feed!H58 "Milling And Leach Feed M" [26-09-2026 00:00]: (kosong) → 26.962395
+~ Milling and Leach Feed!J58 [26-09-2026 00:00]: (kosong) → 907.733965
+~ Milling and Leach Feed!K58 [26-09-2026 00:00]: (kosong) → 1.23
+~ Milling and Leach Feed!L58 [26-09-2026 00:00]: (kosong) → 0.77
+~ Milling and Leach Feed!M58 [26-09-2026 00:00]: 0 → 11.607311
+~ Milling and Leach Feed!P58 [26-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Q58 [26-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!R58 [26-09-2026 00:00]: (kosong) → 720
+~ Milling and Leach Feed!W58 [26-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!X58 [26-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Y58 [26-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Z58 [26-09-2026 00:00]: (kosong) → 10.1
+~ Milling and Leach Feed!AG58 [26-09-2026 00:00]: 80 → 83
+~ Milling and Leach Feed!B59 "PIC" [26-09-2026 00:00]: (kosong) → 26-09-2026 00:00
+~ Milling and Leach Feed!F59 [26-09-2026 00:00]: Night → Day
+~ Milling and Leach Feed!P59 [26-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!R59 [26-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!B60 "PIC" [27-09-2026 00:00]: 27-09-2026 00:00 → (kosong)
+~ Milling and Leach Feed!F60 [27-09-2026 00:00]: Day → Night
+~ Milling and Leach Feed!P60 [27-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!R60 [27-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AG60 [27-09-2026 00:00]: 78 → 80
+~ Milling and Leach Feed!B61 "PIC" [27-09-2026 00:00]: (kosong) → 27-09-2026 00:00
+- ...dan 299 perubahan lain tidak ditampilkan
+_Dibandingkan 13217 sel dari 19 sheet._
+
 ## 26 Sep 2026 · 13:21 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~3 sel; Daily Summary : +7 baris, ~32 sel; Milling and Leach Feed: ~12 sel; Rom File Inventory: +75 baris, ~5 sel
 + Au Cal Leaching Tank baris 20 [11] ditambahkan: C·Running Hours=21.316667, D·Estimasi=16.455378, F·Date start=26-09-2026 00:00, G·Time Start=07:00:00, J·Volume Slurry (m3)=908, K·Carbon (gpl)=1.651982, L·%solid=0.35, M·Solid (Ton)=390.894, ...
