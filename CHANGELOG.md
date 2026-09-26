@@ -5,6 +5,24 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Sep 2026 · 08:32 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~11 sel, -2 baris
++ Sheet "STP" ditambahkan
+- Daily Summary  baris 7 [01-06-2026 00:00] dikosongkan: E=#DIV/0!
+- Daily Summary  baris 44 [20-09-2026 00:00] dikosongkan: F=#DIV/0!, G=#DIV/0!, H=#DIV/0!
+~ Daily Summary !G56 [Total]: #DIV/0! → 2432.568107
+~ Daily Summary !E57 [Average]: #DIV/0! → 19.510501
+~ Daily Summary !F57 [Average]: #DIV/0! → 0.821653
+~ Daily Summary !O57 "Gold Rom ( Elution and E" [Average]: #DIV/0! → (kosong)
+~ Daily Summary !P57 [Average]: #DIV/0! → (kosong)
+~ Daily Summary !Q57 [Average]: #DIV/0! → (kosong)
+~ Daily Summary !F59: #DIV/0! → 0.675882
+~ Daily Summary !X61: #DIV/0! → 0.675882
+~ Daily Summary !X62: #DIV/0! → 0.821653
+~ Daily Summary !G63: #DIV/0! → 0.537475
+~ Daily Summary !X68: #DIV/0! → 19.510501
+_Dibandingkan 12843 sel dari 19 sheet._
+
 ## 26 Sep 2026 · 02:06 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~37 sel; LT Ball Mill: +6 baris; Milling and Leach Feed: ~12 sel
 ~ Au Cal Leaching Tank!W19 "Head Grade LF Ball Mill" [10]: 0.833733 → 0.825905
