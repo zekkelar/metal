@@ -5,6 +5,145 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Sep 2026 · 13:21 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~3 sel; Daily Summary : +7 baris, ~32 sel; Milling and Leach Feed: ~12 sel; Rom File Inventory: +75 baris, ~5 sel
++ Au Cal Leaching Tank baris 20 [11] ditambahkan: C·Running Hours=21.316667, D·Estimasi=16.455378, F·Date start=26-09-2026 00:00, G·Time Start=07:00:00, J·Volume Slurry (m3)=908, K·Carbon (gpl)=1.651982, L·%solid=0.35, M·Solid (Ton)=390.894, ...
+~ Au Cal Leaching Tank!C60 "Running Hours" [51]: 37.341667 → 35.884848
+~ Au Cal Leaching Tank!M60 "Solid (Ton)" [51]: 366.433031 → 368.656755
+~ Au Cal Leaching Tank!C61 "Running Hours" [52]: 373.416667 → 394.733333
+~ Daily Summary !F42 [18-09-2026 00:00]: 0.675882 → 0.585941
+~ Daily Summary !G42 [18-09-2026 00:00]: 136.014565 → 117.914802
+~ Daily Summary !H42 [18-09-2026 00:00]: 0.136015 → 0.117915
+~ Daily Summary !F43 [19-09-2026 00:00]: 0.675882 → 0.585941
+~ Daily Summary !G43 [19-09-2026 00:00]: 217.531924 → 188.584465
+~ Daily Summary !H43 [19-09-2026 00:00]: 0.217532 → 0.188584
++ Daily Summary  baris 44 [20-09-2026 00:00] ditambahkan: F=0.866462, G=181.947392, H=0.181947
+~ Daily Summary !F45 [21-09-2026 00:00]: (kosong) → 0.7489
+~ Daily Summary !G45 [21-09-2026 00:00]: 0 → 186.049227
+~ Daily Summary !H45 [21-09-2026 00:00]: 0 → 0.186049
+~ Daily Summary !F46 [22-09-2026 00:00]: (kosong) → 1.21225
+~ Daily Summary !G46 [22-09-2026 00:00]: 0 → 150.910578
+~ Daily Summary !H46 [22-09-2026 00:00]: 0 → 0.150911
+~ Daily Summary !L46 [22-09-2026 00:00]: (kosong) → 0.885417
+~ Daily Summary !N46 "Plant Usability" [22-09-2026 00:00]: 0 → 0.885417
+~ Daily Summary !F47 [23-09-2026 00:00]: (kosong) → 0.734333
+~ Daily Summary !G47 [23-09-2026 00:00]: 0 → 275.957767
+~ Daily Summary !H47 [23-09-2026 00:00]: 0 → 0.275958
+~ Daily Summary !L47 [23-09-2026 00:00]: (kosong) → 0.8125
+~ Daily Summary !N47 "Plant Usability" [23-09-2026 00:00]: 0 → 0.8125
+~ Daily Summary !F48 [24-09-2026 00:00]: (kosong) → 0.65225
+~ Daily Summary !G48 [24-09-2026 00:00]: 0 → 133.880574
+~ Daily Summary !H48 [24-09-2026 00:00]: 0 → 0.133881
+~ Daily Summary !L48 [24-09-2026 00:00]: (kosong) → 1
+~ Daily Summary !L49 [25-09-2026 00:00]: (kosong) → 0.388194
+~ Daily Summary !N49 "Plant Usability" [25-09-2026 00:00]: 0 → 0.388194
++ Daily Summary  baris 50 [26-09-2026 00:00] ditambahkan: L=0
++ Daily Summary  baris 51 [27-09-2026 00:00] ditambahkan: L=0
++ Daily Summary  baris 52 [28-09-2026 00:00] ditambahkan: L=0
++ Daily Summary  baris 53 [29-09-2026 00:00] ditambahkan: L=0
++ Daily Summary  baris 54 [30-09-2026 00:00] ditambahkan: L=0
++ Daily Summary  baris 55 [01-10-2026 00:00] ditambahkan: L=0
+~ Daily Summary !G56 [Total]: 2432.568107 → 3314.266423
+~ Daily Summary !F57 [Average]: 0.821653 → 0.818291
+~ Daily Summary !L57 [Average]: 0.379167 → 0.416534
+~ Daily Summary !F59: 0.675882 → 0.702611
+~ Daily Summary !X61: 0.675882 → 0.702611
+~ Daily Summary !X62: 0.821653 → 0.818291
+~ Daily Summary !G63: 0.540347 → 0.736199
+~ Milling and Leach Feed!AI6: 1220 → 1230
+~ Milling and Leach Feed!AI8: 1.22 → 1.23
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.344262 → 0.356984
+~ Milling and Leach Feed!AI12: 420 → 439.090909
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 800 → 790.909091
+~ Milling and Leach Feed!E57: (kosong) → Finish Pump tank 2 batch 11, jam 07:00
+~ Milling and Leach Feed!H57 "Milling And Leach Feed M": 17.97493 → 26.962395
+~ Milling and Leach Feed!I57: #DIV/0! → (kosong)
+~ Milling and Leach Feed!J57: 898.7465 → 907.733965
+~ Milling and Leach Feed!M57: 7.738207 → 11.607311
+~ Milling and Leach Feed!Z57: 10 → 10.1
+~ Milling and Leach Feed!M99 [Average]: 3601.145271 → 3605.014375
+~ Rom File Inventory!Z9 [2]: 0.762634 → 0.773302
+~ Rom File Inventory!Z10 [3]: 0.6075 → 0.613
+~ Rom File Inventory!Z13 [6]: 0.056613 → 0.057816
+~ Rom File Inventory!Z14 [7]: 0.155134 → 0.160302
+~ Rom File Inventory!Z15 [8]: 0.577673 → 0.556068
++ Rom File Inventory baris 173 ditambahkan: R=Crusher 23:00, S=20-09-2026 00:00, T=1.106
++ Rom File Inventory baris 174 ditambahkan: R=Crusher 24:00, S=20-09-2026 00:00, T=1.097
++ Rom File Inventory baris 175 ditambahkan: R=Crusher 01:00, S=21-09-2026 00:00, T=0.777
++ Rom File Inventory baris 176 ditambahkan: R=Crusher 02:00, S=21-09-2026 00:00, T=1.233
++ Rom File Inventory baris 177 ditambahkan: R=Crusher 03:00, S=21-09-2026 00:00, T=1.057
++ Rom File Inventory baris 178 ditambahkan: R=Crusher 04:00, S=21-09-2026 00:00, T=0.593
++ Rom File Inventory baris 179 ditambahkan: R=Crusher 05:00, S=21-09-2026 00:00, T=1.234
++ Rom File Inventory baris 180 ditambahkan: R=Crusher 09:00, S=21-09-2026 00:00, T=0.469
++ Rom File Inventory baris 181 ditambahkan: R=Crusher 10:00, S=21-09-2026 00:00, T=0.523
++ Rom File Inventory baris 182 ditambahkan: R=Crusher 11:00, S=21-09-2026 00:00, T=1.629
++ Rom File Inventory baris 183 ditambahkan: R=Crusher 13:00, S=21-09-2026 00:00, T=0.508
++ Rom File Inventory baris 184 ditambahkan: R=Crusher 14:00, S=21-09-2026 00:00, T=0.513
++ Rom File Inventory baris 185 ditambahkan: R=Crusher 15:00, S=21-09-2026 00:00, T=0.996
++ Rom File Inventory baris 186 ditambahkan: R=Crusher 16:00, S=21-09-2026 00:00, T=0.575
++ Rom File Inventory baris 187 ditambahkan: R=Crusher 17:00, S=21-09-2026 00:00, T=0.51
++ Rom File Inventory baris 188 ditambahkan: R=Crusher 18:00, S=21-09-2026 00:00, T=1.131
++ Rom File Inventory baris 189 ditambahkan: R=Crusher 19:00, S=21-09-2026 00:00, T=0.635
++ Rom File Inventory baris 190 ditambahkan: R=Crusher 11:00, S=22-09-2026 00:00, T=1.098
++ Rom File Inventory baris 191 ditambahkan: R=Crusher 13:00, S=22-09-2026 00:00, T=1.464
++ Rom File Inventory baris 192 ditambahkan: R=Crusher 14:00, S=22-09-2026 00:00, T=0.908
++ Rom File Inventory baris 193 ditambahkan: R=Crusher 15:00, S=22-09-2026 00:00, T=1.379
++ Rom File Inventory baris 194 ditambahkan: R=Crusher 14:00, S=23-09-2026 00:00, T=0.88
++ Rom File Inventory baris 195 ditambahkan: R=Crusher 15:00, S=23-09-2026 00:00, T=0.509
++ Rom File Inventory baris 196 ditambahkan: R=Crusher 16:00, S=23-09-2026 00:00, T=0.388
++ Rom File Inventory baris 197 ditambahkan: R=Crusher 17:00, S=23-09-2026 00:00, T=0.327
++ Rom File Inventory baris 198 ditambahkan: R=Crusher 20:00, S=23-09-2026 00:00, T=0.477
++ Rom File Inventory baris 199 ditambahkan: R=Crusher 21:00, S=23-09-2026 00:00, T=0.342
++ Rom File Inventory baris 200 ditambahkan: R=Crusher 22:00, S=23-09-2026 00:00, T=0.675
++ Rom File Inventory baris 201 ditambahkan: R=Crusher 23:00, S=23-09-2026 00:00, T=0.302
++ Rom File Inventory baris 202 ditambahkan: R=Crusher 00:00, S=24-09-2026 00:00, T=0.979
++ Rom File Inventory baris 203 ditambahkan: R=Crusher 02:00, S=24-09-2026 00:00, T=2.256
++ Rom File Inventory baris 204 ditambahkan: R=Crusher 03:00, S=24-09-2026 00:00, T=0.831
++ Rom File Inventory baris 205 ditambahkan: R=Crusher 04:00, S=24-09-2026 00:00, T=0.846
++ Rom File Inventory baris 206 ditambahkan: R=Crusher 15:00, S=24-09-2026 00:00, T=0.279
++ Rom File Inventory baris 207 ditambahkan: Q·Assay Lab Result=211, R=Crusher 16:00, S=24-09-2026 00:00, T=0.208
++ Rom File Inventory baris 208 ditambahkan: Q·Assay Lab Result=212, R=Crusher 17:00, S=24-09-2026 00:00, T=0.61
++ Rom File Inventory baris 209 ditambahkan: Q·Assay Lab Result=213, R=Crusher 18:00, S=24-09-2026 00:00, T=1.219
++ Rom File Inventory baris 210 ditambahkan: Q·Assay Lab Result=214, R=Crusher 19:00, S=24-09-2026 00:00, T=0.572
++ Rom File Inventory baris 211 ditambahkan: Q·Assay Lab Result=215
++ Rom File Inventory baris 212 ditambahkan: Q·Assay Lab Result=216
++ Rom File Inventory baris 213 ditambahkan: Q·Assay Lab Result=217
++ Rom File Inventory baris 214 ditambahkan: Q·Assay Lab Result=218
++ Rom File Inventory baris 215 ditambahkan: Q·Assay Lab Result=219
++ Rom File Inventory baris 216 ditambahkan: Q·Assay Lab Result=220
++ Rom File Inventory baris 217 ditambahkan: Q·Assay Lab Result=221
++ Rom File Inventory baris 218 ditambahkan: Q·Assay Lab Result=222
++ Rom File Inventory baris 219 ditambahkan: Q·Assay Lab Result=223
++ Rom File Inventory baris 220 ditambahkan: Q·Assay Lab Result=224
++ Rom File Inventory baris 221 ditambahkan: Q·Assay Lab Result=225
++ Rom File Inventory baris 222 ditambahkan: Q·Assay Lab Result=226
++ Rom File Inventory baris 223 ditambahkan: Q·Assay Lab Result=227
++ Rom File Inventory baris 224 ditambahkan: Q·Assay Lab Result=228
++ Rom File Inventory baris 225 ditambahkan: Q·Assay Lab Result=229
++ Rom File Inventory baris 226 ditambahkan: Q·Assay Lab Result=230
++ Rom File Inventory baris 227 ditambahkan: Q·Assay Lab Result=231
++ Rom File Inventory baris 228 ditambahkan: Q·Assay Lab Result=232
++ Rom File Inventory baris 229 ditambahkan: Q·Assay Lab Result=233
++ Rom File Inventory baris 230 ditambahkan: Q·Assay Lab Result=234
++ Rom File Inventory baris 231 ditambahkan: Q·Assay Lab Result=235
++ Rom File Inventory baris 232 ditambahkan: Q·Assay Lab Result=236
++ Rom File Inventory baris 233 ditambahkan: Q·Assay Lab Result=237
++ Rom File Inventory baris 234 ditambahkan: Q·Assay Lab Result=238
++ Rom File Inventory baris 235 ditambahkan: Q·Assay Lab Result=239
++ Rom File Inventory baris 236 ditambahkan: Q·Assay Lab Result=240
++ Rom File Inventory baris 237 ditambahkan: Q·Assay Lab Result=241
++ Rom File Inventory baris 238 ditambahkan: Q·Assay Lab Result=242
++ Rom File Inventory baris 239 ditambahkan: Q·Assay Lab Result=243
++ Rom File Inventory baris 240 ditambahkan: Q·Assay Lab Result=244
++ Rom File Inventory baris 241 ditambahkan: Q·Assay Lab Result=245
++ Rom File Inventory baris 242 ditambahkan: Q·Assay Lab Result=246
++ Rom File Inventory baris 243 ditambahkan: Q·Assay Lab Result=247
++ Rom File Inventory baris 244 ditambahkan: Q·Assay Lab Result=248
++ Rom File Inventory baris 245 ditambahkan: Q·Assay Lab Result=249
++ Rom File Inventory baris 246 ditambahkan: Q·Assay Lab Result=250
++ Rom File Inventory baris 247 ditambahkan: Q·Assay Lab Result=251
+_Dibandingkan 13160 sel dari 19 sheet._
+
 ## 26 Sep 2026 · 11:20 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~7 sel; Crushing: +1 baris, ~19 sel; Daily Summary : ~15 sel; Filter Press: +9 baris, ~8 sel; LT Ball Mill: +9 baris; Milling Down Time Hours: +1 baris, ~21 sel; Milling and Leach Feed: +1 baris, ~38 sel; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: +2 baris, ~58 sel, -1 baris
 + Sheet "Stock File Management" ditambahkan
