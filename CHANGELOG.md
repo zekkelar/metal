@@ -5,6 +5,24 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 28 Sep 2026 · 19:39 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Milling and Leach Feed: +1 baris, ~12 sel
+~ Milling and Leach Feed!D63 [28-09-2026 00:00]: (kosong) → Septian/Nipto
+~ Milling and Leach Feed!E63 [28-09-2026 00:00]: (kosong) → Batch 12 Tank 3
+~ Milling and Leach Feed!G63 [28-09-2026 00:00]: (kosong) → 0.35
+~ Milling and Leach Feed!H63 "Milling And Leach Feed M" [28-09-2026 00:00]: (kosong) → 188.736765
+~ Milling and Leach Feed!I63 [28-09-2026 00:00]: (kosong) → 15.728064
+~ Milling and Leach Feed!J63 [28-09-2026 00:00]: (kosong) → 530.260435
+~ Milling and Leach Feed!K63 [28-09-2026 00:00]: (kosong) → 1.23
+~ Milling and Leach Feed!M63 [28-09-2026 00:00]: 0 → 81.251177
+~ Milling and Leach Feed!Z63 [28-09-2026 00:00]: (kosong) → 5.9
++ Milling and Leach Feed baris 64 ditambahkan: P=12, Q=720
+~ Milling and Leach Feed!M100 [Average]: 3709.415419 → 3790.666596
+~ Milling and Leach Feed!P100 [Average]: 442.733333 → 454.733333
+~ Milling and Leach Feed!Q100 [Average]: 26564 → 27284
+~ rumus Milling and Leach Feed!R64: ='Milling Down Time Hours'!L69 → ='Milling Down Time Hours'!G62
+_Dibandingkan 13607 sel dari 19 sheet._
+
 ## 28 Sep 2026 · 10:48 · Production Report June 2026_DYAN New Anjim3.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~2 sel; Filter Press: +1 baris, ~16 sel; LT Floculation: +4 baris; Milling Down Time Hours: ~32 sel; Milling and Leach Feed: +2 baris, ~45 sel; Reagent Consumption: +2 baris, ~53 sel, -1 baris
 ~ Daily Summary !Z37 "Consumption" [13-09-2026 00:00]: 0 → 150
