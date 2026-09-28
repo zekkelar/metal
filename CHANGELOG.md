@@ -5,6 +5,168 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 28 Sep 2026 · 10:48 · Production Report June 2026_DYAN New Anjim3.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~2 sel; Filter Press: +1 baris, ~16 sel; LT Floculation: +4 baris; Milling Down Time Hours: ~32 sel; Milling and Leach Feed: +2 baris, ~45 sel; Reagent Consumption: +2 baris, ~53 sel, -1 baris
+~ Daily Summary !Z37 "Consumption" [13-09-2026 00:00]: 0 → 150
+~ Daily Summary !Z56 "Consumption" [Total]: 5125 → 5275
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 3096.54 → 3142.86
+~ Filter Press!G38 [38]: 0.21 → 0.24
+~ Filter Press!H38 [38]: 42.66 → 41.04
+~ Filter Press!N38 [38]: (kosong) → 0
+~ Filter Press!G39 [39]: 0.21 → 0.25
+~ Filter Press!H39 [39]: 37.92 → 36
+~ Filter Press!M39 [39]: (kosong) → 3
+~ Filter Press!N39 [39]: (kosong) → 36
+~ Filter Press!O39 [39]: (kosong) → 0.24
+~ Filter Press!P39 [39]: (kosong) → 27.36
++ Filter Press baris 40 [40] ditambahkan: C=27-09-2026 00:00, D=Day, F=0
+~ Filter Press!C41 [41]: (kosong) → 27-09-2026 00:00
+~ Filter Press!D41 [41]: (kosong) → Night
+~ Filter Press!E41 [41]: (kosong) → 5
+~ Filter Press!F41 [41]: (kosong) → 30
+~ Filter Press!G41 [41]: (kosong) → 0.25
+~ Filter Press!H41 [41]: 0 → 22.5
++ LT Floculation baris 16 [11] ditambahkan: C·Tanggal=27-09-2026 00:00, D·Shift=Day, J=0.037, K·Batch Process=11
++ LT Floculation baris 86 ditambahkan: O=LT-Floc DS 1, Q=28-09-2026 00:00
++ LT Floculation baris 87 ditambahkan: O=LT-Floc DS 2, Q=28-09-2026 00:00
++ LT Floculation baris 88 ditambahkan: O=LT-Floc DS 3, Q=28-09-2026 00:00
+~ Milling Down Time Hours!D57 "PIC" [26-09-2026 00:00]: (kosong) → Septian
+~ Milling Down Time Hours!E57 "Stop Time" [26-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F57 "Start Time" [26-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G57 "Down Time (Mins)" [26-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!H57 "Reason" [26-09-2026 00:00]: (kosong) → Perbaikan bearing thickener, dan perb...
+~ Milling Down Time Hours!J57 "Running Time Hour/Shift" [26-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K57 "Availibility per Shift" [26-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!L57 "Availibility Per Day" [26-09-2026 00:00]: (kosong) → 0
+~ Milling Down Time Hours!D58 "PIC" [26-09-2026 00:00]: (kosong) → Kristo
+~ Milling Down Time Hours!E58 "Stop Time" [26-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F58 "Start Time" [26-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G58 "Down Time (Mins)" [26-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!H58 "Reason" [26-09-2026 00:00]: (kosong) → Pergantian genset
+~ Milling Down Time Hours!J58 "Running Time Hour/Shift" [26-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K58 "Availibility per Shift" [26-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!D59 "PIC" [27-09-2026 00:00]: (kosong) → Septian
+~ Milling Down Time Hours!E59 "Stop Time" [27-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F59 "Start Time" [27-09-2026 00:00]: (kosong) → 04:01:00
+~ Milling Down Time Hours!G59 "Down Time (Mins)" [27-09-2026 00:00]: 0 → 240
+~ Milling Down Time Hours!H59 "Reason" [27-09-2026 00:00]: (kosong) → Perbaikan bearing thickener, dan perb...
+~ Milling Down Time Hours!I59 "BATCH" [27-09-2026 00:00]: (kosong) → 12
+~ Milling Down Time Hours!J59 "Running Time Hour/Shift" [27-09-2026 00:00]: 12 → 8
+~ Milling Down Time Hours!K59 "Availibility per Shift" [27-09-2026 00:00]: 1 → 0.666667
+~ Milling Down Time Hours!L59 "Availibility Per Day" [27-09-2026 00:00]: (kosong) → 0.791667
+~ Milling Down Time Hours!D60 "PIC" [27-09-2026 00:00]: (kosong) → Kristo
+~ Milling Down Time Hours!E60 "Stop Time" [27-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F60 "Start Time" [27-09-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!G60 "Down Time (Mins)" [27-09-2026 00:00]: 0 → 60
+~ Milling Down Time Hours!H60 "Reason" [27-09-2026 00:00]: (kosong) → Pergantian genset, ball mill running ...
+~ Milling Down Time Hours!I60 "BATCH" [27-09-2026 00:00]: (kosong) → 12
+~ Milling Down Time Hours!J60 "Running Time Hour/Shift" [27-09-2026 00:00]: 12 → 11
+~ Milling Down Time Hours!K60 "Availibility per Shift" [27-09-2026 00:00]: 1 → 0.916667
++ Milling and Leach Feed baris 59 [26-09-2026 00:00] ditambahkan: P=0, Q=0, R=720
+~ Milling and Leach Feed!J60: (kosong) → 0
+~ Milling and Leach Feed!Q60: (kosong) → 0
+~ Milling and Leach Feed!R60: 0 → 720
+~ Milling and Leach Feed!A61 [12]: (kosong) → 12
+~ Milling and Leach Feed!D61 [12]: (kosong) → Kristo
+~ Milling and Leach Feed!E61 [12]: (kosong) → Batch 12 Tank 3 start jam 15:00
+~ Milling and Leach Feed!G61 [12]: (kosong) → 0.34
+~ Milling and Leach Feed!H61 "Milling And Leach Feed M" [12]: (kosong) → 17.82451
+~ Milling and Leach Feed!I61 [12]: (kosong) → 2.228064
+~ Milling and Leach Feed!J61 [12]: (kosong) → 125.82451
+~ Milling and Leach Feed!K61 [12]: (kosong) → 1.22
+~ Milling and Leach Feed!L61 [12]: (kosong) → 0.75
+~ Milling and Leach Feed!M61 [12]: 0 → 5.698007
+~ Milling and Leach Feed!N61 [12]: (kosong) → 100.53194
+~ Milling and Leach Feed!O61 [12]: (kosong) → 0.712251
+~ Milling and Leach Feed!P61 [12]: (kosong) → 8
+~ Milling and Leach Feed!Q61 [12]: (kosong) → 480
+~ Milling and Leach Feed!R61 [12]: (kosong) → 240
+~ Milling and Leach Feed!W61 [12]: (kosong) → 0
+~ Milling and Leach Feed!X61 [12]: (kosong) → 0
+~ Milling and Leach Feed!Y61 [12]: (kosong) → 0
+~ Milling and Leach Feed!Z61 [12]: (kosong) → 1.4
+~ Milling and Leach Feed!D62: (kosong) → Kristo
+~ Milling and Leach Feed!E62: (kosong) → Batch 12 Tank 3
+~ Milling and Leach Feed!G62: (kosong) → 0.35
+~ Milling and Leach Feed!H62 "Milling And Leach Feed M": (kosong) → 215.69916
+~ Milling and Leach Feed!I62: (kosong) → 19.609015
+~ Milling and Leach Feed!J62: (kosong) → 341.52367
+~ Milling and Leach Feed!K62: (kosong) → 1.23
+~ Milling and Leach Feed!L62: (kosong) → 0.72
+~ Milling and Leach Feed!M62: 0 → 94.833933
+~ Milling and Leach Feed!O62: (kosong) → 8.621267
+~ Milling and Leach Feed!P62: 0 → 11
+~ Milling and Leach Feed!Q62: (kosong) → 660
+~ Milling and Leach Feed!R62: 0 → 60
+~ Milling and Leach Feed!W62: (kosong) → 0
+~ Milling and Leach Feed!X62: (kosong) → 0
+~ Milling and Leach Feed!Y62: (kosong) → 0
+~ Milling and Leach Feed!Z62: (kosong) → 3.8
++ Milling and Leach Feed baris 63 [28-09-2026 00:00] ditambahkan: P=12, Q=720, R=0
+~ Milling and Leach Feed!L100 [Average]: 0.725227 → 0.725652
+~ Milling and Leach Feed!M100 [Average]: 3608.883479 → 3709.415419
+~ Milling and Leach Feed!O100 [Average]: 8.666341 → 8.475885
+~ Milling and Leach Feed!P100 [Average]: 411.733333 → 442.733333
+~ Milling and Leach Feed!Q100 [Average]: 24704 → 26564
+~ Milling and Leach Feed!R100 [Average]: 10636 → 12376
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 5125 → 5275
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.420025 → 1.461587
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 348500000 → 358700000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 497545000 → 507745000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.700439 → 0.706457
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.019184 → 0.018799
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.265303 → 0.259973
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.015074 → 0.014771
+~ Reagent Consumption!B52 [27-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!O52 [27-09-2026 00:00]: 0 → 150
+~ Reagent Consumption!A53 "Data ragents consumption" [27-09-2026 00:00]: 28-09-2026 00:00 → 27-09-2026 00:00
+~ Reagent Consumption!B53 [27-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!C53 [27-09-2026 00:00]: (kosong) → Kristo/Agung
+~ Reagent Consumption!D53 "Leaching" [27-09-2026 00:00]: (kosong) → 150
+~ Reagent Consumption!N53 [27-09-2026 00:00]: 28-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U53 "Gold Rom" [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V53 [27-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A54 "Data ragents consumption" [28-09-2026 00:00]: 29-09-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!N54 [28-09-2026 00:00]: 29-09-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!A55 "Data ragents consumption" [29-09-2026 00:00]: 30-09-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!N55 [29-09-2026 00:00]: 30-09-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!A56 "Data ragents consumption" [30-09-2026 00:00]: 01-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!N56 [30-09-2026 00:00]: 01-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!A57 "Data ragents consumption" [01-10-2026 00:00]: 02-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!N57 [01-10-2026 00:00]: 02-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!A58 "Data ragents consumption" [02-10-2026 00:00]: 03-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!N58 [02-10-2026 00:00]: 03-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!A59 "Data ragents consumption" [03-10-2026 00:00]: 04-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!N59 [03-10-2026 00:00]: 04-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!A60 "Data ragents consumption" [04-10-2026 00:00]: 05-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!N60 [04-10-2026 00:00]: 05-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!A61 "Data ragents consumption" [05-10-2026 00:00]: 06-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!N61 [05-10-2026 00:00]: 06-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!A62 "Data ragents consumption" [06-10-2026 00:00]: 07-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!N62 [06-10-2026 00:00]: 07-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!A63 "Data ragents consumption" [07-10-2026 00:00]: 08-10-2026 00:00 → 07-10-2026 00:00
+~ Reagent Consumption!N63 [07-10-2026 00:00]: 08-10-2026 00:00 → 07-10-2026 00:00
+~ Reagent Consumption!A64 "Data ragents consumption" [08-10-2026 00:00]: 09-10-2026 00:00 → 08-10-2026 00:00
+~ Reagent Consumption!N64 [08-10-2026 00:00]: 09-10-2026 00:00 → 08-10-2026 00:00
+~ Reagent Consumption!A65 "Data ragents consumption" [09-10-2026 00:00]: 10-10-2026 00:00 → 09-10-2026 00:00
+~ Reagent Consumption!N65 [09-10-2026 00:00]: 10-10-2026 00:00 → 09-10-2026 00:00
+~ Reagent Consumption!A66 "Data ragents consumption" [10-10-2026 00:00]: (kosong) → 10-10-2026 00:00
+~ Reagent Consumption!N66 [10-10-2026 00:00]: Total → 10-10-2026 00:00
+~ Reagent Consumption!O66 [10-10-2026 00:00]: 5125 → 0
+~ Reagent Consumption!P66 [10-10-2026 00:00]: 4150 → 0
+~ Reagent Consumption!Q66 [10-10-2026 00:00]: 3000 → 0
+~ Reagent Consumption!T66 [10-10-2026 00:00]: 250 → 0
++ Reagent Consumption baris 67 ditambahkan: N=Total, O=5275, P=4150, Q=3000, R=0, S=0, T=250, U·Gold Rom=0, ...
+- Reagent Consumption baris 68 dikosongkan: T=11000000
++ Reagent Consumption baris 69 ditambahkan: T=11000000
+_Dibandingkan 13573 sel dari 19 sheet._
+
 ## 26 Sep 2026 · 21:27 · Production Report June 2026_DYAN New Anjim2.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~30 sel; Filter Press: +3 baris, ~6 sel; Fuel Consumption: ~1 sel; Milling and Leach Feed: ~29 sel; Reagent Consumption: ~4 sel
 ~ Au Cal Leaching Tank!D20 "Estimasi" [11]: 16.455378 → 16.637137
