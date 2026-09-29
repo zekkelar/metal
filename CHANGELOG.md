@@ -5,6 +5,32 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 29 Sep 2026 · 21:39 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +9 baris; LT Ball Mill: +6 baris; Milling and Leach Feed: +1 baris, ~6 sel
++ Au Cal Leaching Tank baris 7 ditambahkan: BF·Assay Lab Result Iol=Assay Lab Result Iol, BI·Au Estimate on Carbon=Au Estimate on Carbon
++ Au Cal Leaching Tank baris 8 [milling process] ditambahkan: BF·Assay Lab Result Iol=ppm, BI·Au Estimate on Carbon=gr
++ Au Cal Leaching Tank baris 9 [to tank leaching] ditambahkan: BF·Assay Lab Result Iol=Au, BG=Ag, BH=Cu, BI·Au Estimate on Carbon=Au, BJ=Ag, BK=Cu, BO=Varince Cal With Carbon
++ Au Cal Leaching Tank baris 10 [5.16458] ditambahkan: BF·Assay Lab Result Iol=229, BG=231, BH=133, BI·Au Estimate on Carbon=229, BJ=231, BK=133, BL=0.867936, BM=253.709411, ...
++ Au Cal Leaching Tank baris 11 [4.997682] ditambahkan: BF·Assay Lab Result Iol=311, BG=316, BH=177, BI·Au Estimate on Carbon=311, BJ=316, BK=177, BL=1.130368, BM=339.270948, ...
++ Au Cal Leaching Tank baris 12 [5.999073] ditambahkan: BF·Assay Lab Result Iol=489, BG=482, BH=280, BI·Au Estimate on Carbon=489, BJ=482, BK=280, BL=1.626504, BM=531.819397, ...
++ Au Cal Leaching Tank baris 13 [5.999073] ditambahkan: BF·Assay Lab Result Iol=676, BG=671, BH=362, BI·Au Estimate on Carbon=676, BJ=671, BK=362, BL=2.291326, BM=726.202081, ...
++ Au Cal Leaching Tank baris 14 [5.999073] ditambahkan: BF·Assay Lab Result Iol=532, BG=537, BH=303, BI·Au Estimate on Carbon=798, BJ=805.5, BK=454.5, BL=3.161601, BM=844.102594, ...
++ Au Cal Leaching Tank baris 15 [7.742235] ditambahkan: BF·Assay Lab Result Iol=595, BG=594, BH=349, BI·Au Estimate on Carbon=892.5, BJ=891, BK=523.5, BL=3.309075, BM=916.735927, ...
++ LT Ball Mill baris 130 ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=27-09-2026 00:00
++ LT Ball Mill baris 131 ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=27-09-2026 00:00
++ LT Ball Mill baris 132 ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=27-09-2026 00:00
++ LT Ball Mill baris 133 ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=27-09-2026 00:00, F·au (g/t)=0.76, G·ag (g/t)=1.44, H·Cu (g/t)=15.45
++ LT Ball Mill baris 134 ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=27-09-2026 00:00, F·au (g/t)=0.732, G·ag (g/t)=1.43, H·Cu (g/t)=15.47
++ LT Ball Mill baris 135 ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=27-09-2026 00:00, F·au (g/t)=0.751, G·ag (g/t)=1.45, H·Cu (g/t)=15.17
+~ Milling and Leach Feed!T62: (kosong) → 0.747667
+~ Milling and Leach Feed!U62: (kosong) → 1.44
+~ Milling and Leach Feed!V62: (kosong) → 15.363333
+~ Milling and Leach Feed!W62: 0 → 70.904171
+~ Milling and Leach Feed!X62: 0 → 136.560864
+~ Milling and Leach Feed!Y62: 0 → 1456.965327
++ Milling and Leach Feed baris 66 ditambahkan: E=Batch 13 Tank 2
+_Dibandingkan 13962 sel dari 19 sheet._
+
 ## 29 Sep 2026 · 19:30 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +41 baris, ~17 sel; Daily Summary : ~2 sel; Filter Press: +1 baris, ~1 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: +24 baris, ~28 sel; Reagent Consumption: +2 baris, ~16 sel
 + Au Cal Leaching Tank baris 10 [5.16458] ditambahkan: A=5.16458
