@@ -5,6 +5,194 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 29 Sep 2026 · 11:12 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: +1 baris, ~8 sel, -3 baris; Daily Summary : ~2 sel; Filter Press: +85 baris, ~11 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +3 baris, ~13 sel, -1 baris; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: +2 baris, ~51 sel, -1 baris
+- Crushing baris 7 dikosongkan: X=185
+- Crushing baris 8 [02-06-2026 00:00] dikosongkan: X=180
+- Crushing baris 9 dikosongkan: X=175
+~ Crushing!H94 "Moisture %" [26-09-2026 00:00]: 0.11 → 0.09
+~ Crushing!L94 "DMT/SHIFT (dry metrix to" [26-09-2026 00:00]: 80.99 → 82.81
+~ Crushing!N94 "Tonage/Day (Tpd)" [26-09-2026 00:00]: 231.686 → 236.8548
+~ Crushing!H95 "Moisture %": 0.1 → 0.08
+~ Crushing!L95 "DMT/SHIFT (dry metrix to": 150.696 → 154.0448
+~ Crushing!N98 "Tonage/Day (Tpd)" [28-09-2026 00:00]: 0 → 170.7888
++ Crushing baris 99 ditambahkan: E·PIC=Toni, F·Bucket=51, G·Type=Loader, H·Moisture %=0.08, I·Volume Bucket=2.8, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=185.64, L·DMT/SHIFT (dry metrix to=170.7888, ...
+~ Crushing!M104 "Ton/hour (tph)" [Rata-rata]: 12.686869 → 12.76011
+~ Crushing!N105 "Tonage/Day (Tpd)" [Total]: 4936.6576 → 5112.6152
+~ Daily Summary !Z38 "Consumption" [14-09-2026 00:00]: 0 → 175
+~ Daily Summary !Z56 "Consumption" [Total]: 5275 → 5450
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 3142.86 → 3388.86
++ Filter Press baris 40 [40] ditambahkan: K=28-09-2026 00:00, M=8, N=96, P=96
++ Filter Press baris 41 [41] ditambahkan: K=28-09-2026 00:00, M=8, N=96, P=96
+~ Filter Press!C42 [42]: (kosong) → 28-09-2026 00:00
+~ Filter Press!D42 [42]: (kosong) → Day
+~ Filter Press!E42 [42]: (kosong) → 4
+~ Filter Press!F42 [42]: (kosong) → 24
+~ Filter Press!H42 [42]: 0 → 24
+~ Filter Press!C43 [43]: (kosong) → 28-09-2026 00:00
+~ Filter Press!D43 [43]: (kosong) → Night
+~ Filter Press!E43 [43]: (kosong) → 5
+~ Filter Press!F43 [43]: (kosong) → 30
+~ Filter Press!H43 [43]: 0 → 30
++ Filter Press baris 44 [44] ditambahkan: F=0
++ Filter Press baris 45 [45] ditambahkan: F=0
++ Filter Press baris 46 [46] ditambahkan: F=0
++ Filter Press baris 47 [47] ditambahkan: F=0
++ Filter Press baris 48 [48] ditambahkan: F=0
++ Filter Press baris 49 [49] ditambahkan: F=0
++ Filter Press baris 50 [50] ditambahkan: F=0
++ Filter Press baris 51 [51] ditambahkan: F=0
++ Filter Press baris 52 [52] ditambahkan: F=0
++ Filter Press baris 53 [53] ditambahkan: F=0
++ Filter Press baris 54 [54] ditambahkan: F=0
++ Filter Press baris 55 [55] ditambahkan: F=0
++ Filter Press baris 56 [56] ditambahkan: F=0
++ Filter Press baris 57 [57] ditambahkan: F=0
++ Filter Press baris 58 [58] ditambahkan: F=0
++ Filter Press baris 59 [59] ditambahkan: F=0
++ Filter Press baris 60 [60] ditambahkan: F=0
++ Filter Press baris 61 [61] ditambahkan: F=0
++ Filter Press baris 62 [62] ditambahkan: F=0
++ Filter Press baris 63 [63] ditambahkan: F=0
++ Filter Press baris 64 [64] ditambahkan: F=0
++ Filter Press baris 65 [65] ditambahkan: F=0
++ Filter Press baris 66 [66] ditambahkan: F=0
++ Filter Press baris 67 [67] ditambahkan: F=0
++ Filter Press baris 68 [68] ditambahkan: F=0
++ Filter Press baris 69 [69] ditambahkan: F=0
++ Filter Press baris 70 [70] ditambahkan: F=0
++ Filter Press baris 71 [71] ditambahkan: F=0
++ Filter Press baris 72 [72] ditambahkan: F=0
++ Filter Press baris 73 [73] ditambahkan: F=0
++ Filter Press baris 74 [74] ditambahkan: F=0
++ Filter Press baris 75 [75] ditambahkan: F=0
++ Filter Press baris 76 [76] ditambahkan: F=0
++ Filter Press baris 77 [77] ditambahkan: F=0
++ Filter Press baris 78 [78] ditambahkan: F=0
++ Filter Press baris 79 [79] ditambahkan: F=0
++ Filter Press baris 80 [80] ditambahkan: F=0
++ Filter Press baris 81 [81] ditambahkan: F=0
++ Filter Press baris 82 [82] ditambahkan: F=0
++ Filter Press baris 83 [83] ditambahkan: F=0
++ Filter Press baris 84 [84] ditambahkan: F=0
++ Filter Press baris 85 [85] ditambahkan: F=0
++ Filter Press baris 86 [86] ditambahkan: F=0
++ Filter Press baris 87 [87] ditambahkan: F=0
++ Filter Press baris 88 [88] ditambahkan: F=0
++ Filter Press baris 89 [89] ditambahkan: F=0
++ Filter Press baris 90 [90] ditambahkan: F=0
++ Filter Press baris 91 [91] ditambahkan: F=0
++ Filter Press baris 92 [92] ditambahkan: F=0
++ Filter Press baris 93 [93] ditambahkan: F=0
++ Filter Press baris 94 [94] ditambahkan: F=0
++ Filter Press baris 95 [95] ditambahkan: F=0
++ Filter Press baris 96 [96] ditambahkan: F=0
++ Filter Press baris 97 [97] ditambahkan: F=0
++ Filter Press baris 98 [98] ditambahkan: F=0
++ Filter Press baris 99 [99] ditambahkan: F=0
++ Filter Press baris 100 [100] ditambahkan: F=0
++ Filter Press baris 101 [101] ditambahkan: F=0
++ Filter Press baris 102 [102] ditambahkan: F=0
++ Filter Press baris 103 [103] ditambahkan: F=0
++ Filter Press baris 104 [104] ditambahkan: F=0
++ Filter Press baris 105 [105] ditambahkan: F=0
++ Filter Press baris 106 [106] ditambahkan: F=0
++ Filter Press baris 107 [107] ditambahkan: F=0
++ Filter Press baris 108 [108] ditambahkan: F=0
++ Filter Press baris 109 [109] ditambahkan: F=0
++ Filter Press baris 110 [110] ditambahkan: F=0
++ Filter Press baris 111 [111] ditambahkan: F=0
++ Filter Press baris 112 [112] ditambahkan: F=0
++ Filter Press baris 113 [113] ditambahkan: F=0
++ Filter Press baris 114 [114] ditambahkan: F=0
++ Filter Press baris 115 [115] ditambahkan: F=0
++ Filter Press baris 116 [116] ditambahkan: F=0
++ Filter Press baris 117 [117] ditambahkan: F=0
++ Filter Press baris 118 [118] ditambahkan: F=0
++ Filter Press baris 119 [119] ditambahkan: F=0
++ Filter Press baris 120 [120] ditambahkan: F=0
++ Filter Press baris 121 [121] ditambahkan: F=0
++ Filter Press baris 122 [122] ditambahkan: F=0
++ Filter Press baris 123 [123] ditambahkan: F=0
++ Filter Press baris 124 [124] ditambahkan: F=0
++ Filter Press baris 125 [125] ditambahkan: F=0
++ Filter Press baris 126 [126] ditambahkan: F=0
++ Milling Down Time Hours baris 61 [28-09-2026 00:00] ditambahkan: D·PIC=Septian, E·Stop Time=00:01:00, F·Start Time=00:01:00, H·Reason=Jalan ball mill 1, 2, dan 3, I·BATCH=12, L·Availibility Per Day=1
++ Milling Down Time Hours baris 62 [28-09-2026 00:00] ditambahkan: D·PIC=Kristo, E·Stop Time=00:01:00, F·Start Time=00:01:00, H·Reason=Jalan ball mill 1.2 dan3, Ball mill 1..., I·BATCH=12
+~ Milling and Leach Feed!AA54 [24-09-2026 00:00]: 100.931667 → 7.2
++ Milling and Leach Feed baris 59 [12] ditambahkan: A=12
+- Milling and Leach Feed baris 61 [12] dikosongkan: A=12
++ Milling and Leach Feed baris 63 [28-09-2026 00:00] ditambahkan: N=158.633251, O=6.770931, W=0, X=0, Y=0
+~ Milling and Leach Feed!D64: (kosong) → Kristo/Hendra
+~ Milling and Leach Feed!E64: (kosong) → Batch 12 Tank 3
+~ Milling and Leach Feed!G64: (kosong) → 0.35
+~ Milling and Leach Feed!H64 "Milling And Leach Feed M": (kosong) → 179.7493
+~ Milling and Leach Feed!I64: (kosong) → 14.979108
+~ Milling and Leach Feed!J64: (kosong) → 710.009735
+~ Milling and Leach Feed!K64: (kosong) → 1.23
+~ Milling and Leach Feed!M64: 0 → 77.382074
+~ Milling and Leach Feed!O64: (kosong) → 6.448506
+~ Milling and Leach Feed!Z64: (kosong) → 7.9
++ Milling and Leach Feed baris 65 [29-09-2026 00:00] ditambahkan: H·Milling And Leach Feed M=-476.486065, I=-39.707172
+~ Milling and Leach Feed!M100 [Average]: 3790.666596 → 3868.04867
+~ Milling and Leach Feed!O100 [Average]: 8.475885 → 8.391059
+~ Milling and Leach Feed_OLD!R55: 0 → 1
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 5275 → 5450
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.461587 → 1.510076
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 358700000 → 370600000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 507745000 → 519645000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.706457 → 0.713179
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.018799 → 0.018368
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.259973 → 0.25402
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.014771 → 0.014433
+~ Reagent Consumption!B54 [28-09-2026 00:00]: (kosong) → Day
+~ Reagent Consumption!D54 "Leaching" [28-09-2026 00:00]: (kosong) → 75
+~ Reagent Consumption!O54 [28-09-2026 00:00]: 0 → 175
+~ Reagent Consumption!A55 "Data ragents consumption" [28-09-2026 00:00]: 29-09-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!B55 [28-09-2026 00:00]: (kosong) → Night
+~ Reagent Consumption!D55 "Leaching" [28-09-2026 00:00]: (kosong) → 100
+~ Reagent Consumption!N55 [28-09-2026 00:00]: 29-09-2026 00:00 → (kosong)
+~ Reagent Consumption!O55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!P55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!Q55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!R55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!S55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!T55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!U55 "Gold Rom" [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!V55 [28-09-2026 00:00]: 0 → (kosong)
+~ Reagent Consumption!A56 "Data ragents consumption" [29-09-2026 00:00]: 30-09-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!N56 [29-09-2026 00:00]: 30-09-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!A57 "Data ragents consumption" [30-09-2026 00:00]: 01-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!N57 [30-09-2026 00:00]: 01-10-2026 00:00 → 30-09-2026 00:00
+~ Reagent Consumption!A58 "Data ragents consumption" [01-10-2026 00:00]: 02-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!N58 [01-10-2026 00:00]: 02-10-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!A59 "Data ragents consumption" [02-10-2026 00:00]: 03-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!N59 [02-10-2026 00:00]: 03-10-2026 00:00 → 02-10-2026 00:00
+~ Reagent Consumption!A60 "Data ragents consumption" [03-10-2026 00:00]: 04-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!N60 [03-10-2026 00:00]: 04-10-2026 00:00 → 03-10-2026 00:00
+~ Reagent Consumption!A61 "Data ragents consumption" [04-10-2026 00:00]: 05-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!N61 [04-10-2026 00:00]: 05-10-2026 00:00 → 04-10-2026 00:00
+~ Reagent Consumption!A62 "Data ragents consumption" [05-10-2026 00:00]: 06-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!N62 [05-10-2026 00:00]: 06-10-2026 00:00 → 05-10-2026 00:00
+~ Reagent Consumption!A63 "Data ragents consumption" [06-10-2026 00:00]: 07-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!N63 [06-10-2026 00:00]: 07-10-2026 00:00 → 06-10-2026 00:00
+~ Reagent Consumption!A64 "Data ragents consumption" [07-10-2026 00:00]: 08-10-2026 00:00 → 07-10-2026 00:00
+~ Reagent Consumption!N64 [07-10-2026 00:00]: 08-10-2026 00:00 → 07-10-2026 00:00
+~ Reagent Consumption!A65 "Data ragents consumption" [08-10-2026 00:00]: 09-10-2026 00:00 → 08-10-2026 00:00
+~ Reagent Consumption!N65 [08-10-2026 00:00]: 09-10-2026 00:00 → 08-10-2026 00:00
+~ Reagent Consumption!A66 "Data ragents consumption" [09-10-2026 00:00]: 10-10-2026 00:00 → 09-10-2026 00:00
+~ Reagent Consumption!N66 [09-10-2026 00:00]: 10-10-2026 00:00 → 09-10-2026 00:00
+~ Reagent Consumption!A67 "Data ragents consumption" [10-10-2026 00:00]: (kosong) → 10-10-2026 00:00
+~ Reagent Consumption!N67 [10-10-2026 00:00]: Total → 10-10-2026 00:00
+~ Reagent Consumption!O67 [10-10-2026 00:00]: 5275 → 0
+~ Reagent Consumption!P67 [10-10-2026 00:00]: 4150 → 0
+~ Reagent Consumption!Q67 [10-10-2026 00:00]: 3000 → 0
+~ Reagent Consumption!T67 [10-10-2026 00:00]: 250 → 0
++ Reagent Consumption baris 68 ditambahkan: N=Total, O=5450, P=4150, Q=3000, R=0, S=0, T=250, U·Gold Rom=0, ...
+- Reagent Consumption baris 69 dikosongkan: T=11000000
++ Reagent Consumption baris 70 ditambahkan: T=11000000
+_Dibandingkan 13744 sel dari 19 sheet._
+
 ## 28 Sep 2026 · 19:39 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Milling and Leach Feed: +1 baris, ~12 sel
 ~ Milling and Leach Feed!D63 [28-09-2026 00:00]: (kosong) → Septian/Nipto
