@@ -5,6 +5,35 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 01 Oct 2026 · 14:22 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, -2 baris; LT Ball Mill: +12 baris; Rom File Inventory: +4 baris, ~5 sel
+- Au Cal Leaching Tank baris 5 [3254.442605] dikosongkan: C·Running Hours=3254.442605
++ Au Cal Leaching Tank baris 7 ditambahkan: AW·Leach Tank No=Leach Tank No
+- Au Cal Leaching Tank baris 8 [milling process] dikosongkan: AW·Leach Tank No=Leach Tank No
++ Au Cal Leaching Tank baris 21 [8.990741] ditambahkan: H·Date Finish=01/10/1016, I·Time Finish=14:00:00
++ LT Ball Mill baris 130 [127] ditambahkan: B·No=127
++ LT Ball Mill baris 131 [128] ditambahkan: B·No=128
++ LT Ball Mill baris 132 [129] ditambahkan: B·No=129
++ LT Ball Mill baris 133 [130] ditambahkan: B·No=130
++ LT Ball Mill baris 134 [131] ditambahkan: B·No=131
++ LT Ball Mill baris 135 [132] ditambahkan: B·No=132
++ LT Ball Mill baris 136 [133] ditambahkan: B·No=133
++ LT Ball Mill baris 137 [134] ditambahkan: B·No=134
++ LT Ball Mill baris 138 [135] ditambahkan: B·No=135
++ LT Ball Mill baris 139 [136] ditambahkan: B·No=136
++ LT Ball Mill baris 140 [137] ditambahkan: B·No=137
++ LT Ball Mill baris 141 [138] ditambahkan: B·No=138
++ Rom File Inventory baris 28 [31] ditambahkan: N=153
++ Rom File Inventory baris 31 [34] ditambahkan: F·Ore  Type - Lithology=Oxide, H·Survey (m3)=163, I·Bulk Density=1.3, J·Tonage by survey (WMT)=211.9
++ Rom File Inventory baris 32 [35] ditambahkan: C·Date=27-09-2026 00:00, F·Ore  Type - Lithology=Vein, H·Survey (m3)=169, I·Bulk Density=1.3, J·Tonage by survey (WMT)=219.7
++ Rom File Inventory baris 33 [36] ditambahkan: C·Date=29-09-2026 00:00, F·Ore  Type - Lithology=Oxide, H·Survey (m3)=21, I·Bulk Density=1.3, J·Tonage by survey (WMT)=27.3
+~ Rom File Inventory!I34 "Bulk Density" [Average]: 1.342174 → 1.337308
+~ Rom File Inventory!H35 "Survey (m3)" [Total]: 4718 → 5071
+~ Rom File Inventory!J35 "Tonage by survey (WMT)" [Total]: 6232.83 → 6691.73
+~ Rom File Inventory!M35 "Metal Content (gr)" [Total]: 6918.4413 → 7427.8203
+~ Rom File Inventory!M37 "Metal Content (gr)": 1.335215 → 1.243649
+_Dibandingkan 14095 sel dari 19 sheet._
+
 ## 01 Oct 2026 · 12:50 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~1431 sel
 ~ Au Cal Leaching Tank!L7 "Carbon on tank Leaching ": %solid → Carbon on tank Leaching Estimate
