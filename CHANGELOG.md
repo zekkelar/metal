@@ -5,6 +5,90 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 01 Oct 2026 · 11:39 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~29 sel; Filter Press: +3 baris, ~12 sel; LT Ball Mill: +9 baris; LT Floculation: +9 baris, ~3 sel; Milling and Leach Feed: ~14 sel
+~ Au Cal Leaching Tank!AE20 "Lab AAS Result Tail" [8.490741]: 0.147667 → 0.133083
+~ Au Cal Leaching Tank!AF20 [8.490741]: 0.48 → 0.565
+~ Au Cal Leaching Tank!AG20 [8.490741]: 15.723333 → 14.185833
+~ Au Cal Leaching Tank!AN20 "Metal Content Calculated" [8.490741]: 52.369732 → 47.197778
+~ Au Cal Leaching Tank!AO20 [8.490741]: 170.231184 → 200.376289
+~ Au Cal Leaching Tank!AP20 [8.490741]: 5576.253437 → 5030.981676
+~ Au Cal Leaching Tank!AS20 "Estimasi %Recovery Metal" [8.490741]: 0.692715 → 0.712706
+~ Au Cal Leaching Tank!AT20 [8.490741]: 0.631714 → 0.566496
+~ Au Cal Leaching Tank!AU20 [8.490741]: 0.119452 → 0.205556
+~ Au Cal Leaching Tank!AY20 "Estimasi Lab AAS Loaded " [8.490741]: 702.201785 → 705.649755
+~ Au Cal Leaching Tank!AZ20 [8.490741]: 593.457615 → 573.360878
+~ Au Cal Leaching Tank!BA20 [8.490741]: 1282.137219 → 1645.651727
+~ Au Cal Leaching Tank!BC20 "Estimasi Metal Content R" [8.490741]: 179.208145 → 184.3801
+~ Au Cal Leaching Tank!BD20 [8.490741]: 291.993767 → 261.848661
+~ Au Cal Leaching Tank!BE20 [8.490741]: 756.452368 → 1301.724129
++ Au Cal Leaching Tank baris 21 [8.990741] ditambahkan: K·Carbon (gpl)=1.2
+~ Au Cal Leaching Tank!AE60 "Lab AAS Result Tail" [51]: 0.093492 → 0.092166
+~ Au Cal Leaching Tank!AF60 [51]: 0.309091 → 0.316818
+~ Au Cal Leaching Tank!AG60 [51]: 10.024904 → 9.885131
+~ Au Cal Leaching Tank!AN60 "Metal Content Calculated" [51]: 343.59791 → 338.425956
+~ Au Cal Leaching Tank!AO60 [51]: 1167.220497 → 1197.365603
+~ Au Cal Leaching Tank!AP60 [51]: 38147.869583 → 37602.597822
+~ Au Cal Leaching Tank!AS60 "Estimasi %Recovery Metal" [51]: 0.796748 → 0.798565
+~ Au Cal Leaching Tank!AT60 [51]: 0.578708 → 0.572779
+~ Au Cal Leaching Tank!AU60 [51]: 0.105919 → 0.113747
+~ Au Cal Leaching Tank!BC61 "Estimasi Metal Content R" [52]: 2035.041916 → 2040.21387
+~ Au Cal Leaching Tank!BD61 [52]: 1662.870404 → 1632.725299
+~ Au Cal Leaching Tank!BE61 [52]: 3664.529234 → 4209.800995
+~ Au Cal Leaching Tank!AK63 "Metal Content Head Grade": 2035.041916 → 2040.21387
+~ Au Cal Leaching Tank!BC63 "Estimasi Metal Content R": 1628.033532 → 1632.171096
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 3508.86 → 3748.86
++ Filter Press baris 43 [43] ditambahkan: K=29-09-2026 00:00, M=7, N=84, P=84
++ Filter Press baris 44 [44] ditambahkan: C=29-09-2026 00:00, D=Day, K=30-09-2026 00:00, M=8, N=96, P=96
+~ Filter Press!C45 [45]: (kosong) → 29-09-2026 00:00
+~ Filter Press!D45 [45]: (kosong) → Night
+~ Filter Press!E45 [45]: (kosong) → 7
+~ Filter Press!F45 [45]: 0 → 42
+~ Filter Press!H45 [45]: 0 → 42
+~ Filter Press!K45 [45]: (kosong) → 30-09-2026 00:00
+~ Filter Press!C46 [46]: (kosong) → 30-09-2026 00:00
+~ Filter Press!D46 [46]: (kosong) → Day
+~ Filter Press!E46 [46]: (kosong) → 3
+~ Filter Press!F46 [46]: 0 → 18
+~ Filter Press!H46 [46]: 0 → 18
++ Filter Press baris 47 [47] ditambahkan: C=30-09-2026 00:00, D=Night
++ LT Ball Mill baris 130 ditambahkan: F·au (g/t)=0.527, G·ag (g/t)=1.16, H·Cu (g/t)=13.75
++ LT Ball Mill baris 131 ditambahkan: F·au (g/t)=0.511, G·ag (g/t)=1.07, H·Cu (g/t)=13.27
++ LT Ball Mill baris 132 ditambahkan: F·au (g/t)=0.523, G·ag (g/t)=1.08, H·Cu (g/t)=13.91
++ LT Ball Mill baris 136 ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=28-09-2026 00:00, F·au (g/t)=0.588, G·ag (g/t)=1.07, H·Cu (g/t)=14.31
++ LT Ball Mill baris 137 ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=28-09-2026 00:00, F·au (g/t)=0.572, G·ag (g/t)=1.18, H·Cu (g/t)=14.17
++ LT Ball Mill baris 138 ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=28-09-2026 00:00, F·au (g/t)=0.595, G·ag (g/t)=1.05, H·Cu (g/t)=14.35
++ LT Ball Mill baris 139 ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=28-09-2026 00:00
++ LT Ball Mill baris 140 ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=28-09-2026 00:00
++ LT Ball Mill baris 141 ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=28-09-2026 00:00
+~ LT Floculation!G16 "Lab AAS Result" [11]: 0.147667 → 0.133083
+~ LT Floculation!H16 [11]: 0.48 → 0.565
+~ LT Floculation!I16 [11]: 15.723333 → 14.185833
++ LT Floculation baris 86 ditambahkan: R=0.1, S=0.44, T=13.09
++ LT Floculation baris 87 ditambahkan: R=0.109, S=0.48, T=13.04
++ LT Floculation baris 88 ditambahkan: R=0.125, S=0.46, T=13.19
++ LT Floculation baris 89 ditambahkan: O=LT-Floc NS 1, Q=28-09-2026 00:00, R=0.148, S=0.51, T=12.78
++ LT Floculation baris 90 ditambahkan: O=LT-Floc NS 2, Q=28-09-2026 00:00, R=0.115, S=0.55, T=12.75
++ LT Floculation baris 91 ditambahkan: O=LT-Floc NS 3, Q=28-09-2026 00:00, R=0.133, S=0.56, T=12.66
++ LT Floculation baris 92 ditambahkan: O=LT-Floc DS 1, Q=29-09-2026 00:00, R=0.142, S=0.79, T=15.32
++ LT Floculation baris 93 ditambahkan: O=LT-Floc DS 2, Q=29-09-2026 00:00, R=0.152, S=0.77, T=15.12
++ LT Floculation baris 94 ditambahkan: O=LT-Floc DS 3, Q=29-09-2026 00:00, R=0.13, S=0.78, T=15.11
+~ Milling and Leach Feed!S61 [27-09-2026 00:00]: (kosong) → 385.055309
+~ Milling and Leach Feed!T61 [27-09-2026 00:00]: (kosong) → 0.520333
+~ Milling and Leach Feed!U61 [27-09-2026 00:00]: (kosong) → 1.103333
+~ Milling and Leach Feed!V61 [27-09-2026 00:00]: (kosong) → 13.643333
+~ Milling and Leach Feed!W61 [27-09-2026 00:00]: 0 → 2.964863
+~ Milling and Leach Feed!X61 [27-09-2026 00:00]: 0 → 6.286801
+~ Milling and Leach Feed!Y61 [27-09-2026 00:00]: 0 → 77.739805
+~ Milling and Leach Feed!T63 [28-09-2026 00:00]: (kosong) → 0.585
+~ Milling and Leach Feed!U63 [28-09-2026 00:00]: (kosong) → 1.1
+~ Milling and Leach Feed!V63 [28-09-2026 00:00]: (kosong) → 14.276667
+~ Milling and Leach Feed!W63 [28-09-2026 00:00]: 0 → 47.531939
+~ Milling and Leach Feed!X63 [28-09-2026 00:00]: 0 → 89.376295
+~ Milling and Leach Feed!Y63 [28-09-2026 00:00]: 0 → 1159.995975
+~ Milling and Leach Feed!S100 [Average]: 3608.883479 → 3993.938788
+_Dibandingkan 14058 sel dari 19 sheet._
+
 ## 29 Sep 2026 · 21:39 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +9 baris; LT Ball Mill: +6 baris; Milling and Leach Feed: +1 baris, ~6 sel
 + Au Cal Leaching Tank baris 7 ditambahkan: BF·Assay Lab Result Iol=Assay Lab Result Iol, BI·Au Estimate on Carbon=Au Estimate on Carbon
