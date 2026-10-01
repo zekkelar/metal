@@ -5,6 +5,34 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 01 Oct 2026 · 17:57 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~15 sel; LT Ball Mill: +3 baris; Milling and Leach Feed: ~6 sel
+~ Au Cal Leaching Tank!X21 "Head Grade LF Ball Mill" [8.990741]: 0.617667 → 0.600417
+~ Au Cal Leaching Tank!Y21 [8.990741]: 1.214444 → 1.430833
+~ Au Cal Leaching Tank!Z21 [8.990741]: 14.427778 → 15.296667
+~ Au Cal Leaching Tank!AA21 "Lab AAS Result (gpt)" [8.990741]: 0.315153 → 0.42537
+~ Au Cal Leaching Tank!AB21 [8.990741]: 0.602846 → 1.02068
+~ Au Cal Leaching Tank!AC21 [8.990741]: 6.995361 → 10.591809
+~ Au Cal Leaching Tank!X60 "Head Grade LF Ball Mill" [51]: 0.693172 → 0.691735
+~ Au Cal Leaching Tank!Y60 [51]: 0.794085 → 0.812117
+~ Au Cal Leaching Tank!Z60 [51]: 11.431937 → 11.504345
+~ Au Cal Leaching Tank!AA60 "Lab AAS Result (gpt)" [51]: 0.648821 → 0.658006
+~ Au Cal Leaching Tank!AB60 [51]: 0.739404 → 0.774223
+~ Au Cal Leaching Tank!AC60 [51]: 10.507529 → 10.807233
+~ Au Cal Leaching Tank!X62 "Head Grade LF Ball Mill": 0.650833 → 0.644875
+~ Au Cal Leaching Tank!AB62: 0.627632 → 0.705622
+~ Au Cal Leaching Tank!AC62: 9.225613 → 9.594156
++ LT Ball Mill baris 139 [136] ditambahkan: F·au (g/t)=0.532, G·ag (g/t)=2.09, H·Cu (g/t)=17.87
++ LT Ball Mill baris 140 [137] ditambahkan: F·au (g/t)=0.579, G·ag (g/t)=2.03, H·Cu (g/t)=17.97
++ LT Ball Mill baris 141 [138] ditambahkan: F·au (g/t)=0.535, G·ag (g/t)=2.12, H·Cu (g/t)=17.87
+~ Milling and Leach Feed!T64: (kosong) → 0.548667
+~ Milling and Leach Feed!U64: (kosong) → 2.08
+~ Milling and Leach Feed!V64: (kosong) → 17.903333
+~ Milling and Leach Feed!W64: 0 → 42.456964
+~ Milling and Leach Feed!X64: 0 → 160.954713
+~ Milling and Leach Feed!Y64: 0 → 1385.397059
+_Dibandingkan 14107 sel dari 19 sheet._
+
 ## 01 Oct 2026 · 14:22 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, -2 baris; LT Ball Mill: +12 baris; Rom File Inventory: +4 baris, ~5 sel
 - Au Cal Leaching Tank baris 5 [3254.442605] dikosongkan: C·Running Hours=3254.442605
