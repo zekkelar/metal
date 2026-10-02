@@ -5,6 +5,46 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 02 Oct 2026 · 17:07 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: +3 baris, ~25 sel; Rom File Inventory: +1 baris, ~6 sel, -1 baris
+~ Crushing!N102 "Tonage/Day (Tpd)" [30-09-2026 00:00]: 0 → 113.386
++ Crushing baris 103 ditambahkan: E·PIC=Toni, F·Bucket=35, G·Type=Loader, H·Moisture %=0.11, I·Volume Bucket=2.8, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=127.4, L·DMT/SHIFT (dry metrix to=113.386, ...
+~ Crushing!B104 "Date" [01-10-2026 00:00]: Rata-rata → 01-10-2026 00:00
+~ Crushing!D104 "Shift" [01-10-2026 00:00]: (kosong) → Day
+~ Crushing!E104 "PIC" [01-10-2026 00:00]: (kosong) → Toni
+~ Crushing!F104 "Bucket" [01-10-2026 00:00]: 182 → 65
+~ Crushing!G104 "Type" [01-10-2026 00:00]: (kosong) → Loader
+~ Crushing!H104 "Moisture %" [01-10-2026 00:00]: 0.110733 → 0.11
+~ Crushing!I104 "Volume Bucket" [01-10-2026 00:00]: (kosong) → 2.8
+~ Crushing!J104 "SG Bulk Density (ton/m3)" [01-10-2026 00:00]: (kosong) → 1.3
+~ Crushing!K104 "WMT/SHIFT (wet metrix to" [01-10-2026 00:00]: 150.69119 → 236.6
+~ Crushing!L104 "DMT/SHIFT (dry metrix to" [01-10-2026 00:00]: 128.380746 → 210.574
+~ Crushing!M104 "Ton/hour (tph)" [01-10-2026 00:00]: 12.76011 → 19.716667
+~ Crushing!N104 "Tonage/Day (Tpd)" [01-10-2026 00:00]: 97.341497 → 210.574
+~ Crushing!B105 "Date" [Total]: Total → (kosong)
+~ Crushing!D105 "Shift" [Total]: (kosong) → Night
+~ Crushing!E105 "PIC" [Total]: (kosong) → Toni
+~ Crushing!F105 "Bucket" [Total]: 5971 → (kosong)
+~ Crushing!G105 "Type" [Total]: (kosong) → Loader
+~ Crushing!H105 "Moisture %" [Total]: (kosong) → 0.11
+~ Crushing!I105 "Volume Bucket" [Total]: (kosong) → 2.8
+~ Crushing!J105 "SG Bulk Density (ton/m3)" [Total]: (kosong) → 2.3
+~ Crushing!K105 "WMT/SHIFT (wet metrix to" [Total]: (kosong) → 0
+~ Crushing!L105 "DMT/SHIFT (dry metrix to" [Total]: (kosong) → 0
+~ Crushing!M105 "Ton/hour (tph)" [Total]: (kosong) → 0
+~ Crushing!N105 "Tonage/Day (Tpd)" [Total]: 5112.6152 → (kosong)
++ Crushing baris 106 [Rata-rata] ditambahkan: B·Date=Rata-rata, F·Bucket=182, H·Moisture %=0.110733, K·WMT/SHIFT (wet metrix to=150.69119, L·DMT/SHIFT (dry metrix to=128.380746, M·Ton/hour (tph)=12.70515, N·Tonage/Day (Tpd)=97.341497
++ Crushing baris 107 [Total] ditambahkan: B·Date=Total, F·Bucket=5971, N·Tonage/Day (Tpd)=5226.0012
+- Rom File Inventory baris 28 [31] dikosongkan: N=153
+~ Rom File Inventory!H31 "Survey (m3)" [34]: 163 → 153
+~ Rom File Inventory!J31 "Tonage by survey (WMT)" [34]: 211.9 → 198.9
+~ Rom File Inventory!H35 "Survey (m3)" [Total]: 5071 → 5061
+~ Rom File Inventory!J35 "Tonage by survey (WMT)" [Total]: 6691.73 → 6678.73
+~ Rom File Inventory!M35 "Metal Content (gr)" [Total]: 7427.8203 → 7413.3903
++ Rom File Inventory baris 36 ditambahkan: J·Tonage by survey (WMT)=1452.7288
+~ Rom File Inventory!M37 "Metal Content (gr)": 1.243649 → 1.24607
+_Dibandingkan 14137 sel dari 19 sheet._
+
 ## 01 Oct 2026 · 17:57 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~15 sel; LT Ball Mill: +3 baris; Milling and Leach Feed: ~6 sel
 ~ Au Cal Leaching Tank!X21 "Head Grade LF Ball Mill" [8.990741]: 0.617667 → 0.600417
