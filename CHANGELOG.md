@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 02 Oct 2026 · 18:12 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: ~187 sel; Daily Summary : ~136 sel; Rom File Inventory: ~1 sel
+~ Crushing!T6 [01-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!I8 "Volume Bucket" [02-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K8 "WMT/SHIFT (wet metrix to" [02-06-2026 00:00]: 95.175 → 114.21
+~ Crushing!L8 "DMT/SHIFT (dry metrix to" [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Crushing!M8 "Ton/hour (tph)" [02-06-2026 00:00]: 15.8625 → 19.035
+~ Crushing!N8 "Tonage/Day (Tpd)" [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Crushing!T8 [02-06-2026 00:00]: 2.8 → 3
+~ Crushing!I10 "Volume Bucket" [03-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K10 "WMT/SHIFT (wet metrix to" [03-06-2026 00:00]: 21.6 → 25.92
+~ Crushing!L10 "DMT/SHIFT (dry metrix to" [03-06-2026 00:00]: 17.712 → 21.2544
+~ Crushing!M10 "Ton/hour (tph)" [03-06-2026 00:00]: 1.8 → 2.16
+~ Crushing!N10 "Tonage/Day (Tpd)" [03-06-2026 00:00]: 17.712 → 21.2544
+~ Crushing!I12 "Volume Bucket" [04-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K12 "WMT/SHIFT (wet metrix to" [04-06-2026 00:00]: 190.35 → 228.42
+~ Crushing!L12 "DMT/SHIFT (dry metrix to" [04-06-2026 00:00]: 157.9905 → 189.5886
+~ Crushing!M12 "Ton/hour (tph)" [04-06-2026 00:00]: 15.8625 → 19.035
+~ Crushing!N12 "Tonage/Day (Tpd)" [04-06-2026 00:00]: 157.9905 → 189.5886
+~ Crushing!I14 "Volume Bucket" [18-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K14 "WMT/SHIFT (wet metrix to" [18-08-2026 00:00]: 43.09 → 51.708
+~ Crushing!L14 "DMT/SHIFT (dry metrix to" [18-08-2026 00:00]: 37.9192 → 45.50304
+~ Crushing!M14 "Ton/hour (tph)" [18-08-2026 00:00]: 3.590833 → 4.309
+~ Crushing!N14 "Tonage/Day (Tpd)" [18-08-2026 00:00]: 37.9192 → 45.50304
+~ Crushing!I16 "Volume Bucket" [19-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K16 "WMT/SHIFT (wet metrix to" [19-08-2026 00:00]: 321.785 → 386.142
+~ Crushing!L16 "DMT/SHIFT (dry metrix to" [19-08-2026 00:00]: 283.1708 → 339.80496
+~ Crushing!M16 "Ton/hour (tph)" [19-08-2026 00:00]: 26.815417 → 32.1785
+~ Crushing!N16 "Tonage/Day (Tpd)" [19-08-2026 00:00]: 283.1708 → 339.80496
+~ Crushing!I18 "Volume Bucket" [20-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K18 "WMT/SHIFT (wet metrix to" [20-08-2026 00:00]: 374.605 → 449.526
+~ Crushing!L18 "DMT/SHIFT (dry metrix to" [20-08-2026 00:00]: 337.1445 → 404.5734
+~ Crushing!M18 "Ton/hour (tph)" [20-08-2026 00:00]: 31.217083 → 37.4605
+~ Crushing!N18 "Tonage/Day (Tpd)" [20-08-2026 00:00]: 337.1445 → 404.5734
+~ Crushing!V18 [20-08-2026 00:00]: 7.392 → 7.92
+~ Crushing!I20 "Volume Bucket" [21-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K20 "WMT/SHIFT (wet metrix to" [21-08-2026 00:00]: 284.255 → 341.106
+~ Crushing!L20 "DMT/SHIFT (dry metrix to" [21-08-2026 00:00]: 255.8295 → 306.9954
+~ Crushing!M20 "Ton/hour (tph)" [21-08-2026 00:00]: 26.93125 → 31.9005
+~ Crushing!N20 "Tonage/Day (Tpd)" [21-08-2026 00:00]: 290.8575 → 344.5254
+~ Crushing!I21 "Volume Bucket": 2.8 → 3
+~ Crushing!K21 "WMT/SHIFT (wet metrix to": 38.92 → 41.7
+~ Crushing!L21 "DMT/SHIFT (dry metrix to": 35.028 → 37.53
+~ Crushing!I22 "Volume Bucket" [22-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K22 "WMT/SHIFT (wet metrix to" [22-08-2026 00:00]: 218.925 → 262.71
+~ Crushing!L22 "DMT/SHIFT (dry metrix to" [22-08-2026 00:00]: 197.0325 → 236.439
+~ Crushing!M22 "Ton/hour (tph)" [22-08-2026 00:00]: 18.24375 → 21.8925
+~ Crushing!N22 "Tonage/Day (Tpd)" [22-08-2026 00:00]: 197.0325 → 236.439
+~ Crushing!I26 "Volume Bucket" [24-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K26 "WMT/SHIFT (wet metrix to" [24-08-2026 00:00]: 162.63 → 195.156
+~ Crushing!L26 "DMT/SHIFT (dry metrix to" [24-08-2026 00:00]: 146.367 → 175.6404
+~ Crushing!M26 "Ton/hour (tph)" [24-08-2026 00:00]: 13.5525 → 16.263
+~ Crushing!N26 "Tonage/Day (Tpd)" [24-08-2026 00:00]: 163.881 → 194.4054
+~ Crushing!I27 "Volume Bucket": 2.8 → 3
+~ Crushing!K27 "WMT/SHIFT (wet metrix to": 19.46 → 20.85
+~ Crushing!L27 "DMT/SHIFT (dry metrix to": 17.514 → 18.765
+~ Crushing!M27 "Ton/hour (tph)": 1.621667 → 1.7375
+~ Crushing!I32 "Volume Bucket" [27-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K32 "WMT/SHIFT (wet metrix to" [27-08-2026 00:00]: 140.39 → 168.468
+~ Crushing!L32 "DMT/SHIFT (dry metrix to" [27-08-2026 00:00]: 124.9471 → 149.93652
+~ Crushing!M32 "Ton/hour (tph)" [27-08-2026 00:00]: 11.699167 → 14.039
+~ Crushing!N32 "Tonage/Day (Tpd)" [27-08-2026 00:00]: 124.9471 → 149.93652
+~ Crushing!I34 "Volume Bucket" [28-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K34 "WMT/SHIFT (wet metrix to" [28-08-2026 00:00]: 188.5 → 226.2
+~ Crushing!L34 "DMT/SHIFT (dry metrix to" [28-08-2026 00:00]: 167.765 → 201.318
+~ Crushing!M34 "Ton/hour (tph)" [28-08-2026 00:00]: 15.708333 → 18.85
+~ Crushing!N34 "Tonage/Day (Tpd)" [28-08-2026 00:00]: 167.765 → 201.318
+~ Crushing!I36 "Volume Bucket" [29-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K36 "WMT/SHIFT (wet metrix to" [29-08-2026 00:00]: 267.15 → 320.58
+~ Crushing!L36 "DMT/SHIFT (dry metrix to" [29-08-2026 00:00]: 240.435 → 288.522
+~ Crushing!M36 "Ton/hour (tph)" [29-08-2026 00:00]: 22.2625 → 26.715
+~ Crushing!N36 "Tonage/Day (Tpd)" [29-08-2026 00:00]: 240.435 → 288.522
+~ Crushing!I38 "Volume Bucket" [30-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K38 "WMT/SHIFT (wet metrix to" [30-08-2026 00:00]: 59.8 → 71.76
+~ Crushing!L38 "DMT/SHIFT (dry metrix to" [30-08-2026 00:00]: 53.82 → 64.584
+~ Crushing!M38 "Ton/hour (tph)" [30-08-2026 00:00]: 4.983333 → 5.98
+~ Crushing!N38 "Tonage/Day (Tpd)" [30-08-2026 00:00]: 53.82 → 64.584
+~ Crushing!I60 "Volume Bucket" [10-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K60 "WMT/SHIFT (wet metrix to" [10-09-2026 00:00]: 73.45 → 88.14
+~ Crushing!L60 "DMT/SHIFT (dry metrix to" [10-09-2026 00:00]: 66.105 → 79.326
+~ Crushing!M60 "Ton/hour (tph)" [10-09-2026 00:00]: 6.120833 → 7.345
+~ Crushing!N60 "Tonage/Day (Tpd)" [10-09-2026 00:00]: 72.657 → 86.346
+~ Crushing!I61 "Volume Bucket": 2.8 → 3
+~ Crushing!K61 "WMT/SHIFT (wet metrix to": 7.28 → 7.8
+~ Crushing!L61 "DMT/SHIFT (dry metrix to": 6.552 → 7.02
+~ Crushing!M61 "Ton/hour (tph)": 0.606667 → 0.65
+~ Crushing!I64 "Volume Bucket" [12-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K64 "WMT/SHIFT (wet metrix to" [12-09-2026 00:00]: 213.85 → 256.62
+~ Crushing!L64 "DMT/SHIFT (dry metrix to" [12-09-2026 00:00]: 192.465 → 230.958
+~ Crushing!M64 "Ton/hour (tph)" [12-09-2026 00:00]: 17.820833 → 21.385
+~ Crushing!N64 "Tonage/Day (Tpd)" [12-09-2026 00:00]: 328.77 → 394.524
+~ Crushing!I65 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K65 "WMT/SHIFT (wet metrix to": 151.45 → 181.74
+~ Crushing!L65 "DMT/SHIFT (dry metrix to": 136.305 → 163.566
+~ Crushing!M65 "Ton/hour (tph)": 12.620833 → 15.145
+~ Crushing!I66 "Volume Bucket" [13-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K66 "WMT/SHIFT (wet metrix to" [13-09-2026 00:00]: 132.6 → 159.12
+~ Crushing!L66 "DMT/SHIFT (dry metrix to" [13-09-2026 00:00]: 119.34 → 143.208
+~ Crushing!M66 "Ton/hour (tph)" [13-09-2026 00:00]: 11.05 → 13.26
+~ Crushing!N66 "Tonage/Day (Tpd)" [13-09-2026 00:00]: 262.665 → 315.198
+~ Crushing!I67 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K67 "WMT/SHIFT (wet metrix to": 159.25 → 191.1
+~ Crushing!L67 "DMT/SHIFT (dry metrix to": 143.325 → 171.99
+~ Crushing!M67 "Ton/hour (tph)": 13.270833 → 15.925
+~ Crushing!N76 "Tonage/Day (Tpd)" [18-09-2026 00:00]: 201.24 → 241.488
+~ Crushing!I77 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K77 "WMT/SHIFT (wet metrix to": 234 → 280.8
+~ Crushing!L77 "DMT/SHIFT (dry metrix to": 201.24 → 241.488
+~ Crushing!M77 "Ton/hour (tph)": 19.5 → 23.4
+~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 321.8488 → 353.7846
+~ Crushing!I79 "Volume Bucket": 2.8 → 3
+~ Crushing!K79 "WMT/SHIFT (wet metrix to": 36.4 → 39
+~ Crushing!L79 "DMT/SHIFT (dry metrix to": 33.0512 → 35.412
+~ Crushing!M79 "Ton/hour (tph)": 3.033333 → 3.25
+~ Crushing!I80 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K80 "WMT/SHIFT (wet metrix to": 162.5 → 195
+~ Crushing!L80 "DMT/SHIFT (dry metrix to": 147.875 → 177.45
+~ Crushing!M80 "Ton/hour (tph)": 13.541667 → 16.25
+~ Crushing!N81 "Tonage/Day (Tpd)" [20-09-2026 00:00]: 209.989 → 212.329
+~ Crushing!I82 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K82 "WMT/SHIFT (wet metrix to": 13 → 15.6
+~ Crushing!L82 "DMT/SHIFT (dry metrix to": 11.7 → 14.04
+~ Crushing!M82 "Ton/hour (tph)": 1.083333 → 1.3
+~ Crushing!I86 "Volume Bucket" [22-09-2026 00:00]: 2.8 → 3
+~ Crushing!K86 "WMT/SHIFT (wet metrix to" [22-09-2026 00:00]: 138.32 → 148.2
+~ Crushing!L86 "DMT/SHIFT (dry metrix to" [22-09-2026 00:00]: 124.488 → 133.38
+~ Crushing!M86 "Ton/hour (tph)" [22-09-2026 00:00]: 11.526667 → 12.35
+~ Crushing!N86 "Tonage/Day (Tpd)" [22-09-2026 00:00]: 124.488 → 133.38
+~ Crushing!I88 "Volume Bucket" [23-09-2026 00:00]: 2.8 → 3
+~ Crushing!K88 "WMT/SHIFT (wet metrix to" [23-09-2026 00:00]: 229.32 → 245.7
+~ Crushing!L88 "DMT/SHIFT (dry metrix to" [23-09-2026 00:00]: 204.0948 → 218.673
+~ Crushing!M88 "Ton/hour (tph)" [23-09-2026 00:00]: 19.11 → 20.475
+~ Crushing!N88 "Tonage/Day (Tpd)" [23-09-2026 00:00]: 375.7936 → 402.636
+~ Crushing!I89 "Volume Bucket": 2.8 → 3
+~ Crushing!K89 "WMT/SHIFT (wet metrix to": 192.92 → 206.7
+~ Crushing!L89 "DMT/SHIFT (dry metrix to": 171.6988 → 183.963
+~ Crushing!M89 "Ton/hour (tph)": 16.076667 → 17.225
+~ Crushing!I90 "Volume Bucket" [24-09-2026 00:00]: 2.8 → 3
+~ Crushing!K90 "WMT/SHIFT (wet metrix to" [24-09-2026 00:00]: 112.84 → 120.9
+~ Crushing!L90 "DMT/SHIFT (dry metrix to" [24-09-2026 00:00]: 100.4276 → 107.601
+~ Crushing!M90 "Ton/hour (tph)" [24-09-2026 00:00]: 9.403333 → 10.075
+~ Crushing!N90 "Tonage/Day (Tpd)" [24-09-2026 00:00]: 205.2596 → 219.921
+~ Crushing!I91 "Volume Bucket": 2.8 → 3
+~ Crushing!K91 "WMT/SHIFT (wet metrix to": 116.48 → 124.8
+~ Crushing!L91 "DMT/SHIFT (dry metrix to": 104.832 → 112.32
+~ Crushing!M91 "Ton/hour (tph)": 9.706667 → 10.4
+~ Crushing!I92 "Volume Bucket" [25-09-2026 00:00]: 2.8 → 3
+~ Crushing!K92 "WMT/SHIFT (wet metrix to" [25-09-2026 00:00]: 211.12 → 226.2
+~ Crushing!L92 "DMT/SHIFT (dry metrix to" [25-09-2026 00:00]: 190.008 → 203.58
+~ Crushing!M92 "Ton/hour (tph)" [25-09-2026 00:00]: 17.593333 → 18.85
+~ Crushing!N92 "Tonage/Day (Tpd)" [25-09-2026 00:00]: 203.112 → 217.62
+~ Crushing!I93 "Volume Bucket": 2.8 → 3
+~ Crushing!K93 "WMT/SHIFT (wet metrix to": 14.56 → 15.6
+~ Crushing!L93 "DMT/SHIFT (dry metrix to": 13.104 → 14.04
+~ Crushing!M93 "Ton/hour (tph)": 1.213333 → 1.3
+~ Crushing!I94 "Volume Bucket" [26-09-2026 00:00]: 2.8 → 3
+~ Crushing!K94 "WMT/SHIFT (wet metrix to" [26-09-2026 00:00]: 91 → 97.5
+~ Crushing!L94 "DMT/SHIFT (dry metrix to" [26-09-2026 00:00]: 82.81 → 88.725
+~ Crushing!M94 "Ton/hour (tph)" [26-09-2026 00:00]: 7.583333 → 8.125
+~ Crushing!N94 "Tonage/Day (Tpd)" [26-09-2026 00:00]: 236.8548 → 253.773
+~ Crushing!I95 "Volume Bucket": 2.8 → 3
+~ Crushing!K95 "WMT/SHIFT (wet metrix to": 167.44 → 179.4
+~ Crushing!L95 "DMT/SHIFT (dry metrix to": 154.0448 → 165.048
+~ Crushing!M95 "Ton/hour (tph)": 13.953333 → 14.95
+~ Crushing!N98 "Tonage/Day (Tpd)" [28-09-2026 00:00]: 170.7888 → 182.988
+~ Crushing!I99 "Volume Bucket": 2.8 → 3
+~ Crushing!K99 "WMT/SHIFT (wet metrix to": 185.64 → 198.9
+~ Crushing!L99 "DMT/SHIFT (dry metrix to": 170.7888 → 182.988
+~ Crushing!M99 "Ton/hour (tph)": 15.47 → 16.575
+~ Crushing!N102 "Tonage/Day (Tpd)" [30-09-2026 00:00]: 113.386 → 121.485
+~ Crushing!I103 "Volume Bucket": 2.8 → 3
+~ Crushing!K103 "WMT/SHIFT (wet metrix to": 127.4 → 136.5
+~ Crushing!L103 "DMT/SHIFT (dry metrix to": 113.386 → 121.485
+~ Crushing!M103 "Ton/hour (tph)": 10.616667 → 11.375
+~ Crushing!I104 "Volume Bucket" [01-10-2026 00:00]: 2.8 → 3
+~ Crushing!K104 "WMT/SHIFT (wet metrix to" [01-10-2026 00:00]: 236.6 → 253.5
+~ Crushing!L104 "DMT/SHIFT (dry metrix to" [01-10-2026 00:00]: 210.574 → 225.615
+~ Crushing!M104 "Ton/hour (tph)" [01-10-2026 00:00]: 19.716667 → 21.125
+~ Crushing!N104 "Tonage/Day (Tpd)" [01-10-2026 00:00]: 210.574 → 348.435
+~ Crushing!F105 "Bucket": (kosong) → 20
+~ Crushing!I105 "Volume Bucket": 2.8 → 3
+~ Crushing!K105 "WMT/SHIFT (wet metrix to": 0 → 138
+~ Crushing!L105 "DMT/SHIFT (dry metrix to": 0 → 122.82
+~ Crushing!M105 "Ton/hour (tph)": 0 → 11.5
+~ Crushing!K106 "WMT/SHIFT (wet metrix to" [Rata-rata]: 150.69119 → 180.427429
+~ Crushing!L106 "DMT/SHIFT (dry metrix to" [Rata-rata]: 128.380746 → 152.517212
+~ Crushing!M106 "Ton/hour (tph)" [Rata-rata]: 12.70515 → 14.502919
+~ Crushing!N106 "Tonage/Day (Tpd)" [Rata-rata]: 97.341497 → 113.492475
+~ Crushing!N107 "Tonage/Day (Tpd)" [Total]: 5226.0012 → 5958.00952
+~ Daily Summary !C8 "Feeding, ton" [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Daily Summary !D8 [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Daily Summary !E8 [02-06-2026 00:00]: 7.073429 → 8.488115
+~ Daily Summary !G8 [02-06-2026 00:00]: 113.163075 → 135.79569
+~ Daily Summary !H8 [02-06-2026 00:00]: 0.113163 → 0.135796
+~ Daily Summary !C9 "Feeding, ton" [03-06-2026 00:00]: 17.712 → 21.2544
+~ Daily Summary !D9 [03-06-2026 00:00]: 95.7555 → 114.9066
+~ Daily Summary !E9 [03-06-2026 00:00]: 1.605317 → 1.926381
+~ Daily Summary !G9 [03-06-2026 00:00]: 25.6824 → 30.81888
+~ Daily Summary !H9 [03-06-2026 00:00]: 0.025682 → 0.030819
+~ Daily Summary !C10 "Feeding, ton" [04-06-2026 00:00]: 157.9905 → 189.5886
+~ Daily Summary !D10 [04-06-2026 00:00]: 253.746 → 304.4952
+~ Daily Summary !E10 [04-06-2026 00:00]: 16.74811 → 20.097731
+- ...dan 124 perubahan lain tidak ditampilkan
+_Dibandingkan 14138 sel dari 19 sheet._
+
 ## 02 Oct 2026 · 17:07 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Crushing: +3 baris, ~25 sel; Rom File Inventory: +1 baris, ~6 sel, -1 baris
 ~ Crushing!N102 "Tonage/Day (Tpd)" [30-09-2026 00:00]: 0 → 113.386
