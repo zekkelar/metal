@@ -5,6 +5,11 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 03 Oct 2026 · 22:03 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Filter Press: +1 baris
++ Filter Press baris 48 [48] ditambahkan: K=03-10-2026 00:00, M=12, N=144
+_Dibandingkan 14292 sel dari 19 sheet._
+
 ## 03 Oct 2026 · 10:34 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~65 sel; Crushing: +4 baris, ~133 sel; Daily Summary : ~126 sel; Filter Press: ~35 sel; LT Ball Mill: +7 baris; LT Floculation: +6 baris, ~3 sel; Milling and Leach Feed: ~6 sel; Rom File Inventory: ~1 sel
 ~ Au Cal Leaching Tank!AF20 "Lab AAS Result Tail" [8.490741]: 0.133083 → 0.133056
