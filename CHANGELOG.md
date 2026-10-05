@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 05 Oct 2026 · 09:45 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~37 sel; Crushing: +4 baris, ~33 sel; Daily Summary : ~9 sel; Filter Press: +2 baris, ~4 sel; LT Ball Mill: +9 baris; LT Floculation: +7 baris; Milling Down Time Hours: +115 baris, ~40 sel; Milling and Leach Feed: +7 baris, ~70 sel, -3 baris; Reagent Consumption: +20 baris, ~53 sel, -1 baris; Rom File Inventory: ~1 sel
+~ Au Cal Leaching Tank!AF21 "Lab AAS Result Tail" [8.990741]: (kosong) → 0.128
+~ Au Cal Leaching Tank!AG21 [8.990741]: (kosong) → 0.94
+~ Au Cal Leaching Tank!AH21 [8.990741]: (kosong) → 20.77
+~ Au Cal Leaching Tank!AO21 "Metal Content Calculated" [8.990741]: 0 → 49.307213
+~ Au Cal Leaching Tank!AP21 [8.990741]: 0 → 362.099844
+~ Au Cal Leaching Tank!AQ21 [8.990741]: 0 → 8000.865702
+~ Au Cal Leaching Tank!AT21 "Estimasi %Recovery Metal" [8.990741]: 0.864918 → 0.647956
+~ Au Cal Leaching Tank!AU21 [8.990741]: 1 → 0.319334
+~ Au Cal Leaching Tank!AV21 [8.990741]: 1 → -0.23235
+~ Au Cal Leaching Tank!AZ21 "Estimasi Lab AAS Loaded " [8.990741]: 785.53513 → 752.663655
+~ Au Cal Leaching Tank!BA21 [8.990741]: 869.775055 → 628.375159
+~ Au Cal Leaching Tank!BB21 [8.990741]: 5489.124039 → 155.213571
+~ Au Cal Leaching Tank!BD21 "Estimasi Metal Content R" [8.990741]: 196.563458 → 147.256245
+~ Au Cal Leaching Tank!BE21 [8.990741]: 531.978601 → 169.878757
+~ Au Cal Leaching Tank!BF21 [8.990741]: 6492.362653 → -1508.503049
+~ Au Cal Leaching Tank!AF60 "Lab AAS Result Tail" [51]: 0.092164 → 0.09515
+~ Au Cal Leaching Tank!AG60 [51]: 0.325354 → 0.376574
+~ Au Cal Leaching Tank!AH60 [51]: 9.982177 → 10.881162
+~ Au Cal Leaching Tank!AO60 "Metal Content Calculated" [51]: 338.416104 → 387.723317
+~ Au Cal Leaching Tank!AP60 [51]: 1230.663137 → 1592.762981
+~ Au Cal Leaching Tank!AQ60 [51]: 37981.184882 → 45982.050584
+~ Au Cal Leaching Tank!AT60 "Estimasi %Recovery Metal" [51]: 0.804098 → 0.786018
+~ Au Cal Leaching Tank!AU60 [51]: 0.602378 → 0.545656
+~ Au Cal Leaching Tank!AV60 [51]: 0.182619 → 0.079923
+~ Au Cal Leaching Tank!BD61 "Estimasi Metal Content R" [52]: 2236.787179 → 2187.479966
+~ Au Cal Leaching Tank!BE61 [52]: 2131.406364 → 1769.30652
+~ Au Cal Leaching Tank!BF61 [52]: 10323.576588 → 2322.710886
+~ Au Cal Leaching Tank!AL63 "Metal Content Head Grade": 2236.787179 → 2187.479966
+~ Au Cal Leaching Tank!BD63 "Estimasi Metal Content R": 1789.429743 → 1749.983973
+~ Au Cal Leaching Tank!M67 "%solid": 233.133333 → 317.633333
+~ Au Cal Leaching Tank!U67 "Solid on Tank,": 28.668056 → 32.188889
+~ Au Cal Leaching Tank!M68 "%solid": 9.713889 → 13.234722
+~ Au Cal Leaching Tank!M71 "%solid": 233.133333 → 317.633333
+~ Au Cal Leaching Tank!M72 "%solid": 688.033333 → 772.533333
+~ Au Cal Leaching Tank!M73 "%solid": 0.66116 → 0.588842
+~ Au Cal Leaching Tank!M76 "%solid": 28.668056 → 32.188889
+~ Au Cal Leaching Tank!M77 "%solid": 0.33884 → 0.411158
+~ Crushing!F106 "Bucket" [02-10-2026 00:00]: 35 → 30
+~ Crushing!K106 "WMT/SHIFT (wet metrix to" [02-10-2026 00:00]: 136.5 → 117
+~ Crushing!L106 "DMT/SHIFT (dry metrix to" [02-10-2026 00:00]: 121.485 → 104.13
+~ Crushing!M106 "Ton/hour (tph)" [02-10-2026 00:00]: 11.375 → 9.75
+~ Crushing!N106 "Tonage/Day (Tpd)" [02-10-2026 00:00]: 300.0279 → 232.2099
+~ Crushing!J109 "SG Bulk Density (ton/m3)": 2.3 → 1.3
+~ Crushing!K109 "WMT/SHIFT (wet metrix to": 130.41 → 73.71
+~ Crushing!L109 "DMT/SHIFT (dry metrix to": 116.0649 → 65.6019
+~ Crushing!M109 "Ton/hour (tph)": 10.8675 → 6.1425
+~ Crushing!B110 "Date" [03-10-2026 00:00]: Rata-rata → 03-10-2026 00:00
+~ Crushing!D110 "Shift" [03-10-2026 00:00]: (kosong) → Day
+~ Crushing!E110 "PIC" [03-10-2026 00:00]: (kosong) → Vincert
+~ Crushing!F110 "Bucket" [03-10-2026 00:00]: 182 → 63
+~ Crushing!G110 "Type" [03-10-2026 00:00]: (kosong) → Loader
+~ Crushing!H110 "Moisture %" [03-10-2026 00:00]: 0.110733 → 0.09
+~ Crushing!I110 "Volume Bucket" [03-10-2026 00:00]: (kosong) → 3
+~ Crushing!J110 "SG Bulk Density (ton/m3)" [03-10-2026 00:00]: (kosong) → 1.3
+~ Crushing!K110 "WMT/SHIFT (wet metrix to" [03-10-2026 00:00]: 150.914524 → 245.7
+~ Crushing!L110 "DMT/SHIFT (dry metrix to" [03-10-2026 00:00]: 128.633892 → 223.587
+~ Crushing!M110 "Ton/hour (tph)" [03-10-2026 00:00]: 12.962949 → 20.475
+~ Crushing!N110 "Tonage/Day (Tpd)" [03-10-2026 00:00]: 97.510262 → 464.919
+~ Crushing!B111 "Date" [Total]: Total → (kosong)
+~ Crushing!D111 "Shift" [Total]: (kosong) → Night
+~ Crushing!E111 "PIC" [Total]: (kosong) → Nuel
+~ Crushing!F111 "Bucket" [Total]: 5971 → 68
+~ Crushing!G111 "Type" [Total]: (kosong) → Loader
+~ Crushing!H111 "Moisture %" [Total]: (kosong) → 0.09
+~ Crushing!I111 "Volume Bucket" [Total]: (kosong) → 3
+~ Crushing!J111 "SG Bulk Density (ton/m3)" [Total]: (kosong) → 1.3
+~ Crushing!K111 "WMT/SHIFT (wet metrix to" [Total]: (kosong) → 265.2
+~ Crushing!L111 "DMT/SHIFT (dry metrix to" [Total]: (kosong) → 241.332
+~ Crushing!M111 "Ton/hour (tph)" [Total]: (kosong) → 22.1
+~ Crushing!N111 "Tonage/Day (Tpd)" [Total]: 5929.7661 → (kosong)
++ Crushing baris 112 [04-10-2026 00:00] ditambahkan: B·Date=04-10-2026 00:00, D·Shift=Day, E·PIC=Vincent, F·Bucket=17, G·Type=Loader, H·Moisture %=0.09, I·Volume Bucket=3, J·SG Bulk Density (ton/m3)=2.3, ...
++ Crushing baris 113 ditambahkan: D·Shift=Night, E·PIC=Nuel
++ Crushing baris 114 [Rata-rata] ditambahkan: B·Date=Rata-rata, F·Bucket=182, H·Moisture %=0.110733, K·WMT/SHIFT (wet metrix to=150.914524, L·DMT/SHIFT (dry metrix to=128.633892, M·Ton/hour (tph)=12.962949, N·Tonage/Day (Tpd)=97.510262
++ Crushing baris 115 [Total] ditambahkan: B·Date=Total, F·Bucket=5971, N·Tonage/Day (Tpd)=6336.6421
+~ Daily Summary !AF34 [10-09-2026 00:00]: 0 → 25
+~ Daily Summary !AF35 [11-09-2026 00:00]: 0 → 25
+~ Daily Summary !AF38 [14-09-2026 00:00]: 0 → 25
+~ Daily Summary !AD43 [19-09-2026 00:00]: 0 → 100
+~ Daily Summary !AE43 [19-09-2026 00:00]: 0 → 7
+~ Daily Summary !Z44 "Consumption" [20-09-2026 00:00]: 0 → 175
+~ Daily Summary !Z56 "Consumption" [Total]: 5625 → 5800
+~ Daily Summary !AF56 [Total]: 250 → 325
+~ Daily Summary !AF57 [Average]: 8.62069 → 10.344828
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 3691.38 → 3975.42
+~ Filter Press!M47 [47]: 7 → 10
+~ Filter Press!N47 [47]: 84 → 120
+~ Filter Press!P47 [47]: 65.52 → 93.6
++ Filter Press baris 48 [48] ditambahkan: O=0.21, P=113.76
++ Filter Press baris 49 [49] ditambahkan: K=03-10-2026 00:00, M=15, N=180, O=0.21, P=142.2
++ LT Ball Mill baris 148 [145] ditambahkan: B·No=145, C·id batch=13, D·Id sampel=LF Ball Mill NS 1, E·date=29-09-2026 00:00, F·au (g/t)=0.558, G·ag (g/t)=1.42, H·Cu (g/t)=19.61
++ LT Ball Mill baris 149 [146] ditambahkan: B·No=146, D·Id sampel=LF Ball Mill NS 2, E·date=29-09-2026 00:00, F·au (g/t)=0.575, G·ag (g/t)=1.39, H·Cu (g/t)=19.61
++ LT Ball Mill baris 150 [147] ditambahkan: B·No=147, D·Id sampel=LF Ball Mill NS 3, E·date=29-09-2026 00:00, F·au (g/t)=0.506, G·ag (g/t)=1.36, H·Cu (g/t)=19.08
++ LT Ball Mill baris 151 [148] ditambahkan: B·No=148, D·Id sampel=LF Ball Mill DS 1, E·date=04-10-2026 00:00
++ LT Ball Mill baris 152 [149] ditambahkan: B·No=149, D·Id sampel=LF Ball Mill DS 2, E·date=04-10-2026 00:00
++ LT Ball Mill baris 153 [150] ditambahkan: B·No=150, D·Id sampel=LF Ball Mill DS 3, E·date=04-10-2026 00:00
++ LT Ball Mill baris 154 [151] ditambahkan: B·No=151, D·Id sampel=LF Ball Mill NS 1, E·date=04-10-2026 00:00
++ LT Ball Mill baris 155 [152] ditambahkan: B·No=152, D·Id sampel=LF Ball Mill NS 2, E·date=04-10-2026 00:00
++ LT Ball Mill baris 156 [153] ditambahkan: B·No=153, D·Id sampel=LF Ball Mill NS 3, E·date=04-10-2026 00:00
++ LT Floculation baris 17 [12] ditambahkan: G·Lab AAS Result=0.2335, H=0.94, I=19.876667
++ LT Floculation baris 101 ditambahkan: O=LT-Floc DS 1, Q=02-10-2026 00:00, R=0.332, S=1.12, T=19.87
++ LT Floculation baris 102 ditambahkan: O=LT-Floc DS 2, Q=02-10-2026 00:00, R=0.362, S=1.19, T=19.84
++ LT Floculation baris 103 ditambahkan: O=LT-Floc DS 3, Q=02-10-2026 00:00, R=0.324, S=1.04, T=19.92
++ LT Floculation baris 104 ditambahkan: O=LT-Floc NS 1, Q=02-10-2026 00:00, R=0.153, S=0.72
++ LT Floculation baris 105 ditambahkan: O=LT-Floc NS 2, Q=02-10-2026 00:00, R=0.115, S=0.83
++ LT Floculation baris 106 ditambahkan: O=LT-Floc NS 3, Q=02-10-2026 00:00, R=0.115, S=0.74
+~ Milling Down Time Hours!AI6 [31-08-2026 00:00]: 233.133333 → 245.466667
+~ Milling Down Time Hours!AJ6 [31-08-2026 00:00]: 0.653075 → 0.641305
++ Milling Down Time Hours baris 33 [14-09-2026 00:00] ditambahkan: P·Total Down Time (Mins)=0
+~ Milling Down Time Hours!P34 "Total Down Time (Mins)" [14-09-2026 00:00]: (kosong) → 740
+~ Milling Down Time Hours!S34 "Downtime (hr)" [14-09-2026 00:00]: 0 → 12.333333
++ Milling Down Time Hours baris 35 [15-09-2026 00:00] ditambahkan: P·Total Down Time (Mins)=1440
++ Milling Down Time Hours baris 36 [15-09-2026 00:00] ditambahkan: P·Total Down Time (Mins)=1440
++ Milling Down Time Hours baris 37 [16-09-2026 00:00] ditambahkan: P·Total Down Time (Mins)=1440
++ Milling Down Time Hours baris 38 [16-09-2026 00:00] ditambahkan: P·Total Down Time (Mins)=10
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 13988 → 19058
+~ Milling Down Time Hours!R59 "Availbility (%)" [27-09-2026 00:00]: 0.653075 → 0.641305
+~ Milling Down Time Hours!S59 "Downtime (hr)" [27-09-2026 00:00]: 233.133333 → 245.466667
+~ Milling Down Time Hours!P60 "Total Down Time (Mins)" [27-09-2026 00:00]: 233.133333 → 317.633333
+~ Milling Down Time Hours!R60 "Availbility (%)" [27-09-2026 00:00]: 28 → 28.513889
+~ Milling Down Time Hours!S60 "Downtime (hr)" [27-09-2026 00:00]: 9.713889 → 10.227778
+~ Milling Down Time Hours!E64 "Stop Time" [29-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F64 "Start Time" [29-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G64 "Down Time (Mins)" [29-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J64 "Running Time Hour/Shift" [29-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K64 "Availibility per Shift" [29-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E65 "Stop Time" [30-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F65 "Start Time" [30-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G65 "Down Time (Mins)" [30-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J65 "Running Time Hour/Shift" [30-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K65 "Availibility per Shift" [30-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E66 "Stop Time" [30-09-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F66 "Start Time" [30-09-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G66 "Down Time (Mins)" [30-09-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J66 "Running Time Hour/Shift" [30-09-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K66 "Availibility per Shift" [30-09-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E67 "Stop Time" [01-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F67 "Start Time" [01-10-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G67 "Down Time (Mins)" [01-10-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J67 "Running Time Hour/Shift" [01-10-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K67 "Availibility per Shift" [01-10-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E68 "Stop Time" [01-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F68 "Start Time" [01-10-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G68 "Down Time (Mins)" [01-10-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J68 "Running Time Hour/Shift" [01-10-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K68 "Availibility per Shift" [01-10-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E69 "Stop Time" [02-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F69 "Start Time" [02-10-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G69 "Down Time (Mins)" [02-10-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!J69 "Running Time Hour/Shift" [02-10-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K69 "Availibility per Shift" [02-10-2026 00:00]: 1 → 0
++ Milling Down Time Hours baris 70 [02-10-2026 00:00] ditambahkan: A·Date=02-10-2026 00:00, C·Shift=Night, E·Stop Time=00:01:00, F·Start Time=12:01:00, G·Down Time (Mins)=720, J·Running Time Hour/Shift=0, K·Availibility per Shift=0
++ Milling Down Time Hours baris 71 [03-10-2026 00:00] ditambahkan: A·Date=03-10-2026 00:00, C·Shift=Day, E·Stop Time=00:01:00, F·Start Time=12:01:00, G·Down Time (Mins)=720, J·Running Time Hour/Shift=0, K·Availibility per Shift=0
++ Milling Down Time Hours baris 72 [03-10-2026 00:00] ditambahkan: A·Date=03-10-2026 00:00, C·Shift=Night, E·Stop Time=00:01:00, F·Start Time=12:01:00, G·Down Time (Mins)=720, J·Running Time Hour/Shift=0, K·Availibility per Shift=0
++ Milling Down Time Hours baris 73 [04-10-2026 00:00] ditambahkan: A·Date=04-10-2026 00:00, C·Shift=Day, E·Stop Time=00:01:00, F·Start Time=00:01:00, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 74 [04-10-2026 00:00] ditambahkan: A·Date=04-10-2026 00:00, C·Shift=Night, E·Stop Time=00:01:00, F·Start Time=00:11:00, G·Down Time (Mins)=10, H·Reason=Peralihan genset, I·BATCH=13, J·Running Time Hour/Shift=11.833333, ...
++ Milling Down Time Hours baris 75 [05-10-2026 00:00] ditambahkan: A·Date=05-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, I·BATCH=13, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 76 [05-10-2026 00:00] ditambahkan: A·Date=05-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 77 [06-10-2026 00:00] ditambahkan: A·Date=06-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 78 [06-10-2026 00:00] ditambahkan: A·Date=06-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 79 [07-10-2026 00:00] ditambahkan: A·Date=07-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 80 [07-10-2026 00:00] ditambahkan: A·Date=07-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 81 [08-10-2026 00:00] ditambahkan: A·Date=08-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 82 [08-10-2026 00:00] ditambahkan: A·Date=08-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 83 [09-10-2026 00:00] ditambahkan: A·Date=09-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 84 [09-10-2026 00:00] ditambahkan: A·Date=09-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 85 [10-10-2026 00:00] ditambahkan: A·Date=10-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 86 [10-10-2026 00:00] ditambahkan: A·Date=10-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 87 [11-10-2026 00:00] ditambahkan: A·Date=11-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 88 [11-10-2026 00:00] ditambahkan: A·Date=11-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 89 [12-10-2026 00:00] ditambahkan: A·Date=12-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 90 [12-10-2026 00:00] ditambahkan: A·Date=12-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 91 [13-10-2026 00:00] ditambahkan: A·Date=13-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 92 [13-10-2026 00:00] ditambahkan: A·Date=13-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 93 [14-10-2026 00:00] ditambahkan: A·Date=14-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 94 [14-10-2026 00:00] ditambahkan: A·Date=14-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 95 [15-10-2026 00:00] ditambahkan: A·Date=15-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 96 [15-10-2026 00:00] ditambahkan: A·Date=15-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 97 [16-10-2026 00:00] ditambahkan: A·Date=16-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 98 [16-10-2026 00:00] ditambahkan: A·Date=16-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 99 [17-10-2026 00:00] ditambahkan: A·Date=17-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 100 [17-10-2026 00:00] ditambahkan: A·Date=17-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 101 [18-10-2026 00:00] ditambahkan: A·Date=18-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 102 [18-10-2026 00:00] ditambahkan: A·Date=18-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 103 [19-10-2026 00:00] ditambahkan: A·Date=19-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 104 [19-10-2026 00:00] ditambahkan: A·Date=19-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 105 [20-10-2026 00:00] ditambahkan: A·Date=20-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 106 [20-10-2026 00:00] ditambahkan: A·Date=20-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 107 [21-10-2026 00:00] ditambahkan: A·Date=21-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 108 [21-10-2026 00:00] ditambahkan: A·Date=21-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 109 [22-10-2026 00:00] ditambahkan: A·Date=22-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 110 [22-10-2026 00:00] ditambahkan: A·Date=22-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 111 [23-10-2026 00:00] ditambahkan: A·Date=23-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 112 [23-10-2026 00:00] ditambahkan: A·Date=23-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 113 [24-10-2026 00:00] ditambahkan: A·Date=24-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 114 [24-10-2026 00:00] ditambahkan: A·Date=24-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 115 [25-10-2026 00:00] ditambahkan: A·Date=25-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 116 [25-10-2026 00:00] ditambahkan: A·Date=25-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 117 [26-10-2026 00:00] ditambahkan: A·Date=26-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 118 [26-10-2026 00:00] ditambahkan: A·Date=26-10-2026 00:00, C·Shift=Night, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
++ Milling Down Time Hours baris 119 [27-10-2026 00:00] ditambahkan: A·Date=27-10-2026 00:00, C·Shift=Day, G·Down Time (Mins)=0, J·Running Time Hour/Shift=12, K·Availibility per Shift=1
+- ...dan 778 perubahan lain tidak ditampilkan
+_Dibandingkan 15064 sel dari 19 sheet._
+
 ## 03 Oct 2026 · 22:03 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Filter Press: +1 baris
 + Filter Press baris 48 [48] ditambahkan: K=03-10-2026 00:00, M=12, N=144
