@@ -5,6 +5,17 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 06 Oct 2026 · 15:08 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Milling Down Time Hours: +1 baris, ~6 sel
++ Milling Down Time Hours baris 75 [05-10-2026 00:00] ditambahkan: E·Stop Time=00:01:00, F·Start Time=00:01:00
+~ Milling Down Time Hours!E76 "Stop Time" [05-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F76 "Start Time" [05-10-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G76 "Down Time (Mins)" [05-10-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!H76 "Reason" [05-10-2026 00:00]: (kosong) → Ada perbaikan pada tanki thickener tank,
+~ Milling Down Time Hours!J76 "Running Time Hour/Shift" [05-10-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K76 "Availibility per Shift" [05-10-2026 00:00]: 1 → 0
+_Dibandingkan 15069 sel dari 19 sheet._
+
 ## 05 Oct 2026 · 09:45 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~37 sel; Crushing: +4 baris, ~33 sel; Daily Summary : ~9 sel; Filter Press: +2 baris, ~4 sel; LT Ball Mill: +9 baris; LT Floculation: +7 baris; Milling Down Time Hours: +115 baris, ~40 sel; Milling and Leach Feed: +7 baris, ~70 sel, -3 baris; Reagent Consumption: +20 baris, ~53 sel, -1 baris; Rom File Inventory: ~1 sel
 ~ Au Cal Leaching Tank!AF21 "Lab AAS Result Tail" [8.990741]: (kosong) → 0.128
