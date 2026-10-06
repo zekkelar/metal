@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 06 Oct 2026 · 16:52 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~62 sel; Milling and Leach Feed: +1 baris, ~31 sel; Reagent Consumption: +16 baris, ~164 sel
+~ Daily Summary !Z12 "Consumption" [19-08-2026 00:00]: 275 → 100
+~ Daily Summary !AB12 [19-08-2026 00:00]: 1000 → 0
+~ Daily Summary !AC12 [19-08-2026 00:00]: 500 → 250
+~ Daily Summary !AF12 [19-08-2026 00:00]: 25 → 0
+~ Daily Summary !AC13 [20-08-2026 00:00]: 250 → 0
+~ Daily Summary !Z14 "Consumption" [21-08-2026 00:00]: 0 → 175
+~ Daily Summary !AC14 [21-08-2026 00:00]: 0 → 500
+~ Daily Summary !AF14 [21-08-2026 00:00]: 25 → 0
+~ Daily Summary !Z15 "Consumption" [22-08-2026 00:00]: 100 → 300
+~ Daily Summary !AC15 [22-08-2026 00:00]: 0 → 750
+~ Daily Summary !AC16 [23-08-2026 00:00]: 500 → 0
+~ Daily Summary !Z17 "Consumption" [24-08-2026 00:00]: 300 → 175
+~ Daily Summary !AC17 [24-08-2026 00:00]: 750 → 0
+~ Daily Summary !Z18 "Consumption" [25-08-2026 00:00]: 175 → 200
+~ Daily Summary !AB18 [25-08-2026 00:00]: 0 → 500
+~ Daily Summary !AF18 [25-08-2026 00:00]: 0 → 50
+~ Daily Summary !Z19 "Consumption" [26-08-2026 00:00]: 175 → 100
+~ Daily Summary !Z20 "Consumption" [27-08-2026 00:00]: 300 → 125
+~ Daily Summary !AB20 [27-08-2026 00:00]: 500 → 0
+~ Daily Summary !AB21 [28-08-2026 00:00]: 500 → 0
+~ Daily Summary !AF21 [28-08-2026 00:00]: 50 → 0
+~ Daily Summary !Z22 "Consumption" [29-08-2026 00:00]: 100 → 250
+~ Daily Summary !Z23 "Consumption" [30-08-2026 00:00]: 225 → 275
+~ Daily Summary !AC23 [30-08-2026 00:00]: 0 → 325
+~ Daily Summary !Z24 "Consumption" [31-08-2026 00:00]: 125 → 0
+~ Daily Summary !Z25 "Consumption" [01-09-2026 00:00]: 375 → 0
+~ Daily Summary !AF25 [01-09-2026 00:00]: 25 → 0
+~ Daily Summary !Z26 "Consumption" [02-09-2026 00:00]: 200 → 175
+~ Daily Summary !AF27 [03-09-2026 00:00]: 0 → 50
+~ Daily Summary !Z28 "Consumption" [04-09-2026 00:00]: 275 → 125
+~ Daily Summary !AC28 [04-09-2026 00:00]: 325 → 0
+~ Daily Summary !AF28 [04-09-2026 00:00]: 25 → 0
+~ Daily Summary !Z29 "Consumption" [05-09-2026 00:00]: 0 → 175
+~ Daily Summary !AF29 [05-09-2026 00:00]: 0 → 25
+~ Daily Summary !Z30 "Consumption" [06-09-2026 00:00]: 0 → 175
+~ Daily Summary !Z31 "Consumption" [07-09-2026 00:00]: 175 → 0
+~ Daily Summary !Z32 "Consumption" [08-09-2026 00:00]: 250 → 0
+~ Daily Summary !AD32 [08-09-2026 00:00]: 0 → 100
+~ Daily Summary !AE32 [08-09-2026 00:00]: 0 → 7
+~ Daily Summary !AF32 [08-09-2026 00:00]: 50 → 0
+~ Daily Summary !Z33 "Consumption" [09-09-2026 00:00]: 125 → 225
+~ Daily Summary !AB33 [09-09-2026 00:00]: 0 → 1000
+~ Daily Summary !Z34 "Consumption" [10-09-2026 00:00]: 675 → 0
+~ Daily Summary !AC34 [10-09-2026 00:00]: 325 → 0
+~ Daily Summary !AF34 [10-09-2026 00:00]: 25 → 0
+~ Daily Summary !Z35 "Consumption" [11-09-2026 00:00]: 175 → 0
+~ Daily Summary !AF35 [11-09-2026 00:00]: 25 → 0
+~ Daily Summary !Z37 "Consumption" [13-09-2026 00:00]: 150 → 0
+~ Daily Summary !Z38 "Consumption" [14-09-2026 00:00]: 175 → 0
+~ Daily Summary !AF38 [14-09-2026 00:00]: 25 → 0
+~ Daily Summary !Z39 "Consumption" [15-09-2026 00:00]: 175 → 0
+~ Daily Summary !AD43 [19-09-2026 00:00]: 100 → 0
+~ Daily Summary !AE43 [19-09-2026 00:00]: 7 → 0
+~ Daily Summary !Z44 "Consumption" [20-09-2026 00:00]: 175 → 0
+~ Daily Summary !Z56 "Consumption" [Total]: 5800 → 3675
+~ Daily Summary !AB56 [Total]: 3000 → 2500
+~ Daily Summary !AC56 [Total]: 4150 → 3325
+~ Daily Summary !AF56 [Total]: 325 → 175
+~ Daily Summary !Z57 "Consumption" [Average]: 176.724138 → 126.724138
+~ Daily Summary !AB57 [Average]: 103.448276 → 86.206897
+~ Daily Summary !AC57 [Average]: 143.103448 → 114.655172
+~ Daily Summary !AF57 [Average]: 10.344828 → 6.034483
+~ Milling and Leach Feed!AI6: 1155 → 1190
+~ Milling and Leach Feed!AI8: 1.155 → 1.19
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.256198 → 0.304813
+~ Milling and Leach Feed!AI12: 295.909091 → 362.727273
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 859.090909 → 827.272727
+~ Milling and Leach Feed!AL13 [04-09-2026 00:00]: (kosong) → 10.8
++ Milling and Leach Feed baris 75 [04-10-2026 00:00] ditambahkan: S=346.520701
+~ Milling and Leach Feed!G77 [05-10-2026 00:00]: (kosong) → 0.3
+~ Milling and Leach Feed!H77 "Milling And Leach Feed M" [05-10-2026 00:00]: (kosong) → 179.7493
+~ Milling and Leach Feed!I77 [05-10-2026 00:00]: (kosong) → 14.979108
+~ Milling and Leach Feed!J77 [05-10-2026 00:00]: (kosong) → 871.784105
+~ Milling and Leach Feed!K77 [05-10-2026 00:00]: (kosong) → 1.19
+~ Milling and Leach Feed!L77 [05-10-2026 00:00]: (kosong) → 0.7
+~ Milling and Leach Feed!M77 [05-10-2026 00:00]: 0 → 111.401876
+~ Milling and Leach Feed!N77 [05-10-2026 00:00]: (kosong) → 146.695651
+~ Milling and Leach Feed!O77 [05-10-2026 00:00]: (kosong) → 9.28349
+~ Milling and Leach Feed!P77 [05-10-2026 00:00]: (kosong) → 12
+~ Milling and Leach Feed!Q77 [05-10-2026 00:00]: (kosong) → 720
+~ Milling and Leach Feed!R77 [05-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Z77 [05-10-2026 00:00]: (kosong) → 9.7
+~ Milling and Leach Feed!G78: (kosong) → 0.3
+~ Milling and Leach Feed!H78 "Milling And Leach Feed M": (kosong) → 98.862115
+~ Milling and Leach Feed!I78: (kosong) → #DIV/0!
+~ Milling and Leach Feed!J78: (kosong) → 970.64622
+~ Milling and Leach Feed!K78: (kosong) → 1.19
+~ Milling and Leach Feed!M78: 0 → 35.293775
+~ Milling and Leach Feed!Z78: (kosong) → 10.8
+~ Milling and Leach Feed!L107 [Average]: 0.723725 → 0.723269
+~ Milling and Leach Feed!M107 [Average]: 4193.763838 → 4340.459489
+~ Milling and Leach Feed!P107 [Average]: 490.233333 → 502.233333
+~ Milling and Leach Feed!Q107 [Average]: 29414 → 30134
+~ Milling and Leach Feed!S107 [Average]: 3993.938788 → 4340.459489
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 5825 → 6050
+~ Reagent Consumption!Z8 [29-08-2026 00:00]: 3000 → 4000
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.458327 → 1.514657
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.75107 → 1.001426
+~ Reagent Consumption!N12 [01-09-2026 00:00]: (kosong) → 02-09-2026 00:00
+~ Reagent Consumption!O12 [01-09-2026 00:00]: (kosong) → 275
+~ Reagent Consumption!P12 [01-09-2026 00:00]: (kosong) → 500
+~ Reagent Consumption!Q12 [01-09-2026 00:00]: (kosong) → 1000
+~ Reagent Consumption!R12 [01-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!S12 [01-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!T12 [01-09-2026 00:00]: 0 → 25
+~ Reagent Consumption!V12 [01-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!N13 [02-09-2026 00:00]: 02-09-2026 00:00 → 03-09-2026 00:00
+~ Reagent Consumption!O13 [02-09-2026 00:00]: 275 → 100
+~ Reagent Consumption!P13 [02-09-2026 00:00]: 500 → 250
+~ Reagent Consumption!Q13 [02-09-2026 00:00]: 1000 → 0
+~ Reagent Consumption!T13 [02-09-2026 00:00]: 25 → 0
+~ Reagent Consumption!N14 [02-09-2026 00:00]: (kosong) → 04-09-2026 00:00
+~ Reagent Consumption!O14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!P14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!Q14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!R14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!S14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!T14 [02-09-2026 00:00]: 0 → 25
+~ Reagent Consumption!V14 [02-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!N15 [03-09-2026 00:00]: 03-09-2026 00:00 → 05-09-2026 00:00
+~ Reagent Consumption!P15 [03-09-2026 00:00]: 250 → 0
+~ Reagent Consumption!N16 [04-09-2026 00:00]: 04-09-2026 00:00 → 06-09-2026 00:00
+~ Reagent Consumption!O16 [04-09-2026 00:00]: 0 → 175
+~ Reagent Consumption!P16 [04-09-2026 00:00]: 0 → 500
+~ Reagent Consumption!T16 [04-09-2026 00:00]: 25 → 0
+~ Reagent Consumption!N17 [05-09-2026 00:00]: 05-09-2026 00:00 → 07-09-2026 00:00
+~ Reagent Consumption!O17 [05-09-2026 00:00]: 100 → 300
+~ Reagent Consumption!P17 [05-09-2026 00:00]: 0 → 750
+~ Reagent Consumption!N18 [06-09-2026 00:00]: 06-09-2026 00:00 → 08-09-2026 00:00
+~ Reagent Consumption!P18 [06-09-2026 00:00]: 500 → 0
+~ Reagent Consumption!N19 [07-09-2026 00:00]: 07-09-2026 00:00 → 09-09-2026 00:00
+~ Reagent Consumption!O19 [07-09-2026 00:00]: 300 → 175
+~ Reagent Consumption!P19 [07-09-2026 00:00]: 750 → 0
++ Reagent Consumption baris 20 [07-09-2026 00:00] ditambahkan: N=10-09-2026 00:00, O=300, Q=500, R=0, S=0, V=0
+~ Reagent Consumption!N21 [08-09-2026 00:00]: 08-09-2026 00:00 → 11-09-2026 00:00
+~ Reagent Consumption!O21 [08-09-2026 00:00]: 175 → 200
+~ Reagent Consumption!Q21 [08-09-2026 00:00]: 0 → 500
+~ Reagent Consumption!T21 [08-09-2026 00:00]: 0 → 50
+~ Reagent Consumption!N22 [09-09-2026 00:00]: 09-09-2026 00:00 → 12-09-2026 00:00
+~ Reagent Consumption!O22 [09-09-2026 00:00]: 175 → 100
+~ Reagent Consumption!N23 [09-09-2026 00:00]: (kosong) → 13-09-2026 00:00
+~ Reagent Consumption!O23 [09-09-2026 00:00]: (kosong) → 225
+~ Reagent Consumption!Q23 [09-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!R23 [09-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!S23 [09-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!T23 [09-09-2026 00:00]: 0 → 25
+~ Reagent Consumption!V23 [09-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!N24 [10-09-2026 00:00]: 10-09-2026 00:00 → 14-09-2026 00:00
+~ Reagent Consumption!O24 [10-09-2026 00:00]: 300 → 125
+~ Reagent Consumption!Q24 [10-09-2026 00:00]: 500 → 0
+~ Reagent Consumption!N25 [10-09-2026 00:00]: (kosong) → 15-09-2026 00:00
+~ Reagent Consumption!O25 [10-09-2026 00:00]: (kosong) → 375
+~ Reagent Consumption!Q25 [10-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!R25 [10-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!S25 [10-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!T25 [10-09-2026 00:00]: 0 → 25
+~ Reagent Consumption!V25 [10-09-2026 00:00]: (kosong) → 0
+~ Reagent Consumption!N26 [11-09-2026 00:00]: 11-09-2026 00:00 → 16-09-2026 00:00
+~ Reagent Consumption!Q26 [11-09-2026 00:00]: 500 → 0
+~ Reagent Consumption!T26 [11-09-2026 00:00]: 50 → 0
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 396100000 → 411400000
+~ Reagent Consumption!Z26 [11-09-2026 00:00]: 132000000 → 176000000
+~ Reagent Consumption!N27 [12-09-2026 00:00]: 12-09-2026 00:00 → 17-09-2026 00:00
+~ Reagent Consumption!O27 [12-09-2026 00:00]: 100 → 250
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 553345000 → 612645000
+~ Reagent Consumption!N28 [13-09-2026 00:00]: 13-09-2026 00:00 → 18-09-2026 00:00
+~ Reagent Consumption!O28 [13-09-2026 00:00]: 225 → 275
+~ Reagent Consumption!P28 [13-09-2026 00:00]: 0 → 325
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.715828 → 0.671514
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.01725 → 0.01558
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.238549 → 0.287279
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.01762 → 0.015915
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.00506 → 0.00457
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.005693 → 0.005142
+~ Reagent Consumption!N29 [14-09-2026 00:00]: 14-09-2026 00:00 → 19-09-2026 00:00
+~ Reagent Consumption!O29 [14-09-2026 00:00]: 125 → 0
+~ Reagent Consumption!N30 [15-09-2026 00:00]: 15-09-2026 00:00 → 20-09-2026 00:00
+~ Reagent Consumption!O30 [15-09-2026 00:00]: 375 → 0
+~ Reagent Consumption!T30 [15-09-2026 00:00]: 25 → 0
+~ Reagent Consumption!N31 [15-09-2026 00:00]: 16-09-2026 00:00 → 21-09-2026 00:00
+~ Reagent Consumption!O31 [15-09-2026 00:00]: 200 → 175
+~ Reagent Consumption!N32 [16-09-2026 00:00]: 17-09-2026 00:00 → 22-09-2026 00:00
+~ Reagent Consumption!T32 [16-09-2026 00:00]: 0 → 50
+~ Reagent Consumption!N33 [16-09-2026 00:00]: 18-09-2026 00:00 → 23-09-2026 00:00
+~ Reagent Consumption!O33 [16-09-2026 00:00]: 275 → 125
+~ Reagent Consumption!P33 [16-09-2026 00:00]: 325 → 0
+~ Reagent Consumption!T33 [16-09-2026 00:00]: 25 → 0
++ Reagent Consumption baris 34 [17-09-2026 00:00] ditambahkan: N=24-09-2026 00:00, O=675, P=325, Q=0, R=0, S=0, T=25, V=0
++ Reagent Consumption baris 35 [17-09-2026 00:00] ditambahkan: N=25-09-2026 00:00, O=175, P=0, Q=0, R=0, S=0, T=25, V=0
++ Reagent Consumption baris 36 [18-09-2026 00:00] ditambahkan: N=26-09-2026 00:00, O=0, P=0, Q=0, R=0, S=0, T=0, V=0
++ Reagent Consumption baris 37 [18-09-2026 00:00] ditambahkan: N=27-09-2026 00:00, O=150, P=0, Q=0, R=0, S=0, T=0, V=0
+~ Reagent Consumption!N38 [19-09-2026 00:00]: 19-09-2026 00:00 → 28-09-2026 00:00
+~ Reagent Consumption!O38 [19-09-2026 00:00]: 0 → 175
+~ Reagent Consumption!T38 [19-09-2026 00:00]: 0 → 25
+~ Reagent Consumption!N39 [20-09-2026 00:00]: 20-09-2026 00:00 → 29-09-2026 00:00
+~ Reagent Consumption!O39 [20-09-2026 00:00]: 0 → 175
++ Reagent Consumption baris 40 [20-09-2026 00:00] ditambahkan: N=30-09-2026 00:00, O=0, P=0, Q=0, R=0, S=0, T=0, V=0
+~ Reagent Consumption!N41 [21-09-2026 00:00]: 21-09-2026 00:00 → 01-10-2026 00:00
+~ Reagent Consumption!O41 [21-09-2026 00:00]: 175 → 0
++ Reagent Consumption baris 42 [21-09-2026 00:00] ditambahkan: N=02-10-2026 00:00, O=0, P=0, Q=0, R=0, S=0, T=0, V=0
+- ...dan 180 perubahan lain tidak ditampilkan
+_Dibandingkan 15250 sel dari 19 sheet._
+
 ## 06 Oct 2026 · 15:08 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Milling Down Time Hours: +1 baris, ~6 sel
 + Milling Down Time Hours baris 75 [05-10-2026 00:00] ditambahkan: E·Stop Time=00:01:00, F·Start Time=00:01:00
