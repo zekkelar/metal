@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 06 Oct 2026 · 18:16 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
+Ringkasan: Barang Masuk: +1 baris; Stock Barang: ~2 sel
++ Barang Masuk baris 8 [4] ditambahkan: C·Tanggal=15-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Masuk (kg)=6250
+~ Stock Barang!E6 "Barang Masuk" [SND]: 0 → 6250
+~ Stock Barang!G6 "Stock Akhir" [SND]: 2025 → 8275
+_Dibandingkan 910 sel dari 3 sheet._
+
 ## 06 Oct 2026 · 18:15 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~1 sel; Reagent Consumption: +1 baris, ~19 sel, -1 baris
 ~ Daily Summary !AD33 [09-09-2026 00:00]: 0 → 125
