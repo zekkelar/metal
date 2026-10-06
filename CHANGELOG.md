@@ -5,6 +5,32 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 06 Oct 2026 · 18:15 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~1 sel; Reagent Consumption: +1 baris, ~19 sel, -1 baris
+~ Daily Summary !AD33 [09-09-2026 00:00]: 0 → 125
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 6050 → 6090
+~ Reagent Consumption!AB8 [29-08-2026 00:00]: 100 → 225
+~ Reagent Consumption!AD8 [29-08-2026 00:00]: 25 → 65
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.514657 → 1.524671
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.025036 → 0.05633
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.006259 → 0.016273
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 411400000 → 414120000
+~ Reagent Consumption!AB26 [11-09-2026 00:00]: 2800000 → 6300000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 612645000 → 618865000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.671514 → 0.66916
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.01558 → 0.015423
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.287279 → 0.284392
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.015915 → 0.015755
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.00457 → 0.01018
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.005142 → 0.00509
+~ Reagent Consumption!R45 [23-09-2026 00:00]: 0 → 125
+~ Reagent Consumption!U45 "Gold Rom" [23-09-2026 00:00]: 0 → 40
++ Reagent Consumption baris 63 [05-10-2026 00:00] ditambahkan: G·Goldroom=40, H=125
+~ Reagent Consumption!R72: 100 → 225
+~ Reagent Consumption!U72 "Gold Rom": 25 → 65
+- Reagent Consumption baris 74 dikosongkan: T=14300000
+_Dibandingkan 15251 sel dari 19 sheet._
+
 ## 06 Oct 2026 · 16:52 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~62 sel; Milling and Leach Feed: +1 baris, ~31 sel; Reagent Consumption: +16 baris, ~164 sel
 ~ Daily Summary !Z12 "Consumption" [19-08-2026 00:00]: 275 → 100
