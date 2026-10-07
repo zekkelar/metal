@@ -5,6 +5,68 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 07 Oct 2026 · 17:40 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~16 sel; Milling Down Time Hours: +1 baris, ~14 sel; Milling and Leach Feed: +1 baris, ~25 sel
++ Au Cal Leaching Tank baris 22 [8.990741] ditambahkan: A=8.990741, C·Running Hours=35.833333, D·Estimasi=9.67387, F·Date start=06-10-2026 00:00, G·Time Start=06:00:00, H·Date Finish=07-10-2026 00:00, I·Time Finish=06:00:00, J·Volume Slurry (m3)=971, ...
+~ Au Cal Leaching Tank!C60 "Running Hours" [51]: 37.908333 → 37.748718
+~ Au Cal Leaching Tank!D60 "Estimasi" [51]: 8.650311 → 8.735608
+~ Au Cal Leaching Tank!N60 "Solid (Ton)" [51]: 374.233784 → 372.111723
+~ Au Cal Leaching Tank!C61 "Running Hours" [52]: 454.9 → 490.733333
+~ Au Cal Leaching Tank!J67 "Volume Slurry (m3)": 454.9 → 490.733333
+~ Au Cal Leaching Tank!N67 "Solid (Ton)": 8.780619 → 8.139458
+~ Au Cal Leaching Tank!P67 "Sg Slurry": 210.734852 → 195.346999
+~ Au Cal Leaching Tank!U67 "Solid on Tank,": 32.188889 → 33.681944
+~ Au Cal Leaching Tank!J68 "Volume Slurry (m3)": 18.954167 → 20.447222
+~ Au Cal Leaching Tank!M70 "%solid": 454.9 → 490.733333
+~ Au Cal Leaching Tank!M72 "%solid": 772.533333 → 808.366667
+~ Au Cal Leaching Tank!M73 "%solid": 0.588842 → 0.607068
+~ Au Cal Leaching Tank!M74 "%solid": 8.780619 → 8.139458
+~ Au Cal Leaching Tank!M75 "%solid": 210.734852 → 195.346999
+~ Au Cal Leaching Tank!M76 "%solid": 32.188889 → 33.681944
+~ Au Cal Leaching Tank!M77 "%solid": 0.411158 → 0.392932
++ Milling Down Time Hours baris 76 [05-10-2026 00:00] ditambahkan: I·BATCH=13
+~ Milling Down Time Hours!E77 "Stop Time" [06-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F77 "Start Time" [06-10-2026 00:00]: (kosong) → 12:01:00
+~ Milling Down Time Hours!G77 "Down Time (Mins)" [06-10-2026 00:00]: 0 → 720
+~ Milling Down Time Hours!H77 "Reason" [06-10-2026 00:00]: (kosong) → Perbaikan tanki thickener tank
+~ Milling Down Time Hours!I77 "BATCH" [06-10-2026 00:00]: (kosong) → 13
+~ Milling Down Time Hours!J77 "Running Time Hour/Shift" [06-10-2026 00:00]: 12 → 0
+~ Milling Down Time Hours!K77 "Availibility per Shift" [06-10-2026 00:00]: 1 → 0
+~ Milling Down Time Hours!E78 "Stop Time" [06-10-2026 00:00]: (kosong) → 00:01:00
+~ Milling Down Time Hours!F78 "Start Time" [06-10-2026 00:00]: (kosong) → 08:01:00
+~ Milling Down Time Hours!G78 "Down Time (Mins)" [06-10-2026 00:00]: 0 → 480
+~ Milling Down Time Hours!H78 "Reason" [06-10-2026 00:00]: (kosong) → start ball mill jam 03:00 ball mill 1...
+~ Milling Down Time Hours!I78 "BATCH" [06-10-2026 00:00]: (kosong) → 14
+~ Milling Down Time Hours!J78 "Running Time Hour/Shift" [06-10-2026 00:00]: 12 → 4
+~ Milling Down Time Hours!K78 "Availibility per Shift" [06-10-2026 00:00]: 1 → 0.333333
+~ Milling and Leach Feed!AI6: 1190 → 1210
+~ Milling and Leach Feed!AI8: 1.19 → 1.21
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.304813 → 0.33133
+~ Milling and Leach Feed!AI12: 362.727273 → 400.909091
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 827.272727 → 809.090909
+~ Milling and Leach Feed!I78: #DIV/0! → 8.23851
+~ Milling and Leach Feed!P78: (kosong) → 12
+~ Milling and Leach Feed!Q78: (kosong) → 720
++ Milling and Leach Feed baris 79 [06-10-2026 00:00] ditambahkan: P=12, Q=720, R=0
+~ Milling and Leach Feed!E98: (kosong) → Batch 14 tank 3
+~ Milling and Leach Feed!G98: (kosong) → 0.33
+~ Milling and Leach Feed!H98 "Milling And Leach Feed M": (kosong) → 215.69916
+~ Milling and Leach Feed!I98: (kosong) → 53.92479
+~ Milling and Leach Feed!J98: (kosong) → 215.69916
+~ Milling and Leach Feed!K98: (kosong) → 1.21
+~ Milling and Leach Feed!L98: (kosong) → 0.68
+~ Milling and Leach Feed!M98: 0 → 86.128675
+~ Milling and Leach Feed!P98: (kosong) → 4
+~ Milling and Leach Feed!Q98: (kosong) → 240
+~ Milling and Leach Feed!R98: (kosong) → 480
+~ Milling and Leach Feed!Z98: (kosong) → 2.4
+~ Milling and Leach Feed!L107 [Average]: 0.723269 → 0.722453
+~ Milling and Leach Feed!M107 [Average]: 4340.459489 → 4426.588163
+~ Milling and Leach Feed!P107 [Average]: 502.233333 → 530.233333
+~ Milling and Leach Feed!Q107 [Average]: 30134 → 31814
+~ Milling and Leach Feed!R107 [Average]: 13126 → 13606
+_Dibandingkan 15290 sel dari 19 sheet._
+
 ## 06 Oct 2026 · 18:16 · Reagent Usage dan Stock Reagent.xlsx · ramda@DyanPro73
 Ringkasan: Barang Masuk: +1 baris; Stock Barang: ~2 sel
 + Barang Masuk baris 8 [4] ditambahkan: C·Tanggal=15-09-2026 00:00, D·Kode Barang=SND, E·Nama Barang=Sandios, F·Jumlah Barang Masuk (kg)=6250
