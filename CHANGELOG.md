@@ -5,6 +5,37 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 08 Oct 2026 · 17:16 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
+Ringkasan: Milling and Leach Feed: +20 baris, ~5 sel, -2 baris
++ Milling and Leach Feed baris 79 [06-10-2026 00:00] ditambahkan: E=Batch 14 tank 3, J=107.84958, Z=1.2
++ Milling and Leach Feed baris 80 ditambahkan: J=0
++ Milling and Leach Feed baris 81 ditambahkan: J=0
++ Milling and Leach Feed baris 82 ditambahkan: J=0
++ Milling and Leach Feed baris 83 ditambahkan: J=0
++ Milling and Leach Feed baris 84 ditambahkan: J=0
++ Milling and Leach Feed baris 85 ditambahkan: J=0
++ Milling and Leach Feed baris 86 ditambahkan: J=0
++ Milling and Leach Feed baris 87 ditambahkan: J=0
++ Milling and Leach Feed baris 88 ditambahkan: J=0
++ Milling and Leach Feed baris 89 ditambahkan: J=0
++ Milling and Leach Feed baris 90 ditambahkan: J=0
++ Milling and Leach Feed baris 91 ditambahkan: J=0
++ Milling and Leach Feed baris 92 ditambahkan: J=0
++ Milling and Leach Feed baris 93 ditambahkan: J=0
++ Milling and Leach Feed baris 94 ditambahkan: J=0
++ Milling and Leach Feed baris 95 ditambahkan: J=0
++ Milling and Leach Feed baris 96 ditambahkan: J=0
++ Milling and Leach Feed baris 97 ditambahkan: J=0
+- Milling and Leach Feed baris 98 dikosongkan: E=Batch 14 tank 3
+~ Milling and Leach Feed!E99 [07-10-2026 00:00]: (kosong) → Batch 14 Tank 3
+~ Milling and Leach Feed!W99 [07-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!X99 [07-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Y99 [07-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AA99 [07-10-2026 00:00]: 7.2 → (kosong)
++ Milling and Leach Feed baris 100 ditambahkan: W=0, X=0, Y=0
+- Milling and Leach Feed baris 102 dikosongkan: AA=1186273883.970508
+_Dibandingkan 15435 sel dari 19 sheet._
+
 ## 07 Oct 2026 · 17:40 · Production Report June 2026_DYAN New Anjim4.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~16 sel; Milling Down Time Hours: +1 baris, ~14 sel; Milling and Leach Feed: +1 baris, ~25 sel
 + Au Cal Leaching Tank baris 22 [8.990741] ditambahkan: A=8.990741, C·Running Hours=35.833333, D·Estimasi=9.67387, F·Date start=06-10-2026 00:00, G·Time Start=06:00:00, H·Date Finish=07-10-2026 00:00, I·Time Finish=06:00:00, J·Volume Slurry (m3)=971, ...
