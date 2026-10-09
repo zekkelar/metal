@@ -5,6 +5,30 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 09 Oct 2026 · 08:36 · Production Report June 2026_DYAN New Anjim5.xlsx · GanyuChan@MSI
+Ringkasan: Milling Down Time Hours: -4 baris; Milling and Leach Feed: +16 baris
+- Milling Down Time Hours baris 60 [27-09-2026 00:00] dikosongkan: I·BATCH=12
+- Milling Down Time Hours baris 61 [28-09-2026 00:00] dikosongkan: I·BATCH=12
+- Milling Down Time Hours baris 62 [28-09-2026 00:00] dikosongkan: I·BATCH=12
+- Milling Down Time Hours baris 63 [29-09-2026 00:00] dikosongkan: I·BATCH=12
++ Milling and Leach Feed baris 50 [22-09-2026 00:00] ditambahkan: AB=199967042.903285
++ Milling and Leach Feed baris 51 ditambahkan: AB=161213675.761644
++ Milling and Leach Feed baris 52 [23-09-2026 00:00] ditambahkan: AB=122848800.782093
++ Milling and Leach Feed baris 53 ditambahkan: AB=42329881.6542
++ Milling and Leach Feed baris 54 [24-09-2026 00:00] ditambahkan: AB=89733870.34824
++ Milling and Leach Feed baris 55 ditambahkan: AB=167256776.28186
++ Milling and Leach Feed baris 56 [11] ditambahkan: AB=264451301.398078
++ Milling and Leach Feed baris 57 [25-09-2026 00:00] ditambahkan: AB=146618583.083875
++ Milling and Leach Feed baris 58 ditambahkan: AB=21183342.661687
++ Milling and Leach Feed baris 59 [12] ditambahkan: AB=7061114.220562
++ Milling and Leach Feed baris 60 ditambahkan: AB=0
++ Milling and Leach Feed baris 61 [27-09-2026 00:00] ditambahkan: AB=7412157.111357
++ Milling and Leach Feed baris 62 ditambahkan: AB=177260426.782034
++ Milling and Leach Feed baris 63 [28-09-2026 00:00] ditambahkan: AB=118829846.848781
++ Milling and Leach Feed baris 64 ditambahkan: AB=106142411.02325
++ Milling and Leach Feed baris 65 [29-09-2026 00:00] ditambahkan: AB=172521916.553505
+_Dibandingkan 15551 sel dari 19 sheet._
+
 ## 08 Oct 2026 · 20:19 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +37 baris, ~16 sel; Crushing: +1 baris, ~9 sel, -1 baris; Filter Press: +3 baris, ~1 sel; Milling and Leach Feed: +10 baris, ~26 sel; Reagent Consumption: +1 baris, ~12 sel; Rom File Inventory: ~1 sel
 + Au Cal Leaching Tank baris 23 [14] ditambahkan: C·Running Hours=46.666667, D·Estimasi=7.42815, F·Date start=08-10-2026 00:00, G·Time Start=14:05:00, J·Volume Slurry (m3)=971, M·%solid=0.35, N·Solid (Ton)=418.0155, P·Sg Slurry=1.23, ...
