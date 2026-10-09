@@ -5,6 +5,11 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 09 Oct 2026 · 13:04 · Production Report June 2026_DYAN New Anjim5.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +1 baris
++ Milling and Leach Feed baris 102 [09-10-2026 00:00] ditambahkan: B·PIC=09-10-2026 00:00
+_Dibandingkan 15552 sel dari 19 sheet._
+
 ## 09 Oct 2026 · 08:36 · Production Report June 2026_DYAN New Anjim5.xlsx · GanyuChan@MSI
 Ringkasan: Milling Down Time Hours: -4 baris; Milling and Leach Feed: +16 baris
 - Milling Down Time Hours baris 60 [27-09-2026 00:00] dikosongkan: I·BATCH=12
