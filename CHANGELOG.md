@@ -5,6 +5,51 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Oct 2026 · 19:35 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
+Ringkasan: Crushing: +5 baris, ~36 sel
+~ Crushing!N114 "Tonage/Day (Tpd)" [05-10-2026 00:00]: 21.84 → 19.656
+~ Crushing!H115 "Moisture %": (kosong) → 0.1
+~ Crushing!L115 "DMT/SHIFT (dry metrix to": 21.84 → 19.656
+~ Crushing!H116 "Moisture %" [06-10-2026 00:00]: (kosong) → 0.1
+~ Crushing!L116 "DMT/SHIFT (dry metrix to" [06-10-2026 00:00]: 105.3 → 94.77
+~ Crushing!N116 "Tonage/Day (Tpd)" [06-10-2026 00:00]: 105.3 → 94.77
+~ Crushing!N118 "Tonage/Day (Tpd)" [07-10-2026 00:00]: 203.84 → 185.4944
+~ Crushing!H119 "Moisture %": (kosong) → 0.09
+~ Crushing!L119 "DMT/SHIFT (dry metrix to": 203.84 → 185.4944
+~ Crushing!H120 "Moisture %" [08-10-2026 00:00]: (kosong) → 0.09
+~ Crushing!L120 "DMT/SHIFT (dry metrix to" [08-10-2026 00:00]: 164.71 → 149.8861
+~ Crushing!N120 "Tonage/Day (Tpd)" [08-10-2026 00:00]: 476.71 → 430.6861
+~ Crushing!H121 "Moisture %": (kosong) → 0.1
+~ Crushing!L121 "DMT/SHIFT (dry metrix to": 312 → 280.8
++ Crushing baris 122 [09-10-2026 00:00] ditambahkan: J·SG Bulk Density (ton/m3)=2.3, N·Tonage/Day (Tpd)=0
++ Crushing baris 123 ditambahkan: J·SG Bulk Density (ton/m3)=3.3
+~ Crushing!B124 "Date" [12-10-2026 00:00]: Rata-rata → 12-10-2026 00:00
+~ Crushing!D124 "Shift" [12-10-2026 00:00]: (kosong) → Day
+~ Crushing!F124 "Bucket" [12-10-2026 00:00]: 182 → 39
+~ Crushing!G124 "Type" [12-10-2026 00:00]: (kosong) → Loader
+~ Crushing!H124 "Moisture %" [12-10-2026 00:00]: 0.110733 → 0.1
+~ Crushing!I124 "Volume Bucket" [12-10-2026 00:00]: (kosong) → 3
+~ Crushing!J124 "SG Bulk Density (ton/m3)" [12-10-2026 00:00]: (kosong) → 1.3
+~ Crushing!K124 "WMT/SHIFT (wet metrix to" [12-10-2026 00:00]: 150.914524 → 152.1
+~ Crushing!L124 "DMT/SHIFT (dry metrix to" [12-10-2026 00:00]: 128.633892 → 136.89
+~ Crushing!M124 "Ton/hour (tph)" [12-10-2026 00:00]: 12.962949 → 12.675
+~ Crushing!N124 "Tonage/Day (Tpd)" [12-10-2026 00:00]: 97.510262 → 306.969
+~ Crushing!B125 "Date" [Total]: Total → (kosong)
+~ Crushing!D125 "Shift" [Total]: (kosong) → Night
+~ Crushing!F125 "Bucket" [Total]: 5971 → 49
+~ Crushing!G125 "Type" [Total]: (kosong) → Loader
+~ Crushing!H125 "Moisture %" [Total]: (kosong) → 0.11
+~ Crushing!I125 "Volume Bucket" [Total]: (kosong) → 3
+~ Crushing!J125 "SG Bulk Density (ton/m3)" [Total]: (kosong) → 1.3
+~ Crushing!K125 "WMT/SHIFT (wet metrix to" [Total]: (kosong) → 191.1
+~ Crushing!L125 "DMT/SHIFT (dry metrix to" [Total]: (kosong) → 170.079
+~ Crushing!M125 "Ton/hour (tph)" [Total]: (kosong) → 15.925
+~ Crushing!N125 "Tonage/Day (Tpd)" [Total]: 7140.0821 → (kosong)
++ Crushing baris 126 [11-10-2026 00:00] ditambahkan: B·Date=11-10-2026 00:00
++ Crushing baris 129 [Rata-rata] ditambahkan: B·Date=Rata-rata, F·Bucket=182, H·Moisture %=0.110733, K·WMT/SHIFT (wet metrix to=150.914524, L·DMT/SHIFT (dry metrix to=128.633892, M·Ton/hour (tph)=12.962949, N·Tonage/Day (Tpd)=97.510262
++ Crushing baris 130 [Total] ditambahkan: B·Date=Total, F·Bucket=5971, N·Tonage/Day (Tpd)=7369.9676
+_Dibandingkan 17148 sel dari 19 sheet._
+
 ## 14 Oct 2026 · 11:38 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +7 baris, ~9 sel; Crushing: ~1 sel, -1 baris; LT Floculation: +5 baris, ~2 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: ~19 sel; Reagent Consumption: ~13 sel, -1 baris; Rom File Inventory: ~3 sel, -1 baris
 ~ Au Cal Leaching Tank!AH24 [7.574074]: 10.39 → 8.48
