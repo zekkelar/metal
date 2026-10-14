@@ -5,6 +5,73 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Oct 2026 · 11:38 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +7 baris, ~9 sel; Crushing: ~1 sel, -1 baris; LT Floculation: +5 baris, ~2 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: ~19 sel; Reagent Consumption: ~13 sel, -1 baris; Rom File Inventory: ~3 sel, -1 baris
+~ Au Cal Leaching Tank!AH24 [7.574074]: 10.39 → 8.48
+~ Au Cal Leaching Tank!AQ24 [7.574074]: 3226.526185 → 2633.39192
+~ Au Cal Leaching Tank!AV24 [7.574074]: -0.151482 → 0.060196
+~ Au Cal Leaching Tank!AW24 "Leach Tank No" [7.574074]: (kosong) → 2
+~ Au Cal Leaching Tank!BF24 [7.574074]: -424.46148 → 168.672785
++ Au Cal Leaching Tank baris 25 [7.655989] ditambahkan: AW·Leach Tank No=3
++ Au Cal Leaching Tank baris 26 [7.990741] ditambahkan: AW·Leach Tank No=2
++ Au Cal Leaching Tank baris 27 [18] ditambahkan: F·Date start=13-10-2026 00:00, M·%solid=0.36, P·Sg Slurry=1.22, V·Solution (m3)=0, AR=0, AW·Leach Tank No=3, BD·Estimasi Metal Content R=0
++ Au Cal Leaching Tank baris 28 [19] ditambahkan: AW·Leach Tank No=2
++ Au Cal Leaching Tank baris 29 [20] ditambahkan: AW·Leach Tank No=3
++ Au Cal Leaching Tank baris 30 [21] ditambahkan: AW·Leach Tank No=2
++ Au Cal Leaching Tank baris 31 [22] ditambahkan: AW·Leach Tank No=3
+~ Au Cal Leaching Tank!AH60 [51]: 10.402596 → 10.275263
+~ Au Cal Leaching Tank!AQ60 [51]: 54770.598747 → 54177.464482
+~ Au Cal Leaching Tank!AV60 [51]: 0.176402 → 0.189632
+~ Au Cal Leaching Tank!BF61 [52]: 12160.77639 → 12753.910655
+- Crushing baris 84 [21-09-2026 00:00] dikosongkan: O·Keterangan=Log Sheet ilang kata mas wiliam
+~ Crushing!N125 "Tonage/Day (Tpd)" [Total]: 7140.0821 → 5334.7032
+~ LT Floculation!I20 [15]: 10.39 → 8.48
+~ LT Floculation!J20 [15]: (kosong) → 0.035
++ LT Floculation baris 21 [16] ditambahkan: J=0.035
++ LT Floculation baris 22 [17] ditambahkan: F·Batch=17, J=0.035
++ LT Floculation baris 23 [18] ditambahkan: F·Batch=18
++ LT Floculation baris 24 [19] ditambahkan: F·Batch=19
++ LT Floculation baris 25 ditambahkan: F·Batch=20
++ Milling Down Time Hours baris 92 [13-10-2026 00:00] ditambahkan: E·Stop Time=00:01:00, F·Start Time=00:01:00, H·Reason=ball mill running 1,2, dan 3
+~ Milling and Leach Feed!AI6: 1205 → 1240
+~ Milling and Leach Feed!AI8: 1.205 → 1.24
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.324783 → 0.369501
+~ Milling and Leach Feed!AI12: 391.363636 → 458.181818
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 813.636364 → 781.818182
+~ Milling and Leach Feed!A111 [17]: 17 → (kosong)
+~ Milling and Leach Feed!N111 [17]: 77.177159 → 215.450112
+~ Milling and Leach Feed!G112 [18]: (kosong) → 0.36
+~ Milling and Leach Feed!H112 "Milling And Leach Feed M" [18]: (kosong) → 305.42339
+~ Milling and Leach Feed!I112 [18]: (kosong) → 25.451949
+~ Milling and Leach Feed!J112 [18]: (kosong) → 413.42339
+~ Milling and Leach Feed!K112 [18]: (kosong) → 1.22
+~ Milling and Leach Feed!L112 [18]: (kosong) → 0.8
+~ Milling and Leach Feed!M112 [18]: 0 → 138.272953
+~ Milling and Leach Feed!O112 [18]: (kosong) → 11.522746
+~ Milling and Leach Feed!P112 [18]: (kosong) → 12
+~ Milling and Leach Feed!Q112 [18]: (kosong) → 720
+~ Milling and Leach Feed!R112 [18]: (kosong) → 0
+~ Milling and Leach Feed!Z112 [18]: (kosong) → 4.6
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 7815 → 7965
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.374468 → 1.400849
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 531420000 → 541620000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 786015000 → 796215000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.676094 → 0.680243
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.012144 → 0.011988
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.279893 → 0.276307
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.019847 → 0.019593
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.008015 → 0.007912
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.004008 → 0.003956
+~ Reagent Consumption!O53 [27-09-2026 00:00]: 175 → 325
+- Reagent Consumption baris 70 [12-10-2026 00:00] dikosongkan: B=Day
+~ Reagent Consumption!D71 "Leaching" [13-10-2026 00:00]: 175 → 325
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 7750 → 7900
+~ Rom File Inventory!J39 "Tonage by survey (WMT)" [Total]: 7898.13 → 6678.73
+~ Rom File Inventory!M39 "Metal Content (gr)" [Total]: 8766.9243 → 7413.3903
+- Rom File Inventory baris 40 dikosongkan: J·Tonage by survey (WMT)=758.0479
+~ Rom File Inventory!M41 "Metal Content (gr)": 1.053688 → 1.24607
+_Dibandingkan 17078 sel dari 19 sheet._
+
 ## 14 Oct 2026 · 08:10 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~16 sel; Milling and Leach Feed: +15 baris, ~77 sel, -3 baris
 ~ Au Cal Leaching Tank!AI25 [7.655989]: (kosong) → 0.035
