@@ -5,6 +5,26 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Oct 2026 · 16:52 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : ~2 sel; Milling Down Time Hours: +1 baris; Reagent Consumption: ~13 sel
+~ Daily Summary !Z38 "Consumption" [14-09-2026 00:00]: 0 → 175
+~ Daily Summary !Z56 "Consumption" [Total]: 4850 → 5025
++ Milling Down Time Hours baris 93 [14-10-2026 00:00] ditambahkan: I·BATCH=18
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 7965 → 8140
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.400849 → 1.431627
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 541620000 → 553520000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 796215000 → 808115000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.680243 → 0.684952
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.011988 → 0.011811
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.276307 → 0.272238
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.019593 → 0.019304
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.007912 → 0.007796
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.003956 → 0.003898
+~ Reagent Consumption!O54 [28-09-2026 00:00]: 0 → 175
+~ Reagent Consumption!D72 "Leaching" [14-10-2026 00:00]: (kosong) → 175
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 7900 → 8075
+_Dibandingkan 17081 sel dari 19 sheet._
+
 ## 15 Oct 2026 · 14:14 · Production Report June 2026_DYAN New Anjim5.xlsx · GanyuChan@MSI
 Ringkasan: Filter Press: +10 baris, ~6 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +2 baris, ~10 sel, -28 baris; Milling and Leach Feed_OLD: ~1 sel
 ~ Filter Press!R11 "Estimate Capacity per si" [7]: 5481.42 → 5667.42
