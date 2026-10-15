@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Oct 2026 · 17:32 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~75 sel; Daily Summary : ~2 sel; Filter Press: +1 baris, ~6 sel; Fuel Consumption: ~1 sel; LT Ball Mill: +6 baris; LT Floculation: +13 baris; Milling Down Time Hours: +2 baris, ~27 sel; Milling and Leach Feed: +2 baris, ~46 sel; Milling and Leach Feed_OLD: ~5 sel; Reagent Consumption: ~21 sel
++ Au Cal Leaching Tank baris 6 ditambahkan: AO·Metal Content Calculated=387.723317
+~ Au Cal Leaching Tank!AD22 "Au Variance" [8.990741]: -0.004187 → 0.004187
+~ Au Cal Leaching Tank!AD25 "Au Variance" [7.655989]: (kosong) → 0.013929
+~ Au Cal Leaching Tank!AE25 "%Different" [7.655989]: (kosong) → 0.007039
+~ Au Cal Leaching Tank!AF25 "Lab AAS Result Tail" [7.655989]: (kosong) → 0.128
+~ Au Cal Leaching Tank!AG25 [7.655989]: (kosong) → 0.216667
+~ Au Cal Leaching Tank!AH25 [7.655989]: (kosong) → 12.77
+~ Au Cal Leaching Tank!AO25 "Metal Content Calculated" [7.655989]: 0 → 39.240906
+~ Au Cal Leaching Tank!AP25 [7.655989]: 0 → 66.423408
+~ Au Cal Leaching Tank!AQ25 [7.655989]: 0 → 3914.893474
+~ Au Cal Leaching Tank!AT25 "Estimasi %Recovery Metal" [7.655989]: 0.846524 → 0.584095
+~ Au Cal Leaching Tank!AU25 [7.655989]: 1 → 0.545455
+~ Au Cal Leaching Tank!AV25 [7.655989]: 1 → 0.023903
+~ Au Cal Leaching Tank!BD25 "Estimasi Metal Content R" [7.655989]: 126.580178 → 87.339272
+~ Au Cal Leaching Tank!BE25 [7.655989]: 146.131497 → 79.70809
+~ Au Cal Leaching Tank!BF25 [7.655989]: 4010.762771 → 95.869298
++ Au Cal Leaching Tank baris 26 [7.990741] ditambahkan: K·Carbon (gpl)=0.93, L·Carbon on tank Leaching =0.80259, R·%solid sisa pada tanki=0.35, S·sg slurry=1.23, U·Solid on Tank,=46.494, X·Head Grade LF Ball Mill=0.342667, Y=0.43, Z=11.606667, ...
+~ Au Cal Leaching Tank!C27 "Running Hours" [18]: (kosong) → 36
+~ Au Cal Leaching Tank!D27 "Estimasi" [18]: (kosong) → 9.60995
+~ Au Cal Leaching Tank!F27 "Date start" [18]: (kosong) → 15-10-2026 00:00
+~ Au Cal Leaching Tank!G27 "Time Start" [18]: (kosong) → 06:31:00
+~ Au Cal Leaching Tank!J27 "Volume Slurry (m3)" [18]: (kosong) → 872
+~ Au Cal Leaching Tank!K27 "Carbon (gpl)" [18]: (kosong) → 1.1
+~ Au Cal Leaching Tank!L27 "Carbon on tank Leaching " [18]: (kosong) → 0.9592
+~ Au Cal Leaching Tank!M27 "%solid" [18]: (kosong) → 0.36
+~ Au Cal Leaching Tank!N27 "Solid (Ton)" [18]: 0 → 389.2608
+~ Au Cal Leaching Tank!O27 "Solid (Ton)" [18]: (kosong) → 345.9582
+~ Au Cal Leaching Tank!P27 "Sg Slurry" [18]: (kosong) → 1.24
+~ Au Cal Leaching Tank!V27 "Solution (m3)" [18]: (kosong) → 692.0192
+~ Au Cal Leaching Tank!AR27 [18]: (kosong) → 0
+~ Au Cal Leaching Tank!BD27 "Estimasi Metal Content R" [18]: (kosong) → 0
+~ Au Cal Leaching Tank!C60 "Running Hours" [51]: 37.564706 → 37.477778
+~ Au Cal Leaching Tank!D60 "Estimasi" [51]: 9.396357 → 9.408922
+~ Au Cal Leaching Tank!N60 "Solid (Ton)" [51]: 126.344428 → 134.129644
+~ Au Cal Leaching Tank!X60 "Head Grade LF Ball Mill" [51]: 0.632853 → 0.615783
+~ Au Cal Leaching Tank!Y60 [51]: 0.838586 → 0.814552
+~ Au Cal Leaching Tank!Z60 [51]: 12.028884 → 12.004047
+~ Au Cal Leaching Tank!AA60 "Lab AAS Result (gpt)" [51]: 0.621056 → 0.599764
+~ Au Cal Leaching Tank!AB60 [51]: 0.878942 → 0.846365
+~ Au Cal Leaching Tank!AC60 [51]: 11.868035 → 11.686153
+~ Au Cal Leaching Tank!AF60 "Lab AAS Result Tail" [51]: 0.099753 → 0.101519
+~ Au Cal Leaching Tank!AG60 [51]: 0.357481 → 0.348681
+~ Au Cal Leaching Tank!AH60 [51]: 10.402596 → 10.550559
+~ Au Cal Leaching Tank!AO60 "Metal Content Calculated" [51]: 514.9102 → 554.151105
+~ Au Cal Leaching Tank!AP60 [51]: 1892.292954 → 1958.716362
+~ Au Cal Leaching Tank!AQ60 [51]: 54770.598747 → 58685.49222
+~ Au Cal Leaching Tank!AT60 "Estimasi %Recovery Metal" [51]: 0.756329 → 0.739927
+~ Au Cal Leaching Tank!AU60 [51]: 0.584027 → 0.555618
+~ Au Cal Leaching Tank!AV60 [51]: 0.176402 → 0.115396
+~ Au Cal Leaching Tank!C61 "Running Hours" [52]: 638.6 → 674.6
+~ Au Cal Leaching Tank!N61 "Solid (Ton)" [52]: 5685.83828 → 6031.79648
+~ Au Cal Leaching Tank!BD61 "Estimasi Metal Content R" [52]: 2593.152523 → 2553.911617
+~ Au Cal Leaching Tank!BE61 [52]: 2870.817463 → 2804.394055
+~ Au Cal Leaching Tank!BF61 [52]: 12160.77639 → 8245.882916
+~ Au Cal Leaching Tank!X62 "Head Grade LF Ball Mill": 0.58865 → 0.587333
+~ Au Cal Leaching Tank!Y62: 0.700417 → 0.668333
+~ Au Cal Leaching Tank!Z62: 10.095972 → 10.3775
+~ Au Cal Leaching Tank!AA62 "Lab AAS Result (gpt)": 0.609002 → 0.604515
+~ Au Cal Leaching Tank!AB62: 0.705622 → 0.652418
+~ Au Cal Leaching Tank!AC62: 10.251271 → 9.837907
+~ Au Cal Leaching Tank!AL63 "Metal Content Head Grade": 2593.152523 → 2553.911617
+~ Au Cal Leaching Tank!BD63 "Estimasi Metal Content R": 2074.522018 → 2043.129294
+~ Au Cal Leaching Tank!J67 "Volume Slurry (m3)": 638.6 → 674.6
+~ Au Cal Leaching Tank!M67 "%solid": 425.116667 → 423.866667
+~ Au Cal Leaching Tank!N67 "Solid (Ton)": 8.903599 → 8.941293
+~ Au Cal Leaching Tank!P67 "Sg Slurry": 213.686374 → 214.59104
+~ Au Cal Leaching Tank!U67 "Solid on Tank,": 44.321528 → 45.769444
+~ Au Cal Leaching Tank!J68 "Volume Slurry (m3)": 26.608333 → 28.108333
+~ Au Cal Leaching Tank!M68 "%solid": 17.713194 → 17.661111
+~ Au Cal Leaching Tank!M70 "%solid": 638.6 → 674.6
+~ Au Cal Leaching Tank!M71 "%solid": 425.116667 → 423.866667
+~ Au Cal Leaching Tank!M72 "%solid": 1063.716667 → 1098.466667
+~ Au Cal Leaching Tank!M73 "%solid": 0.600348 → 0.614129
+~ Au Cal Leaching Tank!M74 "%solid": 8.903599 → 8.941293
+~ Au Cal Leaching Tank!M75 "%solid": 213.686374 → 214.59104
+~ Au Cal Leaching Tank!M76 "%solid": 44.321528 → 45.769444
+~ Au Cal Leaching Tank!M77 "%solid": 0.399652 → 0.385871
+~ Daily Summary !Z38 "Consumption" [14-09-2026 00:00]: 0 → 300
+~ Daily Summary !Z56 "Consumption" [Total]: 4850 → 5150
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 5481.42 → 5667.42
+~ Filter Press!C53 [53]: (kosong) → 14-10-2026 00:00
+~ Filter Press!D53 [53]: (kosong) → Day
+~ Filter Press!E53 [53]: (kosong) → 11
+~ Filter Press!F53 [53]: 0 → 66
+~ Filter Press!H53 [53]: 0 → 66
++ Filter Press baris 62 [62] ditambahkan: K=14-10-2026 00:00, M=10, N=120, P=120
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 7.005124 → 6.60334
++ LT Ball Mill baris 193 [17] ditambahkan: F·au (g/t)=0.385, G·ag (g/t)=0.38, H·Cu (g/t)=12.24
++ LT Ball Mill baris 194 ditambahkan: F·au (g/t)=0.315, G·ag (g/t)=0.32, H·Cu (g/t)=12.18
++ LT Ball Mill baris 195 ditambahkan: F·au (g/t)=0.379, G·ag (g/t)=0.38, H·Cu (g/t)=13.75
++ LT Ball Mill baris 196 ditambahkan: F·au (g/t)=0.33, G·ag (g/t)=0.46, H·Cu (g/t)=11.45
++ LT Ball Mill baris 197 ditambahkan: F·au (g/t)=0.337, G·ag (g/t)=0.42, H·Cu (g/t)=11.8
++ LT Ball Mill baris 198 ditambahkan: F·au (g/t)=0.361, G·ag (g/t)=0.41, H·Cu (g/t)=11.57
++ LT Floculation baris 21 [16] ditambahkan: G·Lab AAS Result=0.128, H=0.216667, I=12.77, J=0.035
++ LT Floculation baris 22 [17] ditambahkan: F·Batch=17
++ LT Floculation baris 23 [18] ditambahkan: F·Batch=18
++ LT Floculation baris 24 [19] ditambahkan: F·Batch=19
++ LT Floculation baris 122 ditambahkan: R=0.121, S=0.22, T=12.75
++ LT Floculation baris 123 ditambahkan: R=0.129, S=0.22, T=12.74
++ LT Floculation baris 124 ditambahkan: R=0.134, S=0.21, T=12.82
++ LT Floculation baris 128 ditambahkan: O=LT-Floc DS 1, P=17, Q=10/14/2026
++ LT Floculation baris 129 ditambahkan: O=LT-Floc DS 2, Q=10/14/2026
++ LT Floculation baris 130 ditambahkan: O=LT-Floc DS 3, Q=10/14/2026
++ LT Floculation baris 131 ditambahkan: O=LT-Floc NS 1, Q=10/14/2026
++ LT Floculation baris 132 ditambahkan: O=LT-Floc NS 2, Q=10/14/2026
++ LT Floculation baris 133 ditambahkan: O=LT-Floc NS 3, Q=10/14/2026
+~ Milling Down Time Hours!AH6 [31-08-2026 00:00]: 188.783333 → 189.2
+~ Milling Down Time Hours!AI6 [31-08-2026 00:00]: 123.216667 → 122.8
+~ Milling Down Time Hours!AJ6 [31-08-2026 00:00]: 0.605075 → 0.60641
+~ Milling Down Time Hours!P48 "Total Down Time (Mins)" [21-09-2026 00:00]: 405 → 380
+~ Milling Down Time Hours!Q48 "Running Time (Hr)" [21-09-2026 00:00]: 17.25 → 17.666667
+~ Milling Down Time Hours!R48 "Availbility (%)" [21-09-2026 00:00]: 0.71875 → 0.736111
+~ Milling Down Time Hours!S48 "Downtime (hr)" [21-09-2026 00:00]: 6.75 → 6.333333
+~ Milling Down Time Hours!P56 "Total Down Time (Mins)" [25-09-2026 00:00]: 405 → 380
+~ Milling Down Time Hours!Q56 "Running Time (Hr)" [25-09-2026 00:00]: 17.25 → 17.666667
+~ Milling Down Time Hours!R56 "Availbility (%)" [25-09-2026 00:00]: 0.71875 → 0.736111
+~ Milling Down Time Hours!S56 "Downtime (hr)" [25-09-2026 00:00]: 6.75 → 6.333333
+~ Milling Down Time Hours!P57 "Total Down Time (Mins)" [26-09-2026 00:00]: 25 → 0
+~ Milling Down Time Hours!Q57 "Running Time (Hr)" [26-09-2026 00:00]: 23.583333 → 24
+~ Milling Down Time Hours!R57 "Availbility (%)" [26-09-2026 00:00]: 0.982639 → 1
+~ Milling Down Time Hours!S57 "Downtime (hr)" [26-09-2026 00:00]: 0.416667 → 0
+~ Milling Down Time Hours!P59 "Total Down Time (Mins)" [27-09-2026 00:00]: 25507 → 25432
+~ Milling Down Time Hours!Q59 "Running Time (Hr)" [27-09-2026 00:00]: 870.883333 → 872.133333
+~ Milling Down Time Hours!R59 "Availbility (%)" [27-09-2026 00:00]: 0.671978 → 0.672942
+~ Milling Down Time Hours!S59 "Downtime (hr)" [27-09-2026 00:00]: 425.116667 → 423.866667
+~ Milling Down Time Hours!P60 "Total Down Time (Mins)" [27-09-2026 00:00]: 425.116667 → 423.866667
+~ Milling Down Time Hours!Q60 "Running Time (Hr)" [27-09-2026 00:00]: 36.286806 → 36.338889
+~ Milling Down Time Hours!S60 "Downtime (hr)" [27-09-2026 00:00]: 17.713194 → 17.661111
+~ Milling Down Time Hours!L91 "Availibility Per Day" [13-10-2026 00:00]: 0.71875 → 0.736111
+~ Milling Down Time Hours!F92 "Start Time" [13-10-2026 00:00]: 00:26:00 → 00:01:00
+~ Milling Down Time Hours!G92 "Down Time (Mins)" [13-10-2026 00:00]: 25 → 0
+~ Milling Down Time Hours!J92 "Running Time Hour/Shift" [13-10-2026 00:00]: 11.583333 → 12
+~ Milling Down Time Hours!K92 "Availibility per Shift" [13-10-2026 00:00]: 0.965278 → 1
++ Milling Down Time Hours baris 93 [14-10-2026 00:00] ditambahkan: E·Stop Time=01:01:00, F·Start Time=01:01:00, H·Reason=ball mill running 1,2 dan 3, I·BATCH=18, L·Availibility Per Day=1
++ Milling Down Time Hours baris 94 [14-10-2026 00:00] ditambahkan: E·Stop Time=01:01:00, F·Start Time=01:01:00, H·Reason=start ball mill no 1 jam  22:00 - 02:..., I·BATCH=18
+~ Milling and Leach Feed!AI6: 1205 → 1240
+~ Milling and Leach Feed!AI8: 1.205 → 1.24
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.324783 → 0.369501
+~ Milling and Leach Feed!AI12: 391.363636 → 458.181818
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 813.636364 → 781.818182
+~ Milling and Leach Feed!R86: 0.71875 → 0.736111
+~ Milling and Leach Feed!R88: 0 → 1
+~ Milling and Leach Feed!T110 [17]: (kosong) → 0.342667
+~ Milling and Leach Feed!U110 [17]: (kosong) → 0.43
+~ Milling and Leach Feed!V110 [17]: (kosong) → 11.606667
+~ Milling and Leach Feed!W110 [17]: 0 → 80.25832
+~ Milling and Leach Feed!X110 [17]: 0 → 100.713261
+~ Milling and Leach Feed!Y110 [17]: 0 → 2718.477333
+~ Milling and Leach Feed!AB110 [17]: 0 → 200645799.71256
+~ Milling and Leach Feed!A111 [17]: 17 → (kosong)
+~ Milling and Leach Feed!N111 [17]: 77.177159 → 205.362582
+~ Milling and Leach Feed!W111 [17]: (kosong) → 0
+~ Milling and Leach Feed!X111 [17]: (kosong) → 0
+~ Milling and Leach Feed!Y111 [17]: (kosong) → 0
+~ Milling and Leach Feed!G112 [18]: (kosong) → 0.34
+~ Milling and Leach Feed!H112 "Milling And Leach Feed M" [18]: (kosong) → 305.42339
+~ Milling and Leach Feed!I112 [18]: (kosong) → 25.451949
+~ Milling and Leach Feed!J112 [18]: (kosong) → 413.42339
+~ Milling and Leach Feed!K112 [18]: (kosong) → 1.22
+~ Milling and Leach Feed!L112 [18]: (kosong) → 0.8
+~ Milling and Leach Feed!M112 [18]: 0 → 128.185422
+~ Milling and Leach Feed!O112 [18]: (kosong) → 10.682119
+~ Milling and Leach Feed!P112 [18]: (kosong) → 12
+~ Milling and Leach Feed!Q112 [18]: (kosong) → 720
+~ Milling and Leach Feed!R112 [18]: (kosong) → 0
+~ Milling and Leach Feed!S112 [18]: (kosong) → 336.144577
+~ Milling and Leach Feed!Z112 [18]: (kosong) → 4.6
++ Milling and Leach Feed baris 113 [14-10-2026 00:00] ditambahkan: E=batch 18 Tank 3, G=0.35, H·Milling And Leach Feed M=197.72423, I=16.477019, J=611.14762, K=1.23, L=0.79, M=91.611028, ...
+~ Milling and Leach Feed!E114: (kosong) → finish pump slurry to tank 3 06:31
+~ Milling and Leach Feed!G114: (kosong) → 0.36
+~ Milling and Leach Feed!H114 "Milling And Leach Feed M": (kosong) → 260.636485
+~ Milling and Leach Feed!I114: (kosong) → 21.719707
+~ Milling and Leach Feed!J114: (kosong) → 871.784105
+~ Milling and Leach Feed!K114: (kosong) → 1.24
+~ Milling and Leach Feed!L114: (kosong) → 0.7
+~ Milling and Leach Feed!M114: 0 → 116.348127
+~ Milling and Leach Feed!O114: (kosong) → 9.695677
+~ Milling and Leach Feed!P114: (kosong) → 12
+~ Milling and Leach Feed!Q114: (kosong) → 720
+~ Milling and Leach Feed!R114: (kosong) → 0
+~ Milling and Leach Feed!Z114: (kosong) → 9.7
++ Milling and Leach Feed baris 115 [15-10-2026 00:00] ditambahkan: AA=9.72
+~ Milling and Leach Feed!R127 [Average]: 13931.886806 → 13932.904167
+~ Milling and Leach Feed_OLD!P51: 23.583333 → 24
+~ Milling and Leach Feed_OLD!R51: 25 → 0
+~ Milling and Leach Feed_OLD!R85: 0.71875 → 0.736111
+~ Milling and Leach Feed_OLD!R87: 0 → 1
+~ Milling and Leach Feed_OLD!P99 [Average]: 870.883333 → 872.133333
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 7750 → 8200
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.363036 → 1.359462
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.729884 → 0.688021
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.879378 → 0.82894
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.091455 → 0.08621
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.039572 → 0.037302
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.036934 → 0.034815
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.011432 → 0.010776
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 527000000 → 557600000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 781595000 → 812195000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.674262 → 0.686535
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.012212 → 0.011752
+- ...dan 72 perubahan lain tidak ditampilkan
+_Dibandingkan 17288 sel dari 19 sheet._
+
 ## 15 Oct 2026 · 16:52 · Production Report June 2026_DYAN New Anjim5.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~2 sel; Milling Down Time Hours: +1 baris; Reagent Consumption: ~13 sel
 ~ Daily Summary !Z38 "Consumption" [14-09-2026 00:00]: 0 → 175
