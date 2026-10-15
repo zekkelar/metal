@@ -5,6 +5,68 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Oct 2026 · 14:14 · Production Report June 2026_DYAN New Anjim5.xlsx · GanyuChan@MSI
+Ringkasan: Filter Press: +10 baris, ~6 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +2 baris, ~10 sel, -28 baris; Milling and Leach Feed_OLD: ~1 sel
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 5481.42 → 5667.42
+~ Filter Press!C53 [53]: (kosong) → 14-10-2026 00:00
+~ Filter Press!D53 [53]: (kosong) → Day
+~ Filter Press!E53 [53]: (kosong) → 11
+~ Filter Press!F53 [53]: 0 → 66
+~ Filter Press!H53 [53]: 0 → 66
++ Filter Press baris 62 [62] ditambahkan: K=14-10-2026 00:00, M=10, N=120, P=120
++ Filter Press baris 63 [63] ditambahkan: N=0, P=0
++ Filter Press baris 64 [64] ditambahkan: N=0, P=0
++ Filter Press baris 65 [65] ditambahkan: N=0, P=0
++ Filter Press baris 66 [66] ditambahkan: N=0, P=0
++ Filter Press baris 67 [67] ditambahkan: N=0, P=0
++ Filter Press baris 68 [68] ditambahkan: N=0, P=0
++ Filter Press baris 69 [69] ditambahkan: N=0
++ Filter Press baris 70 [70] ditambahkan: N=0
++ Filter Press baris 71 [71] ditambahkan: N=0
++ Milling Down Time Hours baris 93 [14-10-2026 00:00] ditambahkan: E·Stop Time=00:01:00, F·Start Time=00:01:00, H·Reason=ball mill running 1,2, dan 3, L·Availibility Per Day=1
+~ Milling and Leach Feed!AI6: 1240 → 1230
+~ Milling and Leach Feed!AI8: 1.24 → 1.23
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.369501 → 0.356984
+~ Milling and Leach Feed!AI12: 458.181818 → 439.090909
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 781.818182 → 790.909091
+- Milling and Leach Feed baris 36 [15-09-2026 00:00] dikosongkan: AE=67, AF=72
+- Milling and Leach Feed baris 37 dikosongkan: AE=75, AF=90
+- Milling and Leach Feed baris 38 [8] dikosongkan: AE=72, AF=78
+- Milling and Leach Feed baris 39 dikosongkan: AE=70
+- Milling and Leach Feed baris 40 [17-09-2026 00:00] dikosongkan: AE=60
+- Milling and Leach Feed baris 41 dikosongkan: AE=60
+- Milling and Leach Feed baris 42 [9] dikosongkan: AE=60
+- Milling and Leach Feed baris 43 dikosongkan: AE=72
+- Milling and Leach Feed baris 44 [19-09-2026 00:00] dikosongkan: AE=72
+- Milling and Leach Feed baris 45 dikosongkan: AE=60
+- Milling and Leach Feed baris 46 [10] dikosongkan: AE=72
+- Milling and Leach Feed baris 47 dikosongkan: AE=72
+- Milling and Leach Feed baris 48 [21-09-2026 00:00] dikosongkan: AE=80, AG=64
+- Milling and Leach Feed baris 49 dikosongkan: AE=78, AG=69
+- Milling and Leach Feed baris 50 [22-09-2026 00:00] dikosongkan: AE=72, AG=69
+- Milling and Leach Feed baris 51 dikosongkan: AA=10.8, AE=72, AG=71
+- Milling and Leach Feed baris 52 [23-09-2026 00:00] dikosongkan: AE=72, AG=76
+- Milling and Leach Feed baris 53 dikosongkan: AE=72, AG=74
+- Milling and Leach Feed baris 54 [24-09-2026 00:00] dikosongkan: AA=7.2, AE=80, AG=60
+~ Milling and Leach Feed!A55 [11]: (kosong) → 11
+~ Milling and Leach Feed!B55 "PIC" [11]: (kosong) → 24-09-2026 00:00
+~ Milling and Leach Feed!AE55 [11]: 82 → (kosong)
+- Milling and Leach Feed baris 56 [11] dikosongkan: A=11, AA=39.118854, AE=80, AG=83
+- Milling and Leach Feed baris 57 [25-09-2026 00:00] dikosongkan: AE=80, AG=82
+- Milling and Leach Feed baris 58 dikosongkan: AG=83
+- Milling and Leach Feed baris 59 [12] dikosongkan: AG=80
+- Milling and Leach Feed baris 60 dikosongkan: AG=80
+- Milling and Leach Feed baris 61 [27-09-2026 00:00] dikosongkan: AG=78
+- Milling and Leach Feed baris 62 dikosongkan: AG=67
+- Milling and Leach Feed baris 63 [28-09-2026 00:00] dikosongkan: AG=72
+- Milling and Leach Feed baris 64 dikosongkan: AG=78
+~ Milling and Leach Feed!R88: 0 → 1
++ Milling and Leach Feed baris 112 [18] ditambahkan: B·PIC=13-10-2026 00:00, D=UNKNOWN USER, S=219.79645
++ Milling and Leach Feed baris 113 [14-10-2026 00:00] ditambahkan: D=UNKNOWN USER, E=Batch 18 Tank 3, G=0.35, H·Milling And Leach Feed M=197.72423, I=16.477019, J=611.14762, K=1.23, L=0.789167, ...
+~ Milling and Leach Feed!R127 [Average]: 13931.904167 → 13932.904167
+~ Milling and Leach Feed_OLD!R87: 0 → 1
+_Dibandingkan 17079 sel dari 19 sheet._
+
 ## 14 Oct 2026 · 19:35 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
 Ringkasan: Crushing: +5 baris, ~36 sel
 ~ Crushing!N114 "Tonage/Day (Tpd)" [05-10-2026 00:00]: 21.84 → 19.656
