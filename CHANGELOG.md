@@ -5,6 +5,14 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Oct 2026 · 14:11 · Logbook Sample.xlsx · GanyuChan@MSI
+Ringkasan: Sheet1: +4 baris
++ Sheet1 baris 2 ditambahkan: I·Batch=Batch
++ Sheet1 baris 4 [17/10/2026] ditambahkan: I·Batch=20
++ Sheet1 baris 10 [Tank 2 17/10/26 08:00] ditambahkan: I·Batch=19
++ Sheet1 baris 11 [Tank 3 17/10/26 08:00] ditambahkan: I·Batch=20
+_Dibandingkan 66 sel dari 1 sheet._
+
 ## 17 Oct 2026 · 10:19 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +3 baris; Daily Summary : ~2 sel; Filter Press: ~10 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: ~68 sel; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: ~14 sel
 + Au Cal Leaching Tank baris 6 ditambahkan: F·full tanki=full tanki, H·start toyong=start toyong
