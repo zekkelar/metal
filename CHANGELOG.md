@@ -5,6 +5,110 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Oct 2026 · 10:19 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +3 baris; Daily Summary : ~2 sel; Filter Press: ~10 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: ~68 sel; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: ~14 sel
++ Au Cal Leaching Tank baris 6 ditambahkan: F·full tanki=full tanki, H·start toyong=start toyong
++ Au Cal Leaching Tank baris 27 [8.074074] ditambahkan: A=8.074074, R=0.35, U=46.494
++ Au Cal Leaching Tank baris 28 [19] ditambahkan: H·start toyong=17-10-2026 00:00, I=10:00:00
+~ Daily Summary !Z39 "Consumption" [15-09-2026 00:00]: 200 → 375
+~ Daily Summary !Z56 "Consumption" [Total]: 5350 → 5525
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 5494.26 → 5536.26
+~ Filter Press!C56 [56]: (kosong) → 16-10-2026 00:00
+~ Filter Press!D56 [56]: (kosong) → Night
+~ Filter Press!E56 [56]: (kosong) → 7
+~ Filter Press!F56 [56]: 0 → 42
+~ Filter Press!H56 [56]: 0 → 42
+~ Filter Press!K66 [66]: (kosong) → 16-10-2026 00:00
+~ Filter Press!L66 [66]: Day → Night
+~ Filter Press!M66 [66]: (kosong) → 4
+~ Filter Press!N66 [66]: (kosong) → 48
++ Milling Down Time Hours baris 97 [16-10-2026 00:00] ditambahkan: H·Reason=running ball mill 1,2 dan 3, L·Availibility Per Day=1
++ Milling Down Time Hours baris 98 [16-10-2026 00:00] ditambahkan: E·Stop Time=01:01:00, F·Start Time=01:01:00, H·Reason=start batch 20 tank 3 jam 19:00, runn..., I·BATCH=20
+~ Milling and Leach Feed!AI6: 1235 → 1260
+~ Milling and Leach Feed!AI8: 1.235 → 1.26
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.363268 → 0.393939
+~ Milling and Leach Feed!AI12: 448.636364 → 496.363636
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 786.363636 → 763.636364
+~ Milling and Leach Feed!R92: 0 → 1
+~ Milling and Leach Feed!N117 [16-10-2026 00:00]: 116.736385 → 319.818723
+~ Milling and Leach Feed!B118 "PIC" [16-10-2026 00:00]: (kosong) → 16-10-2026 00:00
+~ Milling and Leach Feed!D118 [16-10-2026 00:00]: (kosong) → UNKNOWN USER
+~ Milling and Leach Feed!E118 [16-10-2026 00:00]: (kosong) → Start Bacth 20 jam
+~ Milling and Leach Feed!G118 [16-10-2026 00:00]: (kosong) → 0.39
+~ Milling and Leach Feed!H118 "Milling And Leach Feed M" [16-10-2026 00:00]: (kosong) → 413.27297
+~ Milling and Leach Feed!I118 [16-10-2026 00:00]: (kosong) → 34.439414
+~ Milling and Leach Feed!J118 [16-10-2026 00:00]: (kosong) → 521.27297
+~ Milling and Leach Feed!K118 [16-10-2026 00:00]: (kosong) → 1.26
+~ Milling and Leach Feed!L118 [16-10-2026 00:00]: (kosong) → 0.77
+~ Milling and Leach Feed!M118 [16-10-2026 00:00]: 0 → 203.082337
+~ Milling and Leach Feed!O118 [16-10-2026 00:00]: (kosong) → 16.923528
+~ Milling and Leach Feed!P118 [16-10-2026 00:00]: (kosong) → 12
+~ Milling and Leach Feed!Q118 [16-10-2026 00:00]: (kosong) → 720
+~ Milling and Leach Feed!R118 [16-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!Z118 [16-10-2026 00:00]: (kosong) → 5.8
+~ Milling and Leach Feed!I127 [Average]: 23.660762 → 24.109872
+~ Milling and Leach Feed!R127 [Average]: 13933.904167 → 13934.904167
+~ Milling and Leach Feed!M128: 2377.348945 → 2580.431283
+~ Milling and Leach Feed!Y130: (kosong) → Max
+~ Milling and Leach Feed!Z130: Max → 11.3
+~ Milling and Leach Feed!AA130: 11.3 → (kosong)
+~ Milling and Leach Feed!P133: (kosong) → 80
+~ Milling and Leach Feed!Q133: 80 → (kosong)
+~ Milling and Leach Feed!P134: (kosong) → 82
+~ Milling and Leach Feed!Q134: 82 → (kosong)
+~ Milling and Leach Feed!P135: (kosong) → 84
+~ Milling and Leach Feed!Q135: 84 → (kosong)
+~ Milling and Leach Feed!P136: (kosong) → 84
+~ Milling and Leach Feed!Q136: 84 → (kosong)
+~ Milling and Leach Feed!P137: (kosong) → 83
+~ Milling and Leach Feed!Q137: 83 → (kosong)
+~ Milling and Leach Feed!P138: (kosong) → 80
+~ Milling and Leach Feed!Q138: 80 → (kosong)
+~ Milling and Leach Feed!P139: (kosong) → 86
+~ Milling and Leach Feed!Q139: 86 → (kosong)
+~ Milling and Leach Feed!P140: (kosong) → 83
+~ Milling and Leach Feed!Q140: 83 → (kosong)
+~ Milling and Leach Feed!P141: (kosong) → 82
+~ Milling and Leach Feed!Q141: 82 → (kosong)
+~ Milling and Leach Feed!P142: (kosong) → 80
+~ Milling and Leach Feed!Q142: 80 → (kosong)
+~ Milling and Leach Feed!P143: (kosong) → 82
+~ Milling and Leach Feed!Q143: 82 → (kosong)
+~ Milling and Leach Feed!P144: (kosong) → 83
+~ Milling and Leach Feed!Q144: 83 → (kosong)
+~ Milling and Leach Feed!P145: (kosong) → 72
+~ Milling and Leach Feed!Q145: 72 → (kosong)
+~ Milling and Leach Feed!P146: (kosong) → 82
+~ Milling and Leach Feed!Q146: 82 → (kosong)
+~ Milling and Leach Feed!P147: (kosong) → 82
+~ Milling and Leach Feed!Q147: 82 → (kosong)
+~ Milling and Leach Feed!P148: (kosong) → 84
+~ Milling and Leach Feed!Q148: 84 → (kosong)
+~ Milling and Leach Feed!P149: (kosong) → 85
+~ Milling and Leach Feed!Q149: 85 → (kosong)
+~ Milling and Leach Feed!P150: (kosong) → 82
+~ Milling and Leach Feed!Q150: 82 → (kosong)
+~ Milling and Leach Feed!P151: (kosong) → 78
+~ Milling and Leach Feed!Q151: 78 → (kosong)
+~ Milling and Leach Feed!P152: (kosong) → 72
+~ Milling and Leach Feed!Q152: 72 → (kosong)
+~ Milling and Leach Feed_OLD!R91: 0 → 1
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 8725 → 8900
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.446501 → 1.475514
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 593300000 → 605200000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 847895000 → 859795000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.699733 → 0.703889
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.011257 → 0.011101
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.259466 → 0.255875
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.018399 → 0.018144
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.00743 → 0.007327
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.003715 → 0.003664
+~ Reagent Consumption!O56 [29-09-2026 00:00]: 200 → 375
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 8725 → 8900
+~ Reagent Consumption!C74 [16-10-2026 00:00]: (kosong) → ulan/suono
+~ Reagent Consumption!D74 "Leaching" [16-10-2026 00:00]: 200 → 375
+_Dibandingkan 18041 sel dari 19 sheet._
+
 ## 17 Oct 2026 · 08:41 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~15 sel; Daily Summary : ~2 sel; Filter Press: ~10 sel; Milling Down Time Hours: +1 baris, -7 baris; Milling and Leach Feed: +8 baris, ~7 sel; Reagent Consumption: +1 baris, ~12 sel
 + Au Cal Leaching Tank baris 27 [18] ditambahkan: S·sg slurry=1.23
