@@ -5,6 +5,45 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Oct 2026 · 15:13 · Production Report June 2026_DYAN New Anjim Sekaliii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~23 sel; Fuel Consumption: ~1 sel; Reagent Consumption: ~7 sel
++ Sheet "LF Ball Mill" ditambahkan
+- Sheet "LT Ball Mill" dihapus
++ Au Cal Leaching Tank baris 10 [5.16458] ditambahkan: O=292.3136
++ Au Cal Leaching Tank baris 11 [4.997682] ditambahkan: O=300.14215
+~ Au Cal Leaching Tank!AI27 [8.074074]: (kosong) → 0.084
+~ Au Cal Leaching Tank!AR27 [8.074074]: 0 → 58.129613
+~ Au Cal Leaching Tank!BD27 [8.074074]: 0 → -58.129613
+~ Au Cal Leaching Tank!D28 [19]: 0 → 9.4097
+~ Au Cal Leaching Tank!K28 [19]: (kosong) → 0.86
+~ Au Cal Leaching Tank!L28 [19]: (kosong) → 0.74218
+~ Au Cal Leaching Tank!N28 [19]: 0 → 385.2432
+~ Au Cal Leaching Tank!O28 [19]: (kosong) → 338.7492
+~ Au Cal Leaching Tank!P28 [19]: (kosong) → 1.24
+~ Au Cal Leaching Tank!V28 [19]: 0 → 684.8768
+~ Au Cal Leaching Tank!W28 [19]: (kosong) → 6370.54568
+~ Au Cal Leaching Tank!D60 [51]: 8.886204 → 9.408965
+~ Au Cal Leaching Tank!N60 [51]: 134.129644 → 141.834508
+~ Au Cal Leaching Tank!AI60 [51]: 0.026882 → 0.030056
+~ Au Cal Leaching Tank!AR60 [51]: 294.758623 → 352.888236
+~ Au Cal Leaching Tank!N61 [52]: 6031.79648 → 6370.54568
+~ Au Cal Leaching Tank!BD61 [52]: 2660.056455 → 2601.926842
+~ Au Cal Leaching Tank!AL63: 2660.056455 → 2601.926842
+~ Au Cal Leaching Tank!BD63: 2128.045164 → 2081.541474
+~ Au Cal Leaching Tank!N67: 8.488315 → 8.965023
+~ Au Cal Leaching Tank!P67: 203.719555 → 215.160563
+~ Au Cal Leaching Tank!M74: 8.488315 → 8.965023
+~ Au Cal Leaching Tank!M75: 203.719555 → 215.160563
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 6.60334 → 6.252212
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.475514 → 1.397055
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.688021 → 0.651436
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.82894 → 0.784862
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.08621 → 0.081626
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.037302 → 0.035319
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.034815 → 0.032964
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.010776 → 0.010203
+_Dibandingkan 18134 sel dari 20 sheet._
+
 ## 17 Oct 2026 · 14:11 · Logbook Sample.xlsx · GanyuChan@MSI
 Ringkasan: Sheet1: +4 baris
 + Sheet1 baris 2 ditambahkan: I·Batch=Batch
