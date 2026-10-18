@@ -5,6 +5,117 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Oct 2026 · 14:19 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Daily Summary : +20 baris, ~87 sel
+~ Daily Summary !C55 "Feeding, ton" [01-10-2026 00:00]: (kosong) → 295.035
+~ Daily Summary !D55 [01-10-2026 00:00]: 4558.8372 → 4853.8722
+~ Daily Summary !B56 "Date" [02-10-2026 00:00]: Total → 02-10-2026 00:00
+~ Daily Summary !C56 "Feeding, ton" [02-10-2026 00:00]: 4558.8372 → 232.2099
+~ Daily Summary !D56 [02-10-2026 00:00]: (kosong) → 5086.0821
+~ Daily Summary !G56 [02-10-2026 00:00]: 3317.040379 → (kosong)
+~ Daily Summary !H56 [02-10-2026 00:00]: 2.070788 → (kosong)
+~ Daily Summary !I56 "Hours Run Crushing" [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !O56 "Gold Rom ( Elution and E" [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !P56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Q56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !T56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !V56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !W56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !X56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Y56 [02-10-2026 00:00]: 0 → (kosong)
+~ Daily Summary !Z56 "Consumption" [02-10-2026 00:00]: 5675 → (kosong)
+~ Daily Summary !AB56 [02-10-2026 00:00]: 3500 → (kosong)
+~ Daily Summary !AC56 [02-10-2026 00:00]: 3325 → (kosong)
+~ Daily Summary !AF56 [02-10-2026 00:00]: 270 → (kosong)
+~ Daily Summary !AG56 [02-10-2026 00:00]: 33194 → (kosong)
+~ Daily Summary !B57 "Date" [03-10-2026 00:00]: Average → 03-10-2026 00:00
+~ Daily Summary !C57 "Feeding, ton" [03-10-2026 00:00]: 155.819167 → 464.919
+~ Daily Summary !D57 [03-10-2026 00:00]: (kosong) → 5551.0011
+~ Daily Summary !E57 [03-10-2026 00:00]: 19.543655 → (kosong)
+~ Daily Summary !F57 [03-10-2026 00:00]: 0.797198 → (kosong)
+~ Daily Summary !G57 [03-10-2026 00:00]: 66.799603 → (kosong)
+~ Daily Summary !H57 [03-10-2026 00:00]: 0.06498 → (kosong)
+~ Daily Summary !I57 "Hours Run Crushing" [03-10-2026 00:00]: 9.129167 → (kosong)
+~ Daily Summary !K57 "Availability, %" [03-10-2026 00:00]: 0.62619 → (kosong)
+~ Daily Summary !L57 [03-10-2026 00:00]: 0.416534 → (kosong)
+~ Daily Summary !M57 [03-10-2026 00:00]: 1 → (kosong)
+~ Daily Summary !N57 "Plant Usability" [03-10-2026 00:00]: 0.372588 → (kosong)
+~ Daily Summary !V57 [03-10-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !W57 [03-10-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !X57 [03-10-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !Y57 [03-10-2026 00:00]: #DIV/0! → (kosong)
+~ Daily Summary !Z57 "Consumption" [03-10-2026 00:00]: 155.172414 → (kosong)
+~ Daily Summary !AA57 [03-10-2026 00:00]: 1060.862069 → (kosong)
+~ Daily Summary !AB57 [03-10-2026 00:00]: 120.689655 → (kosong)
+~ Daily Summary !AC57 [03-10-2026 00:00]: 114.655172 → (kosong)
+~ Daily Summary !AF57 [03-10-2026 00:00]: 9.310345 → (kosong)
++ Daily Summary  baris 58 [04-10-2026 00:00] ditambahkan: B·Date=04-10-2026 00:00, C·Feeding, ton=5.525, D=5556.5261
+~ Daily Summary !B59 "Date" [05-10-2026 00:00]: (kosong) → 05-10-2026 00:00
+~ Daily Summary !C59 "Feeding, ton" [05-10-2026 00:00]: (kosong) → 19.656
+~ Daily Summary !D59 [05-10-2026 00:00]: (kosong) → 5576.1821
+~ Daily Summary !E59 [05-10-2026 00:00]: Median → (kosong)
+~ Daily Summary !F59 [05-10-2026 00:00]: 0.71375 → (kosong)
+~ Daily Summary !B60 "Date" [06-10-2026 00:00]: (kosong) → 06-10-2026 00:00
+~ Daily Summary !C60 "Feeding, ton" [06-10-2026 00:00]: (kosong) → 94.77
+~ Daily Summary !D60 [06-10-2026 00:00]: (kosong) → 5670.9521
+~ Daily Summary !E60 [06-10-2026 00:00]: Max → (kosong)
+~ Daily Summary !F60 [06-10-2026 00:00]: 1.45 → (kosong)
+~ Daily Summary !W60 [06-10-2026 00:00]: Au Grade → (kosong)
+~ Daily Summary !B61 "Date" [07-10-2026 00:00]: (kosong) → 07-10-2026 00:00
+~ Daily Summary !C61 "Feeding, ton" [07-10-2026 00:00]: (kosong) → 185.4944
+~ Daily Summary !D61 [07-10-2026 00:00]: (kosong) → 5856.4465
+~ Daily Summary !E61 [07-10-2026 00:00]: Min → (kosong)
+~ Daily Summary !F61 [07-10-2026 00:00]: 0.442 → (kosong)
+~ Daily Summary !W61 [07-10-2026 00:00]: Median → (kosong)
+~ Daily Summary !X61 [07-10-2026 00:00]: 0.71375 → (kosong)
+~ Daily Summary !B62 "Date" [08-10-2026 00:00]: (kosong) → 08-10-2026 00:00
+~ Daily Summary !C62 "Feeding, ton" [08-10-2026 00:00]: (kosong) → 430.6861
+~ Daily Summary !D62 [08-10-2026 00:00]: (kosong) → 6287.1326
+~ Daily Summary !G62 [08-10-2026 00:00]: Metal Content (gr) → (kosong)
+~ Daily Summary !W62 [08-10-2026 00:00]: Average → (kosong)
+~ Daily Summary !X62 [08-10-2026 00:00]: 0.797198 → (kosong)
+~ Daily Summary !AI62 [08-10-2026 00:00]: 0.84 → (kosong)
+~ Daily Summary !B63 "Date" [09-10-2026 00:00]: (kosong) → 09-10-2026 00:00
+~ Daily Summary !D63 [09-10-2026 00:00]: (kosong) → 6287.1326
+~ Daily Summary !F63 [09-10-2026 00:00]: Estimate By Metal Contenct → (kosong)
+~ Daily Summary !G63 [09-10-2026 00:00]: 0.727607 → (kosong)
+~ Daily Summary !W63 [09-10-2026 00:00]: Min → (kosong)
+~ Daily Summary !X63 [09-10-2026 00:00]: 0.442 → (kosong)
+~ Daily Summary !B64 "Date" [10-10-2026 00:00]: (kosong) → 10-10-2026 00:00
+~ Daily Summary !D64 [10-10-2026 00:00]: (kosong) → 6287.1326
+~ Daily Summary !W64 [10-10-2026 00:00]: Max → (kosong)
+~ Daily Summary !X64 [10-10-2026 00:00]: 1.45 → (kosong)
++ Daily Summary  baris 65 [11-10-2026 00:00] ditambahkan: B·Date=11-10-2026 00:00, D=6287.1326
+~ Daily Summary !B66 "Date" [12-10-2026 00:00]: (kosong) → 12-10-2026 00:00
+~ Daily Summary !C66 "Feeding, ton" [12-10-2026 00:00]: (kosong) → 306.969
+~ Daily Summary !D66 [12-10-2026 00:00]: (kosong) → 6594.1016
+~ Daily Summary !W66 [12-10-2026 00:00]: Tonage Production Average → (kosong)
+~ Daily Summary !B67 "Date" [13-10-2026 00:00]: (kosong) → 13-10-2026 00:00
+~ Daily Summary !W67 [13-10-2026 00:00]: Tpd → (kosong)
+~ Daily Summary !X67 [13-10-2026 00:00]: 155.819167 → (kosong)
+~ Daily Summary !B68 "Date" [14-10-2026 00:00]: (kosong) → 14-10-2026 00:00
+~ Daily Summary !W68 [14-10-2026 00:00]: Tph → (kosong)
+~ Daily Summary !X68 [14-10-2026 00:00]: 19.543655 → (kosong)
++ Daily Summary  baris 69 [15-10-2026 00:00] ditambahkan: B·Date=15-10-2026 00:00
++ Daily Summary  baris 70 [16-10-2026 00:00] ditambahkan: B·Date=16-10-2026 00:00
++ Daily Summary  baris 71 [17-10-2026 00:00] ditambahkan: B·Date=17-10-2026 00:00
++ Daily Summary  baris 72 [18-10-2026 00:00] ditambahkan: B·Date=18-10-2026 00:00
++ Daily Summary  baris 73 [19-10-2026 00:00] ditambahkan: B·Date=19-10-2026 00:00
++ Daily Summary  baris 74 [20-10-2026 00:00] ditambahkan: B·Date=20-10-2026 00:00
++ Daily Summary  baris 75 [21-10-2026 00:00] ditambahkan: B·Date=21-10-2026 00:00
++ Daily Summary  baris 76 [Total] ditambahkan: B·Date=Total, C·Feeding, ton=4558.8372, G=3317.040379, H=2.070788, I·Hours Run Crushing=0, O·Gold Rom ( Elution and E=0, P=0, Q=0, ...
++ Daily Summary  baris 77 [Average] ditambahkan: B·Date=Average, C·Feeding, ton=155.819167, E=19.543655, F=0.797198, G=66.799603, H=0.06498, I·Hours Run Crushing=9.129167, K·Availability, %=0.62619, ...
++ Daily Summary  baris 79 ditambahkan: E=Median, F=0.71375
++ Daily Summary  baris 80 ditambahkan: E=Max, F=1.45, W=Au Grade
++ Daily Summary  baris 81 ditambahkan: E=Min, F=0.442, W=Median, X=0.71375
++ Daily Summary  baris 82 ditambahkan: G=Metal Content (gr), W=Average, X=0.797198, AI=0.84
++ Daily Summary  baris 83 ditambahkan: F=Estimate By Metal Contenct, G=0.727607, W=Min, X=0.442
++ Daily Summary  baris 84 ditambahkan: W=Max, X=1.45
++ Daily Summary  baris 86 ditambahkan: W=Tonage Production Average
++ Daily Summary  baris 87 ditambahkan: W=Tpd, X=155.819167
++ Daily Summary  baris 88 ditambahkan: W=Tph, X=19.543655
+_Dibandingkan 19228 sel dari 19 sheet._
+
 ## 18 Oct 2026 · 14:14 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~91 sel; Daily Summary : ~54 sel; Fuel Consumption: ~1 sel; LF Ball Mill: +168 baris, ~12 sel; LT Floculation: +9 baris; Milling and Leach Feed: +27 baris, ~34 sel; Reagent Consumption: ~7 sel; Rom File Inventory: +4 baris, ~1493 sel
 ~ Au Cal Leaching Tank!X26 [7.990741]: 0.342667 → 0.370833
