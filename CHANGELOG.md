@@ -5,6 +5,25 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Oct 2026 · 15:40 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: ~15 sel
+~ Milling and Leach Feed!S118 [20]: 435.163803 → 789.286002
+~ Milling and Leach Feed!N119 [17-10-2026 00:00]: 232.081465 → 586.203665
+~ Milling and Leach Feed!D120: (kosong) → UNKNOWN USER
+~ Milling and Leach Feed!E120: (kosong) → Batch 20 Tank 3 Finish jam5:30
+~ Milling and Leach Feed!G120: (kosong) → 0.36
+~ Milling and Leach Feed!H120 "Milling And Leach Feed M": (kosong) → 799.733965
+~ Milling and Leach Feed!I120: (kosong) → 66.644497
+~ Milling and Leach Feed!K120: (kosong) → 1.23
+~ Milling and Leach Feed!M120: 0 → 354.1222
+~ Milling and Leach Feed!O120: (kosong) → 29.510183
+~ Milling and Leach Feed!P120: (kosong) → 12
+~ Milling and Leach Feed!Q120: (kosong) → 720
+~ Milling and Leach Feed!R120: (kosong) → 0
+~ Milling and Leach Feed!I127 [Average]: 24.942469 → 26.546393
+~ Milling and Leach Feed!M128: 2812.512748 → 3166.634948
+_Dibandingkan 19288 sel dari 19 sheet._
+
 ## 18 Oct 2026 · 16:18 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~1 sel; Rom File Inventory: +8 baris, ~2065 sel
 + Au Cal Leaching Tank baris 6 ditambahkan: Z=0.370833, AA=0.52375, AB=0.152917
