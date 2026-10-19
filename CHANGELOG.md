@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Oct 2026 · 14:53 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
+Ringkasan: Data Sampel: +3 baris
++ Data Sampel baris 229 ditambahkan: D·Tanggal=Max, E·Au (g/t)=1.468, F·Ag (g/t)=10.11, G·Cu (g/t)=27.939
++ Data Sampel baris 230 ditambahkan: D·Tanggal=Min, E·Au (g/t)=0.219, F·Ag (g/t)=0.01, G·Cu (g/t)=5.956
++ Data Sampel baris 231 ditambahkan: D·Tanggal=Average, E·Au (g/t)=0.58585, F·Ag (g/t)=0.837421, G·Cu (g/t)=12.438075
+_Dibandingkan 1971 sel dari 4 sheet._
+
 ## 19 Oct 2026 · 14:18 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Filter Press: ~13 sel; Rom File Inventory: +2 baris, ~2266 sel
 ~ Filter Press!R11 "Estimate Capacity per si" [7]: 6247.86 → 6179.46
