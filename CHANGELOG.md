@@ -5,6 +5,36 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Oct 2026 · 16:15 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: LF Ball Mill: +19 baris; Milling and Leach Feed: +1 baris, ~6 sel
++ LF Ball Mill baris 207 [204] ditambahkan: L=BM 08:00, M·No=17-10-2026 00:00, N·id batch=0.647, O·Id sampel=0.51, P·date=7.97
++ LF Ball Mill baris 208 [205] ditambahkan: L=BM 10:00, M·No=17-10-2026 00:00, N·id batch=0.686, O·Id sampel=0.56, P·date=8.04
++ LF Ball Mill baris 209 [206] ditambahkan: L=BM 12:00, M·No=17-10-2026 00:00, N·id batch=0.598, O·Id sampel=0.57, P·date=8.13
++ LF Ball Mill baris 210 [207] ditambahkan: L=BM 14:00, M·No=17-10-2026 00:00, N·id batch=0.6, O·Id sampel=0.52, P·date=7.81
++ LF Ball Mill baris 211 [208] ditambahkan: L=BM 16:00, M·No=17-10-2026 00:00, N·id batch=0.506, O·Id sampel=0.53, P·date=8.33
++ LF Ball Mill baris 212 [209] ditambahkan: L=BM 18:00, M·No=17-10-2026 00:00, N·id batch=0.676, O·Id sampel=0.52, P·date=8.19
++ LF Ball Mill baris 231 [228] ditambahkan: C·id batch=20, D·Id sampel=LF Ball Mill NS 1, E·date=16-10-2026 00:00, F·au (g/t)=0.639, G·ag (g/t)=0.52, H·Cu (g/t)=9.71
++ LF Ball Mill baris 232 [229] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=16-10-2026 00:00, F·au (g/t)=0.618, G·ag (g/t)=0.52, H·Cu (g/t)=9.04
++ LF Ball Mill baris 233 [230] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=16-10-2026 00:00, F·au (g/t)=0.677, G·ag (g/t)=0.53, H·Cu (g/t)=9.44
++ LF Ball Mill baris 234 [231] ditambahkan: D·Id sampel=LF Ball Mill NS 4, E·date=16-10-2026 00:00, F·au (g/t)=0.633, G·ag (g/t)=0.55, H·Cu (g/t)=9.45
++ LF Ball Mill baris 235 [232] ditambahkan: D·Id sampel=LF Ball Mill NS 5, E·date=16-10-2026 00:00, F·au (g/t)=0.601, G·ag (g/t)=0.55, H·Cu (g/t)=9.57
++ LF Ball Mill baris 236 [233] ditambahkan: D·Id sampel=LF Ball Mill NS 6, E·date=16-10-2026 00:00, F·au (g/t)=0.609, G·ag (g/t)=0.61, H·Cu (g/t)=9.4
++ LF Ball Mill baris 237 [234] ditambahkan: D·Id sampel=LF Ball Mill NS 7, E·date=16-10-2026 00:00, F·au (g/t)=0.649, G·ag (g/t)=0.51, H·Cu (g/t)=9.2
++ LF Ball Mill baris 238 [235] ditambahkan: D·Id sampel=LF Ball Mill NS 8, E·date=16-10-2026 00:00, F·au (g/t)=0.665, G·ag (g/t)=0.55, H·Cu (g/t)=9.3
++ LF Ball Mill baris 239 [236] ditambahkan: D·Id sampel=LF Ball Mill NS 9, E·date=16-10-2026 00:00, F·au (g/t)=0.64, G·ag (g/t)=0.55, H·Cu (g/t)=9.21
++ LF Ball Mill baris 240 [237] ditambahkan: D·Id sampel=LF Ball Mill NS 10, E·date=16-10-2026 00:00, F·au (g/t)=0.645, G·ag (g/t)=0.51, H·Cu (g/t)=9.18
++ LF Ball Mill baris 241 [238] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=17-10-2026 00:00, F·au (g/t)=0.632, G·ag (g/t)=0.58, H·Cu (g/t)=8.07
++ LF Ball Mill baris 242 [239] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=17-10-2026 00:00, F·au (g/t)=0.686, G·ag (g/t)=0.56, H·Cu (g/t)=8.31
++ LF Ball Mill baris 243 [240] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=17-10-2026 00:00, F·au (g/t)=0.69, G·ag (g/t)=0.52, H·Cu (g/t)=8.79
+~ Milling and Leach Feed!T118 [20]: (kosong) → 0.6376
+~ Milling and Leach Feed!U118 [20]: (kosong) → 0.54
+~ Milling and Leach Feed!V118 [20]: (kosong) → 9.35
+~ Milling and Leach Feed!W118 [20]: 0 → 133.678921
+~ Milling and Leach Feed!X118 [20]: 0 → 113.21615
+~ Milling and Leach Feed!Y118 [20]: 0 → 1960.316675
++ Milling and Leach Feed baris 119 [17-10-2026 00:00] ditambahkan: T=0.669333, U=0.553333, V=8.39, W=15.007744, X=80.671054, Y=15.676664
+_Dibandingkan 20121 sel dari 19 sheet._
+
 ## 19 Oct 2026 · 14:53 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
 Ringkasan: Data Sampel: +3 baris
 + Data Sampel baris 229 ditambahkan: D·Tanggal=Max, E·Au (g/t)=1.468, F·Ag (g/t)=10.11, G·Cu (g/t)=27.939
