@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Oct 2026 · 14:18 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Filter Press: ~13 sel; Rom File Inventory: +2 baris, ~2266 sel
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 6247.86 → 6179.46
+~ Filter Press!G54 [54]: (kosong) → 0.2
+~ Filter Press!H54 [54]: 48 → 38.4
+~ Filter Press!G55 [55]: (kosong) → 0.2
+~ Filter Press!H55 [55]: 78 → 62.4
+~ Filter Press!G56 [56]: (kosong) → 0.2
+~ Filter Press!H56 [56]: 42 → 33.6
+~ Filter Press!G57 [57]: (kosong) → 0.2
+~ Filter Press!H57 [57]: 48 → 38.4
+~ Filter Press!G58 [58]: (kosong) → 0.2
+~ Filter Press!H58 [58]: 48 → 38.4
+~ Filter Press!G60 [60]: (kosong) → 0.2
+~ Filter Press!H60 [60]: 78 → 62.4
+~ Rom File Inventory!I37 "Bulk Density" [40]: 1.4 → 1.38
+~ Rom File Inventory!J37 "Tonage by survey (WMT)" [40]: 282.8 → 278.76
+~ Rom File Inventory!I38 "Bulk Density" [41]: 1.4 → 1.38
+~ Rom File Inventory!J38 "Tonage by survey (WMT)" [41]: 134.4 → 132.48
+~ Rom File Inventory!I39 "Bulk Density" [42]: 1.4 → 1.38
+~ Rom File Inventory!J39 "Tonage by survey (WMT)" [42]: 130.2 → 128.34
+~ Rom File Inventory!B40 "No" [43]: Average → 43
+~ Rom File Inventory!C40 "Date" [43]: (kosong) → 15-10-2026 00:00
+~ Rom File Inventory!F40 "Ore  Type - Lithology" [43]: (kosong) → Vein dan Oxide
+~ Rom File Inventory!H40 "Survey (m3)" [43]: (kosong) → 249
+~ Rom File Inventory!I40 "Bulk Density" [43]: 1.34125 → 1.38
+~ Rom File Inventory!J40 "Tonage by survey (WMT)" [43]: (kosong) → 343.62
+~ Rom File Inventory!L40 "Grade (g/t)" [43]: 1.8268 → (kosong)
+~ Rom File Inventory!M40 "Metal Content (gr)" [43]: 8322.16505 → (kosong)
+~ Rom File Inventory!Q40 "Assay Lab Result" [43]: 32 → (kosong)
+~ Rom File Inventory!R40 [43]: Crusher 17:30 → (kosong)
+~ Rom File Inventory!S40 [43]: 18-08-2026 00:00 → (kosong)
+~ Rom File Inventory!T40 [43]: 1.25 → (kosong)
+~ Rom File Inventory!AD40 [43]: 40 → (kosong)
+~ Rom File Inventory!AE40 [43]: 0.662 → (kosong)
+~ Rom File Inventory!B41 "No" [44]: Total → 44
+~ Rom File Inventory!C41 "Date" [44]: (kosong) → 16-10-2026 00:00
+~ Rom File Inventory!F41 "Ore  Type - Lithology" [44]: (kosong) → Vein Oxide
+~ Rom File Inventory!G41 "Truckcount (m3)" [44]: 1533 → (kosong)
+~ Rom File Inventory!H41 "Survey (m3)" [44]: 5061 → 55
+~ Rom File Inventory!I41 "Bulk Density" [44]: (kosong) → 1.38
+~ Rom File Inventory!J41 "Tonage by survey (WMT)" [44]: 8209.38 → 75.9
+~ Rom File Inventory!K41 "Toange By Truckcount" [44]: 2581.8 → (kosong)
+~ Rom File Inventory!L41 "Grade (g/t)" [44]: 1.11 → (kosong)
+~ Rom File Inventory!M41 "Metal Content (gr)" [44]: 9112.4118 → (kosong)
+~ Rom File Inventory!Q41 "Assay Lab Result" [44]: 33 → (kosong)
+~ Rom File Inventory!R41 [44]: Crusher 08:00 → (kosong)
+~ Rom File Inventory!S41 [44]: 19-08-2026 00:00 → (kosong)
+~ Rom File Inventory!T41 [44]: 0.351 → (kosong)
+~ Rom File Inventory!AD41 [44]: 41 → (kosong)
+~ Rom File Inventory!AE41 [44]: 0.555 → (kosong)
+~ Rom File Inventory!AG41 [44]: 1 → (kosong)
+~ Rom File Inventory!AH41 [44]: 0.81 → (kosong)
+~ Rom File Inventory!AJ41 [44]: 1 → (kosong)
+~ Rom File Inventory!AK41 [44]: 1.6 → (kosong)
+~ Rom File Inventory!B42 "No" [Average]: (kosong) → Average
+~ Rom File Inventory!I42 "Bulk Density" [Average]: (kosong) → 1.341765
+~ Rom File Inventory!L42 "Grade (g/t)" [Average]: (kosong) → 1.8268
+~ Rom File Inventory!M42 "Metal Content (gr)" [Average]: (kosong) → 8322.16505
+~ Rom File Inventory!Q42 "Assay Lab Result" [Average]: 34 → 32
+~ Rom File Inventory!R42 [Average]: Crusher 08:30 → Crusher 17:30
+~ Rom File Inventory!S42 [Average]: 19-08-2026 00:00 → 18-08-2026 00:00
+~ Rom File Inventory!T42 [Average]: 2.028 → 1.25
+~ Rom File Inventory!AD42 [Average]: 42 → 40
+~ Rom File Inventory!AE42 [Average]: 0.813 → 0.662
+~ Rom File Inventory!AG42 [Average]: 2 → (kosong)
+~ Rom File Inventory!AH42 [Average]: 0.81 → (kosong)
+~ Rom File Inventory!AJ42 [Average]: 2 → (kosong)
+~ Rom File Inventory!AK42 [Average]: 1.6 → (kosong)
+~ Rom File Inventory!B43 "No" [Total]: (kosong) → Total
+~ Rom File Inventory!D43 "Sampel ID" [Total]: 265 → (kosong)
+~ Rom File Inventory!E43 "Ore Stacking (Dome)" [Total]: 1.83 → (kosong)
+~ Rom File Inventory!F43 "Ore  Type - Lithology" [Total]: 1.83 → (kosong)
+~ Rom File Inventory!G43 "Truckcount (m3)" [Total]: (kosong) → 1533
+~ Rom File Inventory!H43 "Survey (m3)" [Total]: 42 → 5061
+~ Rom File Inventory!I43 "Bulk Density" [Total]: rit → (kosong)
+~ Rom File Inventory!J43 "Tonage by survey (WMT)" [Total]: 766.6 → 8621.08
+~ Rom File Inventory!K43 "Toange By Truckcount" [Total]: ton → 2581.8
+~ Rom File Inventory!L43 "Grade (g/t)" [Total]: Estimate by metal contenct → 1.11
+~ Rom File Inventory!M43 "Metal Content (gr)" [Total]: 1.013739 → 9569.3988
+~ Rom File Inventory!Q43 "Assay Lab Result" [Total]: 35 → 33
+~ Rom File Inventory!R43 [Total]: Crusher 09:00 → Crusher 08:00
+~ Rom File Inventory!T43 [Total]: 1.838 → 0.351
+~ Rom File Inventory!AD43 [Total]: 43 → 41
+~ Rom File Inventory!AE43 [Total]: 1.147 → 0.555
+~ Rom File Inventory!AG43 [Total]: 3 → 1
+~ Rom File Inventory!AJ43 [Total]: 3 → 1
+~ Rom File Inventory!C44 "Date" [1.256045]: 1.256045 → (kosong)
+~ Rom File Inventory!D44 "Sampel ID" [1.256045]: 495.55 → (kosong)
+~ Rom File Inventory!E44 "Ore Stacking (Dome)" [1.256045]: 906.8565 → (kosong)
+~ Rom File Inventory!F44 "Ore  Type - Lithology" [1.256045]: 1.11 → (kosong)
+~ Rom File Inventory!G44 "Truckcount (m3)" [1.256045]: 0.72 → (kosong)
+~ Rom File Inventory!J44 "Tonage by survey (WMT)" [1.256045]: 0.683 → (kosong)
+~ Rom File Inventory!Q44 "Assay Lab Result" [1.256045]: 36 → 34
+~ Rom File Inventory!R44 [1.256045]: Crusher 09:30 → Crusher 08:30
+~ Rom File Inventory!T44 [1.256045]: 1.322 → 2.028
+~ Rom File Inventory!AD44 [1.256045]: 44 → 42
+~ Rom File Inventory!AE44 [1.256045]: 1.941 → 0.813
+~ Rom File Inventory!AG44 [1.256045]: 4 → 2
+~ Rom File Inventory!AJ44 [1.256045]: 4 → 2
+~ Rom File Inventory!C45 "Date" [1460.9562]: 1460.9562 → (kosong)
+~ Rom File Inventory!D45 "Sampel ID" [1460.9562]: 357 → 265
+~ Rom File Inventory!E45 "Ore Stacking (Dome)" [1460.9562]: 0.83 → 1.83
+~ Rom File Inventory!F45 "Ore  Type - Lithology" [1460.9562]: 24 → 1.83
+~ Rom File Inventory!G45 "Truckcount (m3)" [1460.9562]: max → (kosong)
+~ Rom File Inventory!H45 "Survey (m3)" [1460.9562]: 0.393443 → 42
+~ Rom File Inventory!I45 "Bulk Density" [1460.9562]: (kosong) → rit
+~ Rom File Inventory!J45 "Tonage by survey (WMT)" [1460.9562]: 0.56 → 766.6
+~ Rom File Inventory!K45 "Toange By Truckcount" [1460.9562]: (kosong) → ton
+~ Rom File Inventory!L45 "Grade (g/t)" [1460.9562]: (kosong) → Estimate by metal contenct
+~ Rom File Inventory!M45 "Metal Content (gr)" [1460.9562]: (kosong) → 0.965327
+~ Rom File Inventory!Q45 "Assay Lab Result" [1460.9562]: 37 → 35
+~ Rom File Inventory!R45 [1460.9562]: Crusher 10:00 → Crusher 09:00
+~ Rom File Inventory!T45 [1460.9562]: 0.651 → 1.838
+~ Rom File Inventory!AD45 [1460.9562]: 45 → 43
+~ Rom File Inventory!AE45 [1460.9562]: 0.489 → 1.147
+~ Rom File Inventory!AG45 [1460.9562]: 5 → 3
+~ Rom File Inventory!AJ45 [1460.9562]: 5 → 3
+~ Rom File Inventory!C46 "Date" [1.256045]: 1163.14 → 1.256045
+~ Rom File Inventory!D46 "Sampel ID" [1.256045]: 667.59 → 495.55
+~ Rom File Inventory!E46 "Ore Stacking (Dome)" [1.256045]: 554.0997 → 906.8565
+~ Rom File Inventory!F46 "Ore  Type - Lithology" [1.256045]: 0.06 → 1.11
+~ Rom File Inventory!G46 "Truckcount (m3)" [1.256045]: min → 0.72
+~ Rom File Inventory!J46 "Tonage by survey (WMT)" [1.256045]: (kosong) → 0.683
+~ Rom File Inventory!Q46 "Assay Lab Result" [1.256045]: 38 → 36
+~ Rom File Inventory!R46 [1.256045]: Crusher 10:30 → Crusher 09:30
+~ Rom File Inventory!T46 [1.256045]: 0.506 → 1.322
+~ Rom File Inventory!AD46 [1.256045]: 46 → 44
+~ Rom File Inventory!AE46 [1.256045]: 0.556 → 1.941
+~ Rom File Inventory!AG46 [1.256045]: 6 → 4
+~ Rom File Inventory!AJ46 [1.256045]: 6 → 4
+~ Rom File Inventory!B47 "No" [Pengukuran pada sr setel]: Pengukuran pada sr setelah crusher → (kosong)
+~ Rom File Inventory!C47 "Date" [Pengukuran pada sr setel]: 11-08-2026 00:00 → 1460.9562
+~ Rom File Inventory!D47 "Sampel ID" [Pengukuran pada sr setel]: Total Material after Crusher → 357
+~ Rom File Inventory!E47 "Ore Stacking (Dome)" [Pengukuran pada sr setel]: SR Agustus 2026 → 0.83
+~ Rom File Inventory!F47 "Ore  Type - Lithology" [Pengukuran pada sr setel]: (kosong) → 24
+~ Rom File Inventory!G47 "Truckcount (m3)" [Pengukuran pada sr setel]: (kosong) → max
+~ Rom File Inventory!H47 "Survey (m3)" [Pengukuran pada sr setel]: 271 → 0.393443
+~ Rom File Inventory!I47 "Bulk Density" [Pengukuran pada sr setel]: 1.35 → (kosong)
+~ Rom File Inventory!J47 "Tonage by survey (WMT)" [Pengukuran pada sr setel]: 365.85 → 0.56
+~ Rom File Inventory!Q47 "Assay Lab Result" [Pengukuran pada sr setel]: 39 → 37
+~ Rom File Inventory!R47 [Pengukuran pada sr setel]: Crusher 11:00 → Crusher 10:00
+~ Rom File Inventory!T47 [Pengukuran pada sr setel]: 0.673 → 0.651
+~ Rom File Inventory!AD47 [Pengukuran pada sr setel]: 47 → 45
+~ Rom File Inventory!AE47 [Pengukuran pada sr setel]: (kosong) → 0.489
+~ Rom File Inventory!AG47 [Pengukuran pada sr setel]: 7 → 5
+~ Rom File Inventory!AJ47 [Pengukuran pada sr setel]: 7 → 5
+~ Rom File Inventory!C48 "Date" [1163.14]: (kosong) → 1163.14
+~ Rom File Inventory!D48 "Sampel ID" [1163.14]: (kosong) → 667.59
+~ Rom File Inventory!E48 "Ore Stacking (Dome)" [1163.14]: (kosong) → 554.0997
+~ Rom File Inventory!F48 "Ore  Type - Lithology" [1163.14]: (kosong) → 0.06
+~ Rom File Inventory!G48 "Truckcount (m3)" [1163.14]: (kosong) → min
+~ Rom File Inventory!Q48 "Assay Lab Result" [1163.14]: 40 → 38
+~ Rom File Inventory!R48 [1163.14]: Crusher 11:30 → Crusher 10:30
+~ Rom File Inventory!T48 [1163.14]: 0.662 → 0.506
+~ Rom File Inventory!AD48 [1163.14]: 48 → 46
+~ Rom File Inventory!AE48 [1163.14]: 0.632 → 0.556
+~ Rom File Inventory!AG48 [1163.14]: 8 → 6
+~ Rom File Inventory!AJ48 [1163.14]: 8 → 6
+~ Rom File Inventory!B49 "No" [Pengukuran pada sr setel]: (kosong) → Pengukuran pada sr setelah crusher
+~ Rom File Inventory!C49 "Date" [Pengukuran pada sr setel]: (kosong) → 11-08-2026 00:00
+~ Rom File Inventory!D49 "Sampel ID" [Pengukuran pada sr setel]: (kosong) → Total Material after Crusher
+~ Rom File Inventory!E49 "Ore Stacking (Dome)" [Pengukuran pada sr setel]: (kosong) → SR Agustus 2026
+~ Rom File Inventory!H49 "Survey (m3)" [Pengukuran pada sr setel]: (kosong) → 271
+~ Rom File Inventory!I49 "Bulk Density" [Pengukuran pada sr setel]: (kosong) → 1.35
+~ Rom File Inventory!J49 "Tonage by survey (WMT)" [Pengukuran pada sr setel]: (kosong) → 365.85
+~ Rom File Inventory!Q49 "Assay Lab Result" [Pengukuran pada sr setel]: 41 → 39
+~ Rom File Inventory!R49 [Pengukuran pada sr setel]: Crusher 13:00 → Crusher 11:00
+~ Rom File Inventory!T49 [Pengukuran pada sr setel]: 0.555 → 0.673
+~ Rom File Inventory!AD49 [Pengukuran pada sr setel]: 49 → 47
+~ Rom File Inventory!AE49 [Pengukuran pada sr setel]: 1.043 → (kosong)
+~ Rom File Inventory!AG49 [Pengukuran pada sr setel]: 9 → 7
+~ Rom File Inventory!AJ49 [Pengukuran pada sr setel]: 9 → 7
+~ Rom File Inventory!G50 "Truckcount (m3)": 41 → (kosong)
+~ Rom File Inventory!Q50 "Assay Lab Result": 42 → 40
+~ Rom File Inventory!R50: Crusher 13:30 → Crusher 11:30
+~ Rom File Inventory!T50: 0.813 → 0.662
+~ Rom File Inventory!AD50: 50 → 48
+~ Rom File Inventory!AE50: 1.59 → 0.632
+~ Rom File Inventory!AG50: 10 → 8
+~ Rom File Inventory!AJ50: 10 → 8
+~ Rom File Inventory!G51 "Truckcount (m3)": 16 → (kosong)
+~ Rom File Inventory!Q51 "Assay Lab Result": 43 → 41
+~ Rom File Inventory!R51: Crusher 14:00 → Crusher 13:00
+~ Rom File Inventory!T51: 1.147 → 0.555
+~ Rom File Inventory!AD51: 51 → 49
+~ Rom File Inventory!AE51: 0.337 → 1.043
+~ Rom File Inventory!AG51: 11 → 9
+~ Rom File Inventory!AJ51: 11 → 9
+~ Rom File Inventory!G52 "Truckcount (m3)": 93 → 41
+~ Rom File Inventory!Q52 "Assay Lab Result": 44 → 42
+~ Rom File Inventory!R52: Crusher 14:30 → Crusher 13:30
+~ Rom File Inventory!T52: 1.941 → 0.813
+~ Rom File Inventory!AD52: 52 → 50
+~ Rom File Inventory!AE52: 0.252 → 1.59
+~ Rom File Inventory!AG52: 12 → 10
+~ Rom File Inventory!AJ52: 12 → 10
+~ Rom File Inventory!G53 "Truckcount (m3)": 40 → 16
+~ Rom File Inventory!H53 "Survey (m3)": 2800 → (kosong)
+~ Rom File Inventory!Q53 "Assay Lab Result": 45 → 43
+~ Rom File Inventory!R53: Crusher 15:00 → Crusher 14:00
+~ Rom File Inventory!T53: 0.489 → 1.147
+- ...dan 2081 perubahan lain tidak ditampilkan
+_Dibandingkan 20016 sel dari 19 sheet._
+
 ## 19 Oct 2026 · 14:02 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~75 sel, -1 baris; Crushing: +12 baris, ~146 sel; Daily Summary : ~140 sel; Filter Press: +7 baris, ~1 sel; LT Floculation: +32 baris, -1 baris; Milling Down Time Hours: ~10 sel; Milling and Leach Feed: ~33 sel, -1 baris; Milling and Leach Feed_OLD: ~1 sel
 - Au Cal Leaching Tank baris 6 dikosongkan: Z=0.370833, AA=0.52375, AB=0.152917, AO=387.723317
