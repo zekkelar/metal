@@ -5,6 +5,114 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Oct 2026 · 19:47 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris; LF Ball Mill: +3 baris; Milling and Leach Feed: +5 baris, ~94 sel, -1 baris
++ Au Cal Leaching Tank baris 29 [8.407407] ditambahkan: R=0.35, S=1.23, U=46.494
++ LF Ball Mill baris 216 [213] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=17-10-2026 00:00, V·Cu=0.438, W=0.59, X=7.67
++ LF Ball Mill baris 217 [214] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=17-10-2026 00:00, V·Cu=0.431, W=0.59, X=7.96
++ LF Ball Mill baris 218 [215] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=17-10-2026 00:00, V·Cu=0.457, W=0.57, X=7.9
+~ Milling and Leach Feed!B127 "PIC" [21-10-2026 00:00]: Average → 21-10-2026 00:00
+~ Milling and Leach Feed!F127 [21-10-2026 00:00]: (kosong) → Day
+~ Milling and Leach Feed!I127 [21-10-2026 00:00]: 23.508328 → (kosong)
+~ Milling and Leach Feed!L127 [21-10-2026 00:00]: 0.726949 → (kosong)
+~ Milling and Leach Feed!M127 [21-10-2026 00:00]: 6881.934359 → (kosong)
+~ Milling and Leach Feed!O127 [21-10-2026 00:00]: #DIV/0! → (kosong)
+~ Milling and Leach Feed!P127 [21-10-2026 00:00]: 632.401389 → (kosong)
+~ Milling and Leach Feed!Q127 [21-10-2026 00:00]: 36534.083333 → (kosong)
+~ Milling and Leach Feed!R127 [21-10-2026 00:00]: 13936.574306 → (kosong)
+~ Milling and Leach Feed!S127 [21-10-2026 00:00]: 5375.373443 → (kosong)
+~ Milling and Leach Feed!T127 [21-10-2026 00:00]: 0.654871 → (kosong)
+~ Milling and Leach Feed!U127 [21-10-2026 00:00]: 0.663258 → (kosong)
+~ Milling and Leach Feed!V127 [21-10-2026 00:00]: 8.95429 → (kosong)
+~ Milling and Leach Feed!W127 [21-10-2026 00:00]: #VALUE! → (kosong)
+~ Milling and Leach Feed!X127 [21-10-2026 00:00]: 421.514663 → (kosong)
+~ Milling and Leach Feed!Y127 [21-10-2026 00:00]: 5120.844159 → (kosong)
++ Milling and Leach Feed baris 128 ditambahkan: F=Night, M=0, W=0, X=0, Y=0
+~ Milling and Leach Feed!B129 "PIC" [22-10-2026 00:00]: (kosong) → 22-10-2026 00:00
+~ Milling and Leach Feed!F129 [22-10-2026 00:00]: (kosong) → Day
+~ Milling and Leach Feed!Z129 [22-10-2026 00:00]: Min → (kosong)
+~ Milling and Leach Feed!AA129 [22-10-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!F130: (kosong) → Night
+~ Milling and Leach Feed!M130: (kosong) → 0
+~ Milling and Leach Feed!T130: 0.529667 → (kosong)
+~ Milling and Leach Feed!W130: (kosong) → 0
+~ Milling and Leach Feed!X130: (kosong) → 0
+~ Milling and Leach Feed!Y130: Max → 0
+~ Milling and Leach Feed!Z130: 11.3 → (kosong)
+~ Milling and Leach Feed!B131 "PIC" [Average]: (kosong) → Average
+~ Milling and Leach Feed!I131 [Average]: (kosong) → 23.508328
+~ Milling and Leach Feed!L131 [Average]: (kosong) → 0.726949
+~ Milling and Leach Feed!M131 [Average]: (kosong) → 6881.934359
+~ Milling and Leach Feed!O131 [Average]: (kosong) → #DIV/0!
+~ Milling and Leach Feed!P131 [Average]: (kosong) → 632.401389
+~ Milling and Leach Feed!Q131 [Average]: (kosong) → 36534.083333
+~ Milling and Leach Feed!R131 [Average]: (kosong) → 13936.574306
+~ Milling and Leach Feed!S131 [Average]: (kosong) → 5375.373443
+~ Milling and Leach Feed!T131 [Average]: 0.381 → 0.654871
+~ Milling and Leach Feed!U131 [Average]: (kosong) → 0.663258
+~ Milling and Leach Feed!V131 [Average]: 0.097206 → 8.95429
+~ Milling and Leach Feed!W131 [Average]: (kosong) → #VALUE!
+~ Milling and Leach Feed!X131 [Average]: (kosong) → 421.514663
+~ Milling and Leach Feed!Y131 [Average]: (kosong) → 5120.844159
+- Milling and Leach Feed baris 132 dikosongkan: T=0.641667
+~ Milling and Leach Feed!P133: 80 → (kosong)
+~ Milling and Leach Feed!T133: 0.542667 → (kosong)
+~ Milling and Leach Feed!Z133: (kosong) → Min
+~ Milling and Leach Feed!AA133: (kosong) → 0
+~ Milling and Leach Feed!P134: 82 → (kosong)
+~ Milling and Leach Feed!T134: 0.542667 → 0.529667
+~ Milling and Leach Feed!Y134: (kosong) → Max
+~ Milling and Leach Feed!Z134: (kosong) → 11.3
+~ Milling and Leach Feed!P135: 84 → (kosong)
+~ Milling and Leach Feed!T135: 0.321 → 0.381
+~ Milling and Leach Feed!V135: (kosong) → 0.097206
+~ Milling and Leach Feed!P136: 84 → (kosong)
+~ Milling and Leach Feed!T136: 0.474333 → 0.641667
+~ Milling and Leach Feed!P137: 83 → 80
+~ Milling and Leach Feed!T137: 0.432667 → 0.542667
+~ Milling and Leach Feed!P138: 80 → 82
+~ Milling and Leach Feed!T138: 0.397333 → 0.542667
+~ Milling and Leach Feed!P139: 86 → 84
+~ Milling and Leach Feed!T139: 0.373 → 0.321
+~ Milling and Leach Feed!P140: 83 → 84
+~ Milling and Leach Feed!T140: 0.373 → 0.474333
+~ Milling and Leach Feed!P141: 82 → 83
+~ Milling and Leach Feed!T141: 0.525667 → 0.432667
+~ Milling and Leach Feed!T142: 0.41 → 0.397333
+~ Milling and Leach Feed!P143: 82 → 86
+~ Milling and Leach Feed!T143: 0.655667 → 0.373
+~ Milling and Leach Feed!T144: 0.359667 → 0.373
+~ Milling and Leach Feed!P145: 72 → 82
+~ Milling and Leach Feed!T145: 0.342667 → 0.525667
+~ Milling and Leach Feed!P146: 82 → 80
+~ Milling and Leach Feed!T146: 0.399 → 0.41
+~ Milling and Leach Feed!T147: 0.399 → 0.655667
+~ Milling and Leach Feed!P148: 84 → 83
+~ Milling and Leach Feed!T148: 0.350667 → 0.359667
+~ Milling and Leach Feed!P149: 85 → 72
+~ Milling and Leach Feed!T149: 0.435333 → 0.342667
+~ Milling and Leach Feed!T150: 0.287333 → 0.399
+~ Milling and Leach Feed!P151: 78 → 82
+~ Milling and Leach Feed!T151: 0.378286 → 0.399
+~ Milling and Leach Feed!P152: 72 → 84
+~ Milling and Leach Feed!T152: (kosong) → 0.350667
+~ Milling and Leach Feed!P153: (kosong) → 85
+~ Milling and Leach Feed!Q153: 72 → (kosong)
+~ Milling and Leach Feed!T153: (kosong) → 0.435333
+~ Milling and Leach Feed!P154: (kosong) → 82
+~ Milling and Leach Feed!Q154: 75 → (kosong)
+~ Milling and Leach Feed!T154: (kosong) → 0.287333
+~ Milling and Leach Feed!P155: (kosong) → 78
+~ Milling and Leach Feed!Q155: 72 → (kosong)
+~ Milling and Leach Feed!T155: (kosong) → 0.378286
+~ Milling and Leach Feed!P156: (kosong) → 72
+~ Milling and Leach Feed!Q156: 60 → (kosong)
++ Milling and Leach Feed baris 157 ditambahkan: Q=72
++ Milling and Leach Feed baris 158 ditambahkan: Q=75
++ Milling and Leach Feed baris 159 ditambahkan: Q=72
++ Milling and Leach Feed baris 160 ditambahkan: Q=60
+_Dibandingkan 20219 sel dari 19 sheet._
+
 ## 19 Oct 2026 · 18:41 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +14 baris; LF Ball Mill: +28 baris
 + Au Cal Leaching Tank baris 24 [7.574074] ditambahkan: AW=2
