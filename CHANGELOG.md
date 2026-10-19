@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Oct 2026 · 14:02 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~75 sel, -1 baris; Crushing: +12 baris, ~146 sel; Daily Summary : ~140 sel; Filter Press: +7 baris, ~1 sel; LT Floculation: +32 baris, -1 baris; Milling Down Time Hours: ~10 sel; Milling and Leach Feed: ~33 sel, -1 baris; Milling and Leach Feed_OLD: ~1 sel
+- Au Cal Leaching Tank baris 6 dikosongkan: Z=0.370833, AA=0.52375, AB=0.152917, AO=387.723317
+~ Au Cal Leaching Tank!AF26 [7.990741]: (kosong) → 0.133
+~ Au Cal Leaching Tank!AG26 [7.990741]: (kosong) → 0.22
+~ Au Cal Leaching Tank!AH26 [7.990741]: (kosong) → 11.146667
+~ Au Cal Leaching Tank!AO26 [7.990741]: 0 → 41.19824
+~ Au Cal Leaching Tank!AP26 [7.990741]: 0 → 68.147464
+~ Au Cal Leaching Tank!AQ26 [7.990741]: 0 → 3452.804843
+~ Au Cal Leaching Tank!AT26 [7.990741]: 0.788273 → 0.429621
+~ Au Cal Leaching Tank!AU26 [7.990741]: 1 → 0.463415
+~ Au Cal Leaching Tank!AV26 [7.990741]: 1 → -0.022041
+~ Au Cal Leaching Tank!AZ26 [7.990741]: 282.312208 → 241.113968
+~ Au Cal Leaching Tank!BD26 [7.990741]: 90.548712 → 49.350473
+~ Au Cal Leaching Tank!BE26 [7.990741]: 127.002092 → 58.854628
+~ Au Cal Leaching Tank!BF26 [7.990741]: 3378.342046 → -74.462796
+~ Au Cal Leaching Tank!AF27 [8.074074]: (kosong) → 0.055125
+~ Au Cal Leaching Tank!AG27 [8.074074]: (kosong) → 0.16125
+~ Au Cal Leaching Tank!AH27 [8.074074]: (kosong) → 12.147875
+~ Au Cal Leaching Tank!AI27 [8.074074]: 0.081 → 0.04
+~ Au Cal Leaching Tank!AO27 [8.074074]: 0 → 19.070946
+~ Au Cal Leaching Tank!AP27 [8.074074]: 0 → 55.78576
+~ Au Cal Leaching Tank!AQ27 [8.074074]: 0 → 4202.656969
+~ Au Cal Leaching Tank!AR27 [8.074074]: 56.053555 → 27.680768
+~ Au Cal Leaching Tank!AT27 [8.074074]: 0.589812 → 0.657881
+~ Au Cal Leaching Tank!AU27 [8.074074]: 1 → 0.472273
+~ Au Cal Leaching Tank!AV27 [8.074074]: 1 → -0.569431
+~ Au Cal Leaching Tank!BD27 [8.074074]: 80.599934 → 89.901775
+~ Au Cal Leaching Tank!BE27 [8.074074]: 105.70945 → 49.92369
+~ Au Cal Leaching Tank!BF27 [8.074074]: 2677.821513 → -1524.835456
+~ Au Cal Leaching Tank!X28 [7.990741]: #DIV/0! → 0.386159
+~ Au Cal Leaching Tank!Y28 [7.990741]: #DIV/0! → 0.443492
+~ Au Cal Leaching Tank!Z28 [7.990741]: #DIV/0! → 13.407365
+~ Au Cal Leaching Tank!AA28 [7.990741]: 0 → 0.385436
+~ Au Cal Leaching Tank!AB28 [7.990741]: 0 → 0.445443
+~ Au Cal Leaching Tank!AC28 [7.990741]: 0 → 13.412936
+~ Au Cal Leaching Tank!AD28 [7.990741]: (kosong) → 0.000723
+~ Au Cal Leaching Tank!AE28 [7.990741]: (kosong) → 0.000468
+~ Au Cal Leaching Tank!AI28 [7.990741]: 0.084 → 0.04
+~ Au Cal Leaching Tank!AL28 [7.990741]: #DIV/0! → 130.810961
+~ Au Cal Leaching Tank!AM28 [7.990741]: #DIV/0! → 150.232582
+~ Au Cal Leaching Tank!AN28 [7.990741]: 0 → 4543.621321
+~ Au Cal Leaching Tank!AR28 [7.990741]: 57.529651 → 27.395072
+~ Au Cal Leaching Tank!AT28 [7.990741]: (kosong) → 0.790575
+~ Au Cal Leaching Tank!AU28 [7.990741]: (kosong) → 1
+~ Au Cal Leaching Tank!AV28 [7.990741]: (kosong) → 1
+~ Au Cal Leaching Tank!BD28 [7.990741]: (kosong) → 103.415889
+~ Au Cal Leaching Tank!BE28 [7.990741]: #DIV/0! → 150.232582
+~ Au Cal Leaching Tank!BF28 [7.990741]: 0 → 4543.621321
++ Au Cal Leaching Tank baris 29 [8.407407] ditambahkan: W=6727.74848
+~ Au Cal Leaching Tank!X60 [51]: #DIV/0! → 0.59356
+~ Au Cal Leaching Tank!Y60 [51]: #DIV/0! → 0.76718
+~ Au Cal Leaching Tank!Z60 [51]: #DIV/0! → 11.772108
+~ Au Cal Leaching Tank!AA60 [51]: 0.562881 → 0.583167
+~ Au Cal Leaching Tank!AB60 [51]: 0.778435 → 0.801879
+~ Au Cal Leaching Tank!AC60 [51]: 10.975534 → 11.681478
+~ Au Cal Leaching Tank!AF60 [51]: 0.101519 → 0.10069
+~ Au Cal Leaching Tank!AG60 [51]: 0.348681 → 0.331119
+~ Au Cal Leaching Tank!AH60 [51]: 10.550559 → 10.672416
+~ Au Cal Leaching Tank!AI60 [51]: 0.032737 → 0.028263
+~ Au Cal Leaching Tank!AL60 [51]: #DIV/0! → 3785.155574
+~ Au Cal Leaching Tank!AM60 [51]: #DIV/0! → 5146.054541
+~ Au Cal Leaching Tank!AN60 [51]: 72987.538696 → 77531.160017
+~ Au Cal Leaching Tank!AO60 [51]: 554.151105 → 614.420291
+~ Au Cal Leaching Tank!AP60 [51]: 1958.716362 → 2082.649586
+~ Au Cal Leaching Tank!AQ60 [51]: 58685.49222 → 66340.954032
+~ Au Cal Leaching Tank!AR60 [51]: 408.34183 → 349.834463
+~ Au Cal Leaching Tank!AT60 [51]: 0.734273 → 0.721942
+~ Au Cal Leaching Tank!AU60 [51]: 0.604993 → 0.569767
+~ Au Cal Leaching Tank!AV60 [51]: 0.213685 → 0.118677
+~ Au Cal Leaching Tank!BD61 [52]: 2749.381329 → 2820.90082
+~ Au Cal Leaching Tank!BE61 [52]: #DIV/0! → 3063.404955
+~ Au Cal Leaching Tank!BF61 [52]: 14302.046475 → 11190.205985
+~ Au Cal Leaching Tank!X62: #DIV/0! → 0.584833
+~ Au Cal Leaching Tank!Y62: #DIV/0! → 0.658889
+~ Au Cal Leaching Tank!Z62: #DIV/0! → 10.078333
+~ Au Cal Leaching Tank!AC62: 9.837907 → 10.664635
+~ Au Cal Leaching Tank!AL63: #DIV/0! → 2820.90082
+~ Au Cal Leaching Tank!BD63: 2199.505063 → 2256.720656
+~ Crushing!T6 [01-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!I8 "Volume Bucket" [02-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K8 "WMT/SHIFT (wet metrix to" [02-06-2026 00:00]: 95.175 → 114.21
+~ Crushing!L8 "DMT/SHIFT (dry metrix to" [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Crushing!M8 "Ton/hour (tph)" [02-06-2026 00:00]: 15.8625 → 19.035
+~ Crushing!N8 "Tonage/Day (Tpd)" [02-06-2026 00:00]: 78.0435 → 93.6522
+~ Crushing!I10 "Volume Bucket" [03-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K10 "WMT/SHIFT (wet metrix to" [03-06-2026 00:00]: 21.6 → 25.92
+~ Crushing!L10 "DMT/SHIFT (dry metrix to" [03-06-2026 00:00]: 17.712 → 21.2544
+~ Crushing!M10 "Ton/hour (tph)" [03-06-2026 00:00]: 1.8 → 2.16
+~ Crushing!N10 "Tonage/Day (Tpd)" [03-06-2026 00:00]: 17.712 → 21.2544
+~ Crushing!I12 "Volume Bucket" [04-06-2026 00:00]: 0.5 → 0.6
+~ Crushing!K12 "WMT/SHIFT (wet metrix to" [04-06-2026 00:00]: 190.35 → 228.42
+~ Crushing!L12 "DMT/SHIFT (dry metrix to" [04-06-2026 00:00]: 157.9905 → 189.5886
+~ Crushing!M12 "Ton/hour (tph)" [04-06-2026 00:00]: 15.8625 → 19.035
+~ Crushing!N12 "Tonage/Day (Tpd)" [04-06-2026 00:00]: 157.9905 → 189.5886
+~ Crushing!I14 "Volume Bucket" [18-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K14 "WMT/SHIFT (wet metrix to" [18-08-2026 00:00]: 43.09 → 51.708
+~ Crushing!L14 "DMT/SHIFT (dry metrix to" [18-08-2026 00:00]: 37.9192 → 45.50304
+~ Crushing!M14 "Ton/hour (tph)" [18-08-2026 00:00]: 3.590833 → 4.309
+~ Crushing!N14 "Tonage/Day (Tpd)" [18-08-2026 00:00]: 37.9192 → 45.50304
+~ Crushing!S14 "Volume Unit (m3)" [18-08-2026 00:00]: 64 → (kosong)
+~ Crushing!Y14 [18-08-2026 00:00]: 2450 → (kosong)
+~ Crushing!AA14 [18-08-2026 00:00]: 0.014286 → #DIV/0!
+~ Crushing!I16 "Volume Bucket" [19-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K16 "WMT/SHIFT (wet metrix to" [19-08-2026 00:00]: 321.785 → 386.142
+~ Crushing!L16 "DMT/SHIFT (dry metrix to" [19-08-2026 00:00]: 283.1708 → 339.80496
+~ Crushing!M16 "Ton/hour (tph)" [19-08-2026 00:00]: 26.815417 → 32.1785
+~ Crushing!N16 "Tonage/Day (Tpd)" [19-08-2026 00:00]: 283.1708 → 339.80496
+~ Crushing!S16 "Volume Unit (m3)" [19-08-2026 00:00]: 45.714286 → (kosong)
+~ Crushing!I18 "Volume Bucket" [20-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K18 "WMT/SHIFT (wet metrix to" [20-08-2026 00:00]: 374.605 → 449.526
+~ Crushing!L18 "DMT/SHIFT (dry metrix to" [20-08-2026 00:00]: 337.1445 → 404.5734
+~ Crushing!M18 "Ton/hour (tph)" [20-08-2026 00:00]: 31.217083 → 37.4605
+~ Crushing!N18 "Tonage/Day (Tpd)" [20-08-2026 00:00]: 337.1445 → 404.5734
+~ Crushing!V18 [20-08-2026 00:00]: 7.92 → (kosong)
+~ Crushing!W18 "Moisture Check Daily" [20-08-2026 00:00]: 3 bucket louder 24 april 2026 → (kosong)
+~ Crushing!I20 "Volume Bucket" [21-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K20 "WMT/SHIFT (wet metrix to" [21-08-2026 00:00]: 284.255 → 341.106
+~ Crushing!L20 "DMT/SHIFT (dry metrix to" [21-08-2026 00:00]: 255.8295 → 306.9954
+~ Crushing!M20 "Ton/hour (tph)" [21-08-2026 00:00]: 27.162917 → 31.9005
+~ Crushing!N20 "Tonage/Day (Tpd)" [21-08-2026 00:00]: 293.3595 → 344.5254
+~ Crushing!I22 "Volume Bucket" [22-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K22 "WMT/SHIFT (wet metrix to" [22-08-2026 00:00]: 218.925 → 262.71
+~ Crushing!L22 "DMT/SHIFT (dry metrix to" [22-08-2026 00:00]: 197.0325 → 236.439
+~ Crushing!M22 "Ton/hour (tph)" [22-08-2026 00:00]: 18.24375 → 21.8925
+~ Crushing!N22 "Tonage/Day (Tpd)" [22-08-2026 00:00]: 197.0325 → 236.439
+~ Crushing!I26 "Volume Bucket" [24-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K26 "WMT/SHIFT (wet metrix to" [24-08-2026 00:00]: 162.63 → 195.156
+~ Crushing!L26 "DMT/SHIFT (dry metrix to" [24-08-2026 00:00]: 146.367 → 175.6404
+~ Crushing!M26 "Ton/hour (tph)" [24-08-2026 00:00]: 13.5525 → 16.263
+~ Crushing!N26 "Tonage/Day (Tpd)" [24-08-2026 00:00]: 165.132 → 194.4054
+~ Crushing!I32 "Volume Bucket" [27-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K32 "WMT/SHIFT (wet metrix to" [27-08-2026 00:00]: 140.39 → 168.468
+~ Crushing!L32 "DMT/SHIFT (dry metrix to" [27-08-2026 00:00]: 124.9471 → 149.93652
+~ Crushing!M32 "Ton/hour (tph)" [27-08-2026 00:00]: 11.699167 → 14.039
+~ Crushing!N32 "Tonage/Day (Tpd)" [27-08-2026 00:00]: 124.9471 → 149.93652
+~ Crushing!I34 "Volume Bucket" [28-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K34 "WMT/SHIFT (wet metrix to" [28-08-2026 00:00]: 188.5 → 226.2
+~ Crushing!L34 "DMT/SHIFT (dry metrix to" [28-08-2026 00:00]: 167.765 → 201.318
+~ Crushing!M34 "Ton/hour (tph)" [28-08-2026 00:00]: 15.708333 → 18.85
+~ Crushing!N34 "Tonage/Day (Tpd)" [28-08-2026 00:00]: 167.765 → 201.318
+~ Crushing!I36 "Volume Bucket" [29-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K36 "WMT/SHIFT (wet metrix to" [29-08-2026 00:00]: 267.15 → 320.58
+~ Crushing!L36 "DMT/SHIFT (dry metrix to" [29-08-2026 00:00]: 240.435 → 288.522
+~ Crushing!M36 "Ton/hour (tph)" [29-08-2026 00:00]: 22.2625 → 26.715
+~ Crushing!N36 "Tonage/Day (Tpd)" [29-08-2026 00:00]: 240.435 → 288.522
+~ Crushing!I38 "Volume Bucket" [30-08-2026 00:00]: 0.5 → 0.6
+~ Crushing!K38 "WMT/SHIFT (wet metrix to" [30-08-2026 00:00]: 59.8 → 71.76
+~ Crushing!L38 "DMT/SHIFT (dry metrix to" [30-08-2026 00:00]: 53.82 → 64.584
+~ Crushing!M38 "Ton/hour (tph)" [30-08-2026 00:00]: 4.983333 → 5.98
+~ Crushing!N38 "Tonage/Day (Tpd)" [30-08-2026 00:00]: 53.82 → 64.584
+~ Crushing!I60 "Volume Bucket" [10-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K60 "WMT/SHIFT (wet metrix to" [10-09-2026 00:00]: 73.45 → 88.14
+~ Crushing!L60 "DMT/SHIFT (dry metrix to" [10-09-2026 00:00]: 66.105 → 79.326
+~ Crushing!M60 "Ton/hour (tph)" [10-09-2026 00:00]: 6.120833 → 7.345
+~ Crushing!N60 "Tonage/Day (Tpd)" [10-09-2026 00:00]: 73.125 → 86.346
+~ Crushing!I64 "Volume Bucket" [12-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K64 "WMT/SHIFT (wet metrix to" [12-09-2026 00:00]: 213.85 → 256.62
+~ Crushing!L64 "DMT/SHIFT (dry metrix to" [12-09-2026 00:00]: 192.465 → 230.958
+~ Crushing!M64 "Ton/hour (tph)" [12-09-2026 00:00]: 17.820833 → 21.385
+~ Crushing!N64 "Tonage/Day (Tpd)" [12-09-2026 00:00]: 328.77 → 394.524
+~ Crushing!I65 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K65 "WMT/SHIFT (wet metrix to": 151.45 → 181.74
+~ Crushing!L65 "DMT/SHIFT (dry metrix to": 136.305 → 163.566
+~ Crushing!M65 "Ton/hour (tph)": 12.620833 → 15.145
+~ Crushing!I66 "Volume Bucket" [13-09-2026 00:00]: 0.5 → 0.6
+~ Crushing!K66 "WMT/SHIFT (wet metrix to" [13-09-2026 00:00]: 132.6 → 159.12
+~ Crushing!L66 "DMT/SHIFT (dry metrix to" [13-09-2026 00:00]: 119.34 → 143.208
+~ Crushing!M66 "Ton/hour (tph)" [13-09-2026 00:00]: 11.05 → 13.26
+~ Crushing!N66 "Tonage/Day (Tpd)" [13-09-2026 00:00]: 262.665 → 315.198
+~ Crushing!I67 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K67 "WMT/SHIFT (wet metrix to": 159.25 → 191.1
+~ Crushing!L67 "DMT/SHIFT (dry metrix to": 143.325 → 171.99
+~ Crushing!M67 "Ton/hour (tph)": 13.270833 → 15.925
+~ Crushing!N76 "Tonage/Day (Tpd)" [18-09-2026 00:00]: 201.24 → 241.488
+~ Crushing!I77 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K77 "WMT/SHIFT (wet metrix to": 234 → 280.8
+~ Crushing!L77 "DMT/SHIFT (dry metrix to": 201.24 → 241.488
+~ Crushing!M77 "Ton/hour (tph)": 19.5 → 23.4
+~ Crushing!N78 "Tonage/Day (Tpd)" [19-09-2026 00:00]: 324.2096 → 353.7846
+~ Crushing!I80 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K80 "WMT/SHIFT (wet metrix to": 162.5 → 195
+~ Crushing!L80 "DMT/SHIFT (dry metrix to": 147.875 → 177.45
+~ Crushing!M80 "Ton/hour (tph)": 13.541667 → 16.25
+~ Crushing!N81 "Tonage/Day (Tpd)" [20-09-2026 00:00]: 209.989 → 212.329
+~ Crushing!I82 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K82 "WMT/SHIFT (wet metrix to": 13 → 15.6
+~ Crushing!L82 "DMT/SHIFT (dry metrix to": 11.7 → 14.04
+~ Crushing!M82 "Ton/hour (tph)": 1.083333 → 1.3
+~ Crushing!N106 "Tonage/Day (Tpd)" [02-10-2026 00:00]: 232.2099 → 241.2345
+~ Crushing!I108 "Volume Bucket": 0.5 → 0.6
+~ Crushing!K108 "WMT/SHIFT (wet metrix to": 50.7 → 60.84
+~ Crushing!L108 "DMT/SHIFT (dry metrix to": 45.123 → 54.1476
+~ Crushing!M108 "Ton/hour (tph)": 4.225 → 5.07
+~ Crushing!N120 "Tonage/Day (Tpd)" [08-10-2026 00:00]: 447.25095 → 450.49095
+~ Crushing!H121 "Moisture %": 0.1 → 0.09
+~ Crushing!L121 "DMT/SHIFT (dry metrix to": 291.6 → 294.84
+~ Crushing!H124 "Moisture %" [12-10-2026 00:00]: 0.1 → 0.09
+~ Crushing!L124 "DMT/SHIFT (dry metrix to" [12-10-2026 00:00]: 142.155 → 143.7345
+~ Crushing!N124 "Tonage/Day (Tpd)" [12-10-2026 00:00]: 318.7755 → 324.324
+~ Crushing!H125 "Moisture %": 0.11 → 0.09
+~ Crushing!L125 "DMT/SHIFT (dry metrix to": 176.6205 → 180.5895
+- ...dan 330 perubahan lain tidak ditampilkan
+_Dibandingkan 19998 sel dari 19 sheet._
+
 ## 19 Oct 2026 · 11:31 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~15 sel; Crushing: +51 baris, ~35 sel; Daily Summary : ~65 sel; Filter Press: +1 baris, ~22 sel; LF Ball Mill: +13 baris; LT Floculation: +6 baris, ~3 sel; Milling Down Time Hours: +1 baris, ~6 sel; Milling and Leach Feed: +2 baris, ~44 sel; Milling and Leach Feed_OLD: ~1 sel; Reagent Consumption: +1 baris, ~12 sel; Rom File Inventory: +32 baris, ~1682 sel, -1 baris
 + Au Cal Leaching Tank baris 29 [8.407407] ditambahkan: A=8.407407, C=36, D=9.9223, H·start toyong=18-10-2026 00:00, I=22:00:00
