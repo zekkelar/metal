@@ -5,6 +5,17 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Oct 2026 · 18:16 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris; Milling and Leach Feed: ~6 sel
++ Au Cal Leaching Tank baris 30 [6.990741] ditambahkan: H·start toyong=20-10-2026 00:00, I=15:00:00
+~ Milling and Leach Feed!I125 [22]: (kosong) → 16.464484
+~ Milling and Leach Feed!M125 [22]: 122.015622 → 75.521622
+~ Milling and Leach Feed!O125 [22]: 10.167969 → 6.293469
+~ Milling and Leach Feed!S125 [22]: 122.015622 → 75.521622
+~ Milling and Leach Feed!I132 [Average]: 24.165478 → 23.917059
+~ Milling and Leach Feed!M132 [Average]: 7195.123667 → 7148.629667
+_Dibandingkan 20698 sel dari 20 sheet._
+
 ## 20 Oct 2026 · 16:47 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
 Ringkasan: Data Sampel: +5 baris, ~22 sel; Tren Harian: +1 baris
 ~ Data Sampel!A229 "No" [228]: (kosong) → 228
