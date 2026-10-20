@@ -5,6 +5,38 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Oct 2026 · 16:47 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
+Ringkasan: Data Sampel: +5 baris, ~22 sel; Tren Harian: +1 baris
+~ Data Sampel!A229 "No" [228]: (kosong) → 228
+~ Data Sampel!B229 "ID Batch" [228]: (kosong) → 20
+~ Data Sampel!C229 "ID Sampel" [228]: (kosong) → LF Ball Mill DS 1
+~ Data Sampel!D229 "Tanggal" [228]: Max → 17-10-2026 00:00
+~ Data Sampel!E229 "Au (g/t)" [228]: 1.468 → 0.632
+~ Data Sampel!F229 "Ag (g/t)" [228]: 10.11 → 0.58
+~ Data Sampel!G229 "Cu (g/t)" [228]: 27.939 → 8.07
+~ Data Sampel!H229 "Shift" [228]: (kosong) → DS
+~ Data Sampel!A230 "No" [229]: (kosong) → 229
+~ Data Sampel!C230 "ID Sampel" [229]: (kosong) → LF Ball Mill DS 2
+~ Data Sampel!D230 "Tanggal" [229]: Min → 17-10-2026 00:00
+~ Data Sampel!E230 "Au (g/t)" [229]: 0.219 → 0.686
+~ Data Sampel!F230 "Ag (g/t)" [229]: 0.01 → 0.56
+~ Data Sampel!G230 "Cu (g/t)" [229]: 5.956 → 8.31
+~ Data Sampel!H230 "Shift" [229]: (kosong) → DS
+~ Data Sampel!A231 "No" [230]: (kosong) → 230
+~ Data Sampel!C231 "ID Sampel" [230]: (kosong) → LF Ball Mill DS 3
+~ Data Sampel!D231 "Tanggal" [230]: Average → 17-10-2026 00:00
+~ Data Sampel!E231 "Au (g/t)" [230]: 0.58585 → 0.69
+~ Data Sampel!F231 "Ag (g/t)" [230]: 0.837421 → 0.52
+~ Data Sampel!G231 "Cu (g/t)" [230]: 12.438075 → 8.79
+~ Data Sampel!H231 "Shift" [230]: (kosong) → DS
++ Data Sampel baris 232 [231] ditambahkan: A·No=231, C·ID Sampel=LF Ball Mill NS 1, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.759, F·Ag (g/t)=0.53, G·Cu (g/t)=8.43, H·Shift=DS
++ Data Sampel baris 233 [232] ditambahkan: A·No=232, C·ID Sampel=LF Ball Mill NS 2, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.746, F·Ag (g/t)=0.55, G·Cu (g/t)=8.55, H·Shift=DS
++ Data Sampel baris 234 [233] ditambahkan: A·No=233, C·ID Sampel=LF Ball Mill NS 3, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.733, F·Ag (g/t)=0.55, G·Cu (g/t)=8.49, H·Shift=DS
++ Data Sampel baris 235 [234] ditambahkan: A·No=234, C·ID Sampel=LF Ball Mill NS 4, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.725, F·Ag (g/t)=0.53, G·Cu (g/t)=8.14, H·Shift=DS
++ Data Sampel baris 236 [235] ditambahkan: A·No=235, C·ID Sampel=LF Ball Mill NS 5, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.73, F·Ag (g/t)=0.58, G·Cu (g/t)=8.57, H·Shift=DS
++ Tren Harian baris 40 [17-10-2026 00:00] ditambahkan: A·Tanggal=17-10-2026 00:00, B·Jumlah Sampel=8, C·Au mean (g/t)=0.712, D·Ag mean (g/t)=0.55, E·Cu mean (g/t)=8.41
+_Dibandingkan 2021 sel dari 4 sheet._
+
 ## 20 Oct 2026 · 12:52 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +17 baris, ~221 sel, -1 baris; Daily Summary : ~56 sel; Filter Press: ~10 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: +3 baris, ~144 sel; Milling and Leach Feed: +7 baris, ~153 sel, -1 baris; Reagent Consumption: ~20 sel; Rom File Inventory: +2 baris, ~3308 sel
 + Sheet "Sheet1" ditambahkan
