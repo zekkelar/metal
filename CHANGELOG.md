@@ -5,6 +5,49 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Oct 2026 · 17:12 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: LF Ball Mill: +3 baris, ~21 sel; Milling and Leach Feed: +1 baris, ~14 sel
+~ LF Ball Mill!F249 "au (g/t)" [246]: 0.511 → 0.363
+~ LF Ball Mill!G249 "ag (g/t)" [246]: 0.61 → 0.176
+~ LF Ball Mill!H249 "Cu (g/t)" [246]: 10.76 → 8.076
+~ LF Ball Mill!F250 "au (g/t)" [247]: 0.469 → 0.317
+~ LF Ball Mill!G250 "ag (g/t)" [247]: 0.58 → 0.274
+~ LF Ball Mill!H250 "Cu (g/t)" [247]: 11.27 → 8.112
+~ LF Ball Mill!F251 "au (g/t)" [248]: 0.45 → 0.364
+~ LF Ball Mill!G251 "ag (g/t)" [248]: 0.59 → 0.165
+~ LF Ball Mill!H251 "Cu (g/t)" [248]: 10.95 → 8.583
+~ LF Ball Mill!D252 "Id sampel" [249]: LF Ball Mill DS 4 → LF Ball Mill NS 1
+~ LF Ball Mill!F252 "au (g/t)" [249]: 0.507 → 0.379
+~ LF Ball Mill!G252 "ag (g/t)" [249]: 0.5 → 0.205
+~ LF Ball Mill!H252 "Cu (g/t)" [249]: 10.75 → 9.859
+~ LF Ball Mill!D253 "Id sampel" [250]: LF Ball Mill DS 5 → LF Ball Mill NS 2
+~ LF Ball Mill!F253 "au (g/t)" [250]: 0.494 → 0.352
+~ LF Ball Mill!G253 "ag (g/t)" [250]: 0.53 → 0.367
+~ LF Ball Mill!H253 "Cu (g/t)" [250]: 10.36 → 10.091
+~ LF Ball Mill!D254 "Id sampel" [251]: LF Ball Mill DS 6 → LF Ball Mill NS 3
+~ LF Ball Mill!F254 "au (g/t)" [251]: 0.566 → 0.33
+~ LF Ball Mill!G254 "ag (g/t)" [251]: 0.47 → 0.15
+~ LF Ball Mill!H254 "Cu (g/t)" [251]: 10.43 → 7.61
++ LF Ball Mill baris 255 [252] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=19-10-2026 00:00, F·au (g/t)=0.34, G·ag (g/t)=0.13, H·Cu (g/t)=10.15
++ LF Ball Mill baris 256 [253] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=19-10-2026 00:00, F·au (g/t)=0.363, G·ag (g/t)=0.17, H·Cu (g/t)=10.22
++ LF Ball Mill baris 257 [254] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=19-10-2026 00:00, F·au (g/t)=0.387, G·ag (g/t)=0.32, H·Cu (g/t)=9.85
+~ Milling and Leach Feed!T121 [21]: 0.4995 → 0.348
+~ Milling and Leach Feed!U121 [21]: 0.546667 → 0.205
+~ Milling and Leach Feed!V121 [21]: 10.753333 → 8.257
+~ Milling and Leach Feed!W121 [21]: 70.466923 → 49.094073
+~ Milling and Leach Feed!X121 [21]: 77.120957 → 28.920359
+~ Milling and Leach Feed!Y121 [21]: 1517.025651 → 1164.855623
+~ Milling and Leach Feed!AB121 [21]: 176167307.623725 → 122735181.2874
+~ Milling and Leach Feed!T122: (kosong) → 0.353667
+~ Milling and Leach Feed!U122: (kosong) → 0.240667
+~ Milling and Leach Feed!V122: (kosong) → 9.186667
+~ Milling and Leach Feed!W122: 0 → 4.994164
+~ Milling and Leach Feed!X122: 0 → 3.398479
+~ Milling and Leach Feed!Y122: 0 → 129.725885
++ Milling and Leach Feed baris 123 [19-10-2026 00:00] ditambahkan: T=0.363333, U=0.206667, V=10.073333, W=37.576789, X=21.373953, Y=1041.807853
+~ Milling and Leach Feed!E124: batch 21 tank 2 finish pump jam 0020 → batch 21 tank 2 finish pump jam 00:20
+_Dibandingkan 20816 sel dari 20 sheet._
+
 ## 21 Oct 2026 · 11:43 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~42 sel; Daily Summary : ~2 sel; Filter Press: ~9 sel; Fuel Consumption: ~1 sel; LT Floculation: +7 baris; Milling Down Time Hours: ~7 sel; Milling and Leach Feed: +19 baris, ~20 sel; Reagent Consumption: +1 baris, ~18 sel
 ~ Au Cal Leaching Tank!AF29 [8.407407]: (kosong) → 0.070167
