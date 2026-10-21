@@ -5,6 +5,39 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Oct 2026 · 17:20 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~28 sel
+~ Au Cal Leaching Tank!AI29 [8.407407]: (kosong) → 0.04
+~ Au Cal Leaching Tank!AR29 [8.407407]: 0 → 28.707328
+~ Au Cal Leaching Tank!AT29 [8.407407]: 0.897093 → 0.779226
+~ Au Cal Leaching Tank!BD29 [8.407407]: 218.493015 → 189.785687
+~ Au Cal Leaching Tank!AI30 [6.990741]: (kosong) → 0.04
+~ Au Cal Leaching Tank!AR30 [6.990741]: 0 → 23.96672
+~ Au Cal Leaching Tank!BD30 [6.990741]: 0 → -23.96672
++ Au Cal Leaching Tank baris 31 [22] ditambahkan: C=25.666667, D=10.39013, K=1.6, L=1.208
+~ Au Cal Leaching Tank!C60 [51]: 37.104762 → 36.584848
+~ Au Cal Leaching Tank!D60 [51]: 9.410374 → 9.457029
+~ Au Cal Leaching Tank!AI60 [51]: 0.028263 → 0.029381
+~ Au Cal Leaching Tank!AR60 [51]: 349.834463 → 402.508511
+~ Au Cal Leaching Tank!AT60 [51]: 0.710032 → 0.704138
+~ Au Cal Leaching Tank!C61 [52]: 779.2 → 804.866667
+~ Au Cal Leaching Tank!BD61 [52]: 2985.320994 → 2932.646946
+~ Au Cal Leaching Tank!AL63: 2985.320994 → 2932.646946
+~ Au Cal Leaching Tank!BD63: 2388.256795 → 2346.117557
+~ Au Cal Leaching Tank!J67: 779.2 → 804.866667
+~ Au Cal Leaching Tank!N67: 9.349775 → 9.051617
+~ Au Cal Leaching Tank!P67: 224.394594 → 217.238798
+~ Au Cal Leaching Tank!U67: 50.024306 → 51.09375
+~ Au Cal Leaching Tank!J68: 32.466667 → 33.536111
+~ Au Cal Leaching Tank!M70: 779.2 → 804.866667
+~ Au Cal Leaching Tank!M72: 1200.583333 → 1226.25
+~ Au Cal Leaching Tank!M73: 0.649018 → 0.656364
+~ Au Cal Leaching Tank!M74: 9.349775 → 9.051617
+~ Au Cal Leaching Tank!M75: 224.394594 → 217.238798
+~ Au Cal Leaching Tank!M76: 50.024306 → 51.09375
+~ Au Cal Leaching Tank!M77: 0.350982 → 0.343636
+_Dibandingkan 20822 sel dari 20 sheet._
+
 ## 21 Oct 2026 · 17:12 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: LF Ball Mill: +3 baris, ~21 sel; Milling and Leach Feed: +1 baris, ~14 sel
 ~ LF Ball Mill!F249 "au (g/t)" [246]: 0.511 → 0.363
