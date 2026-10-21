@@ -5,6 +5,30 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 21 Oct 2026 · 19:16 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~20 sel
+~ Au Cal Leaching Tank!C31 [22]: 25.666667 → 37.666667
+~ Au Cal Leaching Tank!D31 [22]: 10.39013 → 7.08
+~ Au Cal Leaching Tank!H31 "start toyong" [22]: (kosong) → 21-10-2026 00:00
+~ Au Cal Leaching Tank!I31 [22]: (kosong) → 19:00:00
+~ Au Cal Leaching Tank!W31 [22]: (kosong) → 7331.46048
+~ Au Cal Leaching Tank!C60 [51]: 36.584848 → 37.130303
+~ Au Cal Leaching Tank!D60 [51]: 9.457029 → 9.299403
+~ Au Cal Leaching Tank!C61 [52]: 804.866667 → 816.866667
+~ Au Cal Leaching Tank!J67: 804.866667 → 816.866667
+~ Au Cal Leaching Tank!N67: 9.051617 → 8.918646
+~ Au Cal Leaching Tank!P67: 217.238798 → 214.0475
+~ Au Cal Leaching Tank!U67: 51.09375 → 51.59375
+~ Au Cal Leaching Tank!J68: 33.536111 → 34.036111
+~ Au Cal Leaching Tank!M70: 804.866667 → 816.866667
+~ Au Cal Leaching Tank!M72: 1226.25 → 1238.25
+~ Au Cal Leaching Tank!M73: 0.656364 → 0.659694
+~ Au Cal Leaching Tank!M74: 9.051617 → 8.918646
+~ Au Cal Leaching Tank!M75: 217.238798 → 214.0475
+~ Au Cal Leaching Tank!M76: 51.09375 → 51.59375
+~ Au Cal Leaching Tank!M77: 0.343636 → 0.340306
+_Dibandingkan 20825 sel dari 20 sheet._
+
 ## 21 Oct 2026 · 17:20 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~28 sel
 ~ Au Cal Leaching Tank!AI29 [8.407407]: (kosong) → 0.04
