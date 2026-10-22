@@ -5,6 +5,93 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 22 Oct 2026 · 09:53 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
+Ringkasan: Data Sampel: +34 baris, ~47 sel; Tren Harian: +2 baris
+~ Data Sampel!C229 "ID Sampel" [228]: LF Ball Mill DS 1 → LF Ball Mill NS 1
+~ Data Sampel!D229 "Tanggal" [228]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E229 "Au (g/t)" [228]: 0.632 → 0.639
+~ Data Sampel!F229 "Ag (g/t)" [228]: 0.58 → 0.52
+~ Data Sampel!G229 "Cu (g/t)" [228]: 8.07 → 9.71
+~ Data Sampel!H229 "Shift" [228]: DS → NS
+~ Data Sampel!C230 "ID Sampel" [229]: LF Ball Mill DS 2 → LF Ball Mill NS 2
+~ Data Sampel!D230 "Tanggal" [229]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E230 "Au (g/t)" [229]: 0.686 → 0.618
+~ Data Sampel!F230 "Ag (g/t)" [229]: 0.56 → 0.52
+~ Data Sampel!G230 "Cu (g/t)" [229]: 8.31 → 9.04
+~ Data Sampel!H230 "Shift" [229]: DS → NS
+~ Data Sampel!C231 "ID Sampel" [230]: LF Ball Mill DS 3 → LF Ball Mill NS 3
+~ Data Sampel!D231 "Tanggal" [230]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E231 "Au (g/t)" [230]: 0.69 → 0.677
+~ Data Sampel!F231 "Ag (g/t)" [230]: 0.52 → 0.53
+~ Data Sampel!G231 "Cu (g/t)" [230]: 8.79 → 9.44
+~ Data Sampel!H231 "Shift" [230]: DS → NS
+~ Data Sampel!C232 "ID Sampel" [231]: LF Ball Mill NS 1 → LF Ball Mill NS 4
+~ Data Sampel!D232 "Tanggal" [231]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E232 "Au (g/t)" [231]: 0.759 → 0.633
+~ Data Sampel!F232 "Ag (g/t)" [231]: 0.53 → 0.55
+~ Data Sampel!G232 "Cu (g/t)" [231]: 8.43 → 9.45
+~ Data Sampel!H232 "Shift" [231]: DS → NS
+~ Data Sampel!C233 "ID Sampel" [232]: LF Ball Mill NS 2 → LF Ball Mill NS 5
+~ Data Sampel!D233 "Tanggal" [232]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E233 "Au (g/t)" [232]: 0.746 → 0.601
+~ Data Sampel!G233 "Cu (g/t)" [232]: 8.55 → 9.57
+~ Data Sampel!H233 "Shift" [232]: DS → NS
+~ Data Sampel!C234 "ID Sampel" [233]: LF Ball Mill NS 3 → LF Ball Mill NS 6
+~ Data Sampel!D234 "Tanggal" [233]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E234 "Au (g/t)" [233]: 0.733 → 0.609
+~ Data Sampel!F234 "Ag (g/t)" [233]: 0.55 → 0.61
+~ Data Sampel!G234 "Cu (g/t)" [233]: 8.49 → 9.4
+~ Data Sampel!H234 "Shift" [233]: DS → NS
+~ Data Sampel!C235 "ID Sampel" [234]: LF Ball Mill NS 4 → LF Ball Mill NS 7
+~ Data Sampel!D235 "Tanggal" [234]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E235 "Au (g/t)" [234]: 0.725 → 0.649
+~ Data Sampel!F235 "Ag (g/t)" [234]: 0.53 → 0.51
+~ Data Sampel!G235 "Cu (g/t)" [234]: 8.14 → 9.2
+~ Data Sampel!H235 "Shift" [234]: DS → NS
+~ Data Sampel!C236 "ID Sampel" [235]: LF Ball Mill NS 5 → LF Ball Mill NS 8
+~ Data Sampel!D236 "Tanggal" [235]: 17-10-2026 00:00 → 16-10-2026 00:00
+~ Data Sampel!E236 "Au (g/t)" [235]: 0.73 → 0.665
+~ Data Sampel!F236 "Ag (g/t)" [235]: 0.58 → 0.55
+~ Data Sampel!G236 "Cu (g/t)" [235]: 8.57 → 9.3
+~ Data Sampel!H236 "Shift" [235]: DS → NS
++ Data Sampel baris 237 [236] ditambahkan: A·No=236, C·ID Sampel=LF Ball Mill NS 9, D·Tanggal=16-10-2026 00:00, E·Au (g/t)=0.64, F·Ag (g/t)=0.55, G·Cu (g/t)=9.21, H·Shift=NS
++ Data Sampel baris 238 [237] ditambahkan: A·No=237, C·ID Sampel=LF Ball Mill NS 10, D·Tanggal=16-10-2026 00:00, E·Au (g/t)=0.645, F·Ag (g/t)=0.51, G·Cu (g/t)=9.18, H·Shift=NS
++ Data Sampel baris 239 [238] ditambahkan: A·No=238, C·ID Sampel=LF Ball Mill DS 1, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.632, F·Ag (g/t)=0.58, G·Cu (g/t)=8.07, H·Shift=DS
++ Data Sampel baris 240 [239] ditambahkan: A·No=239, C·ID Sampel=LF Ball Mill DS 2, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.686, F·Ag (g/t)=0.56, G·Cu (g/t)=8.31, H·Shift=DS
++ Data Sampel baris 241 [240] ditambahkan: A·No=240, C·ID Sampel=LF Ball Mill DS 3, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.69, F·Ag (g/t)=0.52, G·Cu (g/t)=8.79, H·Shift=DS
++ Data Sampel baris 242 [241] ditambahkan: A·No=241, C·ID Sampel=LF Ball Mill NS 1, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.759, F·Ag (g/t)=0.53, G·Cu (g/t)=8.43, H·Shift=NS
++ Data Sampel baris 243 [242] ditambahkan: A·No=242, C·ID Sampel=LF Ball Mill NS 2, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.746, F·Ag (g/t)=0.55, G·Cu (g/t)=8.55
++ Data Sampel baris 244 [243] ditambahkan: A·No=243, C·ID Sampel=LF Ball Mill NS 3, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.733, F·Ag (g/t)=0.55, G·Cu (g/t)=8.49
++ Data Sampel baris 245 [244] ditambahkan: A·No=244, C·ID Sampel=LF Ball Mill NS 4, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.725, F·Ag (g/t)=0.53, G·Cu (g/t)=8.14
++ Data Sampel baris 246 [245] ditambahkan: A·No=245, C·ID Sampel=LF Ball Mill NS 5, D·Tanggal=17-10-2026 00:00, E·Au (g/t)=0.73, F·Ag (g/t)=0.58, G·Cu (g/t)=8.57
++ Data Sampel baris 247 [246] ditambahkan: A·No=246, B·ID Batch=21, C·ID Sampel=LF Ball Mill DS 1, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.511, F·Ag (g/t)=0.61, G·Cu (g/t)=10.76
++ Data Sampel baris 248 [247] ditambahkan: A·No=247, C·ID Sampel=LF Ball Mill DS 2, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.469, F·Ag (g/t)=0.58, G·Cu (g/t)=11.27
++ Data Sampel baris 249 [248] ditambahkan: A·No=248, C·ID Sampel=LF Ball Mill DS 3, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.45, F·Ag (g/t)=0.59, G·Cu (g/t)=10.95
++ Data Sampel baris 250 [249] ditambahkan: A·No=249, C·ID Sampel=LF Ball Mill DS 4, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.507, F·Ag (g/t)=0.5, G·Cu (g/t)=10.75
++ Data Sampel baris 251 [250] ditambahkan: A·No=250, C·ID Sampel=LF Ball Mill DS 5, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.494, F·Ag (g/t)=0.53, G·Cu (g/t)=10.36
++ Data Sampel baris 252 [251] ditambahkan: A·No=251, C·ID Sampel=LF Ball Mill DS 6, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.566, F·Ag (g/t)=0.47, G·Cu (g/t)=10.43
++ Data Sampel baris 253 [252] ditambahkan: A·No=252, C·ID Sampel=LF Ball Mill DS 1, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.363, F·Ag (g/t)=0.176, G·Cu (g/t)=8.076
++ Data Sampel baris 254 [253] ditambahkan: A·No=253, C·ID Sampel=LF Ball Mill DS 2, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.317, F·Ag (g/t)=0.274, G·Cu (g/t)=8.112
++ Data Sampel baris 255 [254] ditambahkan: A·No=254, C·ID Sampel=LF Ball Mill DS 3, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.364, F·Ag (g/t)=0.165, G·Cu (g/t)=8.583
++ Data Sampel baris 256 [255] ditambahkan: A·No=255, C·ID Sampel=LF Ball Mill DS 1, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.261, F·Ag (g/t)=0.17, G·Cu (g/t)=6.79
++ Data Sampel baris 257 [256] ditambahkan: A·No=256, C·ID Sampel=LF Ball Mill DS 2, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.306, F·Ag (g/t)=0.3, G·Cu (g/t)=5.55
++ Data Sampel baris 258 [257] ditambahkan: A·No=257, C·ID Sampel=LF Ball Mill NS 1, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.379, F·Ag (g/t)=0.205, G·Cu (g/t)=9.859
++ Data Sampel baris 259 [258] ditambahkan: A·No=258, C·ID Sampel=LF Ball Mill NS 2, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.352, F·Ag (g/t)=0.367, G·Cu (g/t)=10.091
++ Data Sampel baris 260 [259] ditambahkan: A·No=259, C·ID Sampel=LF Ball Mill NS 3, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.506, F·Ag (g/t)=0.212, G·Cu (g/t)=9.917
++ Data Sampel baris 261 [260] ditambahkan: A·No=260, C·ID Sampel=LF Ball Mill NS 4, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.435, F·Ag (g/t)=0.276, G·Cu (g/t)=9.542
++ Data Sampel baris 262 [261] ditambahkan: A·No=261, C·ID Sampel=LF Ball Mill NS 5, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.463, F·Ag (g/t)=0.301, G·Cu (g/t)=9.678
++ Data Sampel baris 263 [262] ditambahkan: A·No=262, C·ID Sampel=LF Ball Mill NS 1, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.33, F·Ag (g/t)=0.15, G·Cu (g/t)=7.61
++ Data Sampel baris 264 [263] ditambahkan: A·No=263, C·ID Sampel=LF Ball Mill NS 2, D·Tanggal=18-10-2026 00:00, E·Au (g/t)=0.311, F·Ag (g/t)=0.36, G·Cu (g/t)=9.04
++ Data Sampel baris 265 [264] ditambahkan: A·No=264, C·ID Sampel=LF Ball Mill DS 1, D·Tanggal=19-10-2026 00:00, E·Au (g/t)=0.443, F·Ag (g/t)=0.57, G·Cu (g/t)=12.67
++ Data Sampel baris 266 [265] ditambahkan: A·No=265, C·ID Sampel=LF Ball Mill DS 2, D·Tanggal=19-10-2026 00:00, E·Au (g/t)=0.456, F·Ag (g/t)=0.68, G·Cu (g/t)=12.38
++ Data Sampel baris 267 [266] ditambahkan: A·No=266, C·ID Sampel=LF Ball Mill DS 3, D·Tanggal=19-10-2026 00:00, E·Au (g/t)=0.474, F·Ag (g/t)=0.6, G·Cu (g/t)=13.18
++ Data Sampel baris 268 [267] ditambahkan: A·No=267, C·ID Sampel=LF Ball Mill DS 4, D·Tanggal=19-10-2026 00:00, E·Au (g/t)=0.463, F·Ag (g/t)=0.17, G·Cu (g/t)=10.22
++ Data Sampel baris 269 [268] ditambahkan: A·No=268, C·ID Sampel=LF Ball Mill DS 5, D·Tanggal=19-10-2026 00:00, E·Au (g/t)=0.387, F·Ag (g/t)=0.32, G·Cu (g/t)=9.85
++ Data Sampel baris 270 [269] ditambahkan: A·No=269
++ Tren Harian baris 41 [18-10-2026 00:00] ditambahkan: A·Tanggal=18-10-2026 00:00, B·Jumlah Sampel=18, C·Au mean (g/t)=0.410222, D·Ag mean (g/t)=0.346444, E·Cu mean (g/t)=9.298222
++ Tren Harian baris 42 [19-10-2026 00:00] ditambahkan: A·Tanggal=19-10-2026 00:00, B·Jumlah Sampel=5, C·Au mean (g/t)=0.4446, D·Ag mean (g/t)=0.468, E·Cu mean (g/t)=11.66
+_Dibandingkan 2237 sel dari 4 sheet._
+
 ## 22 Oct 2026 · 01:44 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~10 sel; Daily Summary : ~3 sel; Filter Press: ~22 sel; LF Ball Mill: +15 baris, ~33 sel; LT Floculation: +6 baris, ~5 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +2 baris, ~39 sel; Reagent Consumption: +1 baris, ~14 sel
 ~ Au Cal Leaching Tank!AF29 [8.407407]: 0.070167 → 0.075167
