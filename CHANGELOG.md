@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Oct 2026 · 18:08 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~30 sel; Daily Summary : ~2 sel; Filter Press: ~19 sel; Fuel Consumption: ~1 sel; LF Ball Mill: +68 baris; Milling Down Time Hours: +2 baris, ~155 sel; Milling and Leach Feed: +30 baris, ~24 sel, -3 baris; Reagent Consumption: +1 baris, ~20 sel
++ Au Cal Leaching Tank baris 31 [22] ditambahkan: R=0.35, S=1.22, U=46.116
+~ Au Cal Leaching Tank!F32 "full tanki" [23]: (kosong) → 22-10-2026 00:00
+~ Au Cal Leaching Tank!G32 [23]: (kosong) → 16:32:00
+~ Au Cal Leaching Tank!H32 "start toyong" [23]: (kosong) → 22-10-2026 00:00
+~ Au Cal Leaching Tank!I32 [23]: (kosong) → 19:00:00
+~ Au Cal Leaching Tank!J32 [23]: (kosong) → 755
+~ Au Cal Leaching Tank!K32 [23]: (kosong) → 1.6
+~ Au Cal Leaching Tank!L32 [23]: (kosong) → 1.208
+~ Au Cal Leaching Tank!M32 [23]: (kosong) → 0.36
+~ Au Cal Leaching Tank!N32 [23]: 0 → 337.032
+~ Au Cal Leaching Tank!O32 [23]: (kosong) → 290.538
+~ Au Cal Leaching Tank!P32 [23]: (kosong) → 1.24
+~ Au Cal Leaching Tank!R32 [23]: (kosong) → 0.35
+~ Au Cal Leaching Tank!S32 [23]: (kosong) → 1.22
+~ Au Cal Leaching Tank!U32 [23]: (kosong) → 46.116
+~ Au Cal Leaching Tank!V32 [23]: (kosong) → 599.168
+~ Au Cal Leaching Tank!W32 [23]: (kosong) → 7621.99848
+~ Au Cal Leaching Tank!AI32 [23]: (kosong) → 0.119
+~ Au Cal Leaching Tank!AR32 [23]: (kosong) → 71.300992
+~ Au Cal Leaching Tank!BD32 [23]: (kosong) → -71.300992
+~ Au Cal Leaching Tank!N60 [51]: 162.912564 → 169.653204
+~ Au Cal Leaching Tank!AI60 [51]: 0.0295 → 0.033391
+~ Au Cal Leaching Tank!AR60 [51]: 421.962143 → 493.263135
+~ Au Cal Leaching Tank!N61 [52]: 7285.34448 → 7575.88248
+~ Au Cal Leaching Tank!BD61 [52]: 2911.4073 → 2840.106308
+~ Au Cal Leaching Tank!AL63: 2911.4073 → 2840.106308
+~ Au Cal Leaching Tank!BD63: 2329.12584 → 2272.085046
+~ Au Cal Leaching Tank!N67: 8.918646 → 9.27432
+~ Au Cal Leaching Tank!P67: 214.0475 → 222.583669
+~ Au Cal Leaching Tank!M74: 8.918646 → 9.27432
+~ Au Cal Leaching Tank!M75: 214.0475 → 222.583669
+~ Daily Summary !Z44 "Consumption" [20-09-2026 00:00]: 225 → 275
+~ Daily Summary !Z76 "Consumption" [Total]: 6912.5 → 6962.5
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 6389.46 → 6497.46
+~ Filter Press!C66 [66]: (kosong) → 21-10-2026 00:00
+~ Filter Press!D66 [66]: (kosong) → Night
+~ Filter Press!E66 [66]: (kosong) → 10
+~ Filter Press!F66 [66]: 0 → 60
+~ Filter Press!H66 [66]: 0 → 60
+~ Filter Press!C67 [67]: (kosong) → 22-10-2026 00:00
+~ Filter Press!D67 [67]: (kosong) → Day
+~ Filter Press!E67 [67]: (kosong) → 8
+~ Filter Press!F67 [67]: 0 → 48
+~ Filter Press!H67 [67]: 0 → 48
+~ Filter Press!K76 [76]: (kosong) → 21-10-2026 00:00
+~ Filter Press!L76 [76]: Day → Night
+~ Filter Press!M76 [76]: (kosong) → 7
+~ Filter Press!N76 [76]: (kosong) → 84
+~ Filter Press!K77 [77]: (kosong) → 22-10-2026 00:00
+~ Filter Press!L77 [77]: Night → Day
+~ Filter Press!M77 [77]: (kosong) → 8
+~ Filter Press!N77 [77]: (kosong) → 96
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 5.46714 → 5.257473
++ LF Ball Mill baris 225 [222] ditambahkan: L=BM 08:00, M·No=20-10-2026 00:00, N·id batch=0.295, O·Id sampel=0.36, P·date=12.05
++ LF Ball Mill baris 226 [223] ditambahkan: L=BM 10:00, M·No=20-10-2026 00:00, N·id batch=0.342, O·Id sampel=0.3, P·date=12.39
++ LF Ball Mill baris 227 [224] ditambahkan: L=BM 12:00, M·No=20-10-2026 00:00, N·id batch=0.439, O·Id sampel=0.35, P·date=11.99
++ LF Ball Mill baris 228 [225] ditambahkan: L=BM 14:00, M·No=20-10-2026 00:00, N·id batch=0.435, O·Id sampel=0.36, P·date=11.76, T·Au=LF THICKENER NS 1, U·Ag=19-10-2026 00:00, V·Cu=0.394, ...
++ LF Ball Mill baris 229 [226] ditambahkan: L=BM 16:00, M·No=20-10-2026 00:00, N·id batch=0.657, O·Id sampel=0.52, P·date=13.73, T·Au=LF THICKENER NS 2, U·Ag=19-10-2026 00:00, V·Cu=0.321, ...
++ LF Ball Mill baris 230 [227] ditambahkan: L=BM 18:00, M·No=20-10-2026 00:00, N·id batch=0.52, O·Id sampel=0.57, P·date=12.25, T·Au=LF THICKENER NS 3, U·Ag=19-10-2026 00:00, V·Cu=0.287, ...
++ LF Ball Mill baris 231 [228] ditambahkan: L=BM 12:00, M·No=21-10-2026 00:00, N·id batch=0.361, O·Id sampel=0.29, P·date=6.9, T·Au=LF THICKENER DS 1, U·Ag=20-10-2026 00:00, V·Cu=0.245, ...
++ LF Ball Mill baris 232 [229] ditambahkan: L=BM 14:00, M·No=21-10-2026 00:00, N·id batch=0.431, O·Id sampel=0.27, P·date=9.7, T·Au=LF THICKENER DS 2, U·Ag=20-10-2026 00:00, V·Cu=0.359, ...
++ LF Ball Mill baris 233 [230] ditambahkan: L=BM 16:00, M·No=21-10-2026 00:00, N·id batch=0.577, O·Id sampel=0.35, P·date=10.51, T·Au=LF THICKENER DS 3, U·Ag=20-10-2026 00:00, V·Cu=0.311, ...
++ LF Ball Mill baris 234 [231] ditambahkan: L=BM 18:00, M·No=21-10-2026 00:00, N·id batch=0.536, O·Id sampel=0.35, P·date=13.11, T·Au=LF THICKENER NS 1, U·Ag=20-10-2026 00:00, V·Cu=0.286, ...
++ LF Ball Mill baris 235 [232] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=20-10-2026 00:00, V·Cu=0.309, W=0.38, X=13.34
++ LF Ball Mill baris 236 [233] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=20-10-2026 00:00, V·Cu=0.376, W=0.38, X=12.98
++ LF Ball Mill baris 237 [234] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=21-10-2026 00:00, V·Cu=0.543, W=0.4, X=12.98
++ LF Ball Mill baris 238 [235] ditambahkan: S·Cu (g/t)=84, T·Au=LF THICKENER DS 2, U·Ag=21-10-2026 00:00, V·Cu=0.678, W=0.32, X=12.8
++ LF Ball Mill baris 239 [236] ditambahkan: S·Cu (g/t)=85, T·Au=LF THICKENER DS 3, U·Ag=21-10-2026 00:00, V·Cu=0.679, W=0.39, X=12.59
++ LF Ball Mill baris 240 [237] ditambahkan: S·Cu (g/t)=86
++ LF Ball Mill baris 241 [238] ditambahkan: S·Cu (g/t)=87
++ LF Ball Mill baris 242 [239] ditambahkan: S·Cu (g/t)=88
++ LF Ball Mill baris 243 [240] ditambahkan: S·Cu (g/t)=89
++ LF Ball Mill baris 244 [241] ditambahkan: S·Cu (g/t)=90
++ LF Ball Mill baris 245 [242] ditambahkan: S·Cu (g/t)=91
++ LF Ball Mill baris 246 [243] ditambahkan: S·Cu (g/t)=92
++ LF Ball Mill baris 247 [244] ditambahkan: S·Cu (g/t)=93
++ LF Ball Mill baris 248 [245] ditambahkan: S·Cu (g/t)=94
++ LF Ball Mill baris 249 [246] ditambahkan: S·Cu (g/t)=95
++ LF Ball Mill baris 250 [247] ditambahkan: S·Cu (g/t)=96
++ LF Ball Mill baris 251 [248] ditambahkan: S·Cu (g/t)=97
++ LF Ball Mill baris 252 [249] ditambahkan: S·Cu (g/t)=98
++ LF Ball Mill baris 253 [250] ditambahkan: S·Cu (g/t)=99
++ LF Ball Mill baris 254 [251] ditambahkan: S·Cu (g/t)=100
++ LF Ball Mill baris 255 [252] ditambahkan: S·Cu (g/t)=101
++ LF Ball Mill baris 256 [253] ditambahkan: S·Cu (g/t)=102
++ LF Ball Mill baris 257 [254] ditambahkan: S·Cu (g/t)=103
++ LF Ball Mill baris 258 [255] ditambahkan: S·Cu (g/t)=104
++ LF Ball Mill baris 259 [256] ditambahkan: S·Cu (g/t)=105
++ LF Ball Mill baris 260 [257] ditambahkan: S·Cu (g/t)=106
++ LF Ball Mill baris 261 [258] ditambahkan: S·Cu (g/t)=107
++ LF Ball Mill baris 262 [259] ditambahkan: S·Cu (g/t)=108
++ LF Ball Mill baris 263 [260] ditambahkan: S·Cu (g/t)=109
++ LF Ball Mill baris 264 [261] ditambahkan: S·Cu (g/t)=110
++ LF Ball Mill baris 265 [262] ditambahkan: S·Cu (g/t)=111
++ LF Ball Mill baris 266 [263] ditambahkan: S·Cu (g/t)=112
++ LF Ball Mill baris 267 [264] ditambahkan: S·Cu (g/t)=113
++ LF Ball Mill baris 268 [265] ditambahkan: S·Cu (g/t)=114
++ LF Ball Mill baris 269 [266] ditambahkan: S·Cu (g/t)=115
++ LF Ball Mill baris 273 [270] ditambahkan: D·Id sampel=LF Bll Mill NS 1, E·date=19-10-2026 00:00, F·au (g/t)=0.523, G·ag (g/t)=0.72, H·Cu (g/t)=14.76
++ LF Ball Mill baris 274 [271] ditambahkan: D·Id sampel=LF Bll Mill NS 2, E·date=19-10-2026 00:00, F·au (g/t)=0.521, G·ag (g/t)=0.47, H·Cu (g/t)=14.38
++ LF Ball Mill baris 275 [272] ditambahkan: D·Id sampel=LF Bll Mill NS 3, E·date=19-10-2026 00:00, F·au (g/t)=0.388, G·ag (g/t)=0.42, H·Cu (g/t)=14.56
++ LF Ball Mill baris 276 [273] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=20-10-2026 00:00, F·au (g/t)=0.437, G·ag (g/t)=0.41, H·Cu (g/t)=16.56
++ LF Ball Mill baris 277 [274] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=20-10-2026 00:00, F·au (g/t)=0.501, G·ag (g/t)=0.4, H·Cu (g/t)=16.74
++ LF Ball Mill baris 278 [275] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=20-10-2026 00:00, F·au (g/t)=0.444, G·ag (g/t)=0.45, H·Cu (g/t)=16.45
++ LF Ball Mill baris 279 [276] ditambahkan: D·Id sampel=LF Ball Mill DS 4, E·date=20-10-2026 00:00, F·au (g/t)=0.462, G·ag (g/t)=0.43, H·Cu (g/t)=16.73
++ LF Ball Mill baris 280 [277] ditambahkan: D·Id sampel=LF Ball Mill DS 5, E·date=20-10-2026 00:00, F·au (g/t)=0.445, G·ag (g/t)=0.39, H·Cu (g/t)=16.73
++ LF Ball Mill baris 281 [278] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=20-10-2026 00:00, F·au (g/t)=0.182, G·ag (g/t)=0.39, H·Cu (g/t)=16.73
++ LF Ball Mill baris 282 [279] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=20-10-2026 00:00, F·au (g/t)=0.136, G·ag (g/t)=0.35, H·Cu (g/t)=15.1
++ LF Ball Mill baris 283 [280] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=20-10-2026 00:00, F·au (g/t)=0.164, G·ag (g/t)=0.46, H·Cu (g/t)=15.42
++ LF Ball Mill baris 284 [281] ditambahkan: D·Id sampel=LF Ball Mill NS 4, E·date=20-10-2026 00:00, F·au (g/t)=0.54, G·ag (g/t)=0.32, H·Cu (g/t)=15.09
++ LF Ball Mill baris 285 [282] ditambahkan: D·Id sampel=LF Ball Mill NS 5, E·date=20-10-2026 00:00, F·au (g/t)=0.547, G·ag (g/t)=0.53, H·Cu (g/t)=15.59
++ LF Ball Mill baris 286 [283] ditambahkan: D·Id sampel=LF Ball Mill NS 6, E·date=20-10-2026 00:00, F·au (g/t)=0.613, G·ag (g/t)=0.47, H·Cu (g/t)=15.75
++ LF Ball Mill baris 287 [284] ditambahkan: D·Id sampel=LF Ball Mill NS 7, E·date=20-10-2026 00:00, F·au (g/t)=0.524, G·ag (g/t)=0.43, H·Cu (g/t)=15.68
++ LF Ball Mill baris 288 [285] ditambahkan: D·Id sampel=LF Ball Mill NS 8, E·date=20-10-2026 00:00, F·au (g/t)=0.124, G·ag (g/t)=0.47, H·Cu (g/t)=15.58
++ LF Ball Mill baris 289 [286] ditambahkan: D·Id sampel=LF Ball Mill NS 9, E·date=20-10-2026 00:00, F·au (g/t)=0.143, G·ag (g/t)=0.51, H·Cu (g/t)=15.51
++ LF Ball Mill baris 290 [287] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=21-10-2026 00:00, F·au (g/t)=0.499, G·ag (g/t)=0.58, H·Cu (g/t)=13.31
++ LF Ball Mill baris 291 [288] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=21-10-2026 00:00, F·au (g/t)=0.474, G·ag (g/t)=0.49, H·Cu (g/t)=12.16
++ LF Ball Mill baris 292 [289] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=21-10-2026 00:00, F·au (g/t)=0.48, G·ag (g/t)=0.62, H·Cu (g/t)=12.54
++ LF Ball Mill baris 293 [290] ditambahkan: D·Id sampel=LF Ball Mill DS 4, E·date=21-10-2026 00:00, F·au (g/t)=0.599, G·ag (g/t)=0.57, H·Cu (g/t)=12.13
++ LF Ball Mill baris 294 [291] ditambahkan: D·Id sampel=LF Ball Mill DS 5, E·date=21-10-2026 00:00, F·au (g/t)=0.523, G·ag (g/t)=0.5, H·Cu (g/t)=12.06
++ LF Ball Mill baris 295 [292] ditambahkan: D·Id sampel=LF Ball Mill DS 6, E·date=21-10-2026 00:00, F·au (g/t)=0.429, G·ag (g/t)=0.54, H·Cu (g/t)=12.4
++ Milling Down Time Hours baris 108 [21-10-2026 00:00] ditambahkan: E·Stop Time=00:01:00, F·Start Time=00:01:00, I·BATCH=23
+~ Milling Down Time Hours!E109 "Stop Time" [21-10-2026 00:00]: (kosong) → 01:30:00
+~ Milling Down Time Hours!F109 "Start Time" [21-10-2026 00:00]: (kosong) → 06:30:00
+~ Milling Down Time Hours!G109 "Down Time (Mins)" [21-10-2026 00:00]: 0 → 300
+~ Milling Down Time Hours!H109 "Reason" [21-10-2026 00:00]: (kosong) → ball mill 1,2 dan 3 jalan 01:30-6:30
+~ Milling Down Time Hours!J109 "Running Time Hour/Shift" [21-10-2026 00:00]: 12 → 7
+~ Milling Down Time Hours!K109 "Availibility per Shift" [21-10-2026 00:00]: 1 → 0.583333
+~ Milling Down Time Hours!L109 "Availibility Per Day" [21-10-2026 00:00]: (kosong) → 0.763889
+~ Milling Down Time Hours!E110 "Stop Time" [22-10-2026 00:00]: (kosong) → 17:20:00
+~ Milling Down Time Hours!F110 "Start Time" [22-10-2026 00:00]: (kosong) → 18:00:00
+~ Milling Down Time Hours!G110 "Down Time (Mins)" [22-10-2026 00:00]: 0 → 40
+~ Milling Down Time Hours!H110 "Reason" [22-10-2026 00:00]: (kosong) → ball mill 1,2 dan 3 mati ganti genset...
+~ Milling Down Time Hours!J110 "Running Time Hour/Shift" [22-10-2026 00:00]: 12 → 11.333333
+~ Milling Down Time Hours!K110 "Availibility per Shift" [22-10-2026 00:00]: 1 → 0.944444
+~ Milling Down Time Hours!C111 "Shift" [22-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!E111 "Stop Time" [22-10-2026 00:00]: (kosong) → 17:20:00
+~ Milling Down Time Hours!F111 "Start Time" [22-10-2026 00:00]: (kosong) → 18:00:00
+~ Milling Down Time Hours!G111 "Down Time (Mins)" [22-10-2026 00:00]: 0 → 40
+~ Milling Down Time Hours!H111 "Reason" [22-10-2026 00:00]: (kosong) → ball mill 1,2 dan 3 mati ganti genset...
+~ Milling Down Time Hours!I111 "BATCH" [22-10-2026 00:00]: (kosong) → 24
+~ Milling Down Time Hours!J111 "Running Time Hour/Shift" [22-10-2026 00:00]: 12 → 11.333333
+~ Milling Down Time Hours!K111 "Availibility per Shift" [22-10-2026 00:00]: 1 → 0.944444
+~ Milling Down Time Hours!L111 "Availibility Per Day" [22-10-2026 00:00]: (kosong) → 0.972222
+~ Milling Down Time Hours!A112 "Date" [22-10-2026 00:00]: 23-10-2026 00:00 → 22-10-2026 00:00
+~ Milling Down Time Hours!C112 "Shift" [22-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E112 "Stop Time" [22-10-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!F112 "Start Time" [22-10-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!H112 "Reason" [22-10-2026 00:00]: (kosong) → ball mill 1,2 dan 3 jalan
+~ Milling Down Time Hours!C113 "Shift" [23-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A114 "Date" [23-10-2026 00:00]: 24-10-2026 00:00 → 23-10-2026 00:00
+~ Milling Down Time Hours!C114 "Shift" [23-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C115 "Shift" [24-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A116 "Date" [24-10-2026 00:00]: 25-10-2026 00:00 → 24-10-2026 00:00
+~ Milling Down Time Hours!C116 "Shift" [24-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C117 "Shift" [25-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A118 "Date" [25-10-2026 00:00]: 26-10-2026 00:00 → 25-10-2026 00:00
+~ Milling Down Time Hours!C118 "Shift" [25-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C119 "Shift" [26-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A120 "Date" [26-10-2026 00:00]: 27-10-2026 00:00 → 26-10-2026 00:00
+~ Milling Down Time Hours!C120 "Shift" [26-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C121 "Shift" [27-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A122 "Date" [27-10-2026 00:00]: 28-10-2026 00:00 → 27-10-2026 00:00
+~ Milling Down Time Hours!C122 "Shift" [27-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C123 "Shift" [28-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A124 "Date" [28-10-2026 00:00]: 29-10-2026 00:00 → 28-10-2026 00:00
+~ Milling Down Time Hours!C124 "Shift" [28-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C125 "Shift" [29-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A126 "Date" [29-10-2026 00:00]: 30-10-2026 00:00 → 29-10-2026 00:00
+~ Milling Down Time Hours!C126 "Shift" [29-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!C127 "Shift" [30-10-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A128 "Date" [30-10-2026 00:00]: 25-11-2026 00:00 → 30-10-2026 00:00
+~ Milling Down Time Hours!C128 "Shift" [30-10-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A129 "Date" [25-11-2026 00:00]: 26-11-2026 00:00 → 25-11-2026 00:00
+~ Milling Down Time Hours!C129 "Shift" [25-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A130 "Date" [26-11-2026 00:00]: 27-11-2026 00:00 → 26-11-2026 00:00
+~ Milling Down Time Hours!C130 "Shift" [26-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A131 "Date" [27-11-2026 00:00]: 28-11-2026 00:00 → 27-11-2026 00:00
+~ Milling Down Time Hours!C131 "Shift" [27-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A132 "Date" [28-11-2026 00:00]: 29-11-2026 00:00 → 28-11-2026 00:00
+~ Milling Down Time Hours!C132 "Shift" [28-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A133 "Date" [29-11-2026 00:00]: 30-11-2026 00:00 → 29-11-2026 00:00
+~ Milling Down Time Hours!C133 "Shift" [29-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A134 "Date" [30-11-2026 00:00]: 01-12-2026 00:00 → 30-11-2026 00:00
+~ Milling Down Time Hours!C134 "Shift" [30-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A135 "Date" [01-12-2026 00:00]: 02-12-2026 00:00 → 01-12-2026 00:00
+~ Milling Down Time Hours!C135 "Shift" [01-12-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A136 "Date" [02-12-2026 00:00]: 03-12-2026 00:00 → 02-12-2026 00:00
+~ Milling Down Time Hours!C136 "Shift" [02-12-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A137 "Date" [03-12-2026 00:00]: 04-12-2026 00:00 → 03-12-2026 00:00
+~ Milling Down Time Hours!C137 "Shift" [03-12-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A138 "Date" [04-12-2026 00:00]: 05-12-2026 00:00 → 04-12-2026 00:00
+~ Milling Down Time Hours!C138 "Shift" [04-12-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A139 "Date" [05-12-2026 00:00]: 06-12-2026 00:00 → 05-12-2026 00:00
+~ Milling Down Time Hours!C139 "Shift" [05-12-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A140 "Date" [06-12-2026 00:00]: 07-12-2026 00:00 → 06-12-2026 00:00
+~ Milling Down Time Hours!C140 "Shift" [06-12-2026 00:00]: Day → Night
+~ Milling Down Time Hours!A141 "Date" [07-12-2026 00:00]: 08-12-2026 00:00 → 07-12-2026 00:00
+~ Milling Down Time Hours!C141 "Shift" [07-12-2026 00:00]: Night → Day
+~ Milling Down Time Hours!A142 "Date" [08-12-2026 00:00]: 09-12-2026 00:00 → 08-12-2026 00:00
+- ...dan 397 perubahan lain tidak ditampilkan
+_Dibandingkan 21469 sel dari 20 sheet._
+
 ## 23 Oct 2026 · 11:20 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Milling and Leach Feed: +7 baris, ~128 sel, -6 baris
 - Milling and Leach Feed baris 130 [22-10-2026 00:00] dikosongkan: B·PIC=22-10-2026 00:00, F=Day
