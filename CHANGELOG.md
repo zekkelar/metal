@@ -5,6 +5,151 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Oct 2026 · 11:20 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Milling and Leach Feed: +7 baris, ~128 sel, -6 baris
+- Milling and Leach Feed baris 130 [22-10-2026 00:00] dikosongkan: B·PIC=22-10-2026 00:00, F=Day
+- Milling and Leach Feed baris 131 dikosongkan: F=Night, M=0, W=0, X=0, Y=0
+- Milling and Leach Feed baris 132 [Average] dikosongkan: B·PIC=Average, I=23.717773, L=0.726949, M=7351.618754, O=#DIV/0!, P=632.401389, Q=36534.083333, R=13936.574306, ...
+- Milling and Leach Feed baris 133 dikosongkan: E=\
+- Milling and Leach Feed baris 134 dikosongkan: Z=Min, AA=0
+- Milling and Leach Feed baris 135 dikosongkan: T=0.529667, Y=Max, Z=11.3
+~ Milling and Leach Feed!B136 "PIC" [22-10-2026 00:00]: (kosong) → 22-10-2026 00:00
+~ Milling and Leach Feed!F136 [22-10-2026 00:00]: (kosong) → Day
+~ Milling and Leach Feed!T136 [22-10-2026 00:00]: 0.381 → (kosong)
+~ Milling and Leach Feed!V136 [22-10-2026 00:00]: 0.097206 → (kosong)
+~ Milling and Leach Feed!F137: (kosong) → Night
+~ Milling and Leach Feed!M137: (kosong) → 0
+~ Milling and Leach Feed!T137: 0.641667 → (kosong)
+~ Milling and Leach Feed!W137: (kosong) → 0
+~ Milling and Leach Feed!X137: (kosong) → 0
+~ Milling and Leach Feed!Y137: (kosong) → 0
+~ Milling and Leach Feed!B138 "PIC" [Average]: (kosong) → Average
+~ Milling and Leach Feed!I138 [Average]: (kosong) → 23.717773
+~ Milling and Leach Feed!L138 [Average]: (kosong) → 0.726949
+~ Milling and Leach Feed!M138 [Average]: (kosong) → 7351.618754
+~ Milling and Leach Feed!O138 [Average]: (kosong) → #DIV/0!
+~ Milling and Leach Feed!P138 [Average]: 80 → 632.401389
+~ Milling and Leach Feed!Q138 [Average]: (kosong) → 36534.083333
+~ Milling and Leach Feed!R138 [Average]: (kosong) → 13936.574306
+~ Milling and Leach Feed!S138 [Average]: (kosong) → 5375.373443
+~ Milling and Leach Feed!T138 [Average]: 0.542667 → 0.654871
+~ Milling and Leach Feed!U138 [Average]: (kosong) → 0.663258
+~ Milling and Leach Feed!V138 [Average]: (kosong) → 8.95429
+~ Milling and Leach Feed!W138 [Average]: (kosong) → #VALUE!
+~ Milling and Leach Feed!X138 [Average]: (kosong) → 421.514663
+~ Milling and Leach Feed!Y138 [Average]: (kosong) → 5120.844159
+~ Milling and Leach Feed!E139: (kosong) → \
+~ Milling and Leach Feed!P139: 82 → (kosong)
+~ Milling and Leach Feed!T139: 0.542667 → (kosong)
+~ Milling and Leach Feed!P140: 84 → (kosong)
+~ Milling and Leach Feed!T140: 0.321 → (kosong)
+~ Milling and Leach Feed!Z140: (kosong) → Min
+~ Milling and Leach Feed!AA140: (kosong) → 0
+~ Milling and Leach Feed!P141: 84 → (kosong)
+~ Milling and Leach Feed!T141: 0.474333 → 0.529667
+~ Milling and Leach Feed!Y141: (kosong) → Max
+~ Milling and Leach Feed!Z141: (kosong) → 11.3
+~ Milling and Leach Feed!M142: 81 → (kosong)
+~ Milling and Leach Feed!P142: 83 → (kosong)
+~ Milling and Leach Feed!T142: 0.432667 → 0.381
+~ Milling and Leach Feed!V142: (kosong) → 0.097206
+~ Milling and Leach Feed!I143: 83 → (kosong)
+~ Milling and Leach Feed!M143: 76 → (kosong)
+~ Milling and Leach Feed!P143: 80 → (kosong)
+~ Milling and Leach Feed!T143: 0.397333 → 0.641667
+~ Milling and Leach Feed!I144: 86 → (kosong)
+~ Milling and Leach Feed!M144: 76 → (kosong)
+~ Milling and Leach Feed!P144: 86 → 80
+~ Milling and Leach Feed!T144: 0.373 → 0.542667
+~ Milling and Leach Feed!I145: 79 → (kosong)
+~ Milling and Leach Feed!M145: 78 → (kosong)
+~ Milling and Leach Feed!P145: 83 → 82
+~ Milling and Leach Feed!T145: 0.373 → 0.542667
+~ Milling and Leach Feed!I146: 80 → (kosong)
+~ Milling and Leach Feed!M146: 76 → (kosong)
+~ Milling and Leach Feed!P146: 82 → 84
+~ Milling and Leach Feed!T146: 0.525667 → 0.321
+~ Milling and Leach Feed!I147: 86 → (kosong)
+~ Milling and Leach Feed!M147: 79 → (kosong)
+~ Milling and Leach Feed!P147: 80 → 84
+~ Milling and Leach Feed!T147: 0.41 → 0.474333
+~ Milling and Leach Feed!I148: 79 → (kosong)
+~ Milling and Leach Feed!M148: 85 → 81
+~ Milling and Leach Feed!P148: 82 → 83
+~ Milling and Leach Feed!T148: 0.655667 → 0.432667
+~ Milling and Leach Feed!I149: 87 → 83
+~ Milling and Leach Feed!M149: 78 → 76
+~ Milling and Leach Feed!P149: 83 → 80
+~ Milling and Leach Feed!T149: 0.359667 → 0.397333
+~ Milling and Leach Feed!I150: 82 → 86
+~ Milling and Leach Feed!M150: 81 → 76
+~ Milling and Leach Feed!P150: 72 → 86
+~ Milling and Leach Feed!T150: 0.342667 → 0.373
+~ Milling and Leach Feed!I151: 80 → 79
+~ Milling and Leach Feed!M151: 76 → 78
+~ Milling and Leach Feed!P151: 82 → 83
+~ Milling and Leach Feed!T151: 0.399 → 0.373
+~ Milling and Leach Feed!I152: 87 → 80
+~ Milling and Leach Feed!M152: 88 → 76
+~ Milling and Leach Feed!T152: 0.399 → 0.525667
+~ Milling and Leach Feed!I153: 80 → 86
+~ Milling and Leach Feed!M153: 82 → 79
+~ Milling and Leach Feed!P153: 84 → 80
+~ Milling and Leach Feed!T153: 0.350667 → 0.41
+~ Milling and Leach Feed!I154: 80 → 79
+~ Milling and Leach Feed!M154: 78 → 85
+~ Milling and Leach Feed!P154: 85 → 82
+~ Milling and Leach Feed!T154: 0.435333 → 0.655667
+~ Milling and Leach Feed!I155: 85 → 87
+~ Milling and Leach Feed!M155: 76 → 78
+~ Milling and Leach Feed!P155: 82 → 83
+~ Milling and Leach Feed!T155: 0.287333 → 0.359667
+~ Milling and Leach Feed!I156: 85 → 82
+~ Milling and Leach Feed!M156: 84 → 81
+~ Milling and Leach Feed!P156: 78 → 72
+~ Milling and Leach Feed!T156: 0.378286 → 0.342667
+~ Milling and Leach Feed!I157: 85 → 80
+~ Milling and Leach Feed!M157: 84 → 76
+~ Milling and Leach Feed!P157: 72 → 82
+~ Milling and Leach Feed!T157: (kosong) → 0.399
+~ Milling and Leach Feed!I158: 85 → 87
+~ Milling and Leach Feed!M158: 76 → 88
+~ Milling and Leach Feed!P158: (kosong) → 82
+~ Milling and Leach Feed!Q158: 72 → (kosong)
+~ Milling and Leach Feed!T158: (kosong) → 0.399
+~ Milling and Leach Feed!I159: 83 → 80
+~ Milling and Leach Feed!M159: 84 → 82
+~ Milling and Leach Feed!P159: (kosong) → 84
+~ Milling and Leach Feed!Q159: 75 → (kosong)
+~ Milling and Leach Feed!T159: (kosong) → 0.350667
+~ Milling and Leach Feed!I160: (kosong) → 80
+~ Milling and Leach Feed!M160: 80 → 78
+~ Milling and Leach Feed!P160: (kosong) → 85
+~ Milling and Leach Feed!Q160: 72 → (kosong)
+~ Milling and Leach Feed!T160: (kosong) → 0.435333
+~ Milling and Leach Feed!I161: (kosong) → 85
+~ Milling and Leach Feed!M161: 84 → 76
+~ Milling and Leach Feed!P161: (kosong) → 82
+~ Milling and Leach Feed!Q161: 60 → (kosong)
+~ Milling and Leach Feed!T161: (kosong) → 0.287333
++ Milling and Leach Feed baris 162 ditambahkan: I=85, P=78, T=0.378286
+~ Milling and Leach Feed!I163: (kosong) → 85
+~ Milling and Leach Feed!M163: 74 → 84
+~ Milling and Leach Feed!P163: (kosong) → 72
+~ Milling and Leach Feed!I164: (kosong) → 85
+~ Milling and Leach Feed!M164: 80 → 76
+~ Milling and Leach Feed!Q164: (kosong) → 72
+~ Milling and Leach Feed!I165: (kosong) → 83
+~ Milling and Leach Feed!M165: 80 → 84
+~ Milling and Leach Feed!Q165: (kosong) → 75
++ Milling and Leach Feed baris 166 ditambahkan: M=80, Q=72
++ Milling and Leach Feed baris 167 ditambahkan: M=84, Q=60
++ Milling and Leach Feed baris 168 ditambahkan: M=84
++ Milling and Leach Feed baris 169 ditambahkan: M=74
++ Milling and Leach Feed baris 170 ditambahkan: M=80
++ Milling and Leach Feed baris 171 ditambahkan: M=80
+_Dibandingkan 21071 sel dari 20 sheet._
+
 ## 22 Oct 2026 · 09:53 · LF_Ball_Mill_Metallurgical_Report.xlsx · ramda@DyanPro73
 Ringkasan: Data Sampel: +34 baris, ~47 sel; Tren Harian: +2 baris
 ~ Data Sampel!C229 "ID Sampel" [228]: LF Ball Mill DS 1 → LF Ball Mill NS 1
