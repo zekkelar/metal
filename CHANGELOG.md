@@ -5,6 +5,24 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Oct 2026 · 16:35 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris; Milling Down Time Hours: ~7 sel; Milling and Leach Feed: +2 baris, ~4 sel
++ Au Cal Leaching Tank baris 33 [24] ditambahkan: J=755, K=1.4, L=1.057
+~ Milling Down Time Hours!E113 "Stop Time" [23-10-2026 00:00]: (kosong) → 11:30:00
+~ Milling Down Time Hours!F113 "Start Time" [23-10-2026 00:00]: (kosong) → 19:30:00
+~ Milling Down Time Hours!G113 "Down Time (Mins)" [23-10-2026 00:00]: 0 → 480
+~ Milling Down Time Hours!H113 "Reason" [23-10-2026 00:00]: (kosong) → ball mill 3 mati 09:45 dan ball mill ...
+~ Milling Down Time Hours!J113 "Running Time Hour/Shift" [23-10-2026 00:00]: 12 → 4
+~ Milling Down Time Hours!K113 "Availibility per Shift" [23-10-2026 00:00]: 1 → 0.333333
+~ Milling Down Time Hours!L113 "Availibility Per Day" [23-10-2026 00:00]: 0.896528 → 0.563194
++ Milling and Leach Feed baris 130 [24] ditambahkan: S=300.253711
+~ Milling and Leach Feed!E131 [23-10-2026 00:00]: (kosong) → Tidak ada air
+~ Milling and Leach Feed!P131 [23-10-2026 00:00]: 12 → 4
+~ Milling and Leach Feed!Q131 [23-10-2026 00:00]: 720 → 240
+~ Milling and Leach Feed!R131 [23-10-2026 00:00]: (kosong) → 480
++ Milling and Leach Feed baris 132 [23-10-2026 00:00] ditambahkan: I=33.998116
+_Dibandingkan 21554 sel dari 20 sheet._
+
 ## 24 Oct 2026 · 15:06 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~34 sel; Daily Summary : ~2 sel; Filter Press: ~19 sel; LF Ball Mill: +8 baris; LT Floculation: +6 baris; Milling Down Time Hours: +1 baris, ~6 sel; Milling and Leach Feed: ~322 sel, -2 baris; Reagent Consumption: +1 baris, ~12 sel
 ~ Au Cal Leaching Tank!AA30 [6.990741]: 0.495457 → 0.41979
