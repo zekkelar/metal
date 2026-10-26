@@ -5,6 +5,64 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 26 Oct 2026 · 16:12 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: LF Ball Mill: +15 baris; LT Floculation: +5 baris, ~34 sel
++ LF Ball Mill baris 252 [249] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=23-10-2026 00:00, V·Cu=0.504, W=0.48, X=12.23
++ LF Ball Mill baris 253 [250] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=23-10-2026 00:00, V·Cu=0.42, W=0.37, X=12.94
++ LF Ball Mill baris 254 [251] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=23-10-2026 00:00, V·Cu=0.525, W=0.44, X=14.68
++ LF Ball Mill baris 255 [252] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=24-10-2026 00:00, V·Cu=0.393, W=0.64, X=13.15
++ LF Ball Mill baris 256 [253] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=24-10-2026 00:00, V·Cu=0.465, W=0.5, X=13.66
++ LF Ball Mill baris 257 [254] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=24-10-2026 00:00, V·Cu=0.415, W=0.66, X=13.72
++ LF Ball Mill baris 301 [298] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=22-10-2026 00:00, F·au (g/t)=0.785, G·ag (g/t)=0.85, H·Cu (g/t)=16.15
++ LF Ball Mill baris 302 [299] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=22-10-2026 00:00, F·au (g/t)=0.557, G·ag (g/t)=0.66, H·Cu (g/t)=15.97
++ LF Ball Mill baris 303 [300] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=22-10-2026 00:00, F·au (g/t)=0.634, G·ag (g/t)=0.78, H·Cu (g/t)=16.29
++ LF Ball Mill baris 304 [301] ditambahkan: C·id batch=24, D·Id sampel=LF Ball Mill NS 1, E·date=22-10-2026 00:00, F·au (g/t)=0.477, G·ag (g/t)=0.59, H·Cu (g/t)=17.48
++ LF Ball Mill baris 305 [302] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=22-10-2026 00:00, F·au (g/t)=0.585, G·ag (g/t)=0.62, H·Cu (g/t)=18.14
++ LF Ball Mill baris 306 [303] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=22-10-2026 00:00, F·au (g/t)=0.655, G·ag (g/t)=0.7, H·Cu (g/t)=17.64
++ LF Ball Mill baris 307 [304] ditambahkan: D·Id sampel=LF Ball Mill NS 4, E·date=22-10-2026 00:00, F·au (g/t)=0.527, G·ag (g/t)=0.58, H·Cu (g/t)=16.44
++ LF Ball Mill baris 308 [305] ditambahkan: D·Id sampel=LF Ball Mill NS 5, E·date=22-10-2026 00:00, F·au (g/t)=0.497, G·ag (g/t)=0.48, H·Cu (g/t)=16.98
++ LF Ball Mill baris 309 [306] ditambahkan: D·Id sampel=LF Ball Mill NS 6, E·date=22-10-2026 00:00, F·au (g/t)=0.644, G·ag (g/t)=0.43, H·Cu (g/t)=18.07
+~ LT Floculation!Q171: 21/20/2026 → 10/21/2026
+~ LT Floculation!R171: (kosong) → 0.102
+~ LT Floculation!S171: (kosong) → 0.58
+~ LT Floculation!T171: (kosong) → 14.69
+~ LT Floculation!Q172: 21/20/2026 → 10/21/2026
+~ LT Floculation!R172: (kosong) → 0.164
+~ LT Floculation!S172: (kosong) → 0.67
+~ LT Floculation!T172: (kosong) → 14.93
+~ LT Floculation!Q173: 21/20/2026 → 10/21/2026
+~ LT Floculation!R173: (kosong) → 0.182
+~ LT Floculation!S173: (kosong) → 0.7
+~ LT Floculation!T173: (kosong) → 15.27
+~ LT Floculation!O174: LT-Floc NS 4 → LT-Floc DS 1
+~ LT Floculation!P174: (kosong) → 22
+~ LT Floculation!Q174: 21/20/2026 → 10/22/2026
+~ LT Floculation!R174: (kosong) → 0.121
+~ LT Floculation!S174: (kosong) → 0.7
+~ LT Floculation!T174: (kosong) → 14.19
+~ LT Floculation!O175: LT-Floc DS 1 → LT-Floc DS 2
+~ LT Floculation!P175: 22 → (kosong)
+~ LT Floculation!Q175: 22-10-2026 00:00 → 10/22/2026
+~ LT Floculation!R175: (kosong) → 0.205
+~ LT Floculation!S175: (kosong) → 0.65
+~ LT Floculation!T175: (kosong) → 15.47
+~ LT Floculation!O176: LT-Floc DS 2 → LT-Floc DS 3
+~ LT Floculation!Q176: 22-10-2026 00:00 → 10/22/2026
+~ LT Floculation!R176: (kosong) → 0.165
+~ LT Floculation!S176: (kosong) → 0.72
+~ LT Floculation!T176: (kosong) → 15.33
+~ LT Floculation!O177: LT-Floc DS 3 → LT-Floc DS 1
+~ LT Floculation!Q177: 22-10-2026 00:00 → 10/23/2026
+~ LT Floculation!R177: (kosong) → 0.056
+~ LT Floculation!S177: (kosong) → 0.44
+~ LT Floculation!T177: (kosong) → 17.32
++ LT Floculation baris 178 ditambahkan: O=LT-Floc DS 2, Q=10/23/2026, R=0.035, S=0.49, T=17.07
++ LT Floculation baris 179 ditambahkan: O=LT-Floc DS 3, Q=10/23/2026, R=0.035, S=0.42, T=16.84
++ LT Floculation baris 180 ditambahkan: O=LT-Floc DS 4, Q=10/23/2026, R=0.042, S=0.4, T=15.84
++ LT Floculation baris 181 ditambahkan: O=LT-Floc DS 5, Q=10/23/2026, R=0.058, S=0.33, T=15.26
++ LT Floculation baris 182 ditambahkan: O=LT-Floc DS 6, Q=10/23/2026, R=0.079, S=0.28, T=15.19
+_Dibandingkan 21902 sel dari 20 sheet._
+
 ## 25 Oct 2026 · 19:37 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Daily Summary : ~2 sel; Filter Press: ~5 sel; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +17 baris, ~16 sel; Reagent Consumption: ~13 sel
 ~ Daily Summary !Z46 "Consumption" [22-09-2026 00:00]: 225 → 350
