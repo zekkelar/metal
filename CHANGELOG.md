@@ -5,6 +5,23 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 27 Oct 2026 · 18:53 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Filter Press: +2 baris, ~11 sel
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 7775.46 → 8051.46
+~ Filter Press!C76 [76]: tidak ada logsheet → 26-10-2026 00:00
+~ Filter Press!D76 [76]: (kosong) → Night
+~ Filter Press!E76 [76]: (kosong) → 8
+~ Filter Press!F76 [76]: 0 → 48
+~ Filter Press!H76 [76]: 0 → 48
++ Filter Press baris 84 [84] ditambahkan: N=0, P=0
++ Filter Press baris 85 [85] ditambahkan: N=132, P=132
+~ Filter Press!K86 [86]: tidak ada logsheet → 26-10-2026 00:00
+~ Filter Press!L86 [86]: (kosong) → Night
+~ Filter Press!M86 [86]: (kosong) → 8
+~ Filter Press!N86 [86]: (kosong) → 96
+~ Filter Press!P86 [86]: (kosong) → 96
+_Dibandingkan 22607 sel dari 20 sheet._
+
 ## 26 Oct 2026 · 16:12 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: LF Ball Mill: +15 baris; LT Floculation: +5 baris, ~34 sel
 + LF Ball Mill baris 252 [249] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=23-10-2026 00:00, V·Cu=0.504, W=0.48, X=12.23
