@@ -5,6 +5,55 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 28 Oct 2026 · 09:17 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris; Daily Summary : ~2 sel; LF Ball Mill: +2 baris; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +18 baris, ~7 sel; Reagent Consumption: ~13 sel
++ Au Cal Leaching Tank baris 35 [26] ditambahkan: H·start toyong=28-10-2026 00:00, I=01:00:00
+~ Daily Summary !Z49 "Consumption" [25-09-2026 00:00]: 225 → 275
+~ Daily Summary !Z76 "Consumption" [Total]: 8150 → 8200
++ LF Ball Mill baris 249 [246] ditambahkan: L=tidak mengambil sample di karenakan t...
++ LF Ball Mill baris 309 [311] ditambahkan: C·id batch=25
++ Milling Down Time Hours baris 121 [27-10-2026 00:00] ditambahkan: L·Availibility Per Day=1
++ Milling Down Time Hours baris 122 [27-10-2026 00:00] ditambahkan: E·Stop Time=01:01:00, F·Start Time=01:01:00, H·Reason=ball mill 1,2 jalan ball mill 3 mati ...
+~ Milling and Leach Feed!AI6: 1240 → 1250
+~ Milling and Leach Feed!AI8: 1.24 → 1.25
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.369501 → 0.381818
+~ Milling and Leach Feed!AI12: 458.181818 → 477.272727
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 781.818182 → 772.727273
+~ Milling and Leach Feed!E139 [27]: start pump batch 27 Tank 2 → start pump batch 27 Tank 2 jam 07:00
+~ Milling and Leach Feed!N139 [27]: 136.352193 → 203.159615
++ Milling and Leach Feed baris 140 [27/20/2026] ditambahkan: B·PIC=27/20/2026, D=UNKNOWN USER, E=Batch 27 tank 2, G=0.38, H·Milling And Leach Feed M=116.837045, I=9.73642, J=512.285505, K=1.25, ...
++ Milling and Leach Feed baris 167 ditambahkan: L=79
++ Milling and Leach Feed baris 168 ditambahkan: L=79
++ Milling and Leach Feed baris 169 ditambahkan: L=79
++ Milling and Leach Feed baris 170 ditambahkan: L=79
++ Milling and Leach Feed baris 171 ditambahkan: L=76
++ Milling and Leach Feed baris 172 ditambahkan: L=85
++ Milling and Leach Feed baris 173 ditambahkan: L=78
++ Milling and Leach Feed baris 174 ditambahkan: L=79
++ Milling and Leach Feed baris 175 ditambahkan: L=79
++ Milling and Leach Feed baris 176 ditambahkan: L=76
++ Milling and Leach Feed baris 177 ditambahkan: L=75
++ Milling and Leach Feed baris 178 ditambahkan: L=83
++ Milling and Leach Feed baris 179 ditambahkan: L=82
++ Milling and Leach Feed baris 180 ditambahkan: L=74
++ Milling and Leach Feed baris 181 ditambahkan: L=76
++ Milling and Leach Feed baris 182 ditambahkan: L=85
++ Milling and Leach Feed baris 183 ditambahkan: L=79
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 11825 → 11875
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.398615 → 1.404529
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 804100000 → 807500000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 1058695000 → 1062095000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.75952 → 0.76029
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.009016 → 0.008987
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.207803 → 0.207138
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.014735 → 0.014688
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.005951 → 0.005932
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.002975 → 0.002966
+~ Reagent Consumption!O67 [09-10-2026 00:00]: 225 → 275
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 11825 → 11875
+~ Reagent Consumption!D85 "Leaching" [27-10-2026 00:00]: 225 → 275
+_Dibandingkan 22836 sel dari 20 sheet._
+
 ## 27 Oct 2026 · 23:22 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~68 sel; LT Floculation: +5 baris
 ~ Au Cal Leaching Tank!AF30 [6.990741]: (kosong) → 0.149333
