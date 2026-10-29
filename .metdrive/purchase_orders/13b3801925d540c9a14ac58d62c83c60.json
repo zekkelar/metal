@@ -1,0 +1,26 @@
+{
+  "id": "13b3801925d540c9a14ac58d62c83c60",
+  "po_number": "PO-20261029-B914",
+  "supplier": "-",
+  "requester": "GanyuChan@MSI",
+  "order_date": "2026-10-29",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "Watermur 1 Inch",
+      "quantity": 4.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "",
+  "related_file": "",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-29 20:24:30",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-29 20:24:30"
+}
