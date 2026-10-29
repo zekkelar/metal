@@ -1,7 +1,7 @@
 {
   "id": "40019a0d68204e94afaf39d9bd17793d",
   "po_number": "PO-20261029-E136",
-  "supplier": "ANJING",
+  "supplier": "-",
   "requester": "GanyuChan@MSI",
   "order_date": "2026-10-29",
   "eta_date": "",
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-29 17:36:31",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-29 17:36:31"
+  "updated_at": "2026-10-29 17:37:14"
 }
