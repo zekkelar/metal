@@ -1,0 +1,26 @@
+{
+  "id": "40019a0d68204e94afaf39d9bd17793d",
+  "po_number": "PO-20261029-E136",
+  "supplier": "ANJING",
+  "requester": "GanyuChan@MSI",
+  "order_date": "2026-10-29",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "PIPA PVC 4 meter",
+      "quantity": 2.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "1",
+  "related_file": "",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-29 17:36:31",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-29 17:36:31"
+}
