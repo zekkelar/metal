@@ -5,6 +5,55 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 29 Oct 2026 · 22:43 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +13 baris, ~18 sel, -9 baris; LF Ball Mill: -5 baris
++ Au Cal Leaching Tank baris 78 ditambahkan: V=Batch Process, Y=Batch, Z=Material Solid (Ton), AA=Assay Lab Result Head Grade ppm, AG=Assay Lab Result Tail
++ Au Cal Leaching Tank baris 79 ditambahkan: V=Siklus Pengolahan, Y=Prosess, AA=Au, AB=Ag, AC=Cu, AG=Au, AH=Ag, AI=Cu
++ Au Cal Leaching Tank baris 80 ditambahkan: V=1, Y=1, Z=292.3136, AA=0.708, AB=0.53525, AC=7.222417, AG=0.05575, AH=0.17, ...
++ Au Cal Leaching Tank baris 81 ditambahkan: V=2, Y=2, Z=300.14215, AA=0.684, AB=0.793333, AC=9.051111, AG=0.05575, AH=0.25, ...
++ Au Cal Leaching Tank baris 82 ditambahkan: V=3, Y=3, Z=326.97083, AA=0.934556, AB=0.658889, AC=9.068889, AG=0.098167, AH=0.233333, ...
++ Au Cal Leaching Tank baris 83 ditambahkan: V=4, Y=4, Z=316.9353, AA=0.928917, AB=0.7325, AC=9.150833, AG=0.109167, AH=0.24, ...
++ Au Cal Leaching Tank baris 84 ditambahkan: V=5, Y=5, Z=266.9858, AA=0.587333, AB=0.496667, AC=9.041111, AG=0.124667, AH=0.378333, ...
++ Au Cal Leaching Tank baris 85 ditambahkan: V=6, Y=6, Z=277.036913, AA=0.576083, AB=0.668333, AC=7.58
++ Au Cal Leaching Tank baris 86 ditambahkan: V=7, Y=7, Z=246.077475, AA=0.535556, AB=0.535556, AC=9.814444
++ Au Cal Leaching Tank baris 87 ditambahkan: V=Rata-Rata, Z=289.494581, AA=0.707778, AB=0.631504, AC=8.704115, AG=0.0887, AH=0.254333, AI=7.3095
++ Au Cal Leaching Tank baris 88 ditambahkan: V=Total Material, Z=2026.462068
+~ Au Cal Leaching Tank!P92: Rata-Rata → 21
+~ Au Cal Leaching Tank!Q92: 0.597974 → (kosong)
+~ Au Cal Leaching Tank!R92: 0.756177 → (kosong)
+~ Au Cal Leaching Tank!S92: 11.61977 → (kosong)
++ Au Cal Leaching Tank baris 93 ditambahkan: P=22
+~ Au Cal Leaching Tank!J94: Batch Process → (kosong)
+~ Au Cal Leaching Tank!M94: Batch → (kosong)
+~ Au Cal Leaching Tank!N94: Material Solid (Ton) → (kosong)
+~ Au Cal Leaching Tank!O94: Assay Lab Result Head Grade ppm → (kosong)
+~ Au Cal Leaching Tank!P94: (kosong) → 23
+~ Au Cal Leaching Tank!U94: Assay Lab Result Tail → (kosong)
+~ Au Cal Leaching Tank!J95: Siklus Pengolahan → (kosong)
+~ Au Cal Leaching Tank!M95: Prosess → (kosong)
+~ Au Cal Leaching Tank!O95: Au → (kosong)
+~ Au Cal Leaching Tank!P95: Ag → 24
+~ Au Cal Leaching Tank!Q95: Cu → (kosong)
+~ Au Cal Leaching Tank!U95: Au → (kosong)
+~ Au Cal Leaching Tank!V95: Ag → (kosong)
+~ Au Cal Leaching Tank!W95: Cu → (kosong)
+- Au Cal Leaching Tank baris 96 dikosongkan: J=1, M=1, N=292.3136, O=0.708, P=0.53525, Q=7.222417, U=0.05575, V=0.17, ...
+- Au Cal Leaching Tank baris 97 dikosongkan: J=2, M=2, N=300.14215, O=0.684, P=0.793333, Q=9.051111, U=0.05575, V=0.25, ...
+- Au Cal Leaching Tank baris 98 dikosongkan: J=3, M=3, N=326.97083, O=0.934556, P=0.658889, Q=9.068889, U=0.098167, V=0.233333, ...
+- Au Cal Leaching Tank baris 99 dikosongkan: J=4, M=4, N=316.9353, O=0.928917, P=0.7325, Q=9.150833, U=0.109167, V=0.24, ...
+- Au Cal Leaching Tank baris 100 dikosongkan: J=5, M=5, N=266.9858, O=0.587333, P=0.496667, Q=9.041111, U=0.124667, V=0.378333, ...
+- Au Cal Leaching Tank baris 101 dikosongkan: J=6, M=6, N=277.036913, O=0.576083, P=0.668333, Q=7.58
+- Au Cal Leaching Tank baris 102 dikosongkan: J=7, M=7, N=246.077475, O=0.535556, P=0.535556, Q=9.814444
+- Au Cal Leaching Tank baris 103 dikosongkan: J=Rata-Rata, N=289.494581, O=0.707778, P=0.631504, Q=8.704115, U=0.0887, V=0.254333, W=7.3095
+- Au Cal Leaching Tank baris 104 dikosongkan: J=Total Material, N=2026.462068
++ Au Cal Leaching Tank baris 105 ditambahkan: P=Rata-Rata, Q=0.597974, R=0.756177, S=11.61977
+- LF Ball Mill baris 277 [274] dikosongkan: J=0.182
+- LF Ball Mill baris 278 [275] dikosongkan: J=0.136
+- LF Ball Mill baris 279 [276] dikosongkan: J=0.164
+- LF Ball Mill baris 282 [279] dikosongkan: J=0.124
+- LF Ball Mill baris 283 [280] dikosongkan: J=0.143
+_Dibandingkan 23363 sel dari 21 sheet._
+
 ## 29 Oct 2026 · 21:26 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~9 sel; LF Ball Mill: +21 baris, ~5 sel; LT Floculation: +11 baris; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +1 baris, ~5 sel; Reagent Consumption: +1 baris, ~12 sel
 ~ Au Cal Leaching Tank!I35 [26]: 01:00:00 → 03:00:00
