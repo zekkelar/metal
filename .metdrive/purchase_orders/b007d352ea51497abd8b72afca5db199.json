@@ -1,0 +1,26 @@
+{
+  "id": "b007d352ea51497abd8b72afca5db199",
+  "po_number": "PO-20261029-7D72",
+  "supplier": "-",
+  "requester": "DZULHAM MINING",
+  "order_date": "2026-10-29",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "TIMBANGAN DIGITAL 35 KG",
+      "quantity": 1.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "",
+  "related_file": "",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-29 20:23:58",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-29 20:23:58"
+}
