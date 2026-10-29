@@ -5,6 +5,76 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 29 Oct 2026 · 21:26 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~9 sel; LF Ball Mill: +21 baris, ~5 sel; LT Floculation: +11 baris; Milling Down Time Hours: +1 baris; Milling and Leach Feed: +1 baris, ~5 sel; Reagent Consumption: +1 baris, ~12 sel
+~ Au Cal Leaching Tank!I35 [26]: 01:00:00 → 03:00:00
+~ Au Cal Leaching Tank!AI36 [27]: (kosong) → 0.063
+~ Au Cal Leaching Tank!AR36 [27]: 0 → 37.947571
+~ Au Cal Leaching Tank!BD36 [27]: 0 → -37.947571
+~ Au Cal Leaching Tank!AI60 [51]: 0.042731 → 0.043481
+~ Au Cal Leaching Tank!AR60 [51]: 704.890697 → 742.838268
+~ Au Cal Leaching Tank!BD61 [52]: 3103.970691 → 3066.02312
+~ Au Cal Leaching Tank!AL63: 3103.970691 → 3066.02312
+~ Au Cal Leaching Tank!BD63: 2483.176553 → 2452.818496
+~ LF Ball Mill!L252 [249]: BM 08:01 → BM 10:00
+~ LF Ball Mill!L253 [250]: BM 08:02 → BM 12:00
+~ LF Ball Mill!L254 [251]: BM 08:03 → BM 14:00
+~ LF Ball Mill!L255 [252]: BM 08:04 → BM 16:00
+~ LF Ball Mill!L256 [253]: BM 08:05 → BM 18:00
++ LF Ball Mill baris 257 [254] ditambahkan: K=103, L=BM 10:00, M·No=28-10-2026 00:00, N·id batch=0.798, O·Id sampel=0.49, P·date=13.58
++ LF Ball Mill baris 258 [255] ditambahkan: K=104, L=BM 12:00, M·No=28-10-2026 00:00, N·id batch=0.722, O·Id sampel=0.56, P·date=15.21
++ LF Ball Mill baris 259 [256] ditambahkan: K=105, L=BM 14:00, M·No=28-10-2026 00:00, N·id batch=0.561, O·Id sampel=0.71, P·date=16.77
++ LF Ball Mill baris 260 [257] ditambahkan: K=106, L=BM 16:00, M·No=28-10-2026 00:00, N·id batch=0.539, O·Id sampel=0.25, P·date=10.36
++ LF Ball Mill baris 261 [258] ditambahkan: K=107, L=BM 18:00, M·No=28-10-2026 00:00, N·id batch=0.497, O·Id sampel=0.48, P·date=11.53
++ LF Ball Mill baris 262 [259] ditambahkan: K=108
++ LF Ball Mill baris 263 [260] ditambahkan: K=109
++ LF Ball Mill baris 264 [261] ditambahkan: K=110
++ LF Ball Mill baris 265 [262] ditambahkan: K=111
++ LF Ball Mill baris 266 [263] ditambahkan: K=112
++ LF Ball Mill baris 267 [264] ditambahkan: K=113
++ LF Ball Mill baris 268 [265] ditambahkan: K=114
++ LF Ball Mill baris 269 [266] ditambahkan: K=115
++ LF Ball Mill baris 270 [267] ditambahkan: K=116
++ LF Ball Mill baris 271 [268] ditambahkan: K=117
++ LF Ball Mill baris 272 [269] ditambahkan: K=118
++ LF Ball Mill baris 273 [270] ditambahkan: K=119
++ LF Ball Mill baris 327 [329] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=27-10-2026 00:00
++ LF Ball Mill baris 328 [330] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=27-10-2026 00:00
++ LF Ball Mill baris 329 [331] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=27-10-2026 00:00
++ LF Ball Mill baris 330 [332] ditambahkan: D·Id sampel=LF Ball Mill NS 4, E·date=27-10-2026 00:00
++ LT Floculation baris 202 ditambahkan: O=LT-Floc NS 1, Q=27-10-2026 00:00, R=0.081, S=0.31, T=12.59
++ LT Floculation baris 203 ditambahkan: O=LT-Floc NS 2, Q=27-10-2026 00:00, R=0.026, S=0.35, T=15.64
++ LT Floculation baris 204 ditambahkan: O=LT-Floc NS 3, Q=27-10-2026 00:00, R=0.024, S=0.3, T=9.25
++ LT Floculation baris 205 ditambahkan: O=LT-Floc NS 4, Q=27-10-2026 00:00, R=0.085, S=0.5, T=18.26
++ LT Floculation baris 206 ditambahkan: O=LT-Floc NS 5, Q=27-10-2026 00:00, R=0.046, S=0.46, T=16.99
++ LT Floculation baris 207 ditambahkan: O=LT-Floc DS 1, P=26, Q=28-10-2026 00:00, R=0.072, S=0.31, T=10.69
++ LT Floculation baris 208 ditambahkan: O=LT-Floc DS 2, Q=28-10-2026 00:00, R=0.072, S=0.21, T=14.09
++ LT Floculation baris 209 ditambahkan: O=LT-Floc DS 3, Q=28-10-2026 00:00, R=0.079, S=0.35, T=15.33
++ LT Floculation baris 210 ditambahkan: O=LT-Floc DS 4, Q=28-10-2026 00:00, R=0.045, S=0.38, T=14.22
++ LT Floculation baris 211 ditambahkan: O=LT-Floc DS 5, Q=28-10-2026 00:00, R=0.09, S=0.48, T=15.94
++ LT Floculation baris 212 ditambahkan: O=LT-Floc DS 6, Q=28-10-2026 00:00, R=0.092, S=0.35, T=14.95
++ Milling Down Time Hours baris 125 [29-10-2026 00:00] ditambahkan: E·Stop Time=01:01:00, F·Start Time=01:01:00, H·Reason=ball mill 1,2 dan 3 jalan, I·BATCH=28, L·Availibility Per Day=1
+~ Milling and Leach Feed!AI6: 1240 → 1230
+~ Milling and Leach Feed!AI8: 1.24 → 1.23
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.369501 → 0.356984
+~ Milling and Leach Feed!AI12: 458.181818 → 439.090909
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 781.818182 → 790.909091
++ Milling and Leach Feed baris 143 [28] ditambahkan: G=0.35, H·Milling And Leach Feed M=431.2479, I=35.937325, J=539.2479, K=1.23, L=0.8, M=185.652221, N=185.652221, ...
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 12225 → 12375
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.396595 → 1.413731
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 831300000 → 841500000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 1085895000 → 1096095000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.765544 → 0.767725
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.00879 → 0.008708
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.202598 → 0.200713
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.014366 → 0.014232
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.005802 → 0.005748
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.002901 → 0.002874
+~ Reagent Consumption!O69 [11-10-2026 00:00]: 0 → 150
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 12225 → 12375
++ Reagent Consumption baris 87 [29-10-2026 00:00] ditambahkan: B=day, D·Leaching=150
+_Dibandingkan 23363 sel dari 21 sheet._
+
 ## 29 Oct 2026 · 16:54 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~30 sel; Fuel Consumption: ~1 sel; LT Floculation: ~8 sel; Reagent Consumption: ~7 sel
 + Sheet "Reakapan Log Book " ditambahkan
