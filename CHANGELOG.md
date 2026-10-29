@@ -5,6 +5,57 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 29 Oct 2026 · 16:54 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~30 sel; Fuel Consumption: ~1 sel; LT Floculation: ~8 sel; Reagent Consumption: ~7 sel
++ Sheet "Reakapan Log Book " ditambahkan
+~ Au Cal Leaching Tank!AG30 [6.990741]: 0.65 → 0.396667
+~ Au Cal Leaching Tank!AP30 [6.990741]: 189.0954 → 115.39668
+~ Au Cal Leaching Tank!AU30 [6.990741]: -0.605269 → 0.020375
+~ Au Cal Leaching Tank!BE30 [6.990741]: -71.298663 → 2.400057
+~ Au Cal Leaching Tank!AG31 [22]: 0.69 → 0.453333
+~ Au Cal Leaching Tank!AP31 [22]: 184.0092 → 120.894933
+~ Au Cal Leaching Tank!AU31 [22]: -0.504725 → 0.011388
+~ Au Cal Leaching Tank!BE31 [22]: -61.721604 → 1.392662
+~ Au Cal Leaching Tank!H36 "start toyong" [27]: (kosong) → 29-10-2026 00:00
+~ Au Cal Leaching Tank!I36 [27]: (kosong) → 16:00:00
+~ Au Cal Leaching Tank!J36 [27]: (kosong) → 759
+~ Au Cal Leaching Tank!K36 [27]: (kosong) → 1.6
+~ Au Cal Leaching Tank!L36 [27]: (kosong) → 1.2144
+~ Au Cal Leaching Tank!M36 [27]: (kosong) → 0.36
+~ Au Cal Leaching Tank!N36 [27]: 0 → 338.8176
+~ Au Cal Leaching Tank!O36 [27]: (kosong) → 298.6416
+~ Au Cal Leaching Tank!P36 [27]: (kosong) → 1.24
+~ Au Cal Leaching Tank!V36 [27]: (kosong) → 602.3424
+~ Au Cal Leaching Tank!AR36 [27]: (kosong) → 0
+~ Au Cal Leaching Tank!BD36 [27]: (kosong) → 0
+~ Au Cal Leaching Tank!N60 [51]: 190.047828 → 196.82418
+~ Au Cal Leaching Tank!AG60 [51]: 0.349335 → 0.330489
+~ Au Cal Leaching Tank!AP60 [51]: 2999.554524 → 2862.741537
+~ Au Cal Leaching Tank!AU60 [51]: 0.440853 → 0.488426
+~ Au Cal Leaching Tank!N61 [52]: 8454.79248 → 8753.43408
+~ Au Cal Leaching Tank!BE61 [52]: 2953.058595 → 3089.871581
+~ Au Cal Leaching Tank!N67: 9.428611 → 9.76165
+~ Au Cal Leaching Tank!P67: 226.28666 → 234.279595
+~ Au Cal Leaching Tank!M74: 9.428611 → 9.76165
+~ Au Cal Leaching Tank!M75: 226.28666 → 234.279595
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 4.710938 → 4.550214
+~ LT Floculation!H26 [21]: 0.65 → 0.396667
+~ LT Floculation!H27 [22]: 0.69 → 0.453333
+~ LT Floculation!S171: 0.58 → 0.41
+~ LT Floculation!S172: 0.67 → 0.39
+~ LT Floculation!S173: 0.7 → 0.39
+~ LT Floculation!S174: 0.7 → 0.45
+~ LT Floculation!S175: 0.65 → 0.45
+~ LT Floculation!S176: 0.72 → 0.46
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.445925 → 1.396595
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.490846 → 0.4741
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.591381 → 0.571204
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.061504 → 0.059405
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.026612 → 0.025704
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.024838 → 0.023991
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.007688 → 0.007426
+_Dibandingkan 23236 sel dari 21 sheet._
+
 ## 29 Oct 2026 · 11:04 · Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +3 baris, ~41 sel; Filter Press: +3 baris, ~41 sel; LF Ball Mill: +33 baris, ~6 sel; LT Floculation: +4 baris; Milling Down Time Hours: +1 baris, ~7 sel; Milling and Leach Feed: +7 baris, ~5 sel; Reagent Consumption: +1 baris, ~12 sel; Rom File Inventory: +8 baris, ~4 sel
 - Sheet "Sheet1" dihapus
