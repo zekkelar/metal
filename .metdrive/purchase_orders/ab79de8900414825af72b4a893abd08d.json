@@ -6,7 +6,7 @@
   "order_date": "2026-10-29",
   "eta_date": "",
   "currency": "IDR",
-  "status": "Diajukan",
+  "status": "Draft",
   "items": [
     {
       "name": "ELBOW 1 INCH",
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-29 17:38:56",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-29 20:26:46"
+  "updated_at": "2026-10-29 20:26:57"
 }
