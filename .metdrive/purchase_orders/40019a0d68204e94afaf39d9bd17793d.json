@@ -9,7 +9,7 @@
   "status": "Draft",
   "items": [
     {
-      "name": "PIPA PVC 4 meter",
+      "name": "PIPA PVC 4 meter 1 INCH",
       "quantity": 2.0,
       "unit": "pcs",
       "unit_price": 0.0,
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-29 17:36:31",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-29 17:37:14"
+  "updated_at": "2026-10-29 17:39:10"
 }
