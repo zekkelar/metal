@@ -2,7 +2,7 @@
   "id": "ab79de8900414825af72b4a893abd08d",
   "po_number": "PO-20261029-526A",
   "supplier": "-",
-  "requester": "GanyuChan@MSI",
+  "requester": "STANLEY",
   "order_date": "2026-10-29",
   "eta_date": "",
   "currency": "IDR",
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-29 17:38:56",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-29 20:26:57"
+  "updated_at": "2026-10-29 20:39:56"
 }
