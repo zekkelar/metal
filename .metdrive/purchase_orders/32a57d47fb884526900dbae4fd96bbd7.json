@@ -1,0 +1,26 @@
+{
+  "id": "32a57d47fb884526900dbae4fd96bbd7",
+  "po_number": "PO-20261030-F8F9",
+  "supplier": "-",
+  "requester": "STANLEY",
+  "order_date": "2026-10-30",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "Filtering Flask",
+      "quantity": 1.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "Untuk spare juga, keperluan vacuum",
+  "related_file": "CHANGELOG.md",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-30 17:51:55",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-30 17:51:55"
+}
