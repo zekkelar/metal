@@ -5,6 +5,44 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 30 Oct 2026 · 18:19 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +3 baris; Milling and Leach Feed: -31 baris
++ Au Cal Leaching Tank baris 97 ditambahkan: V=Batch Process, W=Waktu Penggilingan Ball Mill, X=Tonnage/Hour, Y=Batch, Z=Tinggi Plat, AA=Volume Slurry, AB=Material Solid (Ton)
++ Au Cal Leaching Tank baris 99 ditambahkan: V=Siklus Pengolahan, W=Dalam satu proses batch pengolahan, X=Tph, Y=Proses, Z=Slurry/Batch proses, AA=Per Batch Pengolahan
++ Au Cal Leaching Tank baris 101 ditambahkan: V=1
+- Milling and Leach Feed baris 160 dikosongkan: T=0.529667
+- Milling and Leach Feed baris 161 dikosongkan: T=0.381, V=0.097206
+- Milling and Leach Feed baris 162 dikosongkan: T=0.641667
+- Milling and Leach Feed baris 163 dikosongkan: P=80, T=0.542667
+- Milling and Leach Feed baris 164 dikosongkan: K=84, P=82, T=0.542667
+- Milling and Leach Feed baris 165 dikosongkan: F=86, K=82, P=84, T=0.321
+- Milling and Leach Feed baris 166 dikosongkan: F=83, K=76, P=84, T=0.474333
+- Milling and Leach Feed baris 167 dikosongkan: F=84, K=83, L=79, M=81, P=83, T=0.432667
+- Milling and Leach Feed baris 168 dikosongkan: F=83, I=83, J=78, K=75, L=79, M=76, P=80, T=0.397333
+- Milling and Leach Feed baris 169 dikosongkan: F=85, H·Milling And Leach Feed M=78, I=86, J=79, K=76, L=79, M=76, P=86, ...
+- Milling and Leach Feed baris 170 dikosongkan: F=86, H·Milling And Leach Feed M=81, I=79, J=82, K=69, L=79, M=78, P=83, ...
+- Milling and Leach Feed baris 171 dikosongkan: F=86, H·Milling And Leach Feed M=79, I=80, J=80, K=66, L=76, M=76, P=82, ...
+- Milling and Leach Feed baris 172 dikosongkan: F=85, H·Milling And Leach Feed M=80, I=86, J=76, K=73, L=85, M=79, P=80, ...
+- Milling and Leach Feed baris 173 dikosongkan: F=85, H·Milling And Leach Feed M=76, I=79, J=79, K=71, L=78, M=85, P=82, ...
+- Milling and Leach Feed baris 174 dikosongkan: F=84, H·Milling And Leach Feed M=84, I=87, J=82, K=66, L=79, M=78, P=83, ...
+- Milling and Leach Feed baris 175 dikosongkan: F=88, H·Milling And Leach Feed M=83, I=82, J=76, K=73, L=79, M=81, P=72, ...
+- Milling and Leach Feed baris 176 dikosongkan: F=85, H·Milling And Leach Feed M=76, I=80, J=76, K=84, L=76, M=76, P=82, ...
+- Milling and Leach Feed baris 177 dikosongkan: F=83, H·Milling And Leach Feed M=83, I=87, J=76, K=76, L=75, M=88, P=82, ...
+- Milling and Leach Feed baris 178 dikosongkan: F=85, H·Milling And Leach Feed M=83, I=80, J=81, K=74, L=83, M=82, P=84, ...
+- Milling and Leach Feed baris 179 dikosongkan: F=84, H·Milling And Leach Feed M=76, I=80, J=74, K=82, L=82, M=78, P=85, ...
+- Milling and Leach Feed baris 180 dikosongkan: F=76, H·Milling And Leach Feed M=84, I=85, J=75, K=82, L=74, M=76, P=82, ...
+- Milling and Leach Feed baris 181 dikosongkan: F=85, H·Milling And Leach Feed M=79, I=85, J=73, K=75, L=76, M=84, P=78, ...
+- Milling and Leach Feed baris 182 dikosongkan: F=84, H·Milling And Leach Feed M=78, I=85, J=80, K=62, L=85, M=84, P=72
+- Milling and Leach Feed baris 183 dikosongkan: F=82, H·Milling And Leach Feed M=73, I=85, J=78, K=65, L=79, M=76, Q=72
+- Milling and Leach Feed baris 184 dikosongkan: F=81, H·Milling And Leach Feed M=84, I=83, J=76, K=64, M=84, Q=75
+- Milling and Leach Feed baris 185 dikosongkan: F=76, H·Milling And Leach Feed M=84, J=81, K=73, M=80, Q=72
+- Milling and Leach Feed baris 186 dikosongkan: F=83, J=81, K=75, M=84, Q=60
+- Milling and Leach Feed baris 187 dikosongkan: F=80, J=81, K=82, M=84
+- Milling and Leach Feed baris 188 dikosongkan: F=82, M=74
+- Milling and Leach Feed baris 189 dikosongkan: M=80
+- Milling and Leach Feed baris 190 dikosongkan: M=80
+_Dibandingkan 23540 sel dari 22 sheet._
+
 ## 30 Oct 2026 · 16:47 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Milling and Leach Feed: ~16 sel
 + Sheet "OKTOBER REPORT ALL TIME" ditambahkan
