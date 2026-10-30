@@ -1,0 +1,26 @@
+{
+  "id": "dcd13e42a3e1455eb467f051f4448028",
+  "po_number": "PO-20261030-808A",
+  "supplier": "-",
+  "requester": "STANLEY",
+  "order_date": "2026-10-30",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "CORONG BUCHNER",
+      "quantity": 2.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "Beli 2 buat spare, untuk vakum",
+  "related_file": "CHANGELOG.md",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-30 17:51:14",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-30 17:51:14"
+}
