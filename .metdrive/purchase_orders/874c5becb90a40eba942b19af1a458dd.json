@@ -1,0 +1,26 @@
+{
+  "id": "874c5becb90a40eba942b19af1a458dd",
+  "po_number": "PO-20261031-7708",
+  "supplier": "-",
+  "requester": "buy",
+  "order_date": "2026-10-31",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "safety valve",
+      "quantity": 1.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "created_by": "ramda@DyanPro73",
+  "created_at": "2026-10-31 21:30:39",
+  "updated_by": "ramda@DyanPro73",
+  "updated_at": "2026-10-31 21:30:39"
+}
