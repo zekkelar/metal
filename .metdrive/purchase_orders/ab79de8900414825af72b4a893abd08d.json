@@ -6,7 +6,7 @@
   "order_date": "2026-10-29",
   "eta_date": "",
   "currency": "IDR",
-  "status": "Diajukan",
+  "status": "Draft",
   "items": [
     {
       "name": "ELBOW 1 INCH",
@@ -18,9 +18,9 @@
   ],
   "total": 0.0,
   "notes": "",
-  "related_file": "",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-29 17:38:56",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-30 17:55:12"
+  "updated_at": "2026-10-31 15:16:50"
 }
