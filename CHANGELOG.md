@@ -5,6 +5,10 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 31 Oct 2026 · 13:01 · Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx · Dyan Ramdhani 112@Dyan112
+Ringkasan: file baru
++ file baru
+
 ## 31 Oct 2026 · 00:12 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +17 baris, ~43 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: +16 baris, ~45 sel; Milling and Leach Feed_OLD: ~5 sel; Reagent Consumption: ~7 sel
 ~ Au Cal Leaching Tank!C34 [25]: 36 → 31
