@@ -5,6 +5,35 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 31 Oct 2026 · 16:25 · Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx · ramda@DyanPro73
+Ringkasan: F_Material Request: +9 baris, ~14 sel, -2 baris
+~ F_Material Request!D4 "No. MR : MR.______.____.": Tanggal Dibutuhkan : 26/ 10  / 2026 → Tanggal Dibutuhkan : 02 / 11  / 2026
++ F_Material Request baris 14 [7] ditambahkan: B=Timbangan duduk digital, E=max 35 Kg, F=2, G=Unit, H·Tanggal MR : ___  / ___ =Lab Metalurgi, I=untuk menimbang sample dari pabrik da...
++ F_Material Request baris 15 [8] ditambahkan: B=Pipa PVC, E=4 meter, 1 inch, F=1, G=pcs, H·Tanggal MR : ___  / ___ =Gold Room, I=untuk jalur flushing line carbon  out...
++ F_Material Request baris 16 [9] ditambahkan: B=Elbow PVC, E=1 inch, F=4, G=pcs, H·Tanggal MR : ___  / ___ =Gold Room, I=untuk jalur flushing line carbon  out...
++ F_Material Request baris 17 [10] ditambahkan: B=Water mur, E=1 inch, F=4, G=pcs, H·Tanggal MR : ___  / ___ =Gold Room, I=untuk jalur flushing line carbon  out...
++ F_Material Request baris 18 [11] ditambahkan: A=11
+~ F_Material Request!A19 [12]: PENTING : → 12
+~ F_Material Request!C19 [12]: 1. DOKUMEN BERSIFAT INTERNAL, BUKAN U... → (kosong)
+~ F_Material Request!A20 [13]: (kosong) → 13
+~ F_Material Request!C20 [13]: 2. KHUSUS JENIS KEBUTUHAN MAINTENANCE... → (kosong)
+~ F_Material Request!A22 [PENTING :]: Pemohon → PENTING :
+~ F_Material Request!C22 [PENTING :]: (kosong) → 1. DOKUMEN BERSIFAT INTERNAL, BUKAN U...
+~ F_Material Request!D22 "No. MR : MR.______.____." [PENTING :]: Pemeriksa (Maintenance / Replacement) → (kosong)
+~ F_Material Request!G22 [PENTING :]: Dept. Head / Manager → (kosong)
+~ F_Material Request!I22 [PENTING :]: Supply Chain Management → (kosong)
++ F_Material Request baris 23 [2. KHUSUS JENIS KEBUTUHA] ditambahkan: C=2. KHUSUS JENIS KEBUTUHAN MAINTENANCE...
++ F_Material Request baris 25 [Pemohon] ditambahkan: A=Pemohon, D·No. MR : MR.______.____.=Pemeriksa (Maintenance / Replacement), G=Dept. Head / Manager, I=Supply Chain Management
+- F_Material Request baris 27 [Nama : Dyan Ramdhani] dikosongkan: A=Nama : Dyan Ramdhani, D·No. MR : MR.______.____.=Nama :, E=Kristian Djalimun, G=Nama :, I=Nama :
+- F_Material Request baris 28 [Tanggal : 31/10/2026] dikosongkan: A=Tanggal : 31/10/2026, D·No. MR : MR.______.____.=Tanggal :, E=31-10-2026 00:00, G=Tanggal :, I=Tanggal :
+~ F_Material Request!A30 [Nama : Dyan Ramdhani]: Keterangan Maintenance / Replacement ... → Nama : Dyan Ramdhani
+~ F_Material Request!D30 "No. MR : MR.______.____." [Nama : Dyan Ramdhani]: (kosong) → Nama :
+~ F_Material Request!G30 [Nama : Dyan Ramdhani]: (kosong) → Nama : Kristian Djalimun
+~ F_Material Request!I30 [Nama : Dyan Ramdhani]: (kosong) → Nama :
++ F_Material Request baris 31 [Tanggal : 31/10/2026] ditambahkan: A=Tanggal : 31/10/2026, D·No. MR : MR.______.____.=Tanggal :, G=Tanggal : 31/10/2026, I=Tanggal :
++ F_Material Request baris 33 [Keterangan Maintenance /] ditambahkan: A=Keterangan Maintenance / Replacement ...
+_Dibandingkan 111 sel dari 1 sheet._
+
 ## 31 Oct 2026 · 15:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: EW&ELUTION: +1 baris, ~37 sel
 ~ EW&ELUTION!N24 "Rata-rata deposisi" [31-10-2026 00:00]: 0.298656 → 0.674528
