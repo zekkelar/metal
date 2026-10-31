@@ -5,6 +5,11 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 31 Oct 2026 · 21:46 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris
++ Au Cal Leaching Tank baris 37 [28] ditambahkan: R=0.38, S=1.25, U=51.3
+_Dibandingkan 23884 sel dari 21 sheet._
+
 ## 31 Oct 2026 · 16:25 · Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx · ramda@DyanPro73
 Ringkasan: F_Material Request: +9 baris, ~14 sel, -2 baris
 ~ F_Material Request!D4 "No. MR : MR.______.____.": Tanggal Dibutuhkan : 26/ 10  / 2026 → Tanggal Dibutuhkan : 02 / 11  / 2026
