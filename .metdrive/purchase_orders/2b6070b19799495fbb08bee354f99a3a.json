@@ -1,0 +1,26 @@
+{
+  "id": "2b6070b19799495fbb08bee354f99a3a",
+  "po_number": "PO-20261031-FD70",
+  "supplier": "-",
+  "requester": "GanyuChan@MSI",
+  "order_date": "2026-10-31",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "Volt Meter",
+      "quantity": 5.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "",
+  "related_file": "Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-10-31 14:54:16",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-10-31 14:54:16"
+}
