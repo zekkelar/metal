@@ -5,6 +5,48 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 31 Oct 2026 · 15:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: EW&ELUTION: +1 baris, ~37 sel
+~ EW&ELUTION!N24 "Rata-rata deposisi" [31-10-2026 00:00]: 0.298656 → 0.674528
++ EW&ELUTION baris 26 ditambahkan: L·Au Out=1.0652, M·%=0.8
+~ EW&ELUTION!F28 "PPM Cyanide": (kosong) → 3600
+~ EW&ELUTION!I28 "IN": (kosong) → 4
+~ EW&ELUTION!J28 "OUT": (kosong) → 4
+~ EW&ELUTION!K28 "Au In": (kosong) → 10.417
+~ EW&ELUTION!L28 "Au Out": (kosong) → 1.7
+~ EW&ELUTION!M28 "%": #DIV/0! → 0.836805
+~ EW&ELUTION!F29 "PPM Cyanide": (kosong) → 3600
+~ EW&ELUTION!I29 "IN": (kosong) → 5
+~ EW&ELUTION!J29 "OUT": (kosong) → 5
+~ EW&ELUTION!K29 "Au In": (kosong) → 10.083
+~ EW&ELUTION!L29 "Au Out": (kosong) → 1.078
+~ EW&ELUTION!M29 "%": #DIV/0! → 0.893087
+~ EW&ELUTION!F30 "PPM Cyanide": (kosong) → 3600
+~ EW&ELUTION!I30 "IN": (kosong) → 6
+~ EW&ELUTION!J30 "OUT": (kosong) → 6
+~ EW&ELUTION!K30 "Au In": (kosong) → 10.451
+~ EW&ELUTION!L30 "Au Out": (kosong) → 0.99
+~ EW&ELUTION!M30 "%": #DIV/0! → 0.905272
+~ EW&ELUTION!F31 "PPM Cyanide": (kosong) → 2700
+~ EW&ELUTION!I31 "IN": (kosong) → 7
+~ EW&ELUTION!J31 "OUT": (kosong) → 7
+~ EW&ELUTION!K31 "Au In": (kosong) → 14.815
+~ EW&ELUTION!L31 "Au Out": (kosong) → 0.732
+~ EW&ELUTION!M31 "%": #DIV/0! → 0.950591
+~ EW&ELUTION!F32 "PPM Cyanide": (kosong) → 2700
+~ EW&ELUTION!I32 "IN": (kosong) → 8
+~ EW&ELUTION!J32 "OUT": (kosong) → 8
+~ EW&ELUTION!K32 "Au In": (kosong) → 10.996
+~ EW&ELUTION!L32 "Au Out": (kosong) → 2.048
+~ EW&ELUTION!M32 "%": #DIV/0! → 0.81375
+~ EW&ELUTION!F33 "PPM Cyanide": (kosong) → 2700
+~ EW&ELUTION!I33 "IN": (kosong) → 9
+~ EW&ELUTION!J33 "OUT": (kosong) → 9
+~ EW&ELUTION!K33 "Au In": (kosong) → 11.388
+~ EW&ELUTION!L33 "Au Out": (kosong) → 3.988
+~ EW&ELUTION!M33 "%": #DIV/0! → 0.649807
+_Dibandingkan 23840 sel dari 21 sheet._
+
 ## 31 Oct 2026 · 16:00 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~40 sel; EW&ELUTION: +10 baris, ~10 sel; Filter Press: ~11 sel; LF Ball Mill: +6 baris, -1 baris; Milling Down Time Hours: +2 baris, ~59 sel; Milling and Leach Feed: +6 baris, ~22 sel; Reagent Consumption: ~14 sel
 - Sheet "OKTOBER REPORT ALL TIME" dihapus
