@@ -5,6 +5,12 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 02 Nov 2026 · 03:32 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · Dyan Ramdhani 112@Dyan112
+Ringkasan: Au Cal Leaching Tank: +2 baris
++ Au Cal Leaching Tank baris 36 [27] ditambahkan: W=8799.55008
++ Au Cal Leaching Tank baris 37 [28] ditambahkan: W=9111.68108
+_Dibandingkan 24262 sel dari 21 sheet._
+
 ## 01 Nov 2026 · 21:52 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~24 sel; EW&ELUTION: +19 baris, ~19 sel; LF Ball Mill: +42 baris, ~21 sel, -9 baris; LT Floculation: +10 baris; Milling Down Time Hours: ~4 sel; Milling and Leach Feed: +4 baris, ~9 sel; Reagent Consumption: +1 baris, ~12 sel
 ~ Au Cal Leaching Tank!X34 [25]: 0.425222 → 0.447222
