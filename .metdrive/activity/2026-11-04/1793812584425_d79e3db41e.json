@@ -1,0 +1,17 @@
+{
+  "id": "1793812584425_d79e3db41e",
+  "created_epoch": 1793812584,
+  "created_at": "2026-11-05 00:16:24",
+  "actor": "GanyuChan@MSI",
+  "kind": "po",
+  "action": "update",
+  "title": "Memperbarui PO PO-20261031-F39A",
+  "detail": "Status: Draft -> Disetujui",
+  "target_path": ".metdrive/purchase_orders/38233669aff542358db9250a6bfdb2bd.json",
+  "entity_id": "38233669aff542358db9250a6bfdb2bd",
+  "related_file": "Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx",
+  "metadata": {
+    "status": "Disetujui",
+    "supplier": "-"
+  }
+}
