@@ -5,6 +5,21 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 04 Nov 2026 · 11:38 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~10 sel; LT Floculation: ~1 sel
+~ Au Cal Leaching Tank!AI38 [29]: (kosong) → 0.08
+~ Au Cal Leaching Tank!AR38 [29]: 0 → 50.3132
+~ Au Cal Leaching Tank!BD38 [29]: 0 → -50.3132
+~ Au Cal Leaching Tank!H39 "start toyong" [30]: 03-11-2026 00:00 → 04-11-2026 00:00
+~ Au Cal Leaching Tank!I39 [30]: (kosong) → 09:00:00
+~ Au Cal Leaching Tank!AI60 [51]: 0.04025 → 0.041621
+~ Au Cal Leaching Tank!AR60 [51]: 710.225133 → 760.538333
+~ Au Cal Leaching Tank!BD61 [52]: 3651.842434 → 3601.529234
+~ Au Cal Leaching Tank!AL63: 3651.842434 → 3601.529234
+~ Au Cal Leaching Tank!BD63: 2921.473947 → 2881.223387
+~ LT Floculation!R228: 0.94 → 0.094
+_Dibandingkan 25145 sel dari 21 sheet._
+
 ## 03 Nov 2026 · 19:39 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~12 sel; Daily Summary : ~3 sel; LF Ball Mill: +6 baris; LT Floculation: +4 baris; Milling Down Time Hours: +1 baris, ~7 sel; Milling and Leach Feed: +3 baris, ~5 sel; Reagent Consumption: +1 baris, ~12 sel
 ~ Au Cal Leaching Tank!H38 "start toyong" [29]: 02-10-2026 00:00 → 02-11-2026 00:00
