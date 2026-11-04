@@ -5,6 +5,36 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 04 Nov 2026 · 11:42 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~12 sel; Filter Press: ~11 sel; LT Floculation: ~2 sel; Milling and Leach Feed: +1 baris
+~ Au Cal Leaching Tank!AH37 [28]: 14.198 → 12.767143
+~ Au Cal Leaching Tank!AQ37 [28]: 4431.635938 → 3985.021067
+~ Au Cal Leaching Tank!AV37 [28]: -0.105679 → 0.00575
+~ Au Cal Leaching Tank!AY37 [28]: (kosong) → 1
+~ Au Cal Leaching Tank!AZ37 [28]: (kosong) → 671.740781
+~ Au Cal Leaching Tank!BA37 [28]: (kosong) → 77.785357
+~ Au Cal Leaching Tank!BB37 [28]: (kosong) → 23.046665
+~ Au Cal Leaching Tank!BF37 [28]: -423.568206 → 23.046665
+~ Au Cal Leaching Tank!AH60 [51]: 10.875995 → 10.824893
+~ Au Cal Leaching Tank!AQ60 [51]: 99816.94282 → 99370.327949
+~ Au Cal Leaching Tank!AV60 [51]: 0.128382 → 0.132361
+~ Au Cal Leaching Tank!BF61 [52]: 14749.758059 → 15196.37293
+~ Filter Press!R11 "Estimate Capacity per si" [7]: 8661.6 → #VALUE!
+~ Filter Press!C88 [88]: (kosong) → 03-11-2026 00:00
+~ Filter Press!D88 [88]: (kosong) → Night
+~ Filter Press!E88 [88]: (kosong) → tidak jalan
+~ Filter Press!F88 [88]: 0 → #VALUE!
+~ Filter Press!H88 [88]: 0 → #VALUE!
+~ Filter Press!K98 [98]: (kosong) → 03-11-2026 00:00
+~ Filter Press!L98 [98]: Day → Night
+~ Filter Press!M98 [98]: (kosong) → 4
+~ Filter Press!N98 [98]: (kosong) → 48
+~ Filter Press!P98 [98]: (kosong) → 48
+~ LT Floculation!I33 [28]: 14.198 → 12.767143
+~ LT Floculation!R228: 0.094 → 0.94
++ Milling and Leach Feed baris 155 [19] ditambahkan: A=19, B·PIC=03-10-2026 00:00, D=UNKNOWN USER, E=Start Pump
+_Dibandingkan 25160 sel dari 21 sheet._
+
 ## 04 Nov 2026 · 11:38 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~10 sel; LT Floculation: ~1 sel
 ~ Au Cal Leaching Tank!AI38 [29]: (kosong) → 0.08
