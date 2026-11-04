@@ -6,7 +6,7 @@
   "order_date": "2026-10-31",
   "eta_date": "",
   "currency": "IDR",
-  "status": "Draft",
+  "status": "Disetujui",
   "items": [
     {
       "name": "Volt Meter dIGITAL",
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-31 14:54:16",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-11-04 15:28:34"
+  "updated_at": "2026-11-05 00:16:04"
 }
