@@ -5,6 +5,82 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 04 Nov 2026 · 16:03 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: LF Ball Mill: +67 baris, ~4 sel; Milling and Leach Feed: +1 baris
++ LF Ball Mill baris 279 [276] ditambahkan: L=BM 16:00, M·No=01-11-2026 00:00, N·id batch=0.287, O·Id sampel=0.205, P·date=3.71
++ LF Ball Mill baris 280 [277] ditambahkan: L=BM 18:00, M·No=01-11-2026 00:00, N·id batch=0.452, O·Id sampel=0.216, P·date=4.44
++ LF Ball Mill baris 281 [278] ditambahkan: L=BM 08:00, M·No=02-11-2026 00:00, N·id batch=0.264, O·Id sampel=0.222, P·date=3.41
++ LF Ball Mill baris 282 [279] ditambahkan: L=BM 10:00, M·No=02-11-2026 00:00, N·id batch=0.185, O·Id sampel=0.237, P·date=3.42
++ LF Ball Mill baris 283 [280] ditambahkan: L=BM 12:00, M·No=02-11-2026 00:00, N·id batch=0.285, O·Id sampel=0.248, P·date=4.35
++ LF Ball Mill baris 301 [303] ditambahkan: T·Au=tidak ada sample,tidak ada air
++ LF Ball Mill baris 302 [304] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=31-10-2026 00:00, V·Cu=0.313, W=0.372, X=5.62
++ LF Ball Mill baris 303 [305] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=31-10-2026 00:00, V·Cu=0.369, W=0.248, X=6.39
++ LF Ball Mill baris 304 [306] ditambahkan: S·Cu (g/t)=150, T·Au=LF THICKENER NS 3, U·Ag=31-10-2026 00:00, V·Cu=0.304, W=0.369, X=6.5
++ LF Ball Mill baris 305 [307] ditambahkan: S·Cu (g/t)=151
++ LF Ball Mill baris 306 [308] ditambahkan: S·Cu (g/t)=152
++ LF Ball Mill baris 307 [309] ditambahkan: S·Cu (g/t)=153
++ LF Ball Mill baris 308 [310] ditambahkan: S·Cu (g/t)=154
++ LF Ball Mill baris 309 [311] ditambahkan: S·Cu (g/t)=155
++ LF Ball Mill baris 310 [312] ditambahkan: S·Cu (g/t)=156
++ LF Ball Mill baris 311 [313] ditambahkan: S·Cu (g/t)=157
++ LF Ball Mill baris 312 [314] ditambahkan: S·Cu (g/t)=158
++ LF Ball Mill baris 313 [315] ditambahkan: S·Cu (g/t)=159
++ LF Ball Mill baris 314 [316] ditambahkan: S·Cu (g/t)=160
++ LF Ball Mill baris 315 [317] ditambahkan: S·Cu (g/t)=161
++ LF Ball Mill baris 316 [318] ditambahkan: S·Cu (g/t)=162
++ LF Ball Mill baris 317 [319] ditambahkan: S·Cu (g/t)=163
++ LF Ball Mill baris 318 [320] ditambahkan: S·Cu (g/t)=164
++ LF Ball Mill baris 319 [321] ditambahkan: S·Cu (g/t)=165
++ LF Ball Mill baris 320 [322] ditambahkan: S·Cu (g/t)=166
++ LF Ball Mill baris 321 [323] ditambahkan: S·Cu (g/t)=167
++ LF Ball Mill baris 322 [324] ditambahkan: S·Cu (g/t)=168
++ LF Ball Mill baris 323 [325] ditambahkan: S·Cu (g/t)=169
++ LF Ball Mill baris 324 [326] ditambahkan: S·Cu (g/t)=170
++ LF Ball Mill baris 325 [327] ditambahkan: S·Cu (g/t)=171
++ LF Ball Mill baris 326 [328] ditambahkan: S·Cu (g/t)=172
++ LF Ball Mill baris 327 [329] ditambahkan: S·Cu (g/t)=173
++ LF Ball Mill baris 328 [330] ditambahkan: S·Cu (g/t)=174
++ LF Ball Mill baris 329 [331] ditambahkan: S·Cu (g/t)=175
++ LF Ball Mill baris 330 [332] ditambahkan: S·Cu (g/t)=176
++ LF Ball Mill baris 331 [333] ditambahkan: S·Cu (g/t)=177
++ LF Ball Mill baris 332 [334] ditambahkan: S·Cu (g/t)=178
++ LF Ball Mill baris 333 [335] ditambahkan: S·Cu (g/t)=179
++ LF Ball Mill baris 334 [336] ditambahkan: S·Cu (g/t)=180
++ LF Ball Mill baris 335 [337] ditambahkan: S·Cu (g/t)=181
++ LF Ball Mill baris 336 [338] ditambahkan: S·Cu (g/t)=182
++ LF Ball Mill baris 337 [339] ditambahkan: S·Cu (g/t)=183
++ LF Ball Mill baris 338 [340] ditambahkan: S·Cu (g/t)=184
++ LF Ball Mill baris 339 [341] ditambahkan: S·Cu (g/t)=185
++ LF Ball Mill baris 340 [342] ditambahkan: S·Cu (g/t)=186
++ LF Ball Mill baris 341 [343] ditambahkan: S·Cu (g/t)=187
++ LF Ball Mill baris 342 [344] ditambahkan: S·Cu (g/t)=188
++ LF Ball Mill baris 343 [345] ditambahkan: S·Cu (g/t)=189
++ LF Ball Mill baris 344 [346] ditambahkan: S·Cu (g/t)=190
++ LF Ball Mill baris 345 [347] ditambahkan: S·Cu (g/t)=191
++ LF Ball Mill baris 346 [348] ditambahkan: S·Cu (g/t)=192
++ LF Ball Mill baris 347 [349] ditambahkan: S·Cu (g/t)=193
++ LF Ball Mill baris 348 [350] ditambahkan: S·Cu (g/t)=194
++ LF Ball Mill baris 349 [351] ditambahkan: S·Cu (g/t)=195
++ LF Ball Mill baris 350 [352] ditambahkan: S·Cu (g/t)=196
++ LF Ball Mill baris 351 [353] ditambahkan: S·Cu (g/t)=197
++ LF Ball Mill baris 352 [354] ditambahkan: S·Cu (g/t)=198
++ LF Ball Mill baris 353 [355] ditambahkan: S·Cu (g/t)=199
++ LF Ball Mill baris 354 [356] ditambahkan: S·Cu (g/t)=200
++ LF Ball Mill baris 355 [357] ditambahkan: S·Cu (g/t)=201
++ LF Ball Mill baris 356 [358] ditambahkan: S·Cu (g/t)=202
++ LF Ball Mill baris 357 [359] ditambahkan: S·Cu (g/t)=203
++ LF Ball Mill baris 358 [360] ditambahkan: S·Cu (g/t)=204
+~ LF Ball Mill!C359 "id batch" [361]: 30 → 29
+~ LF Ball Mill!S359 "Cu (g/t)" [361]: (kosong) → 205
++ LF Ball Mill baris 360 [362] ditambahkan: S·Cu (g/t)=206
+~ LF Ball Mill!C362 "id batch" [364]: sample tidak ada dikarenakan sedang a... → (kosong)
+~ LF Ball Mill!D362 "Id sampel" [364]: (kosong) → sample tidak ada dikarenakan sedang a...
++ LF Ball Mill baris 363 [365] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=31-10-2026 00:00, F·au (g/t)=0.459, G·ag (g/t)=0.231, H·Cu (g/t)=11.11
++ LF Ball Mill baris 364 [366] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=31-10-2026 00:00, F·au (g/t)=0.41, G·ag (g/t)=0.21, H·Cu (g/t)=11.73
++ LF Ball Mill baris 365 [367] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=31-10-2026 00:00, F·au (g/t)=0.482, G·ag (g/t)=0.237, H·Cu (g/t)=12.06
++ Milling and Leach Feed baris 149 [31-10-2026 00:00] ditambahkan: T=0.450333, U=0.226, V=11.633333, W=25.60205, X=12.848401, Y=661.370511
+_Dibandingkan 25304 sel dari 21 sheet._
+
 ## 04 Nov 2026 · 14:29 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~7 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: ~23 sel; Reagent Consumption: +1 baris, ~7 sel
 ~ Au Cal Leaching Tank!K38 [29]: 1.48 → 1.33
