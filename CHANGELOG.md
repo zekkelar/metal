@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 05 Nov 2026 · 18:06 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +3 baris, ~51 sel; Crushing: ~1 sel; Filter Press: +24 baris, ~61 sel; LF Ball Mill: +220 baris; Milling Down Time Hours: +1 baris, ~8 sel; Milling and Leach Feed: +6 baris, ~9 sel; Reagent Consumption: ~14 sel
+~ Au Cal Leaching Tank!R38 [29]: (kosong) → 0.36
+~ Au Cal Leaching Tank!S38 [29]: (kosong) → 1.245
+~ Au Cal Leaching Tank!U38 [29]: (kosong) → 48.4056
+~ Au Cal Leaching Tank!X38 [29]: (kosong) → 0.455533
+~ Au Cal Leaching Tank!Y38 [29]: (kosong) → 0.4302
+~ Au Cal Leaching Tank!Z38 [29]: (kosong) → 13.173333
+~ Au Cal Leaching Tank!AA38 [29]: (kosong) → 0.451729
+~ Au Cal Leaching Tank!AB38 [29]: (kosong) → 0.425728
+~ Au Cal Leaching Tank!AC38 [29]: (kosong) → 13.125203
+~ Au Cal Leaching Tank!AD38 [29]: (kosong) → 0.003804
+~ Au Cal Leaching Tank!AE38 [29]: (kosong) → 0.002096
+~ Au Cal Leaching Tank!AL38 [29]: 0 → 100.731813
+~ Au Cal Leaching Tank!AM38 [29]: 0 → 95.129868
+~ Au Cal Leaching Tank!AN38 [29]: 0 → 2902.368258
+~ Au Cal Leaching Tank!AT38 [29]: (kosong) → 0.500523
+~ Au Cal Leaching Tank!AU38 [29]: (kosong) → 1
+~ Au Cal Leaching Tank!AV38 [29]: (kosong) → 1
+~ Au Cal Leaching Tank!BD38 [29]: -50.3132 → 50.418613
+~ Au Cal Leaching Tank!BE38 [29]: 0 → 95.129868
+~ Au Cal Leaching Tank!BF38 [29]: 0 → 2902.368258
+~ Au Cal Leaching Tank!R39 [30]: (kosong) → 0.36
+~ Au Cal Leaching Tank!S39 [30]: (kosong) → 1.245
+~ Au Cal Leaching Tank!U39 [30]: (kosong) → 48.4056
+~ Au Cal Leaching Tank!AI39 [30]: (kosong) → 0.08
+~ Au Cal Leaching Tank!AR39 [30]: 0 → 47.557472
+~ Au Cal Leaching Tank!BD39 [30]: 0 → -47.557472
++ Au Cal Leaching Tank baris 40 [31] ditambahkan: U=0
++ Au Cal Leaching Tank baris 41 [32] ditambahkan: U=0
++ Au Cal Leaching Tank baris 42 [33] ditambahkan: U=0
+~ Au Cal Leaching Tank!X60 [51]: 0.577253 → 0.573056
+~ Au Cal Leaching Tank!Y60 [51]: 0.695982 → 0.686817
+~ Au Cal Leaching Tank!Z60 [51]: 12.44339 → 12.468561
+~ Au Cal Leaching Tank!AA60 [51]: 0.576396 → 0.572097
+~ Au Cal Leaching Tank!AB60 [51]: 0.730386 → 0.71988
+~ Au Cal Leaching Tank!AC60 [51]: 12.396095 → 12.421237
+~ Au Cal Leaching Tank!AI60 [51]: 0.041621 → 0.0429
+~ Au Cal Leaching Tank!AL60 [51]: 5258.078459 → 5358.810271
+~ Au Cal Leaching Tank!AM60 [51]: 6619.609333 → 6714.739201
+~ Au Cal Leaching Tank!AN60 [51]: 114566.700879 → 117469.069137
+~ Au Cal Leaching Tank!AR60 [51]: 760.538333 → 808.095805
+~ Au Cal Leaching Tank!AT60 [51]: 0.661524 → 0.655972
+~ Au Cal Leaching Tank!AU60 [51]: 0.496627 → 0.513985
+~ Au Cal Leaching Tank!AV60 [51]: 0.132361 → 0.16228
+~ Au Cal Leaching Tank!BD61 [52]: 3601.529234 → 3654.703574
+~ Au Cal Leaching Tank!BE61 [52]: 3585.185839 → 3680.315707
+~ Au Cal Leaching Tank!BF61 [52]: 15196.37293 → 18098.741189
+~ Au Cal Leaching Tank!X62: 0.560233 → 0.558056
+~ Au Cal Leaching Tank!Y62: 0.5775 → 0.566667
+~ Au Cal Leaching Tank!Z62: 12.17575 → 12.970833
+~ Au Cal Leaching Tank!AA62: 0.562588 → 0.551109
+~ Au Cal Leaching Tank!AB62: 0.594584 → 0.594185
+~ Au Cal Leaching Tank!AC62: 11.956799 → 12.811169
+~ Au Cal Leaching Tank!AL63: 3601.529234 → 3654.703574
+~ Au Cal Leaching Tank!BD63: 2881.223387 → 2923.76286
+~ Crushing!N180 "Tonage/Day (Tpd)" [Total]: 2914.18355 → 8872.19307
+~ Filter Press!C86 [86]: 02-11-2026 00:00 → 31-10-2026 00:00
+~ Filter Press!D86 [86]: Day → Night
+~ Filter Press!E86 [86]: 3 → 5
+~ Filter Press!F86 [86]: 18 → 30
+~ Filter Press!H86 [86]: 18 → 30
+~ Filter Press!D87 [87]: Night → Day
+~ Filter Press!E87 [87]: 12 → 3
+~ Filter Press!F87 [87]: 72 → 18
+~ Filter Press!H87 [87]: 72 → 18
+~ Filter Press!C88 [88]: 03-11-2026 00:00 → 02-11-2026 00:00
+~ Filter Press!E88 [88]: tidak jalan → 12
+~ Filter Press!F88 [88]: #VALUE! → 72
+~ Filter Press!H88 [88]: #VALUE! → 72
+~ Filter Press!C89 [89]: (kosong) → 03-11-2026 00:00
+~ Filter Press!D89 [89]: (kosong) → day
+~ Filter Press!E89 [89]: (kosong) → 2
+~ Filter Press!F89 [89]: 0 → 12
+~ Filter Press!H89 [89]: 0 → 12
+~ Filter Press!C90 [90]: (kosong) → 03-11-2026 00:00
+~ Filter Press!D90 [90]: (kosong) → Night
+~ Filter Press!E90 [90]: (kosong) → tidak ada sample
+~ Filter Press!F90 [90]: 0 → #VALUE!
+~ Filter Press!H90 [90]: 0 → #VALUE!
+~ Filter Press!C91 [91]: (kosong) → 04-11-2026 00:00
+~ Filter Press!D91 [91]: (kosong) → day
+~ Filter Press!E91 [91]: (kosong) → 1
+~ Filter Press!F91 [91]: 0 → 6
+~ Filter Press!H91 [91]: 0 → 6
+~ Filter Press!K96 [96]: 02-11-2026 00:00 → 31-10-2026 00:00
+~ Filter Press!L96 [96]: Day → Night
+~ Filter Press!M96 [96]: 3 → 9
+~ Filter Press!N96 [96]: 36 → 108
+~ Filter Press!P96 [96]: 36 → 108
+~ Filter Press!L97 [97]: Night → Day
+~ Filter Press!M97 [97]: 12 → 3
+~ Filter Press!N97 [97]: 144 → 36
+~ Filter Press!P97 [97]: 144 → 36
+~ Filter Press!K98 [98]: 03-11-2026 00:00 → 02-11-2026 00:00
+~ Filter Press!M98 [98]: 4 → 12
+~ Filter Press!N98 [98]: 48 → 144
+~ Filter Press!P98 [98]: 48 → 144
+~ Filter Press!K99 [99]: (kosong) → 03-11-2026 00:00
+~ Filter Press!L99 [99]: Night → Day
+~ Filter Press!M99 [99]: (kosong) → 3
+~ Filter Press!N99 [99]: (kosong) → 36
+~ Filter Press!P99 [99]: (kosong) → 36
+~ Filter Press!K100 [100]: (kosong) → 03-11-2026 00:00
+~ Filter Press!L100 [100]: Day → Night
+~ Filter Press!M100 [100]: (kosong) → 4
+~ Filter Press!N100 [100]: (kosong) → 48
+~ Filter Press!P100 [100]: (kosong) → 48
+~ Filter Press!K101 [101]: (kosong) → 04-11-2026 00:00
+~ Filter Press!L101 [101]: Night → day
+~ Filter Press!M101 [101]: (kosong) → 6
+~ Filter Press!N101 [101]: (kosong) → 72
+~ Filter Press!P101 [101]: (kosong) → 72
+~ Filter Press!K102 [102]: (kosong) → 04-11-2026 00:00
+~ Filter Press!L102 [102]: Day → Night
+~ Filter Press!M102 [102]: (kosong) → 10
+~ Filter Press!N102 [102]: (kosong) → 120
+~ Filter Press!P102 [102]: (kosong) → 120
++ Filter Press baris 103 [103] ditambahkan: N=0, P=0
++ Filter Press baris 104 [104] ditambahkan: N=0, P=0
++ Filter Press baris 105 [105] ditambahkan: N=0, P=0
++ Filter Press baris 106 [106] ditambahkan: N=0, P=0
++ Filter Press baris 107 [107] ditambahkan: N=0, P=0
++ Filter Press baris 108 [108] ditambahkan: N=0, P=0
++ Filter Press baris 109 [109] ditambahkan: N=0, P=0
++ Filter Press baris 110 [110] ditambahkan: N=0, P=0
++ Filter Press baris 111 [111] ditambahkan: N=0, P=0
++ Filter Press baris 112 [112] ditambahkan: N=0, P=0
++ Filter Press baris 113 [113] ditambahkan: N=0, P=0
++ Filter Press baris 114 [114] ditambahkan: N=0, P=0
++ Filter Press baris 115 [115] ditambahkan: N=0, P=0
++ Filter Press baris 116 [116] ditambahkan: N=0, P=0
++ Filter Press baris 117 [117] ditambahkan: N=0, P=0
++ Filter Press baris 118 [118] ditambahkan: N=0, P=0
++ Filter Press baris 119 [119] ditambahkan: N=0, P=0
++ Filter Press baris 120 [120] ditambahkan: N=0, P=0
++ Filter Press baris 121 [121] ditambahkan: N=0, P=0
++ Filter Press baris 122 [122] ditambahkan: N=0, P=0
++ Filter Press baris 123 [123] ditambahkan: N=0, P=0
++ Filter Press baris 124 [124] ditambahkan: N=0, P=0
++ Filter Press baris 125 [125] ditambahkan: N=0, P=0
++ Filter Press baris 126 [126] ditambahkan: P=0
++ LF Ball Mill baris 291 [288] ditambahkan: K=137
++ LF Ball Mill baris 292 [289] ditambahkan: K=138
++ LF Ball Mill baris 293 [290] ditambahkan: K=139
++ LF Ball Mill baris 294 [291] ditambahkan: K=140
++ LF Ball Mill baris 295 [292] ditambahkan: K=141
++ LF Ball Mill baris 296 [293] ditambahkan: K=142
++ LF Ball Mill baris 297 [294] ditambahkan: K=143
++ LF Ball Mill baris 298 [295] ditambahkan: K=144
++ LF Ball Mill baris 299 [301] ditambahkan: K=145
++ LF Ball Mill baris 300 [302] ditambahkan: K=146
++ LF Ball Mill baris 301 [303] ditambahkan: K=147
++ LF Ball Mill baris 302 [304] ditambahkan: K=148
++ LF Ball Mill baris 303 [305] ditambahkan: K=149
++ LF Ball Mill baris 304 [306] ditambahkan: K=150
++ LF Ball Mill baris 305 [307] ditambahkan: K=151, T·Au=LF THICKENER DS 1, U·Ag=01-11-2026 00:00, V·Cu=0.587, W=0.44, X=13.9
++ LF Ball Mill baris 306 [308] ditambahkan: K=152, T·Au=LF THICKENER DS 2, U·Ag=01-11-2026 00:00, V·Cu=0.588, W=0.52, X=14.44
++ LF Ball Mill baris 307 [309] ditambahkan: K=153, T·Au=LF THICKENER DS 3, U·Ag=01-11-2026 00:00, V·Cu=0.587, W=0.53, X=13.98
++ LF Ball Mill baris 308 [310] ditambahkan: K=154, T·Au=LF THICKENER NS 1, U·Ag=01-11-2026 00:00, V·Cu=0.58, W=0.55, X=13.25
++ LF Ball Mill baris 309 [311] ditambahkan: K=155, T·Au=LF THICKENER NS 2, U·Ag=01-11-2026 00:00, V·Cu=0.609, W=0.5, X=13.4
++ LF Ball Mill baris 310 [312] ditambahkan: K=156, T·Au=LF THICKENER NS 3, U·Ag=01-11-2026 00:00, V·Cu=0.594, W=0.52, X=13.45
++ LF Ball Mill baris 311 [313] ditambahkan: K=157, T·Au=LF THICKENER DS 1, U·Ag=02-11-2026 00:00, V·Cu=0.75, W=0.65, X=11.27
++ LF Ball Mill baris 312 [314] ditambahkan: K=158, T·Au=LF THICKENER DS 2, U·Ag=02-11-2026 00:00, V·Cu=0.791, W=0.69, X=12.1
++ LF Ball Mill baris 313 [315] ditambahkan: K=159, T·Au=LF THICKENER DS 3, U·Ag=02-11-2026 00:00, V·Cu=0.703, W=0.56, X=12.17
++ LF Ball Mill baris 314 [316] ditambahkan: K=160, T·Au=LF THICKENER DS 4, U·Ag=02-11-2026 00:00, V·Cu=0.716, W=0.58, X=11.99
++ LF Ball Mill baris 315 [317] ditambahkan: K=161
++ LF Ball Mill baris 316 [318] ditambahkan: K=162
++ LF Ball Mill baris 317 [319] ditambahkan: K=163
++ LF Ball Mill baris 318 [320] ditambahkan: K=164
++ LF Ball Mill baris 319 [321] ditambahkan: K=165
++ LF Ball Mill baris 320 [322] ditambahkan: K=166
++ LF Ball Mill baris 321 [323] ditambahkan: K=167
++ LF Ball Mill baris 322 [324] ditambahkan: K=168
++ LF Ball Mill baris 323 [325] ditambahkan: K=169
++ LF Ball Mill baris 324 [326] ditambahkan: K=170
++ LF Ball Mill baris 325 [327] ditambahkan: K=171
++ LF Ball Mill baris 326 [328] ditambahkan: K=172
++ LF Ball Mill baris 327 [329] ditambahkan: K=173
++ LF Ball Mill baris 328 [330] ditambahkan: K=174
++ LF Ball Mill baris 329 [331] ditambahkan: K=175
++ LF Ball Mill baris 330 [332] ditambahkan: K=176
++ LF Ball Mill baris 331 [333] ditambahkan: K=177
++ LF Ball Mill baris 332 [334] ditambahkan: K=178
++ LF Ball Mill baris 333 [335] ditambahkan: K=179
++ LF Ball Mill baris 334 [336] ditambahkan: K=180
++ LF Ball Mill baris 335 [337] ditambahkan: K=181
++ LF Ball Mill baris 336 [338] ditambahkan: K=182
++ LF Ball Mill baris 337 [339] ditambahkan: K=183
++ LF Ball Mill baris 338 [340] ditambahkan: K=184
++ LF Ball Mill baris 339 [341] ditambahkan: K=185
++ LF Ball Mill baris 340 [342] ditambahkan: K=186
++ LF Ball Mill baris 341 [343] ditambahkan: K=187
++ LF Ball Mill baris 342 [344] ditambahkan: K=188
++ LF Ball Mill baris 343 [345] ditambahkan: K=189
++ LF Ball Mill baris 344 [346] ditambahkan: K=190
++ LF Ball Mill baris 345 [347] ditambahkan: K=191
++ LF Ball Mill baris 346 [348] ditambahkan: K=192
++ LF Ball Mill baris 347 [349] ditambahkan: K=193
++ LF Ball Mill baris 348 [350] ditambahkan: K=194
++ LF Ball Mill baris 349 [351] ditambahkan: K=195
++ LF Ball Mill baris 350 [352] ditambahkan: K=196
+- ...dan 378 perubahan lain tidak ditampilkan
+_Dibandingkan 25789 sel dari 21 sheet._
+
 ## 04 Nov 2026 · 16:03 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: LF Ball Mill: +67 baris, ~4 sel; Milling and Leach Feed: +1 baris
 + LF Ball Mill baris 279 [276] ditambahkan: L=BM 16:00, M·No=01-11-2026 00:00, N·id batch=0.287, O·Id sampel=0.205, P·date=3.71
