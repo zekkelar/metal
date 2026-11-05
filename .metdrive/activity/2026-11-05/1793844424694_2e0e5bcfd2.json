@@ -1,0 +1,17 @@
+{
+  "id": "1793844424694_2e0e5bcfd2",
+  "created_epoch": 1793844424,
+  "created_at": "2026-11-05 10:07:04",
+  "actor": "ramda@DyanPro73",
+  "kind": "task",
+  "action": "update",
+  "title": "Memperbarui tugas: mengingatkan ke crew met untuk sample filter press 04/10/2026 ds di ambil dan di sieving  buat menjadi sample flock 03/11/2026 ns",
+  "detail": "Status: Belum mulai -> Selesai",
+  "target_path": ".metdrive/tasks/3f8acc050abe45208062c3114674ba19.json",
+  "entity_id": "3f8acc050abe45208062c3114674ba19",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "metadata": {
+    "status": "Selesai",
+    "priority": "Normal"
+  }
+}
