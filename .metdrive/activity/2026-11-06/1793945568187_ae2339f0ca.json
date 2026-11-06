@@ -1,0 +1,24 @@
+{
+  "id": "1793945568187_ae2339f0ca",
+  "created_epoch": 1793945568,
+  "created_at": "2026-11-06 14:12:48",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "upload",
+  "title": "Memperbarui Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!F40 \"full tanki\" [31]: (kosong) → 05-11-2026 00:00\n~ Au Cal Leaching Tank!G40 [31]: (kosong) → 09:00:00\n~ Au Cal Leaching Tank!H40 \"start toyong\" [31]: (kosong) → 06-11-2026 00:00\n~ Au Cal Leaching Tank!I40 [31]: (kosong) → 00:02:00\n~ Au Cal Leaching Tank!J40 [31]: (kosong) → 773\n~ Au Cal Leaching Tank!M40 [31]: (kosong) → 0.36\n~ Au Cal Leaching Tank!N40 [31]: 0 → 345.0672\n~ Au Cal Leaching Tank!O40 [31]: (kosong) → 296.6616\n~ Au Cal Leaching Tank!P40 [31]: (kosong) → 1.24\n~ Au Cal Leaching Tank!V40 [31]: (kosong) → 613.4528\n~ Au Cal Leaching Tank!AI40 [31]: (kosong) → 0.047\n~ Au Cal Leaching Tank!AR40 [31]: (kosong) → 28.832282\n~ Au Cal Leaching Tank!BD40 [31]: (kosong) → -28.832282\n~ Au Cal Leaching Tank!N60 [51]: 216.674412 → 223.575756\n~ Au Cal Leaching Tank!AI60 [51]: 0.0429 → 0.043032\n~ Au Cal Leaching Tank!AR60 [51]: 808.095805 → 836.928086\n~ Au Cal Leaching Tank!N61 [52]: 9599.74608 → 9896.40768\n~ Au Cal Leaching Tank!BD61 [52]: 3654.703574 → 3625.871293\n~ Au Cal Leaching Tank!AL63: 3654.703574 → 3625.871293\n~ Au Cal Leaching Tank!BD63: 2923.76286 → 2900.697034",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~24 sel",
+      "Daily Summary : ~3 sel",
+      "Filter Press: ~20 sel",
+      "Fuel Consumption: ~1 sel",
+      "Milling Down Time Hours: ~9 sel",
+      "Milling and Leach Feed: +5 baris, ~5 sel",
+      "Reagent Consumption: +1 baris, ~22 sel"
+    ]
+  }
+}
