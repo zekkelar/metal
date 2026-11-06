@@ -5,6 +5,100 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 06 Nov 2026 · 14:12 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~24 sel; Daily Summary : ~3 sel; Filter Press: ~20 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +5 baris, ~5 sel; Reagent Consumption: +1 baris, ~22 sel
+~ Au Cal Leaching Tank!F40 "full tanki" [31]: (kosong) → 05-11-2026 00:00
+~ Au Cal Leaching Tank!G40 [31]: (kosong) → 09:00:00
+~ Au Cal Leaching Tank!H40 "start toyong" [31]: (kosong) → 06-11-2026 00:00
+~ Au Cal Leaching Tank!I40 [31]: (kosong) → 00:02:00
+~ Au Cal Leaching Tank!J40 [31]: (kosong) → 773
+~ Au Cal Leaching Tank!M40 [31]: (kosong) → 0.36
+~ Au Cal Leaching Tank!N40 [31]: 0 → 345.0672
+~ Au Cal Leaching Tank!O40 [31]: (kosong) → 296.6616
+~ Au Cal Leaching Tank!P40 [31]: (kosong) → 1.24
+~ Au Cal Leaching Tank!V40 [31]: (kosong) → 613.4528
+~ Au Cal Leaching Tank!AI40 [31]: (kosong) → 0.047
+~ Au Cal Leaching Tank!AR40 [31]: (kosong) → 28.832282
+~ Au Cal Leaching Tank!BD40 [31]: (kosong) → -28.832282
+~ Au Cal Leaching Tank!N60 [51]: 216.674412 → 223.575756
+~ Au Cal Leaching Tank!AI60 [51]: 0.0429 → 0.043032
+~ Au Cal Leaching Tank!AR60 [51]: 808.095805 → 836.928086
+~ Au Cal Leaching Tank!N61 [52]: 9599.74608 → 9896.40768
+~ Au Cal Leaching Tank!BD61 [52]: 3654.703574 → 3625.871293
+~ Au Cal Leaching Tank!AL63: 3654.703574 → 3625.871293
+~ Au Cal Leaching Tank!BD63: 2923.76286 → 2900.697034
+~ Au Cal Leaching Tank!N67: 9.677489 → 9.976553
+~ Au Cal Leaching Tank!P67: 232.259726 → 239.437264
+~ Au Cal Leaching Tank!M74: 9.677489 → 9.976553
+~ Au Cal Leaching Tank!M75: 232.259726 → 239.437264
+~ Daily Summary !Z32 "Consumption" [08-09-2026 00:00]: 200 → 0
+~ Daily Summary !Z76 "Consumption" [Total]: 8400 → 8200
+~ Daily Summary !Z77 "Consumption" [Average]: 162.068966 → 155.172414
+~ Filter Press!C93 [93]: (kosong) → 05-11-2026 00:00
+~ Filter Press!D93 [93]: (kosong) → day
+~ Filter Press!E93 [93]: (kosong) → 8
+~ Filter Press!F93 [93]: 0 → 48
+~ Filter Press!H93 [93]: 0 → 48
+~ Filter Press!C94 [94]: (kosong) → 05-11-2026 00:00
+~ Filter Press!D94 [94]: (kosong) → Night
+~ Filter Press!E94 [94]: (kosong) → 5
+~ Filter Press!F94 [94]: 0 → 30
+~ Filter Press!H94 [94]: 0 → 30
+~ Filter Press!K103 [103]: (kosong) → 05-11-2026 00:00
+~ Filter Press!L103 [103]: Night → day
+~ Filter Press!M103 [103]: (kosong) → 9
+~ Filter Press!N103 [103]: 0 → 108
+~ Filter Press!P103 [103]: 0 → 108
+~ Filter Press!K104 [104]: (kosong) → 05-11-2026 00:00
+~ Filter Press!L104 [104]: Day → Night
+~ Filter Press!M104 [104]: (kosong) → 8
+~ Filter Press!N104 [104]: 0 → 96
+~ Filter Press!P104 [104]: 0 → 96
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 4.149068 → 4.024693
+~ Milling Down Time Hours!A140 "Date" [05-11-2026 00:00]: 10-11-2026 00:00 → 05-11-2026 00:00
+~ Milling Down Time Hours!E140 "Stop Time" [05-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!F140 "Start Time" [05-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!H140 "Reason" [05-11-2026 00:00]: (kosong) → Ball mill 1,2 dan 3 jalan normal
+~ Milling Down Time Hours!A141 "Date" [05-11-2026 00:00]: 11-11-2026 00:00 → 05-11-2026 00:00
+~ Milling Down Time Hours!E141 "Stop Time" [05-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!F141 "Start Time" [05-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!H141 "Reason" [05-11-2026 00:00]: (kosong) → Ball mill 1,2 dan 3 jalan normal
+~ Milling Down Time Hours!I141 "BATCH" [05-11-2026 00:00]: (kosong) → 32
+~ Milling and Leach Feed!AI6: 1230 → 1235
+~ Milling and Leach Feed!AI8: 1.23 → 1.235
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.356984 → 0.363268
+~ Milling and Leach Feed!AI12: 439.090909 → 448.636364
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 790.909091 → 786.363636
++ Milling and Leach Feed baris 155 [19] ditambahkan: S=296.626776
++ Milling and Leach Feed baris 157 [04-11-2026 00:00] ditambahkan: N=140.118174
++ Milling and Leach Feed baris 158 [05-11-2026 00:00] ditambahkan: B·PIC=05-11-2026 00:00, D=UNKNOWN USER, E=Finish Pump tank 3 batch 31 jam 09:00, F=Day, G=0.36, H·Milling And Leach Feed M=125.82451, I=10.485376, J=772.92199, ...
++ Milling and Leach Feed baris 159 [20] ditambahkan: A=20, B·PIC=05-11-2026 00:00, D=UNKNOWN USER, E=Start Pump tank 2 batch 32 jam 10:00, F=Day, G=0.38, H·Milling And Leach Feed M=269.47353, I=22.456127, ...
++ Milling and Leach Feed baris 160 [05-11-2026 00:00] ditambahkan: B·PIC=05-11-2026 00:00, D=UNKNOWN USER, E=Tank 2 Batch 32, F=Night, G=0.36, H·Milling And Leach Feed M=206.711695, I=17.225975, J=584.185225, ...
+~ Reagent Consumption!X8 [29-08-2026 00:00]: 13400 → 12950
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.39587 → 1.308556
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 1.098987 → 1.066043
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.520847 → 0.505234
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.155733 → 0.151065
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.028647 → 0.027788
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.037501 → 0.036377
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.011354 → 0.011014
+~ Reagent Consumption!X26 [11-09-2026 00:00]: 911200000 → 880600000
+~ Reagent Consumption!Z27 [12-09-2026 00:00]: 1213415000 → 1182815000
+~ Reagent Consumption!X28 [13-09-2026 00:00]: 0.750938 → 0.744495
+~ Reagent Consumption!Y28 [13-09-2026 00:00]: 0.019997 → 0.020515
+~ Reagent Consumption!Z28 [13-09-2026 00:00]: 0.181306 → 0.185997
+~ Reagent Consumption!AA28 [13-09-2026 00:00]: 0.036962 → 0.037918
+~ Reagent Consumption!AB28 [13-09-2026 00:00]: 0.006346 → 0.00651
+~ Reagent Consumption!AC28 [13-09-2026 00:00]: 0.00445 → 0.004565
+~ Reagent Consumption!O43 [22-09-2026 00:00]: 200 → 0
+~ Reagent Consumption!O44 [22-09-2026 00:00]: 425 → 175
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 13400 → 12950
+~ Reagent Consumption!A92 "Data ragents consumption" [03-11-2026 00:00]: 03-10-2026 00:00 → 03-11-2026 00:00
+~ Reagent Consumption!A93 "Data ragents consumption" [04-11-2026 00:00]: 04-10-2026 00:00 → 04-11-2026 00:00
+~ Reagent Consumption!B93 [04-11-2026 00:00]: Day/nigjht → Day/night
++ Reagent Consumption baris 94 [05-11-2026 00:00] ditambahkan: A·Data ragents consumption=05-11-2026 00:00, B=Day/night, D·Leaching=250
+_Dibandingkan 25873 sel dari 21 sheet._
+
 ## 05 Nov 2026 · 18:06 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +3 baris, ~51 sel; Crushing: ~1 sel; Filter Press: +24 baris, ~61 sel; LF Ball Mill: +220 baris; Milling Down Time Hours: +1 baris, ~8 sel; Milling and Leach Feed: +6 baris, ~9 sel; Reagent Consumption: ~14 sel
 ~ Au Cal Leaching Tank!R38 [29]: (kosong) → 0.36
