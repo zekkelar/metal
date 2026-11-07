@@ -1,0 +1,21 @@
+{
+  "id": "1794052955398_621d1d8614",
+  "created_epoch": 1794052955,
+  "created_at": "2026-11-07 20:02:35",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!AI41 [32]: (kosong) → 0.114\n~ Au Cal Leaching Tank!AR41 [32]: 0 → 81.837864\n~ Au Cal Leaching Tank!BD41 [32]: 0 → -81.837864\n~ Au Cal Leaching Tank!AI60 [51]: 0.043032 → 0.04525\n~ Au Cal Leaching Tank!AR60 [51]: 836.928086 → 918.76595\n~ Au Cal Leaching Tank!BD61 [52]: 3631.164143 → 3549.326279\n~ Au Cal Leaching Tank!AL63: 3631.164143 → 3549.326279\n~ Au Cal Leaching Tank!BD63: 2904.931314 → 2839.461023\n+ LF Ball Mill baris 387 [389] ditambahkan: C·id batch=31\n+ Milling and Leach Feed baris 155 [19] ditambahkan: T=0.515, U=0.676667, V=15.79, W=12.112432, X=15.914716, Y=371.369509\n+ Milling and Leach Feed baris 156 [04-11-2026 00:00] ditambahkan: T=0.816, U=0.867143, V=17.595714, W=108.519283, X=115.320736, Y=2340.042027\n+ Milling and Leach Feed baris 157 [04-11-2026 00:00] ditambahkan: T=0.67, U=0.92, V=19.073333, W=49.353046, X=67.768362, Y=1404.965826\n+ Milling and Leach Feed baris 158 [05-11-2026 00:00] ditambahkan: T=0.679167, U=0.801667, V=19.105, W=45.135319, X=53.27629, Y=1269.659288\n+ Milling and Leach Feed baris 159 [20] ditambahkan: T=0.679167, U=0.801667, V=19.105, W=88.899064, X=104.933619, Y=2500.736113\n+ Rom File Inventory baris 2 [Stock ROM CIL APRIL-Sept] ditambahkan: BI=Stock ROM CIL NOVEMBER  2026\n+ Rom File Inventory baris 3 [PT BULAWAN DAYA LESTARI] ditambahkan: BI=PT BULAWAN DAYA LESTARI\n+ Rom File Inventory baris 5 ditambahkan: BI=No, BJ=Date, BK=Sampel ID, BL=Ore Stacking (Dome), BM·Oxide=Ore  Type - Lithology, BN=Truckcount (m3), BO=Survey (m3), BP=Bulk Density, ...\n+ Rom File Inventory baris 6 ditambahkan: BI=1, BJ=02-11-2026 00:00, BM·Oxide=Oxide, BO=297\n+ Rom File Inventory baris 7 ditambahkan: BI=2, BJ=06-11-2026 00:00, BM·Oxide=Oxide, BO=183\n+ Rom File Inventory baris 8 [1] ditambahkan: BI=3",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~8 sel",
+      "LF Ball Mill: +1 baris",
+      "Milling and Leach Feed: +5 baris",
+      "Rom File Inventory: +27 baris, ~9 sel"
+    ]
+  }
+}
