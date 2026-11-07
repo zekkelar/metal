@@ -5,6 +5,60 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 07 Nov 2026 · 20:02 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~8 sel; LF Ball Mill: +1 baris; Milling and Leach Feed: +5 baris; Rom File Inventory: +27 baris, ~9 sel
+~ Au Cal Leaching Tank!AI41 [32]: (kosong) → 0.114
+~ Au Cal Leaching Tank!AR41 [32]: 0 → 81.837864
+~ Au Cal Leaching Tank!BD41 [32]: 0 → -81.837864
+~ Au Cal Leaching Tank!AI60 [51]: 0.043032 → 0.04525
+~ Au Cal Leaching Tank!AR60 [51]: 836.928086 → 918.76595
+~ Au Cal Leaching Tank!BD61 [52]: 3631.164143 → 3549.326279
+~ Au Cal Leaching Tank!AL63: 3631.164143 → 3549.326279
+~ Au Cal Leaching Tank!BD63: 2904.931314 → 2839.461023
++ LF Ball Mill baris 387 [389] ditambahkan: C·id batch=31
++ Milling and Leach Feed baris 155 [19] ditambahkan: T=0.515, U=0.676667, V=15.79, W=12.112432, X=15.914716, Y=371.369509
++ Milling and Leach Feed baris 156 [04-11-2026 00:00] ditambahkan: T=0.816, U=0.867143, V=17.595714, W=108.519283, X=115.320736, Y=2340.042027
++ Milling and Leach Feed baris 157 [04-11-2026 00:00] ditambahkan: T=0.67, U=0.92, V=19.073333, W=49.353046, X=67.768362, Y=1404.965826
++ Milling and Leach Feed baris 158 [05-11-2026 00:00] ditambahkan: T=0.679167, U=0.801667, V=19.105, W=45.135319, X=53.27629, Y=1269.659288
++ Milling and Leach Feed baris 159 [20] ditambahkan: T=0.679167, U=0.801667, V=19.105, W=88.899064, X=104.933619, Y=2500.736113
++ Rom File Inventory baris 2 [Stock ROM CIL APRIL-Sept] ditambahkan: BI=Stock ROM CIL NOVEMBER  2026
++ Rom File Inventory baris 3 [PT BULAWAN DAYA LESTARI] ditambahkan: BI=PT BULAWAN DAYA LESTARI
++ Rom File Inventory baris 5 ditambahkan: BI=No, BJ=Date, BK=Sampel ID, BL=Ore Stacking (Dome), BM·Oxide=Ore  Type - Lithology, BN=Truckcount (m3), BO=Survey (m3), BP=Bulk Density, ...
++ Rom File Inventory baris 6 ditambahkan: BI=1, BJ=02-11-2026 00:00, BM·Oxide=Oxide, BO=297
++ Rom File Inventory baris 7 ditambahkan: BI=2, BJ=06-11-2026 00:00, BM·Oxide=Oxide, BO=183
++ Rom File Inventory baris 8 [1] ditambahkan: BI=3
++ Rom File Inventory baris 9 [2] ditambahkan: BI=4
++ Rom File Inventory baris 10 [3] ditambahkan: BI=5
++ Rom File Inventory baris 11 [4] ditambahkan: BI=6
++ Rom File Inventory baris 12 [5] ditambahkan: BI=7
++ Rom File Inventory baris 13 [6] ditambahkan: BI=8
++ Rom File Inventory baris 14 [7] ditambahkan: BI=9
++ Rom File Inventory baris 15 [8] ditambahkan: BI=10
++ Rom File Inventory baris 16 [9] ditambahkan: BI=11
++ Rom File Inventory baris 17 [10] ditambahkan: BI=12
++ Rom File Inventory baris 18 [11] ditambahkan: BI=13
++ Rom File Inventory baris 19 [12] ditambahkan: BI=14
++ Rom File Inventory baris 20 [13] ditambahkan: BI=15
++ Rom File Inventory baris 21 [14] ditambahkan: BI=16
+~ Rom File Inventory!H22 "Survey (m3)" [15]: 56 → m
+~ Rom File Inventory!J22 "Tonage by survey (WMT)" [15]: 72.8 → #VALUE!
+~ Rom File Inventory!M22 "Metal Content (gr)" [15]: 108.9816 → #VALUE!
+~ Rom File Inventory!BI22 [15]: (kosong) → 17
++ Rom File Inventory baris 23 [18] ditambahkan: BI=18
++ Rom File Inventory baris 24 [22] ditambahkan: BI=19
++ Rom File Inventory baris 25 [28] ditambahkan: BI=20
++ Rom File Inventory baris 26 [29] ditambahkan: BI=21
++ Rom File Inventory baris 27 [30] ditambahkan: BI=22
++ Rom File Inventory baris 28 [31] ditambahkan: BI=23
++ Rom File Inventory baris 29 [32] ditambahkan: BI=24
++ Rom File Inventory baris 30 [33] ditambahkan: BI=25
+~ Rom File Inventory!M42 "Metal Content (gr)" [Average]: 8322.16505 → #VALUE!
+~ Rom File Inventory!H43 "Survey (m3)" [Total]: 5061 → 5005
+~ Rom File Inventory!J43 "Tonage by survey (WMT)" [Total]: 8621.08 → #VALUE!
+~ Rom File Inventory!M43 "Metal Content (gr)" [Total]: 9569.3988 → #VALUE!
+~ Rom File Inventory!M45 "Metal Content (gr)": 0.965327 → #VALUE!
+_Dibandingkan 28145 sel dari 23 sheet._
+
 ## 07 Nov 2026 · 15:59 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~18 sel; Filter Press: ~6 sel; Fuel Consumption: ~1 sel; LF Ball Mill: +34 baris; LT Floculation: +9 baris; Milling Down Time Hours: ~4 sel; Milling and Leach Feed: +1 baris, ~9 sel, -2 baris; Reagent Consumption: ~9 sel
 + Sheet "coba coba" ditambahkan
