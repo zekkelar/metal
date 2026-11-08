@@ -1,0 +1,22 @@
+{
+  "id": "1794121108390_acfc0e7b22",
+  "created_epoch": 1794121108,
+  "created_at": "2026-11-08 13:58:28",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!C33 [24]: 25.516667 → 21.516667\n~ Au Cal Leaching Tank!D33 [24]: 11.401019 → 13.520496\n~ Au Cal Leaching Tank!C60 [51]: 35.427381 → 35.284524\n~ Au Cal Leaching Tank!D60 [51]: 9.526591 → 9.60509\n~ Au Cal Leaching Tank!C61 [52]: 991.966667 → 987.966667\n~ Au Cal Leaching Tank!J67: 991.966667 → 987.966667\n~ Au Cal Leaching Tank!N67: 10.252891 → 10.294402\n~ Au Cal Leaching Tank!P67: 246.069383 → 247.065649\n~ Au Cal Leaching Tank!U67: 58.949306 → 58.782639\n~ Au Cal Leaching Tank!J68: 41.331944 → 41.165278\n~ Au Cal Leaching Tank!M70: 991.966667 → 987.966667\n~ Au Cal Leaching Tank!M72: 1414.783333 → 1410.783333\n~ Au Cal Leaching Tank!M73: 0.701144 → 0.700297\n~ Au Cal Leaching Tank!M74: 10.252891 → 10.294402\n~ Au Cal Leaching Tank!M75: 246.069383 → 247.065649\n~ Au Cal Leaching Tank!M76: 58.949306 → 58.782639\n~ Au Cal Leaching Tank!M77: 0.298856 → 0.299703\n~ Au Cal Leaching Tank!W107: 25.516667 → 21.516667\n~ Au Cal Leaching Tank!X107: 11.401019 → 13.520496\n~ Au Cal Leaching Tank!W112: 32.124242 → 31.760606",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~21 sel",
+      "Filter Press: ~10 sel",
+      "Milling Down Time Hours: +3 baris, ~7 sel",
+      "Milling and Leach Feed: +1 baris, ~61 sel",
+      "coba coba: ~5 sel"
+    ]
+  }
+}
