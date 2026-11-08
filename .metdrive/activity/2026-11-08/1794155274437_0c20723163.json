@@ -1,0 +1,17 @@
+{
+  "id": "1794155274437_0c20723163",
+  "created_epoch": 1794155274,
+  "created_at": "2026-11-08 23:27:54",
+  "actor": "GanyuChan@MSI",
+  "kind": "po",
+  "action": "update",
+  "title": "Memperbarui PO PO-20261030-808A",
+  "detail": "Status: Draft -> Disetujui",
+  "target_path": ".metdrive/purchase_orders/dcd13e42a3e1455eb467f051f4448028.json",
+  "entity_id": "dcd13e42a3e1455eb467f051f4448028",
+  "related_file": "CHANGELOG.md",
+  "metadata": {
+    "status": "Disetujui",
+    "supplier": "-"
+  }
+}
