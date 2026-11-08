@@ -5,6 +5,118 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 08 Nov 2026 · 13:58 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~21 sel; Filter Press: ~10 sel; Milling Down Time Hours: +3 baris, ~7 sel; Milling and Leach Feed: +1 baris, ~61 sel; coba coba: ~5 sel
+~ Au Cal Leaching Tank!C33 [24]: 25.516667 → 21.516667
+~ Au Cal Leaching Tank!D33 [24]: 11.401019 → 13.520496
+~ Au Cal Leaching Tank!C60 [51]: 35.427381 → 35.284524
+~ Au Cal Leaching Tank!D60 [51]: 9.526591 → 9.60509
+~ Au Cal Leaching Tank!C61 [52]: 991.966667 → 987.966667
+~ Au Cal Leaching Tank!J67: 991.966667 → 987.966667
+~ Au Cal Leaching Tank!N67: 10.252891 → 10.294402
+~ Au Cal Leaching Tank!P67: 246.069383 → 247.065649
+~ Au Cal Leaching Tank!U67: 58.949306 → 58.782639
+~ Au Cal Leaching Tank!J68: 41.331944 → 41.165278
+~ Au Cal Leaching Tank!M70: 991.966667 → 987.966667
+~ Au Cal Leaching Tank!M72: 1414.783333 → 1410.783333
+~ Au Cal Leaching Tank!M73: 0.701144 → 0.700297
+~ Au Cal Leaching Tank!M74: 10.252891 → 10.294402
+~ Au Cal Leaching Tank!M75: 246.069383 → 247.065649
+~ Au Cal Leaching Tank!M76: 58.949306 → 58.782639
+~ Au Cal Leaching Tank!M77: 0.298856 → 0.299703
+~ Au Cal Leaching Tank!W107: 25.516667 → 21.516667
+~ Au Cal Leaching Tank!X107: 11.401019 → 13.520496
+~ Au Cal Leaching Tank!W112: 32.124242 → 31.760606
+~ Au Cal Leaching Tank!X112: 9.716023 → 9.908702
+~ Filter Press!C97 [97]: (kosong) → 07-11-2026 00:00
+~ Filter Press!D97 [97]: (kosong) → Day
+~ Filter Press!E97 [97]: (kosong) → 6
+~ Filter Press!F97 [97]: 0 → 36
+~ Filter Press!H97 [97]: 0 → 36
+~ Filter Press!K107 [107]: (kosong) → 07-11-2026 00:00
+~ Filter Press!L107 [107]: Night → Day
+~ Filter Press!M107 [107]: (kosong) → 3
+~ Filter Press!N107 [107]: 0 → 36
+~ Filter Press!P107 [107]: 0 → 36
++ Milling Down Time Hours baris 139 [04-11-2026 00:00] ditambahkan: L·Availibility Per Day=1
++ Milling Down Time Hours baris 141 [05-11-2026 00:00] ditambahkan: L·Availibility Per Day=1
++ Milling Down Time Hours baris 143 [06-11-2026 00:00] ditambahkan: I·BATCH=33, L·Availibility Per Day=0.749306
+~ Milling Down Time Hours!A144 "Date" [07-11-2026 00:00]: 14-11-2026 00:00 → 07-11-2026 00:00
+~ Milling Down Time Hours!E144 "Stop Time" [07-11-2026 00:00]: (kosong) → 00:00:00
+~ Milling Down Time Hours!F144 "Start Time" [07-11-2026 00:00]: (kosong) → 06:01:00
+~ Milling Down Time Hours!G144 "Down Time (Mins)" [07-11-2026 00:00]: 0 → 361
+~ Milling Down Time Hours!H144 "Reason" [07-11-2026 00:00]: (kosong) → ball mill 1,2,3, mati abis air hahaha...
+~ Milling Down Time Hours!J144 "Running Time Hour/Shift" [07-11-2026 00:00]: 12 → 5.983333
+~ Milling Down Time Hours!K144 "Availibility per Shift" [07-11-2026 00:00]: 1 → 0.498611
+~ Milling and Leach Feed!AI6: 1200 → 1220
+~ Milling and Leach Feed!AI8: 1.2 → 1.22
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.318182 → 0.344262
+~ Milling and Leach Feed!AI12: 381.818182 → 420
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 818.181818 → 800
+~ Milling and Leach Feed!A75 [13]: 1 → 13
+~ Milling and Leach Feed!A79 [14]: 2 → 14
+~ Milling and Leach Feed!A102 [15]: 3 → 15
+~ Milling and Leach Feed!A106 [16]: 4 → 16
+~ Milling and Leach Feed!A110 [17]: 5 → 17
+~ Milling and Leach Feed!A112 [18]: 6 → 18
+~ Milling and Leach Feed!A115 [19]: 7 → 19
+~ Milling and Leach Feed!A118 [20]: 8 → 20
+~ Milling and Leach Feed!A121 [21]: 9 → 21
+~ Milling and Leach Feed!A125 [22]: 10 → 22
+~ Milling and Leach Feed!A127 [23]: 11 → 23
+~ Milling and Leach Feed!A130 [24]: 12 → 24
+~ Milling and Leach Feed!D131 [23-10-2026 00:00]: UNKNOWN USER → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!E131 [23-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!H131 "Milling And Leach Feed M" [23-10-2026 00:00]: Tidak ada air → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!I131 [23-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!J131 [23-10-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!O131 [23-10-2026 00:00]: 0 → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!P131 [23-10-2026 00:00]: 4 → (kosong)
+~ Milling and Leach Feed!Q131 [23-10-2026 00:00]: 240 → (kosong)
+~ Milling and Leach Feed!R131 [23-10-2026 00:00]: 480 → (kosong)
+~ Milling and Leach Feed!T131 [23-10-2026 00:00]: (kosong) → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!A133 [25]: 13 → 25
+~ Milling and Leach Feed!A136 [26]: 14 → 26
+~ Milling and Leach Feed!H137 "Milling And Leach Feed M" [26-10-2026 00:00]: Tidak ada air → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!I137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!J137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!K137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!L137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!M137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!O137 [26-10-2026 00:00]: Tidak ada air → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!P137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!Q137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!R137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!T137 [26-10-2026 00:00]: Tidak ada air → MATI TIDAK ADA AIR, KAYAK DI AFRIKA W...
+~ Milling and Leach Feed!U137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!V137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!W137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!X137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!Y137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!Z137 [26-10-2026 00:00]: Tidak ada air → (kosong)
+~ Milling and Leach Feed!A139 [27]: 15 → 27
+~ Milling and Leach Feed!A143 [28]: 16 → 28
+~ Milling and Leach Feed!A146 [29]: 17 → 29
+~ Milling and Leach Feed!A151 [30]: 18 → 30
+~ Milling and Leach Feed!A155 [31]: 19 → 31
+~ Milling and Leach Feed!A159 [32]: 20 → 32
+~ Milling and Leach Feed!E159 [32]: Start Pump tank 2 batch 32 jam 10:00 → Start Pump tank 3 batch 32 jam 10:00
+~ Milling and Leach Feed!E160 [05-11-2026 00:00]: Tank 2 Batch 32 → Tank 3 Batch 32
+~ Milling and Leach Feed!A162 [33]: 21 → 33
+~ Milling and Leach Feed!I162 [33]: 29.945682 → 60.058192
+~ Milling and Leach Feed!O162 [33]: 10.629044 → 21.317302
+~ Milling and Leach Feed!P162 [33]: 12 → 5.983333
+~ Milling and Leach Feed!Q162 [33]: 720 → 359
+~ Milling and Leach Feed!R162 [33]: 0 → 361
+~ Milling and Leach Feed!S162 [33]: (kosong) → 241.545529
++ Milling and Leach Feed baris 163 [07-11-2026 00:00] ditambahkan: B·PIC=07-11-2026 00:00, D=UNKNOWN USER, E=Tank 2 Batch 33, F=Day, G=0.34, H·Milling And Leach Feed M=238.167822, I=19.847319, J=705.516002, ...
+~ coba coba!I162 [21]: 29.945682 → 60.058192
+~ coba coba!O162 [21]: 10.629044 → 21.317302
+~ coba coba!P162 [21]: 12 → 5.983333
+~ coba coba!Q162 [21]: 720 → 359
+~ coba coba!R162 [21]: 0 → 361
+_Dibandingkan 28156 sel dari 23 sheet._
+
 ## 07 Nov 2026 · 20:02 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~8 sel; LF Ball Mill: +1 baris; Milling and Leach Feed: +5 baris; Rom File Inventory: +27 baris, ~9 sel
 ~ Au Cal Leaching Tank!AI41 [32]: (kosong) → 0.114
