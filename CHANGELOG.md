@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 08 Nov 2026 · 19:26 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: INFORMATION TESTWORK: +3 baris
++ INFORMATION TESTWORK baris 43 [INFORMATION TESTWORK] ditambahkan: B·NO=INFORMATION TESTWORK
++ INFORMATION TESTWORK baris 44 [NO] ditambahkan: B·NO=NO, C·NAMA TESTWORK=NAMA TESTWORK, D·OLEH=OLEH, E·TANGGAL=TANGGAL, F·Variation Parameter=Variation Parameter, G·Description=Description, H·LOCATION=LOCATION
++ INFORMATION TESTWORK baris 45 [1] ditambahkan: B·NO=1, C·NAMA TESTWORK=TestWork CIP Sulphide, D·OLEH=Dzulham
+_Dibandingkan 6826 sel dari 25 sheet._
+
 ## 08 Nov 2026 · 13:58 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~21 sel; Filter Press: ~10 sel; Milling Down Time Hours: +3 baris, ~7 sel; Milling and Leach Feed: +1 baris, ~61 sel; coba coba: ~5 sel
 ~ Au Cal Leaching Tank!C33 [24]: 25.516667 → 21.516667
