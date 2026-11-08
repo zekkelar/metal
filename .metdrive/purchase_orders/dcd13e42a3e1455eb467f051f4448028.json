@@ -6,7 +6,7 @@
   "order_date": "2026-10-30",
   "eta_date": "",
   "currency": "IDR",
-  "status": "Draft",
+  "status": "Disetujui",
   "items": [
     {
       "name": "CORONG BUCHNER",
@@ -22,5 +22,5 @@
   "created_by": "GanyuChan@MSI",
   "created_at": "2026-10-30 17:51:14",
   "updated_by": "GanyuChan@MSI",
-  "updated_at": "2026-10-30 17:51:14"
+  "updated_at": "2026-11-08 23:27:53"
 }
