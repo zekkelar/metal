@@ -1,0 +1,18 @@
+{
+  "id": "1794206581933_45e0d311e0",
+  "created_epoch": 1794206581,
+  "created_at": "2026-11-09 14:43:01",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Met Sheet.xlsx",
+  "detail": "+ PERSEN PASSING baris 33 [Sulphide 7 Nov] ditambahkan: C·SR JUNI 2026=Sulphide 7 Nov, D·DARI CRUSHER=dari STP\n+ PERSEN PASSING baris 34 [SIZING ORE SULPHIDE FROM] ditambahkan: C·SR JUNI 2026=SIZING ORE SULPHIDE FROM STP\n+ PERSEN PASSING baris 35 [No] ditambahkan: C·SR JUNI 2026=No, D·DARI CRUSHER=Berat Tray, E=Berat Sample Awal (gr), F=Berat Sampel Akhir (gr), G=Ukuran Sieve (micron), H=Waktu Pullverize (Second), I=%Passing\n+ PERSEN PASSING baris 36 [1] ditambahkan: C·SR JUNI 2026=1, D·DARI CRUSHER=0.176, E=800, G=75, H=100\n+ PERSEN PASSING baris 37 [2] ditambahkan: C·SR JUNI 2026=2, D·DARI CRUSHER=0.176, E=800, G=75, H=110\n+ PERSEN PASSING baris 38 [3] ditambahkan: C·SR JUNI 2026=3, D·DARI CRUSHER=0.176, E=800, G=75, H=120\n+ PERSEN PASSING baris 39 [4] ditambahkan: C·SR JUNI 2026=4, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 40 [5] ditambahkan: C·SR JUNI 2026=5, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 41 [6] ditambahkan: C·SR JUNI 2026=6, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 42 [7] ditambahkan: C·SR JUNI 2026=7, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 43 [8] ditambahkan: C·SR JUNI 2026=8, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 44 [9] ditambahkan: C·SR JUNI 2026=9, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 45 [10] ditambahkan: C·SR JUNI 2026=10, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 46 [11] ditambahkan: C·SR JUNI 2026=11, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 47 [12] ditambahkan: C·SR JUNI 2026=12, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 48 [13] ditambahkan: C·SR JUNI 2026=13, D·DARI CRUSHER=0.176\n+ PERSEN PASSING baris 49 [14] ditambahkan: C·SR JUNI 2026=14, D·DARI CRUSHER=0.176",
+  "target_path": "PRODUKSI/Met Sheet.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "PERSEN PASSING: +17 baris"
+    ]
+  }
+}
