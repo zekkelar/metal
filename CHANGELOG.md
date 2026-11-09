@@ -5,6 +5,27 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 09 Nov 2026 · 14:42 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: PERSEN PASSING: +17 baris
++ PERSEN PASSING baris 33 [Sulphide 7 Nov] ditambahkan: C·SR JUNI 2026=Sulphide 7 Nov, D·DARI CRUSHER=dari STP
++ PERSEN PASSING baris 34 [SIZING ORE SULPHIDE FROM] ditambahkan: C·SR JUNI 2026=SIZING ORE SULPHIDE FROM STP
++ PERSEN PASSING baris 35 [No] ditambahkan: C·SR JUNI 2026=No, D·DARI CRUSHER=Berat Tray, E=Berat Sample Awal (gr), F=Berat Sampel Akhir (gr), G=Ukuran Sieve (micron), H=Waktu Pullverize (Second), I=%Passing
++ PERSEN PASSING baris 36 [1] ditambahkan: C·SR JUNI 2026=1, D·DARI CRUSHER=0.176, E=800, G=75, H=100
++ PERSEN PASSING baris 37 [2] ditambahkan: C·SR JUNI 2026=2, D·DARI CRUSHER=0.176, E=800, G=75, H=110
++ PERSEN PASSING baris 38 [3] ditambahkan: C·SR JUNI 2026=3, D·DARI CRUSHER=0.176, E=800, G=75, H=120
++ PERSEN PASSING baris 39 [4] ditambahkan: C·SR JUNI 2026=4, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 40 [5] ditambahkan: C·SR JUNI 2026=5, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 41 [6] ditambahkan: C·SR JUNI 2026=6, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 42 [7] ditambahkan: C·SR JUNI 2026=7, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 43 [8] ditambahkan: C·SR JUNI 2026=8, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 44 [9] ditambahkan: C·SR JUNI 2026=9, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 45 [10] ditambahkan: C·SR JUNI 2026=10, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 46 [11] ditambahkan: C·SR JUNI 2026=11, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 47 [12] ditambahkan: C·SR JUNI 2026=12, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 48 [13] ditambahkan: C·SR JUNI 2026=13, D·DARI CRUSHER=0.176
++ PERSEN PASSING baris 49 [14] ditambahkan: C·SR JUNI 2026=14, D·DARI CRUSHER=0.176
+_Dibandingkan 6873 sel dari 25 sheet._
+
 ## 08 Nov 2026 · 19:48 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~97 sel; Filter Press: +2 baris, ~10 sel; Filter Press Down Time Hours : +25 baris; Fuel Consumption: ~1 sel; LF Ball Mill: +27 baris, ~2 sel; LT Floculation: +20 baris; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +5 baris, ~17 sel; Reagent Consumption: +2 baris, ~7 sel; Rom File Inventory: +2 baris
 - Sheet "coba coba" dihapus
