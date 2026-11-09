@@ -1,0 +1,20 @@
+{
+  "id": "1794206660160_56ae60931d",
+  "created_epoch": 1794206660,
+  "created_at": "2026-11-09 14:44:20",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!AI42 [33]: (kosong) → 0.064\n~ Au Cal Leaching Tank!AR42 [33]: 0 → 44.157984\n~ Au Cal Leaching Tank!BD42 [33]: 0 → -44.157984\n~ Au Cal Leaching Tank!AI60 [51]: 0.04525 → 0.045818\n~ Au Cal Leaching Tank!AR60 [51]: 918.76595 → 962.923934\n~ Au Cal Leaching Tank!BD61 [52]: 4085.12247 → 4040.964486\n~ Au Cal Leaching Tank!AL63: 4085.12247 → 4040.964486\n~ Au Cal Leaching Tank!BD63: 3268.097976 → 3232.771589\n+ LF Ball Mill baris 345 [347] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=07-11-2026 00:00, V·Cu=0.727, W=0.96, X=14.31\n+ LF Ball Mill baris 346 [348] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=07-11-2026 00:00, V·Cu=0.657, W=0.93, X=14.13\n+ LF Ball Mill baris 347 [349] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=07-11-2026 00:00, V·Cu=0.606, W=0.89, X=14.35\n+ Rom File Inventory baris 8 [1] ditambahkan: CA=LAB ASSAY RESULT\n+ Rom File Inventory baris 9 [2] ditambahkan: CA=No, CB=Id Sampel, CC=Date, CD=Au (g/t), CE=Ag (g/t), CF=Cu (g/t)\n+ Rom File Inventory baris 10 [3] ditambahkan: CA=1, CB=SR OXIDE A 1, CC=07-11-2026 00:00, CD=0.513, CE=1.32, CF=17.43\n+ Rom File Inventory baris 11 [4] ditambahkan: CA=2, CB=SR OXIDE A 2, CC=07-11-2026 00:00, CD=0.501, CE=2.63, CF=21.3\n+ Rom File Inventory baris 12 [5] ditambahkan: CA=3, CB=SR OXIDE A 3, CC=07-11-2026 00:00, CD=0.369, CE=0.71, CF=18.06\n+ Rom File Inventory baris 13 [6] ditambahkan: CA=4, CB=SR OXIDE A 4, CC=07-11-2026 00:00, CD=0.309, CE=0.68, CF=17.28\n+ Rom File Inventory baris 14 [7] ditambahkan: CA=5, CB=SR OXIDE A 5, CC=07-11-2026 00:00, CD=0.417, CE=2.9, CF=17.38\n+ Rom File Inventory baris 15 [8] ditambahkan: CA=6, CB=SR OXIDE A 6, CC=07-11-2026 00:00, CD=0.731, CE=1.18, CF=15.9\n+ Rom File Inventory baris 16 [9] ditambahkan: CA=7, CB=SR OXIDE A 7, CC=07-11-2026 00:00, CD=0.168, CE=0.6, CF=17.79",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~8 sel",
+      "LF Ball Mill: +3 baris",
+      "Rom File Inventory: +49 baris"
+    ]
+  }
+}
