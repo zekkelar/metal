@@ -5,6 +5,37 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 09 Nov 2026 · 21:24 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Filter Press: +1 baris, ~9 sel; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +2 baris, ~5 sel; Reagent Consumption: +1 baris
++ Filter Press baris 99 [99] ditambahkan: C=08-11-2026 00:00
+~ Filter Press!C100 [100]: (kosong) → 09-11-2026 00:00
+~ Filter Press!D100 [100]: (kosong) → Day
+~ Filter Press!E100 [100]: (kosong) → 6
+~ Filter Press!F100 [100]: 0 → 36
+~ Filter Press!H100 [100]: 0 → 36
+~ Filter Press!K110 [110]: (kosong) → 09-11-2026 00:00
+~ Filter Press!M110 [110]: (kosong) → 12
+~ Filter Press!N110 [110]: 0 → 144
+~ Filter Press!P110 [110]: 0 → 144
+~ Milling Down Time Hours!A147 "Date" [09-11-2026 00:00]: 17-11-2026 00:00 → 09-11-2026 00:00
+~ Milling Down Time Hours!C147 "Shift" [09-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!E147 "Stop Time" [09-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F147 "Start Time" [09-11-2026 00:00]: (kosong) → 09:00:00
+~ Milling Down Time Hours!G147 "Down Time (Mins)" [09-11-2026 00:00]: 0 → 480
+~ Milling Down Time Hours!H147 "Reason" [09-11-2026 00:00]: (kosong) → baru start jam 3 haha, ga mampu airny...
+~ Milling Down Time Hours!I147 "BATCH" [09-11-2026 00:00]: (kosong) → 34
+~ Milling Down Time Hours!J147 "Running Time Hour/Shift" [09-11-2026 00:00]: 12 → 4
+~ Milling Down Time Hours!K147 "Availibility per Shift" [09-11-2026 00:00]: 1 → 0.333333
+~ Milling and Leach Feed!AI6: 1225 → 1230
+~ Milling and Leach Feed!AI8: 1.225 → 1.23
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.350649 → 0.356984
+~ Milling and Leach Feed!AI12: 429.545455 → 439.090909
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 795.454545 → 790.909091
++ Milling and Leach Feed baris 165 [08-11-2026 00:00] ditambahkan: I=5.991643, N=91.348594, O=2.453578, P=12, Q=720, R=0
++ Milling and Leach Feed baris 166 [34] ditambahkan: A=34, B·PIC=09-11-2026 00:00, D=UNKNOWN USER, E=Start Pump tank 3 batch 34 jam 15:00, F=Day, G=0.35, H·Milling And Leach Feed M=143.79944, I=35.94986, ...
++ Reagent Consumption baris 98 [09-11-2026 00:00] ditambahkan: A·Data ragents consumption=09-11-2026 00:00, B=Day, D·Leaching=0
+_Dibandingkan 27030 sel dari 22 sheet._
+
 ## 09 Nov 2026 · 14:44 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~8 sel; LF Ball Mill: +3 baris; Rom File Inventory: +49 baris
 ~ Au Cal Leaching Tank!AI42 [33]: (kosong) → 0.064
