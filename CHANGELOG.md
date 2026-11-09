@@ -5,6 +5,70 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 09 Nov 2026 · 14:44 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~8 sel; LF Ball Mill: +3 baris; Rom File Inventory: +49 baris
+~ Au Cal Leaching Tank!AI42 [33]: (kosong) → 0.064
+~ Au Cal Leaching Tank!AR42 [33]: 0 → 44.157984
+~ Au Cal Leaching Tank!BD42 [33]: 0 → -44.157984
+~ Au Cal Leaching Tank!AI60 [51]: 0.04525 → 0.045818
+~ Au Cal Leaching Tank!AR60 [51]: 918.76595 → 962.923934
+~ Au Cal Leaching Tank!BD61 [52]: 4085.12247 → 4040.964486
+~ Au Cal Leaching Tank!AL63: 4085.12247 → 4040.964486
+~ Au Cal Leaching Tank!BD63: 3268.097976 → 3232.771589
++ LF Ball Mill baris 345 [347] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=07-11-2026 00:00, V·Cu=0.727, W=0.96, X=14.31
++ LF Ball Mill baris 346 [348] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=07-11-2026 00:00, V·Cu=0.657, W=0.93, X=14.13
++ LF Ball Mill baris 347 [349] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=07-11-2026 00:00, V·Cu=0.606, W=0.89, X=14.35
++ Rom File Inventory baris 8 [1] ditambahkan: CA=LAB ASSAY RESULT
++ Rom File Inventory baris 9 [2] ditambahkan: CA=No, CB=Id Sampel, CC=Date, CD=Au (g/t), CE=Ag (g/t), CF=Cu (g/t)
++ Rom File Inventory baris 10 [3] ditambahkan: CA=1, CB=SR OXIDE A 1, CC=07-11-2026 00:00, CD=0.513, CE=1.32, CF=17.43
++ Rom File Inventory baris 11 [4] ditambahkan: CA=2, CB=SR OXIDE A 2, CC=07-11-2026 00:00, CD=0.501, CE=2.63, CF=21.3
++ Rom File Inventory baris 12 [5] ditambahkan: CA=3, CB=SR OXIDE A 3, CC=07-11-2026 00:00, CD=0.369, CE=0.71, CF=18.06
++ Rom File Inventory baris 13 [6] ditambahkan: CA=4, CB=SR OXIDE A 4, CC=07-11-2026 00:00, CD=0.309, CE=0.68, CF=17.28
++ Rom File Inventory baris 14 [7] ditambahkan: CA=5, CB=SR OXIDE A 5, CC=07-11-2026 00:00, CD=0.417, CE=2.9, CF=17.38
++ Rom File Inventory baris 15 [8] ditambahkan: CA=6, CB=SR OXIDE A 6, CC=07-11-2026 00:00, CD=0.731, CE=1.18, CF=15.9
++ Rom File Inventory baris 16 [9] ditambahkan: CA=7, CB=SR OXIDE A 7, CC=07-11-2026 00:00, CD=0.168, CE=0.6, CF=17.79
++ Rom File Inventory baris 17 [10] ditambahkan: CA=8, CB=SR OXIDE A 8, CC=07-11-2026 00:00, CD=0.44, CE=1.3, CF=18.1
++ Rom File Inventory baris 18 [11] ditambahkan: CA=9, CB=SR OXIDE A 9, CC=07-11-2026 00:00, CD=0.793, CE=0.92, CF=23.94
++ Rom File Inventory baris 19 [12] ditambahkan: CA=10, CB=SR OXIDE A 10, CC=07-11-2026 00:00, CD=0.621, CE=5.38, CF=18.66
++ Rom File Inventory baris 20 [13] ditambahkan: CA=11, CB=SR OXIDE B 1, CC=07-11-2026 00:00
++ Rom File Inventory baris 21 [14] ditambahkan: CA=12, CB=SR OXIDE B 2, CC=07-11-2026 00:00
++ Rom File Inventory baris 22 [15] ditambahkan: CA=13, CB=SR OXIDE B 3, CC=07-11-2026 00:00
++ Rom File Inventory baris 23 [18] ditambahkan: CA=14, CB=SR OXIDE B 4, CC=07-11-2026 00:00
++ Rom File Inventory baris 24 [22] ditambahkan: CA=15, CB=SR OXIDE B 5, CC=07-11-2026 00:00
++ Rom File Inventory baris 25 [28] ditambahkan: CA=16, CB=SR OXIDE B 6, CC=07-11-2026 00:00
++ Rom File Inventory baris 26 [29] ditambahkan: CA=17, CB=SR OXIDE B 7, CC=07-11-2026 00:00
++ Rom File Inventory baris 27 [30] ditambahkan: CA=18, CB=SR OXIDE B 8, CC=07-11-2026 00:00
++ Rom File Inventory baris 28 [31] ditambahkan: CA=19, CB=SR OXIDE B 9, CC=07-11-2026 00:00
++ Rom File Inventory baris 29 [32] ditambahkan: CA=20, CB=SR OXIDE B 10, CC=07-11-2026 00:00
++ Rom File Inventory baris 30 [33] ditambahkan: CA=21
++ Rom File Inventory baris 31 [34] ditambahkan: CA=22
++ Rom File Inventory baris 32 [35] ditambahkan: CA=23
++ Rom File Inventory baris 33 [36] ditambahkan: CA=24
++ Rom File Inventory baris 34 [37] ditambahkan: CA=25
++ Rom File Inventory baris 35 [38] ditambahkan: CA=26
++ Rom File Inventory baris 36 [39] ditambahkan: CA=27
++ Rom File Inventory baris 37 [40] ditambahkan: CA=28
++ Rom File Inventory baris 38 [41] ditambahkan: CA=29
++ Rom File Inventory baris 39 [42] ditambahkan: CA=30
++ Rom File Inventory baris 40 [43] ditambahkan: CA=31
++ Rom File Inventory baris 41 [44] ditambahkan: CA=32
++ Rom File Inventory baris 42 [Average] ditambahkan: CA=33
++ Rom File Inventory baris 43 [Total] ditambahkan: CA=34
++ Rom File Inventory baris 44 ditambahkan: CA=35
++ Rom File Inventory baris 45 ditambahkan: CA=36
++ Rom File Inventory baris 46 [1.256045] ditambahkan: CA=37
++ Rom File Inventory baris 47 [1460.9562] ditambahkan: CA=38
++ Rom File Inventory baris 48 [1163.14] ditambahkan: CA=39
++ Rom File Inventory baris 49 [Pengukuran pada sr setel] ditambahkan: CA=40
++ Rom File Inventory baris 50 ditambahkan: CA=41
++ Rom File Inventory baris 51 ditambahkan: CA=42
++ Rom File Inventory baris 52 ditambahkan: CA=43
++ Rom File Inventory baris 53 ditambahkan: CA=44
++ Rom File Inventory baris 54 ditambahkan: CA=45
++ Rom File Inventory baris 55 ditambahkan: CA=46
++ Rom File Inventory baris 56 ditambahkan: CA=47
+_Dibandingkan 26994 sel dari 22 sheet._
+
 ## 09 Nov 2026 · 14:42 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
 Ringkasan: PERSEN PASSING: +17 baris
 + PERSEN PASSING baris 33 [Sulphide 7 Nov] ditambahkan: C·SR JUNI 2026=Sulphide 7 Nov, D·DARI CRUSHER=dari STP
