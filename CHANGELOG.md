@@ -5,6 +5,71 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 11 Nov 2026 · 02:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Filter Press: ~9 sel; Milling Down Time Hours: +1 baris, ~5 sel; Milling and Leach Feed: +40 baris, ~5 sel; Reagent Consumption: +1 baris
+~ Filter Press!C102 [102]: (kosong) → 10-11-2026 00:00
+~ Filter Press!D102 [102]: (kosong) → Day
+~ Filter Press!E102 [102]: (kosong) → 11
+~ Filter Press!F102 [102]: 0 → 66
+~ Filter Press!H102 [102]: 0 → 66
+~ Filter Press!K112 [112]: (kosong) → 10-11-2026 00:00
+~ Filter Press!M112 [112]: (kosong) → 10
+~ Filter Press!N112 [112]: 0 → 120
+~ Filter Press!P112 [112]: 0 → 120
++ Milling Down Time Hours baris 147 [09-11-2026 00:00] ditambahkan: L·Availibility Per Day=0.652778
+~ Milling Down Time Hours!A149 "Date" [10-11-2026 00:00]: 19-11-2026 00:00 → 10-11-2026 00:00
+~ Milling Down Time Hours!C149 "Shift" [10-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!E149 "Stop Time" [10-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F149 "Start Time" [10-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H149 "Reason" [10-11-2026 00:00]: (kosong) → ball mill 2 start 7:05, ball mill 3 s...
+~ Milling and Leach Feed!AI6: 1200 → 1215
+~ Milling and Leach Feed!AI8: 1.2 → 1.215
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.318182 → 0.337823
+~ Milling and Leach Feed!AI12: 381.818182 → 410.454545
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 818.181818 → 804.545455
++ Milling and Leach Feed baris 122 ditambahkan: AB=14556505.745747
++ Milling and Leach Feed baris 123 [19-10-2026 00:00] ditambahkan: AB=118332410.882827
++ Milling and Leach Feed baris 124 ditambahkan: AB=49684827.56174
++ Milling and Leach Feed baris 125 [22] ditambahkan: AB=291168042.6249
++ Milling and Leach Feed baris 126 ditambahkan: AB=32132479.178575
++ Milling and Leach Feed baris 127 [23] ditambahkan: AB=292391815.428906
++ Milling and Leach Feed baris 128 ditambahkan: AB=39849408.720188
++ Milling and Leach Feed baris 129 [22-10-2026 00:00] ditambahkan: AB=89252046.357947
++ Milling and Leach Feed baris 130 [24] ditambahkan: AB=194765964.4735
++ Milling and Leach Feed baris 131 [23-10-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 132 [23-10-2026 00:00] ditambahkan: AB=306622503.36606
++ Milling and Leach Feed baris 133 [25] ditambahkan: AB=150446435.270894
++ Milling and Leach Feed baris 134 [24-10-2026 00:00] ditambahkan: AB=83129337.814088
++ Milling and Leach Feed baris 135 [25-10-2026 00:00] ditambahkan: AB=71217303.8136
++ Milling and Leach Feed baris 136 [26] ditambahkan: AB=241663668.96276
++ Milling and Leach Feed baris 137 [26-10-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 138 [26-10-2026 00:00] ditambahkan: AB=159030478.96057
++ Milling and Leach Feed baris 139 [27] ditambahkan: AB=231003339.53496
++ Milling and Leach Feed baris 140 [27/20/2026] ditambahkan: AB=167018555.8275
++ Milling and Leach Feed baris 141 [28-10-2026 00:00] ditambahkan: AB=126145963.162744
++ Milling and Leach Feed baris 142 [28-10-2026 00:00] ditambahkan: AB=1265762.615169
++ Milling and Leach Feed baris 143 [28] ditambahkan: AB=254034122.33325
++ Milling and Leach Feed baris 144 [29-10-2026 00:00] ditambahkan: AB=171262062.322792
++ Milling and Leach Feed baris 145 [30-10-2026 00:00] ditambahkan: AB=4749313.535938
++ Milling and Leach Feed baris 146 [29] ditambahkan: AB=78833591.7838
++ Milling and Leach Feed baris 147 [30-10-2026 00:00] ditambahkan: AB=62008894.934633
++ Milling and Leach Feed baris 148 [31-10-2026 00:00] ditambahkan: AB=15080253.264443
++ Milling and Leach Feed baris 149 [31-10-2026 00:00] ditambahkan: AB=64005126.063029
++ Milling and Leach Feed baris 150 [01-11-2026 00:00] ditambahkan: AB=29798738.781213
++ Milling and Leach Feed baris 151 [30] ditambahkan: AB=65875313.09205
++ Milling and Leach Feed baris 152 [02-11-2026 00:00] ditambahkan: AB=250774280.816508
++ Milling and Leach Feed baris 153 [02-11-2026 00:00] ditambahkan: AB=0
++ Milling and Leach Feed baris 154 [03-11-2026 00:00] ditambahkan: AB=178309077.350642
++ Milling and Leach Feed baris 156 [04-11-2026 00:00] ditambahkan: AB=271298206.87992
++ Milling and Leach Feed baris 157 [04-11-2026 00:00] ditambahkan: AB=123382615.7595
++ Milling and Leach Feed baris 158 [05-11-2026 00:00] ditambahkan: AB=112838297.134875
++ Milling and Leach Feed baris 160 [05-11-2026 00:00] ditambahkan: AB=92158027.826562
++ Milling and Leach Feed baris 161 [06-11-2026 00:00] ditambahkan: AB=159605663.239372
++ Milling and Leach Feed baris 167 [09-11-2026 00:00] ditambahkan: N=111.063497
++ Milling and Leach Feed baris 168 [10-11-2026 00:00] ditambahkan: B·PIC=10-11-2026 00:00, D=UNKNOWN USER, E=tank 3 Batch 35, G=0.33, H·Milling And Leach Feed M=125.82451, I=10.485376, J=431.39832, K=1.215, ...
++ Reagent Consumption baris 99 [10-11-2026 00:00] ditambahkan: A·Data ragents consumption=10-11-2026 00:00, B=Day, D·Leaching=100
+_Dibandingkan 27311 sel dari 22 sheet._
+
 ## 10 Nov 2026 · 19:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +1 baris, ~50 sel; Filter Press: ~9 sel; LF Ball Mill: +21 baris; LT Floculation: +2 baris, ~4 sel; Milling Down Time Hours: +2 baris, ~8 sel; Milling and Leach Feed: +34 baris, ~7 sel; Reagent Consumption: ~2 sel; Rom File Inventory: +17 baris, ~2 sel
 ~ Au Cal Leaching Tank!AF38 [29]: (kosong) → 0.145778
