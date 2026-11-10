@@ -1,0 +1,17 @@
+{
+  "id": "1794283572587_20708ec5c9",
+  "created_epoch": 1794283572,
+  "created_at": "2026-11-10 12:06:12",
+  "actor": "ramda@DyanPro73",
+  "kind": "po",
+  "action": "create",
+  "title": "Menambahkan PO PO-20261110-A3A8",
+  "detail": "Supplier: - · Status: Draft · Barang: HCL Teknis 32% · Total: Rp 0",
+  "target_path": ".metdrive/purchase_orders/3ec960eb31c74ab6be477faa3420ecb8.json",
+  "entity_id": "3ec960eb31c74ab6be477faa3420ecb8",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "metadata": {
+    "status": "Draft",
+    "supplier": "-"
+  }
+}
