@@ -1,0 +1,21 @@
+{
+  "id": "1794338123677_71ad1a3ad7",
+  "created_epoch": 1794338123,
+  "created_at": "2026-11-11 02:15:23",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Filter Press!C102 [102]: (kosong) → 10-11-2026 00:00\n~ Filter Press!D102 [102]: (kosong) → Day\n~ Filter Press!E102 [102]: (kosong) → 11\n~ Filter Press!F102 [102]: 0 → 66\n~ Filter Press!H102 [102]: 0 → 66\n~ Filter Press!K112 [112]: (kosong) → 10-11-2026 00:00\n~ Filter Press!M112 [112]: (kosong) → 10\n~ Filter Press!N112 [112]: 0 → 120\n~ Filter Press!P112 [112]: 0 → 120\n+ Milling Down Time Hours baris 147 [09-11-2026 00:00] ditambahkan: L·Availibility Per Day=0.652778\n~ Milling Down Time Hours!A149 \"Date\" [10-11-2026 00:00]: 19-11-2026 00:00 → 10-11-2026 00:00\n~ Milling Down Time Hours!C149 \"Shift\" [10-11-2026 00:00]: Night → Day\n~ Milling Down Time Hours!E149 \"Stop Time\" [10-11-2026 00:00]: (kosong) → 01:00:00\n~ Milling Down Time Hours!F149 \"Start Time\" [10-11-2026 00:00]: (kosong) → 01:00:00\n~ Milling Down Time Hours!H149 \"Reason\" [10-11-2026 00:00]: (kosong) → ball mill 2 start 7:05, ball mill 3 s...\n~ Milling and Leach Feed!AI6: 1200 → 1215\n~ Milling and Leach Feed!AI8: 1.2 → 1.215\n~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.318182 → 0.337823\n~ Milling and Leach Feed!AI12: 381.818182 → 410.454545\n~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 818.181818 → 804.545455",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Filter Press: ~9 sel",
+      "Milling Down Time Hours: +1 baris, ~5 sel",
+      "Milling and Leach Feed: +40 baris, ~5 sel",
+      "Reagent Consumption: +1 baris"
+    ]
+  }
+}
