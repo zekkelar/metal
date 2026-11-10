@@ -5,6 +5,13 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 10 Nov 2026 · 16:33 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: PERSEN PASSING: ~3 sel
+~ PERSEN PASSING!E36 [1]: 800 → 500
+~ PERSEN PASSING!E37 [2]: 800 → 500
+~ PERSEN PASSING!E38 [3]: 800 → 500
+_Dibandingkan 6873 sel dari 25 sheet._
+
 ## 09 Nov 2026 · 21:24 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Filter Press: +1 baris, ~9 sel; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +2 baris, ~5 sel; Reagent Consumption: +1 baris
 + Filter Press baris 99 [99] ditambahkan: C=08-11-2026 00:00
