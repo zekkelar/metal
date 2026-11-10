@@ -5,6 +5,169 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 10 Nov 2026 · 19:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~50 sel; Filter Press: ~9 sel; LF Ball Mill: +21 baris; LT Floculation: +2 baris, ~4 sel; Milling Down Time Hours: +2 baris, ~8 sel; Milling and Leach Feed: +34 baris, ~7 sel; Reagent Consumption: ~2 sel; Rom File Inventory: +17 baris, ~2 sel
+~ Au Cal Leaching Tank!AF38 [29]: (kosong) → 0.145778
+~ Au Cal Leaching Tank!AG38 [29]: (kosong) → 0.346667
+~ Au Cal Leaching Tank!AH38 [29]: (kosong) → 13.07
+~ Au Cal Leaching Tank!AO38 [29]: 0 → 32.235753
+~ Au Cal Leaching Tank!AP38 [29]: 0 → 76.658192
+~ Au Cal Leaching Tank!AQ38 [29]: 0 → 2890.161258
+~ Au Cal Leaching Tank!AT38 [29]: 0.500523 → 0.180508
+~ Au Cal Leaching Tank!AU38 [29]: 1 → 0.194173
+~ Au Cal Leaching Tank!AV38 [29]: 1 → 0.004206
+~ Au Cal Leaching Tank!BD38 [29]: 50.418613 → 18.18286
+~ Au Cal Leaching Tank!BE38 [29]: 95.129868 → 18.471676
+~ Au Cal Leaching Tank!BF38 [29]: 2902.368258 → 12.207
+~ Au Cal Leaching Tank!AF39 [30]: (kosong) → 0.138
+~ Au Cal Leaching Tank!AG39 [30]: (kosong) → 0.452222
+~ Au Cal Leaching Tank!AH39 [30]: (kosong) → 13.068889
+~ Au Cal Leaching Tank!AO39 [30]: 0 → 43.201121
+~ Au Cal Leaching Tank!AP39 [30]: 0 → 141.56889
+~ Au Cal Leaching Tank!AQ39 [30]: 0 → 4091.236577
+~ Au Cal Leaching Tank!AT39 [30]: 0.746098 → 0.515453
+~ Au Cal Leaching Tank!AU39 [30]: 1 → 0.187254
+~ Au Cal Leaching Tank!AV39 [30]: 1 → -0.018396
+~ Au Cal Leaching Tank!BD39 [30]: 139.748754 → 96.547633
+~ Au Cal Leaching Tank!BE39 [30]: 174.185885 → 32.616995
+~ Au Cal Leaching Tank!BF39 [30]: 4017.334265 → -73.902311
+~ Au Cal Leaching Tank!AF40 [31]: (kosong) → 0.086545
+~ Au Cal Leaching Tank!AG40 [31]: (kosong) → 0.323636
+~ Au Cal Leaching Tank!AH40 [31]: (kosong) → 13.504545
+~ Au Cal Leaching Tank!AO40 [31]: 0 → 25.674713
+~ Au Cal Leaching Tank!AP40 [31]: 0 → 96.010481
+~ Au Cal Leaching Tank!AQ40 [31]: 0 → 4006.280062
+~ Au Cal Leaching Tank!AT40 [31]: 0.854951 → 0.725786
+~ Au Cal Leaching Tank!AU40 [31]: 1 → 0.603566
+~ Au Cal Leaching Tank!AV40 [31]: 1 → 0.256173
+~ Au Cal Leaching Tank!BD40 [31]: 169.943351 → 144.268638
+~ Au Cal Leaching Tank!BE40 [31]: 242.185348 → 146.174866
+~ Au Cal Leaching Tank!BF40 [31]: 5386.036649 → 1379.756588
++ Au Cal Leaching Tank baris 42 [33] ditambahkan: I=00:01:00
+~ Au Cal Leaching Tank!AF60 [51]: 0.097324 → 0.099851
+~ Au Cal Leaching Tank!AG60 [51]: 0.325983 → 0.330647
+~ Au Cal Leaching Tank!AH60 [51]: 10.824893 → 11.056143
+~ Au Cal Leaching Tank!AO60 [51]: 890.718042 → 991.829628
+~ Au Cal Leaching Tank!AP60 [51]: 3034.423494 → 3348.661058
+~ Au Cal Leaching Tank!AQ60 [51]: 99370.327949 → 110358.005845
+~ Au Cal Leaching Tank!AT60 [51]: 0.659699 → 0.638454
+~ Au Cal Leaching Tank!AU60 [51]: 0.559549 → 0.49658
+~ Au Cal Leaching Tank!AV60 [51]: 0.240816 → 0.154628
+~ Au Cal Leaching Tank!BD61 [52]: 4040.964486 → 3939.8529
+~ Au Cal Leaching Tank!BE61 [52]: 4293.8999 → 3979.662336
+~ Au Cal Leaching Tank!BF61 [52]: 33160.688772 → 22173.010875
+~ Au Cal Leaching Tank!AL63: 4040.964486 → 3939.8529
+~ Au Cal Leaching Tank!BD63: 3232.771589 → 3151.88232
+~ Filter Press!C101 [101]: (kosong) → 09-11-2026 00:00
+~ Filter Press!D101 [101]: (kosong) → Night
+~ Filter Press!E101 [101]: (kosong) → 8
+~ Filter Press!F101 [101]: 0 → 48
+~ Filter Press!H101 [101]: 0 → 48
+~ Filter Press!K111 [111]: (kosong) → 09-11-2026 00:00
+~ Filter Press!M111 [111]: (kosong) → 8
+~ Filter Press!N111 [111]: 0 → 96
+~ Filter Press!P111 [111]: 0 → 96
++ LF Ball Mill baris 303 [305] ditambahkan: L=BM 08:00, M·No=07-11-2026 00:00, N·id batch=0.668, O·Id sampel=0.8, P·date=14.23
++ LF Ball Mill baris 304 [306] ditambahkan: L=BM 10:00, M·No=07-11-2026 00:00, N·id batch=0.87, O·Id sampel=1.11, P·date=14.92
++ LF Ball Mill baris 305 [307] ditambahkan: L=BM 12:00, M·No=07-11-2026 00:00, N·id batch=0.57, O·Id sampel=0.74, P·date=15.45
++ LF Ball Mill baris 306 [308] ditambahkan: L=BM 14:00, M·No=07-11-2026 00:00, N·id batch=0.576, O·Id sampel=0.48, P·date=14.19
++ LF Ball Mill baris 307 [309] ditambahkan: L=BM 08:00, M·No=08-11-2026 00:00, N·id batch=0.851, O·Id sampel=0.72, P·date=11.14
++ LF Ball Mill baris 308 [310] ditambahkan: L=BM 10:00, M·No=08-11-2026 00:00, N·id batch=0.741, O·Id sampel=0.6, P·date=14.54
++ LF Ball Mill baris 412 [414] ditambahkan: C·id batch=33, D·Id sampel=LF Ball Mill NS 1, E·date=06-11-2026 00:00, F·au (g/t)=0.557, G·ag (g/t)=0.74, H·Cu (g/t)=20.31
++ LF Ball Mill baris 413 [415] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=06-11-2026 00:00, F·au (g/t)=0.514, G·ag (g/t)=0.65, H·Cu (g/t)=19.92
++ LF Ball Mill baris 414 [416] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=06-11-2026 00:00, F·au (g/t)=0.518, G·ag (g/t)=0.67, H·Cu (g/t)=19.53
++ LF Ball Mill baris 415 [417] ditambahkan: D·Id sampel=LF Ball Mill NS 4, E·date=06-11-2026 00:00, F·au (g/t)=0.587, G·ag (g/t)=0.68, H·Cu (g/t)=20.14
++ LF Ball Mill baris 416 [418] ditambahkan: D·Id sampel=LF Ball Mill NS 5, E·date=06-11-2026 00:00, F·au (g/t)=0.565, G·ag (g/t)=0.71, H·Cu (g/t)=19.76
++ LF Ball Mill baris 417 [419] ditambahkan: D·Id sampel=LF Ball Mill NS 6, E·date=06-11-2026 00:00, F·au (g/t)=0.549, G·ag (g/t)=0.67, H·Cu (g/t)=20.28
++ LF Ball Mill baris 418 [420] ditambahkan: D·Id sampel=LF Ball Mill NS 7, E·date=06-11-2026 00:00, F·au (g/t)=0.508, G·ag (g/t)=0.62, H·Cu (g/t)=19.89
++ LF Ball Mill baris 419 [421] ditambahkan: D·Id sampel=LF Ball Mill DS 1, E·date=07-11-2026 00:00, F·au (g/t)=0.545, G·ag (g/t)=0.83, H·Cu (g/t)=20.16
++ LF Ball Mill baris 420 [422] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=07-11-2026 00:00, F·au (g/t)=0.709, G·ag (g/t)=0.75, H·Cu (g/t)=18.91
++ LF Ball Mill baris 421 [423] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=07-11-2026 00:00, F·au (g/t)=0.724, G·ag (g/t)=0.77, H·Cu (g/t)=18.37
++ LF Ball Mill baris 422 [424] ditambahkan: D·Id sampel=LF Ball Mill DS 4, E·date=07-11-2026 00:00, F·au (g/t)=0.568, G·ag (g/t)=0.68, H·Cu (g/t)=18.23
++ LF Ball Mill baris 423 [425] ditambahkan: D·Id sampel=LF Ball Mill DS 5, E·date=07-11-2026 00:00, F·au (g/t)=0.543, G·ag (g/t)=0.67, H·Cu (g/t)=19.19
++ LF Ball Mill baris 424 [426] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=07-11-2026 00:00, F·au (g/t)=0.596, G·ag (g/t)=0.59, H·Cu (g/t)=18.82
++ LF Ball Mill baris 425 [427] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=07-11-2026 00:00, F·au (g/t)=0.581, G·ag (g/t)=0.62, H·Cu (g/t)=17.15
++ LF Ball Mill baris 426 [428] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=07-11-2026 00:00, F·au (g/t)=0.597, G·ag (g/t)=0.64, H·Cu (g/t)=18.29
+~ LT Floculation!G34 "Lab AAS Result" [29]: 0.167167 → 0.145778
+~ LT Floculation!H34 [29]: 0.296667 → 0.346667
+~ LT Floculation!I34 [29]: 12.77 → 13.07
++ LT Floculation baris 35 [30] ditambahkan: G·Lab AAS Result=0.138, H=0.452222, I=13.068889
++ LT Floculation baris 36 [31] ditambahkan: G·Lab AAS Result=0.086545, H=0.323636, I=13.504545
+~ LT Floculation!T253: 1247 → 12.47
+~ Milling Down Time Hours!A148 "Date" [09-11-2026 00:00]: 18-11-2026 00:00 → 09-11-2026 00:00
+~ Milling Down Time Hours!C148 "Shift" [09-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E148 "Stop Time" [09-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F148 "Start Time" [09-11-2026 00:00]: (kosong) → 01:20:00
+~ Milling Down Time Hours!G148 "Down Time (Mins)" [09-11-2026 00:00]: 0 → 20
+~ Milling Down Time Hours!H148 "Reason" [09-11-2026 00:00]: (kosong) → ball mill 1,2,3 mati jam 20:00 - 20:20
+~ Milling Down Time Hours!J148 "Running Time Hour/Shift" [09-11-2026 00:00]: 12 → 11.666667
+~ Milling Down Time Hours!K148 "Availibility per Shift" [09-11-2026 00:00]: 1 → 0.972222
++ Milling Down Time Hours baris 188 ditambahkan: J·Running Time Hour/Shift=0.32
++ Milling Down Time Hours baris 189 ditambahkan: J·Running Time Hour/Shift=0.533333
+~ Milling and Leach Feed!AI6: 1230 → 1200
+~ Milling and Leach Feed!AI8: 1.23 → 1.2
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.356984 → 0.318182
+~ Milling and Leach Feed!AI12: 439.090909 → 381.818182
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 790.909091 → 818.181818
++ Milling and Leach Feed baris 166 [34] ditambahkan: AA=Main baru banget guys
++ Milling and Leach Feed baris 167 [09-11-2026 00:00] ditambahkan: B·PIC=09-11-2026 00:00, D=UNKNOWN USER, E=tank 3 Batch 34, F=Night, G=0.31, H·Milling And Leach Feed M=161.77437, I=13.866375, J=305.57381, ...
++ Milling and Leach Feed baris 168 ditambahkan: F=Day
++ Milling and Leach Feed baris 169 ditambahkan: F=Night
++ Milling and Leach Feed baris 170 ditambahkan: F=Day
++ Milling and Leach Feed baris 171 ditambahkan: F=Night
++ Milling and Leach Feed baris 172 ditambahkan: F=Day
++ Milling and Leach Feed baris 173 ditambahkan: F=Night
++ Milling and Leach Feed baris 174 ditambahkan: F=Day
++ Milling and Leach Feed baris 175 ditambahkan: F=Night
++ Milling and Leach Feed baris 176 ditambahkan: F=Day
++ Milling and Leach Feed baris 177 ditambahkan: F=Night
++ Milling and Leach Feed baris 178 ditambahkan: F=Day
++ Milling and Leach Feed baris 179 ditambahkan: F=Night
++ Milling and Leach Feed baris 180 ditambahkan: F=Day
++ Milling and Leach Feed baris 181 ditambahkan: F=Night
++ Milling and Leach Feed baris 182 ditambahkan: F=Day
++ Milling and Leach Feed baris 183 ditambahkan: F=Night
++ Milling and Leach Feed baris 184 ditambahkan: F=Day
++ Milling and Leach Feed baris 185 ditambahkan: F=Night
++ Milling and Leach Feed baris 186 ditambahkan: F=Day
++ Milling and Leach Feed baris 187 ditambahkan: F=Night
++ Milling and Leach Feed baris 188 ditambahkan: F=Day
++ Milling and Leach Feed baris 189 ditambahkan: F=Night
++ Milling and Leach Feed baris 190 ditambahkan: F=Day
++ Milling and Leach Feed baris 191 ditambahkan: F=Night
++ Milling and Leach Feed baris 192 ditambahkan: F=Day
++ Milling and Leach Feed baris 193 ditambahkan: F=Night
++ Milling and Leach Feed baris 194 ditambahkan: F=Day
++ Milling and Leach Feed baris 195 ditambahkan: F=Night
++ Milling and Leach Feed baris 196 ditambahkan: F=Day
++ Milling and Leach Feed baris 197 ditambahkan: F=Night
++ Milling and Leach Feed baris 198 ditambahkan: F=Day
+~ Milling and Leach Feed!F199: Day → Night
+~ Milling and Leach Feed!F200: Night → Day
++ Milling and Leach Feed baris 201 ditambahkan: F=Night
+~ Reagent Consumption!B98 [09-11-2026 00:00]: Day → Day/night
+~ Reagent Consumption!D98 "Leaching" [09-11-2026 00:00]: 0 → 75
+~ Rom File Inventory!BU6: 0,7 gc → 0.7
+~ Rom File Inventory!BU7: 1,052 gc → 1.052
++ Rom File Inventory baris 11 [4] ditambahkan: CP=RUMUS BLENDINGAN ORE :
++ Rom File Inventory baris 13 [6] ditambahkan: BW=AVERAGE, BX=0.5214, CP=Keterangan :
++ Rom File Inventory baris 14 [7] ditambahkan: BW=MEDIAN, BX=0.4705, CP=Gb : kadar hasil blending (g/t)
++ Rom File Inventory baris 15 [8] ditambahkan: BW=MAX, BX=1.319, CP=T1 : Tonase 1 (t)
++ Rom File Inventory baris 16 [9] ditambahkan: BW=MIN, BX=0.116, CP=G1 : Grade 1 (gr)
++ Rom File Inventory baris 17 [10] ditambahkan: BW=%DIFFERENT Avg vs Med, BX=0.025658, CP=T2 : Tonase 2 (t)
++ Rom File Inventory baris 18 [11] ditambahkan: BW=Au Variance (Avg vs Med), BX=0.0509, CP=G2 : Grade 2 (gr)
++ Rom File Inventory baris 20 [13] ditambahkan: CD=0.116
++ Rom File Inventory baris 21 [14] ditambahkan: CD=0.59, CP=Rumus kebutuhan Tonase Blending ore :
++ Rom File Inventory baris 22 [15] ditambahkan: CD=0.288
++ Rom File Inventory baris 23 [18] ditambahkan: CD=0.594, CP=Keterangan :
++ Rom File Inventory baris 24 [22] ditambahkan: CD=0.507, CP=Gt : Kadar target
++ Rom File Inventory baris 25 [28] ditambahkan: CD=0.411, CP=T1 : Tonase Ore yang tersedia
++ Rom File Inventory baris 26 [29] ditambahkan: CD=0.296, CP=T2 : Tonase Ore tambahan yang dibutuhkan
++ Rom File Inventory baris 27 [30] ditambahkan: CD=1.319
++ Rom File Inventory baris 28 [31] ditambahkan: CD=0.305
++ Rom File Inventory baris 29 [32] ditambahkan: CD=1.14
+_Dibandingkan 27245 sel dari 22 sheet._
+
 ## 10 Nov 2026 · 16:33 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
 Ringkasan: PERSEN PASSING: ~3 sel
 ~ PERSEN PASSING!E36 [1]: 800 → 500
