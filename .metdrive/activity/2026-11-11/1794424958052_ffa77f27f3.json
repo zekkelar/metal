@@ -1,0 +1,21 @@
+{
+  "id": "1794424958052_ffa77f27f3",
+  "created_epoch": 1794424958,
+  "created_at": "2026-11-12 02:22:38",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Filter Press!C103 [103]: (kosong) → 11-11-2026 00:00\n~ Filter Press!D103 [103]: (kosong) → Day\n~ Filter Press!E103 [103]: (kosong) → 3\n~ Filter Press!F103 [103]: 0 → 18\n~ Filter Press!H103 [103]: 0 → 18\n~ Filter Press!K113 [113]: (kosong) → 11-11-2026 00:00\n~ Filter Press!L113 [113]: Night → Day\n~ Filter Press!M113 [113]: (kosong) → 4\n~ Filter Press!N113 [113]: 0 → 48\n~ Filter Press!P113 [113]: 0 → 48\n+ Milling Down Time Hours baris 149 [10-11-2026 00:00] ditambahkan: L·Availibility Per Day=1\n~ Milling Down Time Hours!A151 \"Date\" [11-11-2026 00:00]: 21-11-2026 00:00 → 11-11-2026 00:00\n~ Milling Down Time Hours!C151 \"Shift\" [11-11-2026 00:00]: Night → Day\n~ Milling Down Time Hours!E151 \"Stop Time\" [11-11-2026 00:00]: (kosong) → 01:00:00\n~ Milling Down Time Hours!F151 \"Start Time\" [11-11-2026 00:00]: (kosong) → 05:00:00\n~ Milling Down Time Hours!G151 \"Down Time (Mins)\" [11-11-2026 00:00]: 0 → 240\n~ Milling Down Time Hours!H151 \"Reason\" [11-11-2026 00:00]: (kosong) → 9:05 ball mill mati ganti genset smpe...\n~ Milling Down Time Hours!J151 \"Running Time Hour/Shift\" [11-11-2026 00:00]: 12 → 8\n~ Milling Down Time Hours!K151 \"Availibility per Shift\" [11-11-2026 00:00]: 1 → 0.666667\n~ Milling and Leach Feed!AI6: 1215 → 1225",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Filter Press: ~10 sel",
+      "Milling Down Time Hours: +1 baris, ~8 sel",
+      "Milling and Leach Feed: +1 baris, ~6 sel",
+      "Reagent Consumption: +1 baris"
+    ]
+  }
+}
