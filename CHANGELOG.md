@@ -5,6 +5,181 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 11 Nov 2026 · 18:33 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~40 sel; LF Ball Mill: +6 baris; LT Floculation: +7 baris; Milling Down Time Hours: ~5 sel; Milling and Leach Feed: +25 baris, ~1 sel; Reagent Consumption: ~2 sel; Rom File Inventory: ~10 sel; Tailing Check : +75 baris
+~ Au Cal Leaching Tank!X42 [33]: (kosong) → 0.58576
+~ Au Cal Leaching Tank!Y42 [33]: (kosong) → 0.662619
+~ Au Cal Leaching Tank!Z42 [33]: (kosong) → 18.780262
+~ Au Cal Leaching Tank!AA42 [33]: (kosong) → 0.578582
+~ Au Cal Leaching Tank!AB42 [33]: (kosong) → 0.680588
+~ Au Cal Leaching Tank!AC42 [33]: (kosong) → 19.049035
+~ Au Cal Leaching Tank!AD42 [33]: (kosong) → 0.007178
+~ Au Cal Leaching Tank!AE42 [33]: (kosong) → 0.003082
+~ Au Cal Leaching Tank!AL42 [33]: 0 → 190.498662
+~ Au Cal Leaching Tank!AM42 [33]: 0 → 215.494647
+~ Au Cal Leaching Tank!AN42 [33]: 0 → 6195.060637
+~ Au Cal Leaching Tank!AT42 [33]: (kosong) → 0.768198
+~ Au Cal Leaching Tank!AU42 [33]: (kosong) → 1
+~ Au Cal Leaching Tank!AV42 [33]: (kosong) → 1
+~ Au Cal Leaching Tank!BD42 [33]: -44.157984 → 146.340678
+~ Au Cal Leaching Tank!BE42 [33]: 0 → 215.494647
+~ Au Cal Leaching Tank!BF42 [33]: 0 → 6195.060637
+~ Au Cal Leaching Tank!X60 [51]: 0.576036 → 0.576331
+~ Au Cal Leaching Tank!Y60 [51]: 0.68781 → 0.687047
+~ Au Cal Leaching Tank!Z60 [51]: 12.772 → 12.954068
+~ Au Cal Leaching Tank!AA60 [51]: 0.582502 → 0.582383
+~ Au Cal Leaching Tank!AB60 [51]: 0.724473 → 0.723143
+~ Au Cal Leaching Tank!AC60 [51]: 12.870219 → 13.057456
+~ Au Cal Leaching Tank!AL60 [51]: 5894.606463 → 6085.105125
+~ Au Cal Leaching Tank!AM60 [51]: 7328.323394 → 7543.818042
+~ Au Cal Leaching Tank!AN60 [51]: 132531.01672 → 138726.077358
+~ Au Cal Leaching Tank!AT60 [51]: 0.638454 → 0.642386
+~ Au Cal Leaching Tank!AU60 [51]: 0.49658 → 0.511835
+~ Au Cal Leaching Tank!AV60 [51]: 0.154628 → 0.180245
+~ Au Cal Leaching Tank!BD61 [52]: 3939.8529 → 4130.351562
+~ Au Cal Leaching Tank!BE61 [52]: 3979.662336 → 4195.156984
+~ Au Cal Leaching Tank!BF61 [52]: 22173.010875 → 28368.071512
+~ Au Cal Leaching Tank!X62: 0.560233 → 0.562411
+~ Au Cal Leaching Tank!Y62: 0.5775 → 0.588333
+~ Au Cal Leaching Tank!Z62: 13.072083 → 13.173333
+~ Au Cal Leaching Tank!AA62: 0.57718 → 0.578582
+~ Au Cal Leaching Tank!AB62: 0.594584 → 0.594983
+~ Au Cal Leaching Tank!AC62: 12.836899 → 12.840979
+~ Au Cal Leaching Tank!AL63: 3939.8529 → 4130.351562
+~ Au Cal Leaching Tank!BD63: 3151.88232 → 3304.28125
++ LF Ball Mill baris 348 [350] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=08-11-2026 00:00, V·Cu=0.459, W=0.63, X=11.62
++ LF Ball Mill baris 349 [351] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=08-11-2026 00:00, V·Cu=0.433, W=0.58, X=11.84
++ LF Ball Mill baris 350 [352] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=08-11-2026 00:00, V·Cu=0.644, W=0.58, X=12.04
++ LF Ball Mill baris 351 [353] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=08-11-2026 00:00, V·Cu=0.753, W=0.62, X=15.25
++ LF Ball Mill baris 352 [354] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=08-11-2026 00:00, V·Cu=0.683, W=0.59, X=14.72
++ LF Ball Mill baris 353 [355] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=08-11-2026 00:00, V·Cu=0.668, W=0.59, X=14.88
++ LT Floculation baris 37 [32] ditambahkan: G·Lab AAS Result=0.086667, H=0.241667, I=8.966667
++ LT Floculation baris 261 ditambahkan: O=LT-Floc DS 1, Q=07-11-2026 00:00, R=0.079, S=0.25, T=8.26
++ LT Floculation baris 262 ditambahkan: O=LT-Floc DS 2, Q=07-11-2026 00:00, R=0.08, S=0.24, T=8.41
++ LT Floculation baris 263 ditambahkan: O=LT-Floc DS 3, Q=07-11-2026 00:00, R=0.079, S=0.24, T=8.45
++ LT Floculation baris 264 ditambahkan: O=LT-Floc NS 1, Q=07-11-2026 00:00, R=0.099, S=0.22, T=9.66
++ LT Floculation baris 265 ditambahkan: O=LT-Floc NS 2, Q=07-11-2026 00:00, R=0.09, S=0.26, T=9.47
++ LT Floculation baris 266 ditambahkan: O=LT-Floc NS 3, Q=07-11-2026 00:00, R=0.093, S=0.24, T=9.55
+~ Milling Down Time Hours!A150 "Date" [10-11-2026 00:00]: 20-11-2026 00:00 → 10-11-2026 00:00
+~ Milling Down Time Hours!C150 "Shift" [10-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E150 "Stop Time" [10-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F150 "Start Time" [10-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H150 "Reason" [10-11-2026 00:00]: (kosong) → ball mill no 2 dan 3 jalan
++ Milling and Leach Feed baris 162 [33] ditambahkan: T=0.542571, U=0.677143, V=19.975714, W=69.204184, X=86.368571, Y=2547.872852
++ Milling and Leach Feed baris 163 [07-11-2026 00:00] ditambahkan: T=0.6178, U=0.74, V=18.972, W=70.42735, X=84.357784, Y=2162.751199
++ Milling and Leach Feed baris 164 [07-11-2026 00:00] ditambahkan: T=0.591333, U=0.616667, V=18.086667, W=31.122225, X=32.455534, Y=951.912029
++ Milling and Leach Feed baris 165 [08-11-2026 00:00] ditambahkan: T=0.591333, U=0.616667, V=18.086667, W=17.410589, X=18.156477, Y=532.524557
+~ Milling and Leach Feed!E168 [10-11-2026 00:00]: tank 3 Batch 35 → tank 3 Batch 34
++ Milling and Leach Feed baris 169 [10-11-2026 00:00] ditambahkan: B·PIC=10-11-2026 00:00, D=UNKNOWN USER, E=tank 3 Batch 34, G=0.31, H·Milling And Leach Feed M=188.736765, I=15.728064, J=620.135085, K=1.2, ...
++ Milling and Leach Feed baris 214 ditambahkan: H·Milling And Leach Feed M=60
++ Milling and Leach Feed baris 215 ditambahkan: H·Milling And Leach Feed M=67
++ Milling and Leach Feed baris 216 ditambahkan: H·Milling And Leach Feed M=75
++ Milling and Leach Feed baris 217 ditambahkan: H·Milling And Leach Feed M=60
++ Milling and Leach Feed baris 218 ditambahkan: H·Milling And Leach Feed M=80
++ Milling and Leach Feed baris 219 ditambahkan: H·Milling And Leach Feed M=78
++ Milling and Leach Feed baris 220 ditambahkan: H·Milling And Leach Feed M=78
++ Milling and Leach Feed baris 221 ditambahkan: H·Milling And Leach Feed M=78
++ Milling and Leach Feed baris 222 ditambahkan: H·Milling And Leach Feed M=60
++ Milling and Leach Feed baris 223 ditambahkan: H·Milling And Leach Feed M=60
++ Milling and Leach Feed baris 224 ditambahkan: H·Milling And Leach Feed M=72
++ Milling and Leach Feed baris 225 ditambahkan: H·Milling And Leach Feed M=84
++ Milling and Leach Feed baris 226 ditambahkan: H·Milling And Leach Feed M=75
++ Milling and Leach Feed baris 227 ditambahkan: H·Milling And Leach Feed M=84
++ Milling and Leach Feed baris 228 ditambahkan: H·Milling And Leach Feed M=83
++ Milling and Leach Feed baris 229 ditambahkan: H·Milling And Leach Feed M=84
++ Milling and Leach Feed baris 230 ditambahkan: H·Milling And Leach Feed M=80
++ Milling and Leach Feed baris 231 ditambahkan: H·Milling And Leach Feed M=80
++ Milling and Leach Feed baris 232 ditambahkan: H·Milling And Leach Feed M=72
++ Milling and Leach Feed baris 233 ditambahkan: H·Milling And Leach Feed M=76
+~ Reagent Consumption!B99 [10-11-2026 00:00]: Day → day/night
+~ Reagent Consumption!D99 "Leaching" [10-11-2026 00:00]: 100 → 200
+~ Rom File Inventory!BP6: (kosong) → 1.3
+~ Rom File Inventory!BQ6: (kosong) → 386.1
+~ Rom File Inventory!BS6: (kosong) → 0.7
+~ Rom File Inventory!BT6: (kosong) → 270.27
+~ Rom File Inventory!BU6: 0.7 → (kosong)
+~ Rom File Inventory!BP7: (kosong) → 1.3
+~ Rom File Inventory!BQ7: (kosong) → 237.9
+~ Rom File Inventory!BS7: (kosong) → 1.052
+~ Rom File Inventory!BT7: (kosong) → 250.2708
+~ Rom File Inventory!BU7: 1.052 → (kosong)
++ Tailing Check  baris 73 [60] ditambahkan: E·Id Sampel=Filter Press Day, M·pH=8
++ Tailing Check  baris 74 [61] ditambahkan: C·No=61, D·Date=31-10-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Krisna, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 75 [62] ditambahkan: C·No=62, D·Date=01-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Krisna, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 76 [63] ditambahkan: C·No=63, D·Date=02-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Krisna, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 77 [64] ditambahkan: C·No=64, D·Date=03-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Krisna, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 78 [65] ditambahkan: C·No=65, D·Date=04-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Krisna, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 79 [66] ditambahkan: C·No=66, D·Date=05-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 80 [67] ditambahkan: C·No=67, D·Date=06-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 81 [68] ditambahkan: C·No=68, D·Date=07-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 82 [69] ditambahkan: C·No=69, D·Date=08-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 83 [70] ditambahkan: C·No=70, D·Date=09-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 84 [71] ditambahkan: C·No=71, D·Date=10-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 85 [72] ditambahkan: C·No=72, D·Date=11-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Eka, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 86 [73] ditambahkan: C·No=73, D·Date=12-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 87 [74] ditambahkan: C·No=74, D·Date=13-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 88 [75] ditambahkan: C·No=75, D·Date=14-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 89 [76] ditambahkan: C·No=76, D·Date=15-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 90 [77] ditambahkan: C·No=77, D·Date=16-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 91 [78] ditambahkan: C·No=78, D·Date=17-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 92 [79] ditambahkan: C·No=79, D·Date=18-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 93 [80] ditambahkan: C·No=80, D·Date=19-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 94 [81] ditambahkan: C·No=81, D·Date=20-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 95 [82] ditambahkan: C·No=82, D·Date=21-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 96 [83] ditambahkan: C·No=83, D·Date=22-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 97 [84] ditambahkan: C·No=84, D·Date=23-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 98 [85] ditambahkan: C·No=85, D·Date=24-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 99 [86] ditambahkan: C·No=86, D·Date=25-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 100 [87] ditambahkan: C·No=87, D·Date=26-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 101 [88] ditambahkan: C·No=88, D·Date=27-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 102 [89] ditambahkan: C·No=89, D·Date=28-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 103 [90] ditambahkan: C·No=90, D·Date=29-11-2026 00:00, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 104 [91] ditambahkan: C·No=91, D·Date=30-11-2026 00:00, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, ...
++ Tailing Check  baris 105 [92] ditambahkan: C·No=92, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, ...
++ Tailing Check  baris 106 [93] ditambahkan: C·No=93, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, ...
++ Tailing Check  baris 107 [94] ditambahkan: C·No=94, E·Id Sampel=Filter Press Day, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, ...
++ Tailing Check  baris 108 [95] ditambahkan: C·No=95, E·Id Sampel=Filter Press Night, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, ...
++ Tailing Check  baris 109 [96] ditambahkan: C·No=96, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 110 [97] ditambahkan: C·No=97, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 111 [98] ditambahkan: C·No=98, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 112 [99] ditambahkan: C·No=99, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 113 [100] ditambahkan: C·No=100, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 114 [101] ditambahkan: C·No=101, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 115 [102] ditambahkan: C·No=102, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 116 [103] ditambahkan: C·No=103, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 117 [104] ditambahkan: C·No=104, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 118 [105] ditambahkan: C·No=105, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 119 [106] ditambahkan: C·No=106, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 120 [107] ditambahkan: C·No=107, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 121 [108] ditambahkan: C·No=108, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 122 [109] ditambahkan: C·No=109, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 123 [110] ditambahkan: C·No=110, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 124 [111] ditambahkan: C·No=111, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 125 [112] ditambahkan: C·No=112, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 126 [113] ditambahkan: C·No=113, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 127 [114] ditambahkan: C·No=114, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 128 [115] ditambahkan: C·No=115, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 129 [116] ditambahkan: C·No=116, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 130 [117] ditambahkan: C·No=117, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 131 [118] ditambahkan: C·No=118, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 132 [119] ditambahkan: C·No=119, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 133 [120] ditambahkan: C·No=120, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 134 [121] ditambahkan: C·No=121, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 135 [122] ditambahkan: C·No=122, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 136 [123] ditambahkan: C·No=123, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 137 [124] ditambahkan: C·No=124, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 138 [125] ditambahkan: C·No=125, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 139 [126] ditambahkan: C·No=126, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 140 [127] ditambahkan: C·No=127, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 141 [128] ditambahkan: C·No=128, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 142 [129] ditambahkan: C·No=129, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 143 [130] ditambahkan: C·No=130, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 144 [131] ditambahkan: C·No=131, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 145 [132] ditambahkan: C·No=132, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 146 [133] ditambahkan: C·No=133, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
++ Tailing Check  baris 147 [134] ditambahkan: C·No=134, F·Met Lab Technician=Gerald, G·Berat Solid (gr)=1000, H·FP=1, I·V Sampel (ml)=10, J·V Agno3 (ml)=0, K·M Agno3=0.01, L·Sandios ppm=<0,05
+_Dibandingkan 28125 sel dari 22 sheet._
+
 ## 11 Nov 2026 · 02:15 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Filter Press: ~9 sel; Milling Down Time Hours: +1 baris, ~5 sel; Milling and Leach Feed: +40 baris, ~5 sel; Reagent Consumption: +1 baris
 ~ Filter Press!C102 [102]: (kosong) → 10-11-2026 00:00
