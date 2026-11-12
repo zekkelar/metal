@@ -1,0 +1,18 @@
+{
+  "id": "1794503542057_e6da0d1ba7",
+  "created_epoch": 1794503542,
+  "created_at": "2026-11-13 00:12:22",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit ngetest AI.xlsx",
+  "detail": "+ Milling and Leach Feed baris 4 [BATCH] ditambahkan: AG=pct solids from known Pulp Weight\n~ Milling and Leach Feed!AG5 [1]: pct solids from known Pulp Weight → (kosong)\n~ Milling and Leach Feed!AH5 [1]: (kosong) → W Pulp\n~ Milling and Leach Feed!AI5 [1]: (kosong) → 1195\n~ Milling and Leach Feed!AJ5 [1]: (kosong) → gr\n~ Milling and Leach Feed!AH6: W Pulp → V Pulp\n~ Milling and Leach Feed!AI6: 1195 → 1000\n~ Milling and Leach Feed!AJ6: gr → mL\n~ Milling and Leach Feed!AH7 [01-09-2026 00:00]: V Pulp → SG pulp\n~ Milling and Leach Feed!AI7 [01-09-2026 00:00]: 1000 → 1.195\n~ Milling and Leach Feed!AJ7 [01-09-2026 00:00]: mL → g/mL\n~ Milling and Leach Feed!AH8: SG pulp → SG Solid\n~ Milling and Leach Feed!AI8: 1.195 → 2.1\n~ Milling and Leach Feed!AH9 [2]: SG Solid → SG Soln\n~ Milling and Leach Feed!AI9 [2]: 2.1 → 1\n~ Milling and Leach Feed!AH10: SG Soln → %sd\n~ Milling and Leach Feed!AI10: 1 → 0.311525\n~ Milling and Leach Feed!AJ10: g/mL → (kosong)\n~ Milling and Leach Feed!AH11 [03-09-2026 00:00]: %sd → W Solid\n~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.311525 → 372.272727",
+  "target_path": "PRODUKSI/ngetest AI.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Milling and Leach Feed: +1 baris, ~22 sel, -1 baris"
+    ]
+  }
+}
