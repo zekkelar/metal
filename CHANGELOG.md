@@ -5,6 +5,34 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 13 Nov 2026 · 00:12 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +1 baris, ~22 sel, -1 baris
++ Milling and Leach Feed baris 4 [BATCH] ditambahkan: AG=pct solids from known Pulp Weight
+~ Milling and Leach Feed!AG5 [1]: pct solids from known Pulp Weight → (kosong)
+~ Milling and Leach Feed!AH5 [1]: (kosong) → W Pulp
+~ Milling and Leach Feed!AI5 [1]: (kosong) → 1195
+~ Milling and Leach Feed!AJ5 [1]: (kosong) → gr
+~ Milling and Leach Feed!AH6: W Pulp → V Pulp
+~ Milling and Leach Feed!AI6: 1195 → 1000
+~ Milling and Leach Feed!AJ6: gr → mL
+~ Milling and Leach Feed!AH7 [01-09-2026 00:00]: V Pulp → SG pulp
+~ Milling and Leach Feed!AI7 [01-09-2026 00:00]: 1000 → 1.195
+~ Milling and Leach Feed!AJ7 [01-09-2026 00:00]: mL → g/mL
+~ Milling and Leach Feed!AH8: SG pulp → SG Solid
+~ Milling and Leach Feed!AI8: 1.195 → 2.1
+~ Milling and Leach Feed!AH9 [2]: SG Solid → SG Soln
+~ Milling and Leach Feed!AI9 [2]: 2.1 → 1
+~ Milling and Leach Feed!AH10: SG Soln → %sd
+~ Milling and Leach Feed!AI10: 1 → 0.311525
+~ Milling and Leach Feed!AJ10: g/mL → (kosong)
+~ Milling and Leach Feed!AH11 [03-09-2026 00:00]: %sd → W Solid
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.311525 → 372.272727
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: (kosong) → gr
+~ Milling and Leach Feed!AH12: W Solid → W Sln
+~ Milling and Leach Feed!AI12: 372.272727 → 822.727273
+- Milling and Leach Feed baris 13 [04-09-2026 00:00] dikosongkan: AH=W Sln, AI=822.727273, AJ=gr
+_Dibandingkan 28495 sel dari 22 sheet._
+
 ## 12 Nov 2026 · 23:56 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii_ngetestAI.xlsx · GanyuChan@MSI
 Ringkasan: file baru
 + file baru
