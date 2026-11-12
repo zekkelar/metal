@@ -1,0 +1,18 @@
+{
+  "id": "1794472838654_ce38fba520",
+  "created_epoch": 1794472838,
+  "created_at": "2026-11-12 16:40:38",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "upload",
+  "title": "Memperbarui Met Sheet.xlsx",
+  "detail": "~ PERSEN PASSING!D36 \"DARI CRUSHER\" [1]: 0.176 → 0.182\n~ PERSEN PASSING!F36 [1]: (kosong) → 90\n~ PERSEN PASSING!H36 [1]: 100 → 110\n~ PERSEN PASSING!I36 [1]: (kosong) → 82\n~ PERSEN PASSING!D37 \"DARI CRUSHER\" [2]: 0.176 → 0.178\n~ PERSEN PASSING!F37 [2]: (kosong) → 86\n~ PERSEN PASSING!H37 [2]: 110 → 120\n~ PERSEN PASSING!I37 [2]: (kosong) → 82.8\n~ PERSEN PASSING!F38 [3]: (kosong) → 90\n~ PERSEN PASSING!H38 [3]: 120 → 130\n~ PERSEN PASSING!I38 [3]: (kosong) → 82",
+  "target_path": "PRODUKSI/Met Sheet.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "PERSEN PASSING: ~11 sel"
+    ]
+  }
+}
