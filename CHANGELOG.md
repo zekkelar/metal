@@ -5,6 +5,22 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 12 Nov 2026 · 17:40 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: PERSEN PASSING: +11 baris; TEMPLATE KOSONGAN (2): -1 baris
++ PERSEN PASSING baris 39 [4] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 40 [5] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 41 [6] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 42 [7] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 43 [8] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 44 [9] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 45 [10] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 46 [11] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 47 [12] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 48 [13] ditambahkan: E=500, G=75
++ PERSEN PASSING baris 49 [14] ditambahkan: E=500, G=75
+- TEMPLATE KOSONGAN (2) baris 18 [Leach Time] dikosongkan: O=4
+_Dibandingkan 6900 sel dari 25 sheet._
+
 ## 12 Nov 2026 · 16:40 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
 Ringkasan: PERSEN PASSING: ~11 sel
 ~ PERSEN PASSING!D36 "DARI CRUSHER" [1]: 0.176 → 0.182
