@@ -1,0 +1,19 @@
+{
+  "id": "1794476463917_8a780c39bd",
+  "created_epoch": 1794476463,
+  "created_at": "2026-11-12 17:41:03",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Met Sheet.xlsx",
+  "detail": "+ PERSEN PASSING baris 39 [4] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 40 [5] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 41 [6] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 42 [7] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 43 [8] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 44 [9] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 45 [10] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 46 [11] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 47 [12] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 48 [13] ditambahkan: E=500, G=75\n+ PERSEN PASSING baris 49 [14] ditambahkan: E=500, G=75\n- TEMPLATE KOSONGAN (2) baris 18 [Leach Time] dikosongkan: O=4",
+  "target_path": "PRODUKSI/Met Sheet.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "PERSEN PASSING: +11 baris",
+      "TEMPLATE KOSONGAN (2): -1 baris"
+    ]
+  }
+}
