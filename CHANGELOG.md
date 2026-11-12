@@ -5,6 +5,21 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 12 Nov 2026 · 16:40 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: PERSEN PASSING: ~11 sel
+~ PERSEN PASSING!D36 "DARI CRUSHER" [1]: 0.176 → 0.182
+~ PERSEN PASSING!F36 [1]: (kosong) → 90
+~ PERSEN PASSING!H36 [1]: 100 → 110
+~ PERSEN PASSING!I36 [1]: (kosong) → 82
+~ PERSEN PASSING!D37 "DARI CRUSHER" [2]: 0.176 → 0.178
+~ PERSEN PASSING!F37 [2]: (kosong) → 86
+~ PERSEN PASSING!H37 [2]: 110 → 120
+~ PERSEN PASSING!I37 [2]: (kosong) → 82.8
+~ PERSEN PASSING!F38 [3]: (kosong) → 90
+~ PERSEN PASSING!H38 [3]: 120 → 130
+~ PERSEN PASSING!I38 [3]: (kosong) → 82
+_Dibandingkan 6879 sel dari 25 sheet._
+
 ## 12 Nov 2026 · 10:36 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Filter Press: ~7 sel; LF Ball Mill: +48 baris; Milling Down Time Hours: ~12 sel, -1 baris; Milling and Leach Feed: +5 baris, ~30 sel; Reagent Consumption: ~1 sel
 ~ Filter Press!C103 [103]: 11-11-2026 00:00 → 10-11-2026 00:00
