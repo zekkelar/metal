@@ -5,6 +5,174 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 12 Nov 2026 · 20:53 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~45 sel; EW&ELUTION: +17 baris; Fuel Consumption: ~1 sel; LF Ball Mill: +3 baris; LT Floculation: +10 baris; Milling Down Time Hours: ~8 sel; Milling and Leach Feed: +2 baris, ~8 sel; Reagent Consumption: +1 baris, ~7 sel; Rom File Inventory: +19 baris, ~43 sel
+~ Au Cal Leaching Tank!AI38 [29]: 0.08 → 0
+~ Au Cal Leaching Tank!AR38 [29]: 50.3132 → 0
+~ Au Cal Leaching Tank!AT38 [29]: 0.180508 → 0.679984
+~ Au Cal Leaching Tank!BD38 [29]: 18.18286 → 68.49606
+~ Au Cal Leaching Tank!AI39 [30]: 0.08 → 0.064
+~ Au Cal Leaching Tank!AR39 [30]: 47.557472 → 38.045978
+~ Au Cal Leaching Tank!AT39 [30]: 0.515453 → 0.566234
+~ Au Cal Leaching Tank!BD39 [30]: 96.547633 → 106.059127
+~ Au Cal Leaching Tank!AI41 [32]: 0.114 → 0.0912
+~ Au Cal Leaching Tank!AR41 [32]: 81.837864 → 65.470291
+~ Au Cal Leaching Tank!AT41 [32]: 0.453373 → 0.562699
+~ Au Cal Leaching Tank!BD41 [32]: 67.876469 → 84.244042
+~ Au Cal Leaching Tank!R42 [33]: (kosong) → 0.35
+~ Au Cal Leaching Tank!S42 [33]: (kosong) → 1.225
+~ Au Cal Leaching Tank!U42 [33]: 0 → 46.305
+~ Au Cal Leaching Tank!AI42 [33]: 0.064 → 0.0512
+~ Au Cal Leaching Tank!AR42 [33]: 44.157984 → 35.326387
+~ Au Cal Leaching Tank!AT42 [33]: 0.768198 → 0.814558
+~ Au Cal Leaching Tank!BD42 [33]: 146.340678 → 155.172275
+~ Au Cal Leaching Tank!F43 "full tanki" [34]: (kosong) → 12-11-2026 00:00
+~ Au Cal Leaching Tank!G43 [34]: (kosong) → 09:30:00
+~ Au Cal Leaching Tank!H43 "start toyong" [34]: (kosong) → 13-11-2026 00:00
+~ Au Cal Leaching Tank!I43 [34]: (kosong) → 00:30:00
+~ Au Cal Leaching Tank!J43 [34]: (kosong) → 863
+~ Au Cal Leaching Tank!K43 [34]: (kosong) → 0.55
+~ Au Cal Leaching Tank!L43 [34]: (kosong) → 0.47465
+~ Au Cal Leaching Tank!M43 [34]: (kosong) → 0.31
+~ Au Cal Leaching Tank!N43 [34]: 0 → 319.69835
+~ Au Cal Leaching Tank!O43 [34]: (kosong) → 319.69835
+~ Au Cal Leaching Tank!P43 [34]: (kosong) → 1.195
+~ Au Cal Leaching Tank!V43 [34]: (kosong) → 711.58665
+~ Au Cal Leaching Tank!AR43 [34]: (kosong) → 0
+~ Au Cal Leaching Tank!BD43 [34]: (kosong) → 0
+~ Au Cal Leaching Tank!N60 [51]: 237.456666 → 243.850633
+~ Au Cal Leaching Tank!AI60 [51]: 0.045818 → 0.04183
+~ Au Cal Leaching Tank!AR60 [51]: 962.923934 → 877.90007
+~ Au Cal Leaching Tank!AT60 [51]: 0.642386 → 0.663778
+~ Au Cal Leaching Tank!N61 [52]: 10495.74258 → 10815.44093
+~ Au Cal Leaching Tank!BD61 [52]: 4130.351562 → 4215.375426
+~ Au Cal Leaching Tank!AL63: 4130.351562 → 4215.375426
+~ Au Cal Leaching Tank!BD63: 3304.28125 → 3372.300341
+~ Au Cal Leaching Tank!N67: 10.62358 → 10.947172
+~ Au Cal Leaching Tank!P67: 254.965912 → 262.732126
+~ Au Cal Leaching Tank!M74: 10.62358 → 10.947172
+~ Au Cal Leaching Tank!M75: 254.965912 → 262.732126
++ EW&ELUTION baris 73 ditambahkan: I·IN=5, J·OUT=5
++ EW&ELUTION baris 74 ditambahkan: I·IN=6, J·OUT=6
++ EW&ELUTION baris 75 ditambahkan: I·IN=7, J·OUT=7
++ EW&ELUTION baris 76 ditambahkan: I·IN=8, J·OUT=8
++ EW&ELUTION baris 77 ditambahkan: I·IN=9, J·OUT=9
++ EW&ELUTION baris 78 ditambahkan: I·IN=10, J·OUT=10
++ EW&ELUTION baris 79 ditambahkan: I·IN=11, J·OUT=11
++ EW&ELUTION baris 80 ditambahkan: I·IN=12, J·OUT=12
++ EW&ELUTION baris 81 ditambahkan: I·IN=13, J·OUT=13
++ EW&ELUTION baris 82 ditambahkan: I·IN=14, J·OUT=14
++ EW&ELUTION baris 83 ditambahkan: I·IN=15, J·OUT=15
++ EW&ELUTION baris 84 ditambahkan: I·IN=16, J·OUT=16
++ EW&ELUTION baris 85 ditambahkan: I·IN=17, J·OUT=17
++ EW&ELUTION baris 86 ditambahkan: I·IN=18, J·OUT=18
++ EW&ELUTION baris 87 ditambahkan: I·IN=19, J·OUT=19
++ EW&ELUTION baris 88 ditambahkan: I·IN=20, J·OUT=20
++ EW&ELUTION baris 89 ditambahkan: I·IN=21, J·OUT=21
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 3.794872 → 3.682698
++ LF Ball Mill baris 366 [368] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=11-11-2026 00:00, V·Cu=0.819, W=1.04, X=19.93
++ LF Ball Mill baris 367 [369] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=11-11-2026 00:00, V·Cu=0.83, W=1.09, X=19.94
++ LF Ball Mill baris 368 [370] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=11-11-2026 00:00, V·Cu=0.848, W=1.07, X=19.54
++ LT Floculation baris 267 ditambahkan: O=LT-Floc NS 1, Q=08-11-2026 00:00, R=0.138, S=0.43, T=15.15
++ LT Floculation baris 268 ditambahkan: O=LT-Floc NS 2, Q=08-11-2026 00:00, R=0.128, S=0.46, T=15.08
++ LT Floculation baris 269 ditambahkan: O=LT-Floc NS 3, Q=08-11-2026 00:00, R=0.155, S=0.43, T=15.14
++ LT Floculation baris 270 ditambahkan: O=LT-Floc NS 4, Q=08-11-2026 00:00, R=0.112, S=0.49, T=15.51
++ LT Floculation baris 271 ditambahkan: O=LT-Floc NS 5, Q=08-11-2026 00:00, R=0.16, S=0.42, T=15.51
++ LT Floculation baris 272 ditambahkan: O=LT-Floc NS 6, Q=08-11-2026 00:00, R=0.103, S=0.48, T=15.34
++ LT Floculation baris 273 ditambahkan: O=LT-Floc NS 7, Q=08-11-2026 00:00, R=0.102, S=0.4, T=15.2
++ LT Floculation baris 274 ditambahkan: O=LT-Floc NS 8, Q=08-11-2026 00:00, R=0.12, S=0.42, T=15.2
++ LT Floculation baris 275 ditambahkan: O=LT-Floc NS 9, Q=08-11-2026 00:00, R=0.122, S=0.46, T=15.06
++ LT Floculation baris 276 ditambahkan: O=LT-Floc NS 10, Q=08-11-2026 00:00, R=0.152, S=0.41, T=15.32
+~ Milling Down Time Hours!A153 "Date" [12-11-2026 00:00]: 23-11-2026 00:00 → 12-11-2026 00:00
+~ Milling Down Time Hours!E153 "Stop Time" [12-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F153 "Start Time" [12-11-2026 00:00]: (kosong) → 05:00:00
+~ Milling Down Time Hours!G153 "Down Time (Mins)" [12-11-2026 00:00]: 0 → 240
+~ Milling Down Time Hours!H153 "Reason" [12-11-2026 00:00]: (kosong) → ball mill 3 mati jam 07:25-08:58 baut...
+~ Milling Down Time Hours!I153 "BATCH" [12-11-2026 00:00]: (kosong) → 35
+~ Milling Down Time Hours!J153 "Running Time Hour/Shift" [12-11-2026 00:00]: 12 → 8
+~ Milling Down Time Hours!K153 "Availibility per Shift" [12-11-2026 00:00]: 1 → 0.666667
+~ Milling and Leach Feed!E171 [11-11-2026 00:00]: tank 3 Batch 34 → Finish Pump jam 9:30 tank 3 batch 34
+~ Milling and Leach Feed!H171 "Milling And Leach Feed M" [11-11-2026 00:00]: 80.887185 → 98.862115
+~ Milling and Leach Feed!I171 [11-11-2026 00:00]: 6.740599 → 8.23851
+~ Milling and Leach Feed!J171 [11-11-2026 00:00]: 844.82171 → 862.79664
+~ Milling and Leach Feed!M171 [11-11-2026 00:00]: -14.572725 → -7.913912
+~ Milling and Leach Feed!N171 [11-11-2026 00:00]: (kosong) → 52.767871
+~ Milling and Leach Feed!O171 [11-11-2026 00:00]: -1.214394 → -0.659493
+~ Milling and Leach Feed!Z171 [11-11-2026 00:00]: 9.4 → 9.6
++ Milling and Leach Feed baris 172 [35] ditambahkan: A=35, B·PIC=12-11-2026 00:00, D=UNKNOWN USER, E=Start Pump Batch 35 Tank 2 10:00, G=0.31, H·Milling And Leach Feed M=179.59888, I=22.44986, J=287.59888, ...
++ Milling and Leach Feed baris 173 [12-11-2026 00:00] ditambahkan: B·PIC=12-11-2026 00:00, D=UNKNOWN USER
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.233834 → 1.197362
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 1.005169 → 0.975457
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.476384 → 0.462302
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.142439 → 0.138228
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.026201 → 0.025427
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.0343 → 0.033286
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.010385 → 0.010078
++ Reagent Consumption baris 101 [12-11-2026 00:00] ditambahkan: A·Data ragents consumption=12-11-2026 00:00, B=Day, D·Leaching=125
++ Rom File Inventory baris 9 [2] ditambahkan: CG=Ket
++ Rom File Inventory baris 10 [3] ditambahkan: CG=ROM
+~ Rom File Inventory!CG11 [4]: (kosong) → ROM
+~ Rom File Inventory!CP11 [4]: RUMUS BLENDINGAN ORE : → (kosong)
+~ Rom File Inventory!CQ11 [4]: (kosong) → RUMUS BLENDINGAN ORE :
++ Rom File Inventory baris 12 [5] ditambahkan: CG=ROM
+~ Rom File Inventory!BW13 [6]: AVERAGE → AVERAGE Au
+~ Rom File Inventory!BX13 [6]: 0.5214 → 0.549567
+~ Rom File Inventory!CG13 [6]: (kosong) → ROM
+~ Rom File Inventory!CP13 [6]: Keterangan : → (kosong)
+~ Rom File Inventory!CQ13 [6]: (kosong) → Keterangan :
+~ Rom File Inventory!BW14 [7]: MEDIAN → MEDIAN Au
+~ Rom File Inventory!CG14 [7]: (kosong) → ROM
+~ Rom File Inventory!CP14 [7]: Gb : kadar hasil blending (g/t) → (kosong)
+~ Rom File Inventory!CQ14 [7]: (kosong) → Gb : kadar hasil blending (g/t)
+~ Rom File Inventory!BW15 [8]: MAX → MAX Au
+~ Rom File Inventory!CG15 [8]: (kosong) → ROM
+~ Rom File Inventory!CP15 [8]: T1 : Tonase 1 (t) → (kosong)
+~ Rom File Inventory!CQ15 [8]: (kosong) → T1 : Tonase 1 (t)
+~ Rom File Inventory!BW16 [9]: MIN → MIN Au
+~ Rom File Inventory!CG16 [9]: (kosong) → ROM
+~ Rom File Inventory!CP16 [9]: G1 : Grade 1 (gr) → (kosong)
+~ Rom File Inventory!CQ16 [9]: (kosong) → G1 : Grade 1 (gr)
+~ Rom File Inventory!BX17 [10]: 0.025658 → 0.038756
+~ Rom File Inventory!CG17 [10]: (kosong) → ROM
+~ Rom File Inventory!CP17 [10]: T2 : Tonase 2 (t) → (kosong)
+~ Rom File Inventory!CQ17 [10]: (kosong) → T2 : Tonase 2 (t)
+~ Rom File Inventory!BX18 [11]: 0.0509 → 0.079067
+~ Rom File Inventory!CG18 [11]: (kosong) → ROM
+~ Rom File Inventory!CP18 [11]: G2 : Grade 2 (gr) → (kosong)
+~ Rom File Inventory!CQ18 [11]: (kosong) → G2 : Grade 2 (gr)
++ Rom File Inventory baris 19 [12] ditambahkan: CG=ROM
++ Rom File Inventory baris 20 [13] ditambahkan: CG=ROM
+~ Rom File Inventory!CG21 [14]: (kosong) → ROM
+~ Rom File Inventory!CP21 [14]: Rumus kebutuhan Tonase Blending ore : → (kosong)
+~ Rom File Inventory!CQ21 [14]: (kosong) → Rumus kebutuhan Tonase Blending ore :
++ Rom File Inventory baris 22 [15] ditambahkan: CG=ROM
+~ Rom File Inventory!CG23 [18]: (kosong) → ROM
+~ Rom File Inventory!CP23 [18]: Keterangan : → (kosong)
+~ Rom File Inventory!CQ23 [18]: (kosong) → Keterangan :
+~ Rom File Inventory!CG24 [22]: (kosong) → ROM
+~ Rom File Inventory!CP24 [22]: Gt : Kadar target → (kosong)
+~ Rom File Inventory!CQ24 [22]: (kosong) → Gt : Kadar target
+~ Rom File Inventory!CG25 [28]: (kosong) → ROM
+~ Rom File Inventory!CP25 [28]: T1 : Tonase Ore yang tersedia → (kosong)
+~ Rom File Inventory!CQ25 [28]: (kosong) → T1 : Tonase Ore yang tersedia
+~ Rom File Inventory!CG26 [29]: (kosong) → ROM
+~ Rom File Inventory!CP26 [29]: T2 : Tonase Ore tambahan yang dibutuhkan → (kosong)
+~ Rom File Inventory!CQ26 [29]: (kosong) → T2 : Tonase Ore tambahan yang dibutuhkan
++ Rom File Inventory baris 27 [30] ditambahkan: CG=ROM
++ Rom File Inventory baris 28 [31] ditambahkan: CG=ROM
++ Rom File Inventory baris 29 [32] ditambahkan: CG=ROM
++ Rom File Inventory baris 30 [33] ditambahkan: CB=SR OXIDE 1, CC=11-11-2026 00:00, CD=0.555, CE=1.15, CF=20.97, CG=Stock Room
++ Rom File Inventory baris 31 [34] ditambahkan: CB=SR OXIDE 2, CC=11-11-2026 00:00, CD=0.963, CE=1.13, CF=21.26, CG=Stock Room
++ Rom File Inventory baris 32 [35] ditambahkan: CB=SR OXIDE 3, CC=11-11-2026 00:00, CD=0.445, CE=1.15, CF=21.47, CG=Stock Room
++ Rom File Inventory baris 33 [36] ditambahkan: CB=SR OXIDE 4, CC=11-11-2026 00:00, CD=0.444, CE=1.15, CF=20.97, CG=Stock Room
++ Rom File Inventory baris 34 [37] ditambahkan: CB=SR OXIDE 5, CC=11-11-2026 00:00, CD=0.544, CE=1.13, CF=21.26, CG=Stock Room
++ Rom File Inventory baris 35 [38] ditambahkan: CB=SR OXIDE 6, CC=11-11-2026 00:00, CD=0.654, CE=1.15, CF=21.47, CG=Stock Room
++ Rom File Inventory baris 36 [39] ditambahkan: CB=SR OXIDE 7, CC=11-11-2026 00:00, CD=0.65, CE=1.15, CF=21.47, CG=Stock Room
++ Rom File Inventory baris 37 [40] ditambahkan: CB=SR OXIDE 8, CC=11-11-2026 00:00, CD=0.524, CE=1.15, CF=21.97, CG=Stock Room
++ Rom File Inventory baris 38 [41] ditambahkan: CB=SR OXIDE 9, CC=11-11-2026 00:00, CD=0.66, CE=1.13, CF=21.26, CG=Stock Room
++ Rom File Inventory baris 39 [42] ditambahkan: CB=SR OXIDE 10, CC=11-11-2026 00:00, CD=0.62, CE=1.15, CF=21.47, CG=Stock Room
+_Dibandingkan 28495 sel dari 22 sheet._
+
 ## 12 Nov 2026 · 17:40 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
 Ringkasan: PERSEN PASSING: +11 baris; TEMPLATE KOSONGAN (2): -1 baris
 + PERSEN PASSING baris 39 [4] ditambahkan: E=500, G=75
