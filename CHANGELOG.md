@@ -5,6 +5,114 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 12 Nov 2026 · 10:36 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Filter Press: ~7 sel; LF Ball Mill: +48 baris; Milling Down Time Hours: ~12 sel, -1 baris; Milling and Leach Feed: +5 baris, ~30 sel; Reagent Consumption: ~1 sel
+~ Filter Press!C103 [103]: 11-11-2026 00:00 → 10-11-2026 00:00
+~ Filter Press!D103 [103]: Day → Night
+~ Filter Press!K113 [113]: 11-11-2026 00:00 → 10-11-2026 00:00
+~ Filter Press!L113 [113]: Day → Night
+~ Filter Press!M113 [113]: 4 → 3
+~ Filter Press!N113 [113]: 48 → 36
+~ Filter Press!P113 [113]: 48 → 36
++ LF Ball Mill baris 354 [356] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=09-10-2026 00:00, V·Cu=0.459, W=0.63, X=11.62
++ LF Ball Mill baris 355 [357] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=09-10-2026 00:00, V·Cu=0.433, W=0.58, X=11.84
++ LF Ball Mill baris 356 [358] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=09-10-2026 00:00, V·Cu=0.644, W=0.58, X=12.04
++ LF Ball Mill baris 357 [359] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=09-10-2026 00:00, V·Cu=0.753, W=0.62, X=15.25
++ LF Ball Mill baris 358 [360] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=09-10-2026 00:00, V·Cu=0.683, W=9.59, X=14.72
++ LF Ball Mill baris 359 [361] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=09-10-2026 00:00, V·Cu=0.688, W=0.59, X=14.88
++ LF Ball Mill baris 360 [362] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=10-11-2026 00:00, V·Cu=0.729, W=1, X=16.27
++ LF Ball Mill baris 361 [363] ditambahkan: S·Cu (g/t)=207, T·Au=LF THICKENER DS 2, U·Ag=10-11-2026 00:00, V·Cu=0.782, W=1.02, X=16.63
++ LF Ball Mill baris 362 [364] ditambahkan: S·Cu (g/t)=208, T·Au=LF THICKENER DS 3, U·Ag=10-11-2026 00:00, V·Cu=0.749, W=1.07, X=16.73
++ LF Ball Mill baris 363 [365] ditambahkan: S·Cu (g/t)=209, T·Au=LF THICKENER NS 1, U·Ag=10-11-2026 00:00, V·Cu=0.752, W=1.15, X=20.97
++ LF Ball Mill baris 364 [366] ditambahkan: S·Cu (g/t)=210, T·Au=LF THICKENER NS 2, U·Ag=10-11-2026 00:00, V·Cu=0.694, W=1.13, X=21.26
++ LF Ball Mill baris 365 [367] ditambahkan: S·Cu (g/t)=211, T·Au=LF THICKENER NS 3, U·Ag=10-11-2026 00:00, V·Cu=0.723, W=1.15, X=21.47
++ LF Ball Mill baris 366 [368] ditambahkan: S·Cu (g/t)=212
++ LF Ball Mill baris 367 [369] ditambahkan: S·Cu (g/t)=213
++ LF Ball Mill baris 368 [370] ditambahkan: S·Cu (g/t)=214
++ LF Ball Mill baris 369 [371] ditambahkan: S·Cu (g/t)=215
++ LF Ball Mill baris 370 [372] ditambahkan: S·Cu (g/t)=216
++ LF Ball Mill baris 371 [373] ditambahkan: S·Cu (g/t)=217
++ LF Ball Mill baris 372 [374] ditambahkan: S·Cu (g/t)=218
++ LF Ball Mill baris 373 [375] ditambahkan: S·Cu (g/t)=219
++ LF Ball Mill baris 374 [376] ditambahkan: S·Cu (g/t)=220
++ LF Ball Mill baris 375 [377] ditambahkan: S·Cu (g/t)=221
++ LF Ball Mill baris 376 [378] ditambahkan: S·Cu (g/t)=222
++ LF Ball Mill baris 377 [379] ditambahkan: S·Cu (g/t)=223
++ LF Ball Mill baris 378 [380] ditambahkan: S·Cu (g/t)=224
++ LF Ball Mill baris 379 [381] ditambahkan: S·Cu (g/t)=225
++ LF Ball Mill baris 380 [382] ditambahkan: S·Cu (g/t)=226
++ LF Ball Mill baris 381 [383] ditambahkan: S·Cu (g/t)=227
++ LF Ball Mill baris 382 [384] ditambahkan: S·Cu (g/t)=228
++ LF Ball Mill baris 383 [385] ditambahkan: S·Cu (g/t)=229
++ LF Ball Mill baris 384 [386] ditambahkan: S·Cu (g/t)=230
++ LF Ball Mill baris 385 [387] ditambahkan: S·Cu (g/t)=231
++ LF Ball Mill baris 386 [388] ditambahkan: S·Cu (g/t)=232
++ LF Ball Mill baris 387 [389] ditambahkan: S·Cu (g/t)=233
++ LF Ball Mill baris 388 [390] ditambahkan: S·Cu (g/t)=234
++ LF Ball Mill baris 389 [391] ditambahkan: S·Cu (g/t)=235
++ LF Ball Mill baris 390 [392] ditambahkan: S·Cu (g/t)=236
++ LF Ball Mill baris 391 [393] ditambahkan: S·Cu (g/t)=237
++ LF Ball Mill baris 392 [394] ditambahkan: S·Cu (g/t)=238
++ LF Ball Mill baris 393 [395] ditambahkan: S·Cu (g/t)=239
++ LF Ball Mill baris 394 [396] ditambahkan: S·Cu (g/t)=240
++ LF Ball Mill baris 395 [397] ditambahkan: S·Cu (g/t)=241
++ LF Ball Mill baris 396 [398] ditambahkan: S·Cu (g/t)=242
++ LF Ball Mill baris 397 [399] ditambahkan: S·Cu (g/t)=243
++ LF Ball Mill baris 398 [400] ditambahkan: S·Cu (g/t)=244
++ LF Ball Mill baris 399 [401] ditambahkan: S·Cu (g/t)=245
++ LF Ball Mill baris 400 [402] ditambahkan: S·Cu (g/t)=246
++ LF Ball Mill baris 401 [403] ditambahkan: S·Cu (g/t)=247
+- Milling Down Time Hours baris 149 [10-11-2026 00:00] dikosongkan: L·Availibility Per Day=1
+~ Milling Down Time Hours!F151 "Start Time" [11-11-2026 00:00]: 05:00:00 → 05:10:00
+~ Milling Down Time Hours!G151 "Down Time (Mins)" [11-11-2026 00:00]: 240 → 250
+~ Milling Down Time Hours!H151 "Reason" [11-11-2026 00:00]: 9:05 ball mill mati ganti genset smpe... → ball mill no 2 dan 3 mati 09:55-14:15...
+~ Milling Down Time Hours!J151 "Running Time Hour/Shift" [11-11-2026 00:00]: 8 → 7.833333
+~ Milling Down Time Hours!K151 "Availibility per Shift" [11-11-2026 00:00]: 0.666667 → 0.652778
+~ Milling Down Time Hours!A152 "Date" [11-11-2026 00:00]: 22-11-2026 00:00 → 11-11-2026 00:00
+~ Milling Down Time Hours!C152 "Shift" [11-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E152 "Stop Time" [11-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F152 "Start Time" [11-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H152 "Reason" [11-11-2026 00:00]: (kosong) → ball mill 2 dan 3 jalan
+~ Milling Down Time Hours!C153 "Shift" [23-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!C154 "Shift" [24-11-2026 00:00]: Day → Night
+~ Milling and Leach Feed!AI6: 1225 → 1195
+~ Milling and Leach Feed!AI8: 1.225 → 1.195
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.350649 → 0.311525
+~ Milling and Leach Feed!AI12: 429.545455 → 372.272727
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 795.454545 → 822.727273
+~ Milling and Leach Feed!E170 [11-11-2026 00:00]: tank 3 Batch 35 → tank 3 Batch 34
+~ Milling and Leach Feed!I170 [11-11-2026 00:00]: 17.97493 → 18.357375
+~ Milling and Leach Feed!L170 [11-11-2026 00:00]: 0.8 → 0.75
+~ Milling and Leach Feed!O170 [11-11-2026 00:00]: 12.105834 → 12.363405
+~ Milling and Leach Feed!P170 [11-11-2026 00:00]: 8 → 7.833333
+~ Milling and Leach Feed!Q170 [11-11-2026 00:00]: 480 → 470
+~ Milling and Leach Feed!R170 [11-11-2026 00:00]: 240 → 250
++ Milling and Leach Feed baris 171 [11-11-2026 00:00] ditambahkan: B·PIC=11-11-2026 00:00, D=UNKNOWN USER, E=tank 3 Batch 34, G=0.31, H·Milling And Leach Feed M=80.887185, I=6.740599, J=844.82171, K=1.195, ...
+~ Milling and Leach Feed!H214 "Milling And Leach Feed M": 60 → 72
+~ Milling and Leach Feed!H215 "Milling And Leach Feed M": 67 → 78
+~ Milling and Leach Feed!H217 "Milling And Leach Feed M": 60 → 81
+~ Milling and Leach Feed!H218 "Milling And Leach Feed M": 80 → 75
+~ Milling and Leach Feed!H219 "Milling And Leach Feed M": 78 → 80
+~ Milling and Leach Feed!H220 "Milling And Leach Feed M": 78 → 82
+~ Milling and Leach Feed!H221 "Milling And Leach Feed M": 78 → 67
+~ Milling and Leach Feed!H222 "Milling And Leach Feed M": 60 → 72
+~ Milling and Leach Feed!H224 "Milling And Leach Feed M": 72 → 50
+~ Milling and Leach Feed!H225 "Milling And Leach Feed M": 84 → 60
+~ Milling and Leach Feed!H226 "Milling And Leach Feed M": 75 → 84
+~ Milling and Leach Feed!H227 "Milling And Leach Feed M": 84 → 78
+~ Milling and Leach Feed!H228 "Milling And Leach Feed M": 83 → 67
+~ Milling and Leach Feed!H229 "Milling And Leach Feed M": 84 → 75
+~ Milling and Leach Feed!H230 "Milling And Leach Feed M": 80 → 75
+~ Milling and Leach Feed!H231 "Milling And Leach Feed M": 80 → 76
+~ Milling and Leach Feed!H232 "Milling And Leach Feed M": 72 → 80
+~ Milling and Leach Feed!H233 "Milling And Leach Feed M": 76 → 60
++ Milling and Leach Feed baris 234 ditambahkan: H·Milling And Leach Feed M=50
++ Milling and Leach Feed baris 235 ditambahkan: H·Milling And Leach Feed M=67
++ Milling and Leach Feed baris 236 ditambahkan: H·Milling And Leach Feed M=67
++ Milling and Leach Feed baris 237 ditambahkan: H·Milling And Leach Feed M=67
+~ Reagent Consumption!B100 [11-11-2026 00:00]: Day → Day/night
+_Dibandingkan 28274 sel dari 22 sheet._
+
 ## 12 Nov 2026 · 02:22 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Filter Press: ~10 sel; Milling Down Time Hours: +1 baris, ~8 sel; Milling and Leach Feed: +1 baris, ~6 sel; Reagent Consumption: +1 baris
 ~ Filter Press!C103 [103]: (kosong) → 11-11-2026 00:00
