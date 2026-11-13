@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 13 Nov 2026 · 17:49 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: EW&ELUTION: +98 baris; Filter Press: ~10 sel; LF Ball Mill: +11 baris; LT Floculation: +1 baris, ~24 sel, -4 baris; Milling Down Time Hours: ~7 sel; Milling and Leach Feed: +25 baris, ~5 sel; Reagent Consumption: +52 baris, ~11 sel
++ EW&ELUTION baris 51 [02-10-2026 00:00] ditambahkan: B·TANGGAL=02-10-2026 00:00, I·IN=0, J·OUT=0
++ EW&ELUTION baris 52 ditambahkan: I·IN=1, J·OUT=1
++ EW&ELUTION baris 53 ditambahkan: I·IN=2
++ EW&ELUTION baris 54 ditambahkan: I·IN=3
++ EW&ELUTION baris 68 [05-11-2026 00:00] ditambahkan: B·TANGGAL=05-11-2026 00:00, D·Flow=2.5, E·Preassure Tank=0.01
++ EW&ELUTION baris 73 ditambahkan: K·Au In=14.99, L·Au Out=2.27, M·Ag IN=33.37, N·Ag Out=5.64, O·Cu IN=193.04, P·Cu Out=21.01, Q·%=0.848566
++ EW&ELUTION baris 74 ditambahkan: K·Au In=17.77, L·Au Out=2.5, M·Ag IN=30.72, N·Ag Out=4.54, O·Cu IN=126.47, P·Cu Out=20.48, Q·%=0.859313
++ EW&ELUTION baris 75 ditambahkan: K·Au In=15.53, L·Au Out=2.55, M·Ag IN=21.44, N·Ag Out=3.46, O·Cu IN=101.45, P·Cu Out=18.14, Q·%=0.835802
++ EW&ELUTION baris 76 ditambahkan: K·Au In=22.9, L·Au Out=1.3, M·Ag IN=21.86, N·Ag Out=1.67, O·Cu IN=162.98, P·Cu Out=20.7, Q·%=0.943231
++ EW&ELUTION baris 77 ditambahkan: K·Au In=22.244, L·Au Out=1.589, M·Ag IN=18.99, N·Ag Out=1.22, O·Cu IN=187.93, P·Cu Out=16.54, Q·%=0.928565
++ EW&ELUTION baris 78 ditambahkan: K·Au In=18.866, L·Au Out=1.445, M·Ag IN=13.85, N·Ag Out=0.88, O·Cu IN=164.43, P·Cu Out=81.77, Q·%=0.923407
++ EW&ELUTION baris 79 ditambahkan: K·Au In=13.32, L·Au Out=2.082, M·Ag IN=10.51, N·Ag Out=0.86, O·Cu IN=247.69, P·Cu Out=51.75, Q·%=0.843694
++ EW&ELUTION baris 80 ditambahkan: K·Au In=12.966, L·Au Out=3.458, M·Ag IN=9.62, N·Ag Out=0.96, O·Cu IN=241.37, P·Cu Out=14.88, Q·%=0.733302
++ EW&ELUTION baris 81 ditambahkan: K·Au In=17.361, L·Au Out=0.932, M·Ag IN=7.54, N·Ag Out=0.36, O·Cu IN=180.8, P·Cu Out=17.09, Q·%=0.946316
++ EW&ELUTION baris 82 ditambahkan: K·Au In=18.93, L·Au Out=1.246, M·Ag IN=7.53, N·Ag Out=0.44, O·Cu IN=182.13, P·Cu Out=42.4, Q·%=0.934179
++ EW&ELUTION baris 83 ditambahkan: K·Au In=15.932, L·Au Out=2.752, M·Ag IN=6.66, N·Ag Out=0.4, O·Cu IN=189.68, P·Cu Out=17.67, Q·%=0.827266
++ EW&ELUTION baris 84 ditambahkan: K·Au In=10.226, L·Au Out=1.617, M·Ag IN=8.78, N·Ag Out=0.25, O·Cu IN=260.24, P·Cu Out=47.82, Q·%=0.841874
++ EW&ELUTION baris 85 ditambahkan: K·Au In=12.008, L·Au Out=10.57, M·Ag IN=4.77, N·Ag Out=0.45, O·Cu IN=129.2, P·Cu Out=58.11, Q·%=0.119753
++ EW&ELUTION baris 86 ditambahkan: K·Au In=14.502, L·Au Out=0.663, M·Ag IN=3.41, N·Ag Out=1.6, O·Cu IN=136.13, P·Cu Out=84.2, Q·%=0.954282
++ EW&ELUTION baris 87 ditambahkan: K·Au In=6.769, L·Au Out=0.353, M·Ag IN=1.61, N·Ag Out=0.22, O·Cu IN=211.78, P·Cu Out=70.51, Q·%=0.94785
++ EW&ELUTION baris 88 ditambahkan: K·Au In=15.14, L·Au Out=1.65, M·Ag IN=2.99, N·Ag Out=0.2, O·Cu IN=164.88, P·Cu Out=84.71, Q·%=0.891017
++ EW&ELUTION baris 89 ditambahkan: K·Au In=27.982, L·Au Out=4.441, M·Ag IN=1.86, N·Ag Out=0.41, O·Cu IN=89.7, P·Cu Out=84.44, Q·%=0.841291
++ EW&ELUTION baris 90 ditambahkan: I·IN=22, J·OUT=22, K·Au In=20.136, L·Au Out=3.536, M·Ag IN=1.39, N·Ag Out=0.41, O·Cu IN=123.9, P·Cu Out=24.78, ...
++ EW&ELUTION baris 91 ditambahkan: I·IN=23, J·OUT=23, K·Au In=13.981, L·Au Out=1.52, M·Ag IN=1.46, N·Ag Out=0.29, O·Cu IN=169.38, P·Cu Out=24.1, ...
++ EW&ELUTION baris 92 ditambahkan: I·IN=24, J·OUT=24, K·Au In=15.34, L·Au Out=1.608, M·Ag IN=1.89, N·Ag Out=0.43, O·Cu IN=232.23, P·Cu Out=96.12, ...
++ EW&ELUTION baris 93 ditambahkan: I·IN=25, J·OUT=25, K·Au In=17.408, L·Au Out=4.868, M·Ag IN=1.13, N·Ag Out=1.05, O·Cu IN=91, P·Cu Out=33.2, ...
++ EW&ELUTION baris 94 ditambahkan: I·IN=26, J·OUT=26, K·Au In=27.513, L·Au Out=0.771, M·Ag IN=0.75, N·Ag Out=0.23, O·Cu IN=43.65, P·Cu Out=20.21, ...
++ EW&ELUTION baris 95 ditambahkan: I·IN=27, J·OUT=27, K·Au In=17.316, L·Au Out=2.308, M·Ag IN=0.82, N·Ag Out=0.43, O·Cu IN=79.08, P·Cu Out=24.89, ...
++ EW&ELUTION baris 96 ditambahkan: I·IN=28, J·OUT=28, K·Au In=14.872, L·Au Out=1.809, M·Ag IN=0.6, N·Ag Out=0.28, O·Cu IN=100.48, P·Cu Out=22.08, ...
++ EW&ELUTION baris 97 ditambahkan: I·IN=29, J·OUT=29, K·Au In=24.811, L·Au Out=0.237, M·Ag IN=0.43, N·Ag Out=0.13, O·Cu IN=36.48, P·Cu Out=22.45, ...
++ EW&ELUTION baris 98 ditambahkan: I·IN=30, J·OUT=30, K·Au In=13.57, L·Au Out=1.749, M·Ag IN=0.91, N·Ag Out=0.11, O·Cu IN=119.4, P·Cu Out=22.06, ...
++ EW&ELUTION baris 99 ditambahkan: I·IN=31, J·OUT=31, K·Au In=11.461, L·Au Out=1.538, M·Ag IN=0.6, N·Ag Out=0.13, O·Cu IN=92.75, P·Cu Out=22.65, ...
++ EW&ELUTION baris 100 ditambahkan: I·IN=32, J·OUT=32, K·Au In=11.8, L·Au Out=1.183, M·Ag IN=1.16, N·Ag Out=0.11, O·Cu IN=109.73, P·Cu Out=16.03, ...
++ EW&ELUTION baris 101 ditambahkan: I·IN=33, J·OUT=33, K·Au In=9.598, L·Au Out=1.067, M·Ag IN=0.68, N·Ag Out=0.07, O·Cu IN=141.43, P·Cu Out=14.56, ...
++ EW&ELUTION baris 102 ditambahkan: I·IN=34, J·OUT=34, K·Au In=9.338, L·Au Out=1.882, M·Ag IN=0.68, N·Ag Out=0.12, O·Cu IN=75.98, P·Cu Out=25.14, ...
++ EW&ELUTION baris 103 ditambahkan: I·IN=35, J·OUT=35, K·Au In=9.182, L·Au Out=1.914, M·Ag IN=0.64, N·Ag Out=0.07, O·Cu IN=75.95, P·Cu Out=18.32, ...
++ EW&ELUTION baris 104 ditambahkan: I·IN=36, J·OUT=36, K·Au In=8.759, L·Au Out=0.902, M·Ag IN=0.91, N·Ag Out=0.13, O·Cu IN=121.88, P·Cu Out=37.82, ...
++ EW&ELUTION baris 105 ditambahkan: I·IN=37, J·OUT=37, K·Au In=8.714, L·Au Out=1.249, M·Ag IN=0.75, N·Ag Out=0.21, O·Cu IN=118.03, P·Cu Out=34.82, ...
++ EW&ELUTION baris 106 ditambahkan: I·IN=38, J·OUT=38, K·Au In=6.03, L·Au Out=1.902, M·Ag IN=0.76, N·Ag Out=0.92, O·Cu IN=121.3, P·Cu Out=23.64, ...
++ EW&ELUTION baris 107 ditambahkan: I·IN=39, J·OUT=39, K·Au In=5.631, L·Au Out=1.533, M·Ag IN=1.84, N·Ag Out=1.56, O·Cu IN=141.7, P·Cu Out=20.85, ...
++ EW&ELUTION baris 108 ditambahkan: I·IN=40, J·OUT=40, K·Au In=6.684, L·Au Out=0.962, M·Ag IN=0.95, N·Ag Out=0.86, O·Cu IN=104.78, P·Cu Out=22.31, ...
++ EW&ELUTION baris 109 ditambahkan: I·IN=41, J·OUT=41, K·Au In=5.879, L·Au Out=0.611, M·Ag IN=0.61, N·Ag Out=0.26, O·Cu IN=36.72, P·Cu Out=27.67, ...
++ EW&ELUTION baris 110 ditambahkan: I·IN=42, J·OUT=42, K·Au In=5.043, L·Au Out=0.389, M·Ag IN=0.85, N·Ag Out=0.36, O·Cu IN=72.03, P·Cu Out=31.41, ...
++ EW&ELUTION baris 111 ditambahkan: I·IN=43, J·OUT=43, K·Au In=5.039, L·Au Out=0.254, M·Ag IN=0.58, N·Ag Out=0.05, O·Cu IN=92.69, P·Cu Out=18.75, ...
++ EW&ELUTION baris 112 ditambahkan: I·IN=44, J·OUT=44, K·Au In=3.883, L·Au Out=0.76, M·Ag IN=0.32, N·Ag Out=0.03, O·Cu IN=183.61, P·Cu Out=11.67, ...
++ EW&ELUTION baris 113 ditambahkan: I·IN=45, J·OUT=45, K·Au In=3.736, L·Au Out=0.25, M·Ag IN=0.36, N·Ag Out=0.04, O·Cu IN=157.43, P·Cu Out=14.54, ...
++ EW&ELUTION baris 114 ditambahkan: I·IN=46, J·OUT=46, K·Au In=3.829, L·Au Out=0.636, M·Ag IN=0.37, N·Ag Out=0.1, O·Cu IN=66.75, P·Cu Out=5.11, ...
++ EW&ELUTION baris 115 ditambahkan: I·IN=47, J·OUT=47, K·Au In=5.08, L·Au Out=0.715, M·Ag IN=0.33, N·Ag Out=0.08, O·Cu IN=50.36, P·Cu Out=15.52, ...
++ EW&ELUTION baris 116 ditambahkan: I·IN=48, J·OUT=48
++ EW&ELUTION baris 117 [12-11-2026 00:00] ditambahkan: B·TANGGAL=12-11-2026 00:00, D·Flow=2.5, E·Preassure Tank=0.01, I·IN=0, J·OUT=0, K·Au In=11.37, L·Au Out=6.899, M·Ag IN=26.75, ...
++ EW&ELUTION baris 118 ditambahkan: I·IN=1, J·OUT=1, K·Au In=12.546, L·Au Out=5.187, M·Ag IN=48, N·Ag Out=14.95, Q·%=0.586561
++ EW&ELUTION baris 119 ditambahkan: I·IN=2, J·OUT=2, K·Au In=18.652, L·Au Out=1.258, M·Ag IN=82.75, N·Ag Out=6.4, Q·%=0.932554
++ EW&ELUTION baris 120 ditambahkan: I·IN=3, J·OUT=3, K·Au In=17.934, L·Au Out=1.548, M·Ag IN=77, N·Ag Out=7.5, Q·%=0.913684
++ EW&ELUTION baris 121 ditambahkan: I·IN=4, J·OUT=4, K·Au In=15.351, L·Au Out=1.35, M·Ag IN=64.5, N·Ag Out=5.15, Q·%=0.912058
++ EW&ELUTION baris 122 ditambahkan: I·IN=5, J·OUT=5, K·Au In=11.138, L·Au Out=1.476, M·Ag IN=42.75, N·Ag Out=4.25, Q·%=0.867481
++ EW&ELUTION baris 123 ditambahkan: I·IN=6, J·OUT=6, K·Au In=17.533, L·Au Out=1.253, M·Ag IN=26.75, N·Ag Out=23.25, Q·%=0.928535
++ EW&ELUTION baris 124 ditambahkan: I·IN=7, J·OUT=7, K·Au In=24.565, L·Au Out=2.914, M·Ag IN=48, N·Ag Out=14.95, Q·%=0.881376
++ EW&ELUTION baris 125 ditambahkan: I·IN=8, J·OUT=8, K·Au In=20.124, L·Au Out=2.548, M·Ag IN=82.75, N·Ag Out=6.4, Q·%=0.873385
++ EW&ELUTION baris 126 ditambahkan: I·IN=9, J·OUT=9, K·Au In=9.674, L·Au Out=2.274, M·Ag IN=77, N·Ag Out=7.5, Q·%=0.764937
++ EW&ELUTION baris 127 ditambahkan: I·IN=10, J·OUT=10, K·Au In=20.471, L·Au Out=2.725, M·Ag IN=64.5, N·Ag Out=5.15, Q·%=0.866885
++ EW&ELUTION baris 128 ditambahkan: I·IN=11, J·OUT=11, K·Au In=15.932, L·Au Out=2.335, M·Ag IN=42.75, N·Ag Out=4.25, Q·%=0.85344
++ EW&ELUTION baris 129 ditambahkan: I·IN=12, J·OUT=12, K·Au In=21.989, L·Au Out=3.294, M·Ag IN=26.75, N·Ag Out=23.25, Q·%=0.850198
++ EW&ELUTION baris 130 ditambahkan: I·IN=13, J·OUT=13, K·Au In=22.781, L·Au Out=2.559, M·Ag IN=48, N·Ag Out=14.95, Q·%=0.88767
++ EW&ELUTION baris 131 ditambahkan: I·IN=14, J·OUT=14, K·Au In=23.563, L·Au Out=2.979, M·Ag IN=82.75, N·Ag Out=6.4, Q·%=0.873573
++ EW&ELUTION baris 132 ditambahkan: I·IN=15, J·OUT=15, K·Au In=18.319, L·Au Out=2.768, M·Ag IN=77, N·Ag Out=7.5, Q·%=0.8489
++ EW&ELUTION baris 133 ditambahkan: I·IN=16, J·OUT=16, K·Au In=36.877, L·Au Out=5.66, M·Ag IN=2.8, N·Ag Out=0.45, Q·%=0.846517
++ EW&ELUTION baris 134 ditambahkan: I·IN=17, J·OUT=17, K·Au In=42.244, L·Au Out=6.847, M·Ag IN=2.89, N·Ag Out=0.48, Q·%=0.837918
++ EW&ELUTION baris 135 ditambahkan: I·IN=18, J·OUT=18, K·Au In=28.114, L·Au Out=3.837, M·Ag IN=2.1, N·Ag Out=0.27, Q·%=0.86352
++ EW&ELUTION baris 136 ditambahkan: I·IN=19, J·OUT=19, K·Au In=22.171, L·Au Out=3.486, M·Ag IN=1.17, N·Ag Out=0.2, Q·%=0.842768
++ EW&ELUTION baris 137 ditambahkan: I·IN=20, J·OUT=20, K·Au In=24.717, L·Au Out=3.919, M·Ag IN=1, N·Ag Out=0.33, Q·%=0.841445
++ EW&ELUTION baris 138 ditambahkan: I·IN=21, J·OUT=21, K·Au In=30.523, L·Au Out=4.236, M·Ag IN=1.06, N·Ag Out=0.28, Q·%=0.861219
++ EW&ELUTION baris 139 ditambahkan: I·IN=22, J·OUT=22, K·Au In=34.5, L·Au Out=4.094, M·Ag IN=0.92, N·Ag Out=0.24, Q·%=0.881333
++ EW&ELUTION baris 140 ditambahkan: I·IN=23, J·OUT=23, K·Au In=23.814, L·Au Out=3.434, M·Ag IN=0.71, N·Ag Out=0.22, Q·%=0.855799
++ EW&ELUTION baris 141 ditambahkan: I·IN=24, J·OUT=24, K·Au In=27.228, L·Au Out=6.799, M·Ag IN=0.76, N·Ag Out=0.25, Q·%=0.750294
++ EW&ELUTION baris 142 ditambahkan: I·IN=25, J·OUT=25, K·Au In=22.601, L·Au Out=2.773, M·Ag IN=0.93, N·Ag Out=0.35, Q·%=0.877306
++ EW&ELUTION baris 143 ditambahkan: I·IN=26, J·OUT=26, K·Au In=25.309, L·Au Out=2.328, M·Ag IN=1.75, N·Ag Out=0.27, Q·%=0.908017
++ EW&ELUTION baris 144 ditambahkan: I·IN=27, J·OUT=27, K·Au In=21.959, L·Au Out=4.215, M·Ag IN=0.85, N·Ag Out=0.09, Q·%=0.808051
++ EW&ELUTION baris 145 ditambahkan: I·IN=28, J·OUT=28, K·Au In=19.96, L·Au Out=3.392, M·Ag IN=0.87, N·Ag Out=0.11, Q·%=0.83006
++ EW&ELUTION baris 146 ditambahkan: I·IN=29, J·OUT=29, K·Au In=20.319, L·Au Out=6.374, M·Ag IN=1.03, N·Ag Out=4.57, Q·%=0.686303
++ EW&ELUTION baris 147 ditambahkan: I·IN=30, J·OUT=30, K·Au In=12.582, L·Au Out=3.041, M·Ag IN=1.68, N·Ag Out=0.42, Q·%=0.758306
++ EW&ELUTION baris 148 ditambahkan: I·IN=31, J·OUT=31, K·Au In=11.8, L·Au Out=2.306, M·Ag IN=0.93, N·Ag Out=0.31, Q·%=0.804576
++ EW&ELUTION baris 149 ditambahkan: I·IN=32, J·OUT=32, K·Au In=11.832, L·Au Out=2.651, M·Ag IN=0.81, N·Ag Out=0.06, Q·%=0.775947
++ EW&ELUTION baris 150 ditambahkan: I·IN=33, J·OUT=33, K·Au In=11.604, L·Au Out=0.827, M·Ag IN=0.76, N·Ag Out=0.1, Q·%=0.928731
++ EW&ELUTION baris 151 ditambahkan: I·IN=34, J·OUT=34, K·Au In=12.789, L·Au Out=1.038, M·Ag IN=1.09, N·Ag Out=0.19, Q·%=0.918837
++ EW&ELUTION baris 152 ditambahkan: I·IN=35, J·OUT=35, K·Au In=9.462, L·Au Out=2.069, M·Ag IN=0.83, N·Ag Out=0.27, Q·%=0.781336
++ EW&ELUTION baris 153 ditambahkan: I·IN=36, J·OUT=36, K·Au In=9.047, L·Au Out=1.474, M·Ag IN=1.06, N·Ag Out=0.2, Q·%=0.837073
++ EW&ELUTION baris 154 ditambahkan: I·IN=37, J·OUT=37, K·Au In=7.702, L·Au Out=1.31, M·Ag IN=1.64, N·Ag Out=0.43, Q·%=0.829914
++ EW&ELUTION baris 155 ditambahkan: I·IN=38, J·OUT=38
++ EW&ELUTION baris 156 ditambahkan: I·IN=39, J·OUT=39
++ EW&ELUTION baris 157 ditambahkan: I·IN=40, J·OUT=40
++ EW&ELUTION baris 158 ditambahkan: I·IN=41, J·OUT=41
++ EW&ELUTION baris 159 ditambahkan: I·IN=42, J·OUT=42
++ EW&ELUTION baris 160 ditambahkan: I·IN=43, J·OUT=43
++ EW&ELUTION baris 161 ditambahkan: I·IN=44, J·OUT=44
++ EW&ELUTION baris 162 ditambahkan: I·IN=45, J·OUT=45
++ EW&ELUTION baris 163 ditambahkan: I·IN=46, J·OUT=46
++ EW&ELUTION baris 164 ditambahkan: I·IN=47, J·OUT=47
++ EW&ELUTION baris 165 ditambahkan: I·IN=48, J·OUT=48
+~ Filter Press!C104 [104]: (kosong) → 12-11-2026 00:00
+~ Filter Press!D104 [104]: (kosong) → Night
+~ Filter Press!E104 [104]: (kosong) → 3
+~ Filter Press!F104 [104]: 0 → 18
+~ Filter Press!H104 [104]: 0 → 18
+~ Filter Press!K114 [114]: (kosong) → 12-11-2026 00:00
+~ Filter Press!L114 [114]: Day → Night
+~ Filter Press!M114 [114]: (kosong) → 3
+~ Filter Press!N114 [114]: 0 → 36
+~ Filter Press!P114 [114]: 0 → 36
++ LF Ball Mill baris 309 [311] ditambahkan: L=BM 14:00, M·No=09-11-2026 00:00, N·id batch=0.723, O·Id sampel=0.84, P·date=13.82
++ LF Ball Mill baris 310 [312] ditambahkan: L=BM 16:00, M·No=09-11-2026 00:00, N·id batch=0.532, O·Id sampel=0.68, P·date=13.43
++ LF Ball Mill baris 311 [313] ditambahkan: L=BM 18:00, M·No=09-11-2026 00:00, N·id batch=0.66, O·Id sampel=0.78, P·date=14.3
++ LF Ball Mill baris 312 [314] ditambahkan: L=BM 08:00, M·No=10-11-2026 00:00, N·id batch=0.522, O·Id sampel=0.74, P·date=16.92
++ LF Ball Mill baris 313 [315] ditambahkan: L=BM 10:00, M·No=10-11-2026 00:00, N·id batch=0.779, O·Id sampel=1.18, P·date=18.32
++ LF Ball Mill baris 427 [429] ditambahkan: C·id batch=34, D·Id sampel=LF Ball Mill DS 1, E·date=09-11-2026 00:00, F·au (g/t)=0.649, G·ag (g/t)=0.74, H·Cu (g/t)=16.03
++ LF Ball Mill baris 428 [430] ditambahkan: D·Id sampel=LF Ball Mill DS 2, E·date=09-11-2026 00:00, F·au (g/t)=0.601, G·ag (g/t)=0.77, H·Cu (g/t)=16.06
++ LF Ball Mill baris 429 [431] ditambahkan: D·Id sampel=LF Ball Mill DS 3, E·date=09-11-2026 00:00, F·au (g/t)=0.641, G·ag (g/t)=0.73, H·Cu (g/t)=15.98
++ LF Ball Mill baris 430 [432] ditambahkan: D·Id sampel=LF Ball Mill NS 1, E·date=09-11-2026 00:00, F·au (g/t)=0.692, G·ag (g/t)=0.99, H·Cu (g/t)=13.75
++ LF Ball Mill baris 431 [433] ditambahkan: D·Id sampel=LF Ball Mill NS 2, E·date=09-11-2026 00:00, F·au (g/t)=0.668, G·ag (g/t)=0.94, H·Cu (g/t)=13.66
++ LF Ball Mill baris 432 [434] ditambahkan: D·Id sampel=LF Ball Mill NS 3, E·date=09-11-2026 00:00, F·au (g/t)=0.696, G·ag (g/t)=0.94, H·Cu (g/t)=13.85
++ LT Floculation baris 261 ditambahkan: P=32
+~ LT Floculation!P267: (kosong) → 33
+~ LT Floculation!R267: 0.138 → 0.095
+~ LT Floculation!S267: 0.43 → 0.66
+~ LT Floculation!T267: 15.15 → 12.93
+~ LT Floculation!R268: 0.128 → 0.057
+~ LT Floculation!S268: 0.46 → 0.75
+~ LT Floculation!T268: 15.08 → 12.91
+~ LT Floculation!R269: 0.155 → 0.076
+~ LT Floculation!S269: 0.43 → 0.7
+~ LT Floculation!T269: 15.14 → 12.92
+~ LT Floculation!O270: LT-Floc NS 4 → LT-Floc DS 1
+~ LT Floculation!Q270: 08-11-2026 00:00 → 09-11-2026 00:00
+~ LT Floculation!S270: 0.49 → 0.76
+~ LT Floculation!T270: 15.51 → 12.2
+~ LT Floculation!O271: LT-Floc NS 5 → LT-Floc DS 2
+~ LT Floculation!Q271: 08-11-2026 00:00 → 09-11-2026 00:00
+~ LT Floculation!R271: 0.16 → 0.115
+~ LT Floculation!S271: 0.42 → 0.72
+~ LT Floculation!T271: 15.51 → 12.43
+~ LT Floculation!O272: LT-Floc NS 6 → LT-Floc DS 3
+~ LT Floculation!Q272: 08-11-2026 00:00 → 09-11-2026 00:00
+~ LT Floculation!R272: 0.103 → 0.102
+~ LT Floculation!S272: 0.48 → 0.74
+~ LT Floculation!T272: 15.34 → 12.31
+- LT Floculation baris 273 dikosongkan: O=LT-Floc NS 7, Q=08-11-2026 00:00, R=0.102, S=0.4, T=15.2
+- LT Floculation baris 274 dikosongkan: O=LT-Floc NS 8, Q=08-11-2026 00:00, R=0.12, S=0.42, T=15.2
+- LT Floculation baris 275 dikosongkan: O=LT-Floc NS 9, Q=08-11-2026 00:00, R=0.122, S=0.46, T=15.06
+- LT Floculation baris 276 dikosongkan: O=LT-Floc NS 10, Q=08-11-2026 00:00, R=0.152, S=0.41, T=15.32
+~ Milling Down Time Hours!A154 "Date" [12-11-2026 00:00]: 24-11-2026 00:00 → 12-11-2026 00:00
+~ Milling Down Time Hours!E154 "Stop Time" [12-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F154 "Start Time" [12-11-2026 00:00]: (kosong) → 02:00:00
+~ Milling Down Time Hours!G154 "Down Time (Mins)" [12-11-2026 00:00]: 0 → 60
+~ Milling Down Time Hours!H154 "Reason" [12-11-2026 00:00]: (kosong) → ball mill 2 & 3 mati bocor jam 03:40-...
+~ Milling Down Time Hours!J154 "Running Time Hour/Shift" [12-11-2026 00:00]: 12 → 11
+~ Milling Down Time Hours!K154 "Availibility per Shift" [12-11-2026 00:00]: 1 → 0.916667
+~ Milling and Leach Feed!AI6: 1195 → 1205
+~ Milling and Leach Feed!AI8: 1.195 → 1.205
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.311525 → 0.324783
+~ Milling and Leach Feed!AI12: 372.272727 → 391.363636
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 822.727273 → 813.636364
++ Milling and Leach Feed baris 166 [34] ditambahkan: T=0.630333, U=0.746667, V=16.023333, W=39.0212, X=46.222892, Y=991.935008
++ Milling and Leach Feed baris 167 [09-11-2026 00:00] ditambahkan: T=0.685333, U=0.956667, V=13.753333, W=35.478198, X=49.524527, Y=711.979787
++ Milling and Leach Feed baris 173 [12-11-2026 00:00] ditambahkan: E=Tank 2 Batch 35, G=0.32, H·Milling And Leach Feed M=121.330777, I=11.030071, J=408.929657, K=1.205, L=0.69, M=50.696493, ...
++ Milling and Leach Feed baris 215 ditambahkan: I=60
++ Milling and Leach Feed baris 216 ditambahkan: I=67
++ Milling and Leach Feed baris 217 ditambahkan: I=60
++ Milling and Leach Feed baris 218 ditambahkan: I=60
++ Milling and Leach Feed baris 219 ditambahkan: I=67
++ Milling and Leach Feed baris 220 ditambahkan: I=60
++ Milling and Leach Feed baris 221 ditambahkan: I=67
++ Milling and Leach Feed baris 222 ditambahkan: I=60
++ Milling and Leach Feed baris 223 ditambahkan: I=50
++ Milling and Leach Feed baris 224 ditambahkan: I=50
++ Milling and Leach Feed baris 225 ditambahkan: I=75
++ Milling and Leach Feed baris 226 ditambahkan: I=78
++ Milling and Leach Feed baris 227 ditambahkan: I=81
++ Milling and Leach Feed baris 228 ditambahkan: I=75
++ Milling and Leach Feed baris 229 ditambahkan: I=78
++ Milling and Leach Feed baris 230 ditambahkan: I=75
++ Milling and Leach Feed baris 231 ditambahkan: I=72
++ Milling and Leach Feed baris 232 ditambahkan: I=75
++ Milling and Leach Feed baris 233 ditambahkan: I=80
++ Milling and Leach Feed baris 234 ditambahkan: I=60
++ Milling and Leach Feed baris 235 ditambahkan: I=80
++ Milling and Leach Feed baris 236 ditambahkan: I=84
+~ Reagent Consumption!N72 [14-10-2026 00:00]: Total → 01-11-2026 00:00
+~ Reagent Consumption!O72 [14-10-2026 00:00]: 12950 → (kosong)
+~ Reagent Consumption!P72 [14-10-2026 00:00]: 10550 → (kosong)
+~ Reagent Consumption!Q72 [14-10-2026 00:00]: 5000 → (kosong)
+~ Reagent Consumption!R72 [14-10-2026 00:00]: 275 → (kosong)
+~ Reagent Consumption!S72 [14-10-2026 00:00]: 12 → (kosong)
+~ Reagent Consumption!T72 [14-10-2026 00:00]: 1495 → (kosong)
+~ Reagent Consumption!U72 "Gold Room" [14-10-2026 00:00]: 109 → (kosong)
+~ Reagent Consumption!V72 [14-10-2026 00:00]: 12 → (kosong)
++ Reagent Consumption baris 73 [15-10-2026 00:00] ditambahkan: N=02-11-2026 00:00
++ Reagent Consumption baris 74 [16-10-2026 00:00] ditambahkan: N=03-11-2026 00:00
++ Reagent Consumption baris 75 [17-10-2026 00:00] ditambahkan: N=04-11-2026 00:00
++ Reagent Consumption baris 76 [18-10-2026 00:00] ditambahkan: N=05-11-2026 00:00
++ Reagent Consumption baris 77 [19-10-2026 00:00] ditambahkan: N=06-11-2026 00:00
++ Reagent Consumption baris 78 [20-10-2026 00:00] ditambahkan: N=07-11-2026 00:00
+- ...dan 701 perubahan lain tidak ditampilkan
+_Dibandingkan 29300 sel dari 22 sheet._
+
 ## 13 Nov 2026 · 13:12 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
 Ringkasan: Milling and Leach Feed: +1 baris
 + Milling and Leach Feed baris 173 [12-11-2026 00:00] ditambahkan: Z=4.8
