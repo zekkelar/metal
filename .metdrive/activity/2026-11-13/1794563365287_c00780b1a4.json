@@ -1,0 +1,24 @@
+{
+  "id": "1794563365287_c00780b1a4",
+  "created_epoch": 1794563365,
+  "created_at": "2026-11-13 17:49:25",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ EW&ELUTION baris 51 [02-10-2026 00:00] ditambahkan: B·TANGGAL=02-10-2026 00:00, I·IN=0, J·OUT=0\n+ EW&ELUTION baris 52 ditambahkan: I·IN=1, J·OUT=1\n+ EW&ELUTION baris 53 ditambahkan: I·IN=2\n+ EW&ELUTION baris 54 ditambahkan: I·IN=3\n+ EW&ELUTION baris 68 [05-11-2026 00:00] ditambahkan: B·TANGGAL=05-11-2026 00:00, D·Flow=2.5, E·Preassure Tank=0.01\n+ EW&ELUTION baris 73 ditambahkan: K·Au In=14.99, L·Au Out=2.27, M·Ag IN=33.37, N·Ag Out=5.64, O·Cu IN=193.04, P·Cu Out=21.01, Q·%=0.848566\n+ EW&ELUTION baris 74 ditambahkan: K·Au In=17.77, L·Au Out=2.5, M·Ag IN=30.72, N·Ag Out=4.54, O·Cu IN=126.47, P·Cu Out=20.48, Q·%=0.859313\n+ EW&ELUTION baris 75 ditambahkan: K·Au In=15.53, L·Au Out=2.55, M·Ag IN=21.44, N·Ag Out=3.46, O·Cu IN=101.45, P·Cu Out=18.14, Q·%=0.835802\n+ EW&ELUTION baris 76 ditambahkan: K·Au In=22.9, L·Au Out=1.3, M·Ag IN=21.86, N·Ag Out=1.67, O·Cu IN=162.98, P·Cu Out=20.7, Q·%=0.943231\n+ EW&ELUTION baris 77 ditambahkan: K·Au In=22.244, L·Au Out=1.589, M·Ag IN=18.99, N·Ag Out=1.22, O·Cu IN=187.93, P·Cu Out=16.54, Q·%=0.928565\n+ EW&ELUTION baris 78 ditambahkan: K·Au In=18.866, L·Au Out=1.445, M·Ag IN=13.85, N·Ag Out=0.88, O·Cu IN=164.43, P·Cu Out=81.77, Q·%=0.923407\n+ EW&ELUTION baris 79 ditambahkan: K·Au In=13.32, L·Au Out=2.082, M·Ag IN=10.51, N·Ag Out=0.86, O·Cu IN=247.69, P·Cu Out=51.75, Q·%=0.843694\n+ EW&ELUTION baris 80 ditambahkan: K·Au In=12.966, L·Au Out=3.458, M·Ag IN=9.62, N·Ag Out=0.96, O·Cu IN=241.37, P·Cu Out=14.88, Q·%=0.733302\n+ EW&ELUTION baris 81 ditambahkan: K·Au In=17.361, L·Au Out=0.932, M·Ag IN=7.54, N·Ag Out=0.36, O·Cu IN=180.8, P·Cu Out=17.09, Q·%=0.946316\n+ EW&ELUTION baris 82 ditambahkan: K·Au In=18.93, L·Au Out=1.246, M·Ag IN=7.53, N·Ag Out=0.44, O·Cu IN=182.13, P·Cu Out=42.4, Q·%=0.934179\n+ EW&ELUTION baris 83 ditambahkan: K·Au In=15.932, L·Au Out=2.752, M·Ag IN=6.66, N·Ag Out=0.4, O·Cu IN=189.68, P·Cu Out=17.67, Q·%=0.827266\n+ EW&ELUTION baris 84 ditambahkan: K·Au In=10.226, L·Au Out=1.617, M·Ag IN=8.78, N·Ag Out=0.25, O·Cu IN=260.24, P·Cu Out=47.82, Q·%=0.841874\n+ EW&ELUTION baris 85 ditambahkan: K·Au In=12.008, L·Au Out=10.57, M·Ag IN=4.77, N·Ag Out=0.45, O·Cu IN=129.2, P·Cu Out=58.11, Q·%=0.119753\n+ EW&ELUTION baris 86 ditambahkan: K·Au In=14.502, L·Au Out=0.663, M·Ag IN=3.41, N·Ag Out=1.6, O·Cu IN=136.13, P·Cu Out=84.2, Q·%=0.954282\n+ EW&ELUTION baris 87 ditambahkan: K·Au In=6.769, L·Au Out=0.353, M·Ag IN=1.61, N·Ag Out=0.22, O·Cu IN=211.78, P·Cu Out=70.51, Q·%=0.94785",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "EW&ELUTION: +98 baris",
+      "Filter Press: ~10 sel",
+      "LF Ball Mill: +11 baris",
+      "LT Floculation: +1 baris, ~24 sel, -4 baris",
+      "Milling Down Time Hours: ~7 sel",
+      "Milling and Leach Feed: +25 baris, ~5 sel",
+      "Reagent Consumption: +52 baris, ~11 sel"
+    ]
+  }
+}
