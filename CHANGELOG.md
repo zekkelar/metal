@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Nov 2026 · 00:36 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Filter Press: ~10 sel; Milling Down Time Hours: ~7 sel; Milling and Leach Feed: +2 baris, ~368 sel
+~ Filter Press!C105 [105]: (kosong) → 13-11-2026 00:00
+~ Filter Press!D105 [105]: (kosong) → Day
+~ Filter Press!E105 [105]: (kosong) → 6
+~ Filter Press!F105 [105]: 0 → 36
+~ Filter Press!H105 [105]: 0 → 36
+~ Filter Press!K115 [115]: (kosong) → 13-11-2026 00:00
+~ Filter Press!L115 [115]: Night → Day
+~ Filter Press!M115 [115]: (kosong) → 7
+~ Filter Press!N115 [115]: 0 → 84
+~ Filter Press!P115 [115]: 0 → 84
+~ Milling Down Time Hours!A155 "Date" [13-11-2026 00:00]: 25-11-2026 00:00 → 13-11-2026 00:00
+~ Milling Down Time Hours!E155 "Stop Time" [13-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F155 "Start Time" [13-11-2026 00:00]: (kosong) → 01:30:00
+~ Milling Down Time Hours!G155 "Down Time (Mins)" [13-11-2026 00:00]: 0 → 30
+~ Milling Down Time Hours!H155 "Reason" [13-11-2026 00:00]: (kosong) → ball mill 2 & 3 mati bocor jam 11:53
+~ Milling Down Time Hours!J155 "Running Time Hour/Shift" [13-11-2026 00:00]: 12 → 11.5
+~ Milling Down Time Hours!K155 "Availibility per Shift" [13-11-2026 00:00]: 1 → 0.958333
+~ Milling and Leach Feed!AB4 [BATCH]: Au Recovered Price (rp) → (kosong)
+~ Milling and Leach Feed!AC4 [BATCH]: Gold Price → Au Recovered Price (rp)
+~ Milling and Leach Feed!AD4 [BATCH]: (kosong) → Gold Price
+~ Milling and Leach Feed!AB5 [1]: 72806646.34095 → (kosong)
+~ Milling and Leach Feed!AC5 [1]: 2500000 → 72806646.34095
+~ Milling and Leach Feed!AD5 [1]: (kosong) → 2500000
+~ Milling and Leach Feed!AB6: 100155708.91935 → (kosong)
+~ Milling and Leach Feed!AC6: (kosong) → 100155708.91935
+~ Milling and Leach Feed!AI6: 1205 → 1215
+~ Milling and Leach Feed!AB7 [01-09-2026 00:00]: 127566055.04625 → (kosong)
+~ Milling and Leach Feed!AC7 [01-09-2026 00:00]: (kosong) → 127566055.04625
+~ Milling and Leach Feed!AB8: 178965603.62625 → (kosong)
+~ Milling and Leach Feed!AC8: (kosong) → 178965603.62625
+~ Milling and Leach Feed!AI8: 1.205 → 1.215
+~ Milling and Leach Feed!AB9 [2]: 196686945 → (kosong)
+~ Milling and Leach Feed!AC9 [2]: (kosong) → 196686945
+~ Milling and Leach Feed!AB10: 168207095 → (kosong)
+~ Milling and Leach Feed!AC10: (kosong) → 168207095
+~ Milling and Leach Feed!AB11 [03-09-2026 00:00]: 149359074.666667 → (kosong)
+~ Milling and Leach Feed!AC11 [03-09-2026 00:00]: (kosong) → 149359074.666667
+~ Milling and Leach Feed!AI11 [03-09-2026 00:00]: 0.324783 → 0.337823
+~ Milling and Leach Feed!AB12: 0 → (kosong)
+~ Milling and Leach Feed!AC12: (kosong) → 0
+~ Milling and Leach Feed!AI12: 391.363636 → 410.454545
+~ Milling and Leach Feed!AB13 [04-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC13 [04-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AI13 [04-09-2026 00:00]: 813.636364 → 804.545455
+~ Milling and Leach Feed!AB14: 0 → (kosong)
+~ Milling and Leach Feed!AC14: (kosong) → 0
+~ Milling and Leach Feed!AB15 [05-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC15 [05-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB16 [3]: 71509192.454375 → (kosong)
+~ Milling and Leach Feed!AC16 [3]: (kosong) → 71509192.454375
+~ Milling and Leach Feed!AB17 [06-09-2026 00:00]: 121017562.916667 → (kosong)
+~ Milling and Leach Feed!AC17 [06-09-2026 00:00]: (kosong) → 121017562.916667
+~ Milling and Leach Feed!AB18: 243644461.666667 → (kosong)
+~ Milling and Leach Feed!AC18: (kosong) → 243644461.666667
+~ Milling and Leach Feed!AB19 [07-09-2026 00:00]: 290316960 → (kosong)
+~ Milling and Leach Feed!AC19 [07-09-2026 00:00]: (kosong) → 290316960
+~ Milling and Leach Feed!AB20 [4]: 77242917.416667 → (kosong)
+~ Milling and Leach Feed!AC20 [4]: (kosong) → 77242917.416667
+~ Milling and Leach Feed!AB21 [08-09-2026 00:00]: 171455906.666667 → (kosong)
+~ Milling and Leach Feed!AC21 [08-09-2026 00:00]: (kosong) → 171455906.666667
+~ Milling and Leach Feed!AB22: 139337415 → (kosong)
+~ Milling and Leach Feed!AC22: (kosong) → 139337415
+~ Milling and Leach Feed!AB23 [09-09-2026 00:00]: 96029968.5 → (kosong)
+~ Milling and Leach Feed!AC23 [09-09-2026 00:00]: (kosong) → 96029968.5
+~ Milling and Leach Feed!AB24 [09-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC24 [09-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB25 [5]: 224595085 → (kosong)
+~ Milling and Leach Feed!AC25 [5]: (kosong) → 224595085
+~ Milling and Leach Feed!AB26: 179338380 → (kosong)
+~ Milling and Leach Feed!AC26: (kosong) → 179338380
+~ Milling and Leach Feed!AB27 [11-09-2026 00:00]: 6318420 → (kosong)
+~ Milling and Leach Feed!AC27 [11-09-2026 00:00]: (kosong) → 6318420
+~ Milling and Leach Feed!AD27 [11-09-2026 00:00]: 9.6 → (kosong)
+~ Milling and Leach Feed!AE27 [11-09-2026 00:00]: (kosong) → 9.6
+~ Milling and Leach Feed!AB28 [11-09-2026 00:00]: 214687213.3125 → (kosong)
+~ Milling and Leach Feed!AC28 [11-09-2026 00:00]: (kosong) → 214687213.3125
+~ Milling and Leach Feed!AB29 [6]: 33202181.25 → (kosong)
+~ Milling and Leach Feed!AC29 [6]: (kosong) → 33202181.25
+~ Milling and Leach Feed!AB30 [12-09-2026 00:00]: 91976476 → (kosong)
+~ Milling and Leach Feed!AC30 [12-09-2026 00:00]: (kosong) → 91976476
+~ Milling and Leach Feed!AB31: 35356684 → (kosong)
+~ Milling and Leach Feed!AC31: (kosong) → 35356684
+~ Milling and Leach Feed!AB32 [13-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC32 [13-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB33 [13-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC33 [13-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB34 [14-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC34 [14-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB35 [7]: 126415465.04 → (kosong)
+~ Milling and Leach Feed!AC35 [7]: (kosong) → 126415465.04
+~ Milling and Leach Feed!AB36 [15-09-2026 00:00]: 74695882.13587 → (kosong)
+~ Milling and Leach Feed!AC36 [15-09-2026 00:00]: (kosong) → 74695882.13587
+~ Milling and Leach Feed!AE36 [15-09-2026 00:00]: 67 → (kosong)
+~ Milling and Leach Feed!AB37: 128333675.416025 → (kosong)
+~ Milling and Leach Feed!AC37: (kosong) → 128333675.416025
+~ Milling and Leach Feed!AE37: 75 → (kosong)
+~ Milling and Leach Feed!AB38 [8]: 132228725.396 → (kosong)
+~ Milling and Leach Feed!AC38 [8]: (kosong) → 132228725.396
+~ Milling and Leach Feed!AE38 [8]: 72 → (kosong)
+~ Milling and Leach Feed!AB39: 80181039.87495 → (kosong)
+~ Milling and Leach Feed!AC39: (kosong) → 80181039.87495
+~ Milling and Leach Feed!AE39: 70 → (kosong)
+~ Milling and Leach Feed!AB40 [17-09-2026 00:00]: 176819611.096625 → (kosong)
+~ Milling and Leach Feed!AC40 [17-09-2026 00:00]: (kosong) → 176819611.096625
+~ Milling and Leach Feed!AE40 [17-09-2026 00:00]: 60 → (kosong)
+~ Milling and Leach Feed!AB41: 135251390.13878 → (kosong)
+~ Milling and Leach Feed!AC41: (kosong) → 135251390.13878
+~ Milling and Leach Feed!AE41: 60 → (kosong)
+~ Milling and Leach Feed!AB42 [9]: 260888674.82112 → (kosong)
+~ Milling and Leach Feed!AC42 [9]: (kosong) → 260888674.82112
+~ Milling and Leach Feed!AE42 [9]: 60 → (kosong)
+~ Milling and Leach Feed!AB43: 121251687.808 → (kosong)
+~ Milling and Leach Feed!AC43: (kosong) → 121251687.808
+~ Milling and Leach Feed!AE43: 72 → (kosong)
+~ Milling and Leach Feed!AB44 [19-09-2026 00:00]: 145707586.66908 → (kosong)
+~ Milling and Leach Feed!AC44 [19-09-2026 00:00]: (kosong) → 145707586.66908
+~ Milling and Leach Feed!AE44 [19-09-2026 00:00]: 72 → (kosong)
+~ Milling and Leach Feed!AB45: 197700203.510233 → (kosong)
+~ Milling and Leach Feed!AC45: (kosong) → 197700203.510233
+~ Milling and Leach Feed!AE45: 60 → (kosong)
+~ Milling and Leach Feed!AB46 [10]: #VALUE! → (kosong)
+~ Milling and Leach Feed!AC46 [10]: (kosong) → #VALUE!
+~ Milling and Leach Feed!AE46 [10]: 72 → (kosong)
+~ Milling and Leach Feed!AB47: #VALUE! → (kosong)
+~ Milling and Leach Feed!AC47: (kosong) → #VALUE!
+~ Milling and Leach Feed!AE47: 72 → (kosong)
+~ Milling and Leach Feed!AB48 [21-09-2026 00:00]: 36287973.921675 → (kosong)
+~ Milling and Leach Feed!AC48 [21-09-2026 00:00]: (kosong) → 36287973.921675
+~ Milling and Leach Feed!AE48 [21-09-2026 00:00]: 80 → (kosong)
+~ Milling and Leach Feed!AB49: 112203512.481925 → (kosong)
+~ Milling and Leach Feed!AC49: (kosong) → 112203512.481925
+~ Milling and Leach Feed!AE49: 78 → (kosong)
+~ Milling and Leach Feed!AB50 [22-09-2026 00:00]: 199967042.903285 → (kosong)
+~ Milling and Leach Feed!AC50 [22-09-2026 00:00]: (kosong) → 199967042.903285
+~ Milling and Leach Feed!AE50 [22-09-2026 00:00]: 72 → (kosong)
+~ Milling and Leach Feed!AA51: 10.8 → (kosong)
+~ Milling and Leach Feed!AB51: 161213675.761644 → 10.8
+~ Milling and Leach Feed!AC51: (kosong) → 161213675.761644
+~ Milling and Leach Feed!AE51: 72 → (kosong)
+~ Milling and Leach Feed!AB52 [23-09-2026 00:00]: 122848800.782093 → (kosong)
+~ Milling and Leach Feed!AC52 [23-09-2026 00:00]: (kosong) → 122848800.782093
+~ Milling and Leach Feed!AE52 [23-09-2026 00:00]: 72 → (kosong)
+~ Milling and Leach Feed!AB53: 42329881.6542 → (kosong)
+~ Milling and Leach Feed!AC53: (kosong) → 42329881.6542
+~ Milling and Leach Feed!AE53: 72 → (kosong)
+~ Milling and Leach Feed!AA54 [24-09-2026 00:00]: 7.2 → (kosong)
+~ Milling and Leach Feed!AB54 [24-09-2026 00:00]: 89733870.34824 → 7.2
+~ Milling and Leach Feed!AC54 [24-09-2026 00:00]: (kosong) → 89733870.34824
+~ Milling and Leach Feed!AE54 [24-09-2026 00:00]: 80 → (kosong)
+~ Milling and Leach Feed!AB55: 167256776.28186 → (kosong)
+~ Milling and Leach Feed!AC55: (kosong) → 167256776.28186
+~ Milling and Leach Feed!AE55: 82 → (kosong)
+~ Milling and Leach Feed!AA56 [11]: 39.118854 → (kosong)
+~ Milling and Leach Feed!AB56 [11]: 264451301.398078 → 39.118854
+~ Milling and Leach Feed!AC56 [11]: (kosong) → 264451301.398078
+~ Milling and Leach Feed!AE56 [11]: 80 → (kosong)
+~ Milling and Leach Feed!AB57 [25-09-2026 00:00]: 146618583.083875 → (kosong)
+~ Milling and Leach Feed!AC57 [25-09-2026 00:00]: (kosong) → 146618583.083875
+~ Milling and Leach Feed!AE57 [25-09-2026 00:00]: 80 → (kosong)
+~ Milling and Leach Feed!AB58: 21183342.661687 → (kosong)
+~ Milling and Leach Feed!AC58: (kosong) → 21183342.661687
+~ Milling and Leach Feed!AB59 [12]: 7061114.220562 → (kosong)
+~ Milling and Leach Feed!AC59 [12]: (kosong) → 7061114.220562
+~ Milling and Leach Feed!AB60: 0 → (kosong)
+~ Milling and Leach Feed!AC60: (kosong) → 0
+~ Milling and Leach Feed!AB61 [27-09-2026 00:00]: 7412157.111357 → (kosong)
+~ Milling and Leach Feed!AC61 [27-09-2026 00:00]: (kosong) → 7412157.111357
+~ Milling and Leach Feed!AB62: 177260426.782034 → (kosong)
+~ Milling and Leach Feed!AC62: (kosong) → 177260426.782034
+~ Milling and Leach Feed!AB63 [28-09-2026 00:00]: 118829846.848781 → (kosong)
+~ Milling and Leach Feed!AC63 [28-09-2026 00:00]: (kosong) → 118829846.848781
+~ Milling and Leach Feed!AB64: 106142411.02325 → (kosong)
+~ Milling and Leach Feed!AC64: (kosong) → 106142411.02325
+~ Milling and Leach Feed!AB65 [29-09-2026 00:00]: 172521916.553505 → (kosong)
+~ Milling and Leach Feed!AC65 [29-09-2026 00:00]: (kosong) → 172521916.553505
+~ Milling and Leach Feed!AB66: 0 → (kosong)
+~ Milling and Leach Feed!AC66: (kosong) → 0
+~ Milling and Leach Feed!AB67 [30-09-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC67 [30-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB68: 0 → (kosong)
+~ Milling and Leach Feed!AC68: (kosong) → 0
+~ Milling and Leach Feed!AB69 [01-10-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC69 [01-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB70: 0 → (kosong)
+~ Milling and Leach Feed!AC70: (kosong) → 0
+~ Milling and Leach Feed!AB71 [02-10-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC71 [02-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB72: 0 → (kosong)
+~ Milling and Leach Feed!AC72: (kosong) → 0
+~ Milling and Leach Feed!AB73 [03-10-2026 00:00]: 0 → (kosong)
+~ Milling and Leach Feed!AC73 [03-10-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AB74: 0 → (kosong)
+~ Milling and Leach Feed!AC74: (kosong) → 0
+~ Milling and Leach Feed!AB75 [13]: 118783312.334225 → (kosong)
+~ Milling and Leach Feed!AC75 [13]: (kosong) → 118783312.334225
+~ Milling and Leach Feed!AB76: 104890108.971347 → (kosong)
+~ Milling and Leach Feed!AC76: (kosong) → 104890108.971347
+~ Milling and Leach Feed!AB77 [05-10-2026 00:00]: 178707175.347422 → (kosong)
+~ Milling and Leach Feed!AC77 [05-10-2026 00:00]: (kosong) → 178707175.347422
+~ Milling and Leach Feed!AB78: 47881888.15795 → (kosong)
+- ...dan 199 perubahan lain tidak ditampilkan
+_Dibandingkan 29300 sel dari 22 sheet._
+
 ## 13 Nov 2026 · 17:49 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: EW&ELUTION: +98 baris; Filter Press: ~10 sel; LF Ball Mill: +11 baris; LT Floculation: +1 baris, ~24 sel, -4 baris; Milling Down Time Hours: ~7 sel; Milling and Leach Feed: +25 baris, ~5 sel; Reagent Consumption: +52 baris, ~11 sel
 + EW&ELUTION baris 51 [02-10-2026 00:00] ditambahkan: B·TANGGAL=02-10-2026 00:00, I·IN=0, J·OUT=0
