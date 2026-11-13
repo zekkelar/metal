@@ -1,0 +1,18 @@
+{
+  "id": "1794550330867_52a150534a",
+  "created_epoch": 1794550330,
+  "created_at": "2026-11-13 13:12:10",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "upload",
+  "title": "Memperbarui ngetest AI.xlsx",
+  "detail": "+ Milling and Leach Feed baris 173 [12-11-2026 00:00] ditambahkan: Z=4.8\n~ rumus Milling and Leach Feed!H173: (kosong) → =J173-'Au Cal Leaching Tank'!$T$30\n~ rumus Milling and Leach Feed!I173: (kosong) → =H173/P173\n~ rumus Milling and Leach Feed!J173: (kosong) → =3.14*Z173*((10.7/2)^2)\n~ rumus Milling and Leach Feed!M173: (kosong) → =(J173*K173*G173)-'Au Cal Leaching Ta...\n~ rumus Milling and Leach Feed!O173: (kosong) → =M173/P173\n~ rumus Milling and Leach Feed!P173: (kosong) → =Q173/60\n~ rumus Milling and Leach Feed!Q173: (kosong) → =720-R173\n~ rumus Milling and Leach Feed!R173: (kosong) → ='Milling Down Time Hours'!G154\n~ rumus Milling and Leach Feed!W173: (kosong) → =T173*M173\n~ rumus Milling and Leach Feed!X173: (kosong) → =U173*M173\n~ rumus Milling and Leach Feed!Y173: (kosong) → =V173*M173\nCatatan: Perubahan oleh AI (disetujui pengguna)",
+  "target_path": "PRODUKSI/ngetest AI.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Milling and Leach Feed: +1 baris"
+    ]
+  }
+}
