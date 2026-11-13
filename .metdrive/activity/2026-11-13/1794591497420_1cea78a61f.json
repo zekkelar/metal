@@ -1,0 +1,35 @@
+{
+  "id": "1794591497420_1cea78a61f",
+  "created_epoch": 1794591497,
+  "created_at": "2026-11-14 00:38:17",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "upload",
+  "title": "Memperbarui ngetest AI.xlsx",
+  "detail": "+ Au Cal Leaching Tank baris 10 [5.16458] ditambahkan: A=5.16458, C=45.333333, D=6.448094, K=1.795332, N=292.3136, O=292.3136, U=54.43567, V=420.6464, ...\n+ Au Cal Leaching Tank baris 11 [4.997682] ditambahkan: A=4.997682, C=45, D=6.669826, K=1.855288, N=300.14215, O=300.14215, U=54.5721, V=397.86285, ...\n+ Au Cal Leaching Tank baris 12 [5.999073] ditambahkan: A=5.999073, C=47.333333, D=6.907834, K=1.545595, N=381.4065, O=326.97083, U=61.6902, V=466.1635, ...\n+ Au Cal Leaching Tank baris 13 [5.999073] ditambahkan: A=5.999073, C=32.05, D=9.888777, K=1.545595, N=371.5074, O=316.9353, T=107.85, U=56.378587, ...\n+ Au Cal Leaching Tank baris 14 [5.999073] ditambahkan: A=5.999073, C=26.016667, D=10.262106, K=2.318393, N=328.676, O=266.9858, T=107.85, U=56.59968, ...\n+ Au Cal Leaching Tank baris 15 [7.742235] ditambahkan: A=7.742235, C=2, K=1.796407, N=333.4155, O=277.036913, T=107.85, U=36.90627, V=676.9345, ...\n+ Au Cal Leaching Tank baris 16 [6.999536] ditambahkan: A=6.999536, C=29.5, D=8.341609, K=1.987018, N=302.677155, O=246.077475, T=107.85, U=43.064505, ...\n+ Au Cal Leaching Tank baris 17 [8.993973] ditambahkan: A=8.993973, C=46.933333, D=7.786571, K=1.546392, N=402.356, O=365.44973, T=107.85, U=46.240687, ...\n+ Au Cal Leaching Tank baris 18 [9.420491] ditambahkan: A=9.420491, C=39.083333, D=12.10397, K=1.476378, N=516.128, O=473.063495, T=107.85, U=40.1202, ...\n+ Au Cal Leaching Tank baris 19 [9.074074] ditambahkan: A=9.074074, C=60.166667, D=6.473141, K=1.530612, N=435.708, O=389.467313, U=46.494, V=774.592, ...\n+ Au Cal Leaching Tank baris 20 [8.490741] ditambahkan: A=8.490741, C=26.816667, D=13.224921, K=1.635769, N=394.7685, O=354.6483, V=733.1415, W=3609.090905, ...\n+ Au Cal Leaching Tank baris 21 [8.990741] ditambahkan: A=8.990741, C=54.666667, D=7.046572, L=1.1652, N=431.7066, O=385.2126, V=767.4784, W=3994.303505, ...\n+ Au Cal Leaching Tank baris 22 [8.990741] ditambahkan: A=8.990741, C=35.833333, D=9.67387, L=1.1652, N=346.647, O=346.647, U=40.176, V=808.843, ...\n+ Au Cal Leaching Tank baris 23 [8.990741] ditambahkan: A=8.990741, C=70.166667, D=5.957466, L=0.5826, N=418.0155, O=418.0155, U=46.494, V=776.3145, ...\n+ Au Cal Leaching Tank baris 24 [7.574074] ditambahkan: A=7.574074, C=33.5, D=10.469179, L=1.1452, N=350.7175, O=310.5415, U=48.2112, V=651.3325, ...\n+ Au Cal Leaching Tank baris 25 [7.655989] ditambahkan: A=7.655989, C=26.533333, D=11.55413, L=0.81031, N=353.063575, O=306.569575, U=43.3026, V=655.689497, ...\n+ Au Cal Leaching Tank baris 26 [7.990741] ditambahkan: A=7.990741, C=17.666667, D=17.533653, L=0.80259, N=357.9724, O=309.7612, U=46.494, V=694.8876, ...\n+ Au Cal Leaching Tank baris 27 [8.074074] ditambahkan: A=8.074074, C=36, D=9.60995, L=0.72376, N=389.2608, O=345.9582, U=46.494, V=692.0192, ...\n+ Au Cal Leaching Tank baris 28 [7.990741] ditambahkan: A=7.990741, C=36, D=9.4097, L=0.74218, N=385.2432, O=338.7492, U=46.116, V=684.8768, ...\n+ Au Cal Leaching Tank baris 29 [8.407407] ditambahkan: A=8.407407, C=36, D=9.9223, L=0.908, N=403.6968, O=357.2028, U=46.494, V=717.6832, ...",
+  "target_path": "PRODUKSI/ngetest AI.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +95 baris",
+      "Crushing: +98 baris",
+      "Crushing Down Time Hours: +31 baris",
+      "Daily Summary : +70 baris",
+      "EW&ELUTION: +146 baris",
+      "Filter Press: +120 baris, ~14 sel",
+      "Filter Press Down Time Hours : +91 baris",
+      "Fuel Consumption: +3 baris",
+      "LF Ball Mill: +57 baris",
+      "LT Floculation: +33 baris, ~24 sel, -4 baris",
+      "Leach Time Process&Down Time: +29 baris",
+      "Leaching: +3 baris",
+      "Milling Down Time Hours: +177 baris, ~14 sel",
+      "Milling and Leach Feed: +160 baris, ~579 sel",
+      "Milling and Leach Feed_OLD: +98 baris",
+      "Reagent Consumption: +117 baris, ~3 sel",
+      "Rom File Inventory: +76 baris",
+      "Stock File Management: +16 baris"
+    ]
+  }
+}
