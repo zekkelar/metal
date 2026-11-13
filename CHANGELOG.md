@@ -5,6 +5,23 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 13 Nov 2026 · 13:12 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +1 baris
++ Milling and Leach Feed baris 173 [12-11-2026 00:00] ditambahkan: Z=4.8
+~ rumus Milling and Leach Feed!H173: (kosong) → =J173-'Au Cal Leaching Tank'!$T$30
+~ rumus Milling and Leach Feed!I173: (kosong) → =H173/P173
+~ rumus Milling and Leach Feed!J173: (kosong) → =3.14*Z173*((10.7/2)^2)
+~ rumus Milling and Leach Feed!M173: (kosong) → =(J173*K173*G173)-'Au Cal Leaching Ta...
+~ rumus Milling and Leach Feed!O173: (kosong) → =M173/P173
+~ rumus Milling and Leach Feed!P173: (kosong) → =Q173/60
+~ rumus Milling and Leach Feed!Q173: (kosong) → =720-R173
+~ rumus Milling and Leach Feed!R173: (kosong) → ='Milling Down Time Hours'!G154
+~ rumus Milling and Leach Feed!W173: (kosong) → =T173*M173
+~ rumus Milling and Leach Feed!X173: (kosong) → =U173*M173
+~ rumus Milling and Leach Feed!Y173: (kosong) → =V173*M173
+Catatan: Perubahan oleh AI (disetujui pengguna)
+_Dibandingkan 19851 sel dari 22 sheet._
+
 ## 13 Nov 2026 · 13:06 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: -95 baris; Crushing: -98 baris; Crushing Down Time Hours: -31 baris; Daily Summary : -70 baris; EW&ELUTION: -50 baris; Filter Press: -122 baris; Filter Press Down Time Hours : -91 baris; Fuel Consumption: -3 baris; LF Ball Mill: -46 baris; LT Floculation: -32 baris; Leach Time Process&Down Time: -29 baris; Leaching: -3 baris; Milling Down Time Hours: -179 baris; Milling and Leach Feed: +1 baris, -172 baris; Milling and Leach Feed_OLD: -98 baris; Reagent Consumption: -68 baris; Rom File Inventory: -76 baris; Stock File Management: -16 baris
 - Au Cal Leaching Tank baris 10 [5.16458] dikosongkan: A=5.16458, C=45.333333, D=6.448094, K=1.795332, N=292.3136, O=292.3136, U=54.43567, V=420.6464, ...
