@@ -5,6 +5,14 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Nov 2026 · 02:00 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: ~3 sel
+~ Milling and Leach Feed!M171 [11-11-2026 00:00]: -7.913912 → 36.62
+~ Milling and Leach Feed!N171 [11-11-2026 00:00]: 52.767871 → 97.301783
+~ Milling and Leach Feed!O171 [11-11-2026 00:00]: -0.659493 → 3.051667
+Catatan: Perubahan oleh AI (disetujui pengguna)
+_Dibandingkan 29300 sel dari 22 sheet._
+
 ## 14 Nov 2026 · 00:38 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: +95 baris; Crushing: +98 baris; Crushing Down Time Hours: +31 baris; Daily Summary : +70 baris; EW&ELUTION: +146 baris; Filter Press: +120 baris, ~14 sel; Filter Press Down Time Hours : +91 baris; Fuel Consumption: +3 baris; LF Ball Mill: +57 baris; LT Floculation: +33 baris, ~24 sel, -4 baris; Leach Time Process&Down Time: +29 baris; Leaching: +3 baris; Milling Down Time Hours: +177 baris, ~14 sel; Milling and Leach Feed: +160 baris, ~579 sel; Milling and Leach Feed_OLD: +98 baris; Reagent Consumption: +117 baris, ~3 sel; Rom File Inventory: +76 baris; Stock File Management: +16 baris
 + Au Cal Leaching Tank baris 10 [5.16458] ditambahkan: A=5.16458, C=45.333333, D=6.448094, K=1.795332, N=292.3136, O=292.3136, U=54.43567, V=420.6464, ...
