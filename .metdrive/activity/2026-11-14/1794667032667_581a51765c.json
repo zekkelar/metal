@@ -1,0 +1,25 @@
+{
+  "id": "1794667032667_581a51765c",
+  "created_epoch": 1794667032,
+  "created_at": "2026-11-14 22:37:12",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!R43 [34]: (kosong) → 0.31\n~ Au Cal Leaching Tank!S43 [34]: (kosong) → 1.205\n~ Au Cal Leaching Tank!U43 [34]: (kosong) → 40.3434\n~ Au Cal Leaching Tank!W43 [34]: (kosong) → 10861.55693\n~ Au Cal Leaching Tank!AI43 [34]: (kosong) → 0.124\n~ Au Cal Leaching Tank!AR43 [34]: 0 → 88.236745\n~ Au Cal Leaching Tank!BD43 [34]: 0 → -88.236745\n+ Au Cal Leaching Tank baris 44 [35] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 45 [36] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 46 [37] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 47 [38] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 48 [39] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 49 [40] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 50 [41] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 51 [42] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 52 [43] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 53 [44] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 54 [45] ditambahkan: W=10861.55693\n+ Au Cal Leaching Tank baris 55 [46] ditambahkan: W=10861.55693\n~ Au Cal Leaching Tank!AI60 [51]: 0.04183 → 0.044247",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +12 baris, ~12 sel",
+      "EW&ELUTION: +11 baris",
+      "Filter Press: ~20 sel",
+      "LF Ball Mill: +41 baris",
+      "LT Floculation: +7 baris, -1 baris",
+      "Milling Down Time Hours: ~14 sel",
+      "Milling and Leach Feed: +22 baris, ~3127 sel",
+      "Reagent Consumption: +2 baris"
+    ]
+  }
+}
