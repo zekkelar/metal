@@ -1,0 +1,18 @@
+{
+  "id": "1794656891156_810bda27a2",
+  "created_epoch": 1794656891,
+  "created_at": "2026-11-14 19:48:11",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Met Sheet.xlsx",
+  "detail": "+ TEMPLATE KOSONGAN (2) baris 85 ditambahkan: Q=Au\n+ TEMPLATE KOSONGAN (2) baris 87 ditambahkan: Q=0.663\n+ TEMPLATE KOSONGAN (2) baris 88 ditambahkan: Q=0.201\n+ TEMPLATE KOSONGAN (2) baris 89 ditambahkan: Q=0.441, AA·Ag=Au\n+ TEMPLATE KOSONGAN (2) baris 90 ditambahkan: Q=0.431\n+ TEMPLATE KOSONGAN (2) baris 91 ditambahkan: Q=0.283, AA·Ag=0.736, AN=Au\n+ TEMPLATE KOSONGAN (2) baris 92 ditambahkan: Q=2.501, AA·Ag=0.622\n+ TEMPLATE KOSONGAN (2) baris 93 ditambahkan: Q=0.424, AA·Ag=0.824, AN=0.415\n+ TEMPLATE KOSONGAN (2) baris 94 ditambahkan: Q=3.256, AA·Ag=0.727, AN=0.384\n+ TEMPLATE KOSONGAN (2) baris 95 ditambahkan: Q=0.34, AA·Ag=0.406, AN=0.338\n+ TEMPLATE KOSONGAN (2) baris 96 ditambahkan: Q=0.948889, AA·Ag=0.663, AN=0.434\n+ TEMPLATE KOSONGAN (2) baris 97 ditambahkan: AN=0.531\n+ TEMPLATE KOSONGAN (2) baris 98 ditambahkan: AN=0.999\n+ TEMPLATE KOSONGAN (2) baris 99 ditambahkan: AN=0.516833",
+  "target_path": "PRODUKSI/Met Sheet.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "TEMPLATE KOSONGAN (2): +14 baris"
+    ]
+  }
+}
