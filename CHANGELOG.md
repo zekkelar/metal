@@ -5,6 +5,20 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Nov 2026 · 16:18 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: +9 baris
++ Au Cal Leaching Tank baris 22 [8.990741] ditambahkan: BQ=136376.70725
++ Au Cal Leaching Tank baris 23 [8.990741] ditambahkan: BQ=248026.65675
++ Au Cal Leaching Tank baris 24 [7.574074] ditambahkan: BQ=303413.444778
++ Au Cal Leaching Tank baris 25 [7.655989] ditambahkan: BQ=390752.717027
++ Au Cal Leaching Tank baris 26 [7.990741] ditambahkan: BQ=440103.18976
++ Au Cal Leaching Tank baris 27 [8.074074] ditambahkan: BQ=530004.964985
++ Au Cal Leaching Tank baris 28 [7.990741] ditambahkan: BQ=579348.012849
++ Au Cal Leaching Tank baris 29 [8.407407] ditambahkan: BQ=767347.685769
++ Au Cal Leaching Tank baris 30 [6.990741] ditambahkan: BQ=823237.407769
+Catatan: Perubahan oleh AI (disetujui pengguna)
+_Dibandingkan 29309 sel dari 22 sheet._
+
 ## 14 Nov 2026 · 02:00 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
 Ringkasan: Milling and Leach Feed: ~3 sel
 ~ Milling and Leach Feed!M171 [11-11-2026 00:00]: -7.913912 → 36.62
