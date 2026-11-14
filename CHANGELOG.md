@@ -5,6 +5,24 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 14 Nov 2026 · 19:48 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: TEMPLATE KOSONGAN (2): +14 baris
++ TEMPLATE KOSONGAN (2) baris 85 ditambahkan: Q=Au
++ TEMPLATE KOSONGAN (2) baris 87 ditambahkan: Q=0.663
++ TEMPLATE KOSONGAN (2) baris 88 ditambahkan: Q=0.201
++ TEMPLATE KOSONGAN (2) baris 89 ditambahkan: Q=0.441, AA·Ag=Au
++ TEMPLATE KOSONGAN (2) baris 90 ditambahkan: Q=0.431
++ TEMPLATE KOSONGAN (2) baris 91 ditambahkan: Q=0.283, AA·Ag=0.736, AN=Au
++ TEMPLATE KOSONGAN (2) baris 92 ditambahkan: Q=2.501, AA·Ag=0.622
++ TEMPLATE KOSONGAN (2) baris 93 ditambahkan: Q=0.424, AA·Ag=0.824, AN=0.415
++ TEMPLATE KOSONGAN (2) baris 94 ditambahkan: Q=3.256, AA·Ag=0.727, AN=0.384
++ TEMPLATE KOSONGAN (2) baris 95 ditambahkan: Q=0.34, AA·Ag=0.406, AN=0.338
++ TEMPLATE KOSONGAN (2) baris 96 ditambahkan: Q=0.948889, AA·Ag=0.663, AN=0.434
++ TEMPLATE KOSONGAN (2) baris 97 ditambahkan: AN=0.531
++ TEMPLATE KOSONGAN (2) baris 98 ditambahkan: AN=0.999
++ TEMPLATE KOSONGAN (2) baris 99 ditambahkan: AN=0.516833
+_Dibandingkan 6926 sel dari 25 sheet._
+
 ## 14 Nov 2026 · 16:18 · PRODUKSI/ngetest AI.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: +9 baris
 + Au Cal Leaching Tank baris 22 [8.990741] ditambahkan: BQ=136376.70725
