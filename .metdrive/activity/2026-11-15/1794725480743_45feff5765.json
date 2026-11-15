@@ -1,0 +1,23 @@
+{
+  "id": "1794725480743_45feff5765",
+  "created_epoch": 1794725480,
+  "created_at": "2026-11-15 14:51:20",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ Sheet \"pak hendrik \" ditambahkan\n+ Au Cal Leaching Tank baris 6 ditambahkan: K·/9=/9\n+ Au Cal Leaching Tank baris 44 [35] ditambahkan: F·full tanki=15-11-2026 00:00, G=06:00:00, J=863, K·/9=0.83, L=0.71629, P=1.2\n~ Crushing!N138 \"Tonage/Day (Tpd)\" [18-10-2026 00:00]: 207.6798 → 278.6598\n~ Crushing!N140 \"Tonage/Day (Tpd)\" [26-10-2026 00:00]: 155.1 → 250.923\n+ Crushing baris 141 [14-11-2026 00:00] ditambahkan: B·Date=14-11-2026 00:00, D·Shift=Day, F·Bucket=20, G·Type=Loader, H·Moisture %=0.09, I·Volume Bucket=3, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=78, ...\n+ Crushing baris 142 [14-11-2026 00:00] ditambahkan: B·Date=14-11-2026 00:00, D·Shift=Day, F·Bucket=35, G·Type=Exca PC 130, H·Moisture %=0.09, I·Volume Bucket=0.6, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=27.3, ...\n~ Crushing!F179 \"Bucket\" [Rata-rata]: 59.727273 → 58\n~ Crushing!H179 \"Moisture %\" [Rata-rata]: 0.095 → 0.094783\n~ Crushing!K179 \"WMT/SHIFT (wet metrix to\" [Rata-rata]: 149.333864 → 146.232391\n~ Crushing!L179 \"DMT/SHIFT (dry metrix to\" [Rata-rata]: 135.513252 → 132.707459\n~ Crushing!M179 \"Ton/hour (tph)\" [Rata-rata]: 11.903424 → 11.678281\n~ Crushing!N179 \"Tonage/Day (Tpd)\" [Rata-rata]: 208.155968 → 220.070468\n~ Crushing!F180 \"Bucket\" [Total]: 1314 → 1334\n~ Crushing!N180 \"Tonage/Day (Tpd)\" [Total]: 8872.19307 → 9038.99607\n~ Milling Down Time Hours!A158 \"Date\" [14-11-2026 00:00]: 28-11-2026 00:00 → 14-11-2026 00:00\n~ Milling Down Time Hours!C158 \"Shift\" [14-11-2026 00:00]: Day → Night\n~ Milling Down Time Hours!E158 \"Stop Time\" [14-11-2026 00:00]: (kosong) → 01:01:00\n~ Milling Down Time Hours!F158 \"Start Time\" [14-11-2026 00:00]: (kosong) → 01:01:00\n~ Milling Down Time Hours!H158 \"Reason\" [14-11-2026 00:00]: (kosong) → ball mill 2 dan 3 jalann normal",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +2 baris",
+      "Crushing: +2 baris, ~10 sel",
+      "Milling Down Time Hours: ~11 sel",
+      "Milling and Leach Feed: +20 baris, ~66 sel, -5 baris",
+      "Reagent Consumption: +1 baris",
+      "Rom File Inventory: +1 baris"
+    ]
+  }
+}
