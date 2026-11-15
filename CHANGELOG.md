@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Nov 2026 · 17:56 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~20 sel; Fuel Consumption: ~1 sel; Milling and Leach Feed: ~3454 sel; Reagent Consumption: ~7 sel
+~ Au Cal Leaching Tank!U41 [32]: 0 → 40
+~ Au Cal Leaching Tank!O43 [34]: 319.69835 → 279.69835
+~ Au Cal Leaching Tank!W43 [34]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W44 [35]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W45 [36]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W46 [37]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W47 [38]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W48 [39]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W49 [40]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W50 [41]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W51 [42]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W52 [43]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W53 [44]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W54 [45]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!W55 [46]: 10861.55693 → 10821.55693
+~ Au Cal Leaching Tank!N61 [52]: 10815.44093 → 10775.44093
+~ Au Cal Leaching Tank!N67: 10.947172 → 10.906685
+~ Au Cal Leaching Tank!P67: 262.732126 → 261.760433
+~ Au Cal Leaching Tank!M74: 10.947172 → 10.906685
+~ Au Cal Leaching Tank!M75: 262.732126 → 261.760433
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 3.682698 → 3.696368
+~ Milling and Leach Feed!K4 [BATCH]: Slurry On Tank Leaching B → Sg Slurry
+~ Milling and Leach Feed!L4 [BATCH]: Sg Slurry → passing -75 micron (%)
+~ Milling and Leach Feed!M4 [BATCH]: passing -75 micron (%) → Tonage/Shift A
+~ Milling and Leach Feed!N4 [BATCH]: Tonage/Shift A → Tpd A
+~ Milling and Leach Feed!O4 [BATCH]: Tonage/shift B → Tpd B
+~ Milling and Leach Feed!P4 [BATCH]: Tpd A → Tph
+~ Milling and Leach Feed!Q4 [BATCH]: Tpd B → Running (hour)
+~ Milling and Leach Feed!R4 [BATCH]: Tph → Running Time (mins)
+~ Milling and Leach Feed!S4 [BATCH]: (kosong) → lose time(Mins)
+~ Milling and Leach Feed!T4 [BATCH]: Running (hour) → tonage/Batch '
+~ Milling and Leach Feed!U4 [BATCH]: Running Time (mins) → Au Lab (g/t)
+~ Milling and Leach Feed!V4 [BATCH]: lose time(Mins) → Ag Lab (g/t)
+~ Milling and Leach Feed!W4 [BATCH]: tonage/Batch ' → Cu Lab (g/t)
+~ Milling and Leach Feed!X4 [BATCH]: Au Lab (g/t) → Au (gr)
+~ Milling and Leach Feed!Y4 [BATCH]: Ag Lab (g/t) → Ag (gr)
+~ Milling and Leach Feed!Z4 [BATCH]: Cu Lab (g/t) → Cu (gr)
+~ Milling and Leach Feed!AA4 [BATCH]: Au (gr) → Tinggi Plat (Meter)
+~ Milling and Leach Feed!AB4 [BATCH]: Ag (gr) → (kosong)
+~ Milling and Leach Feed!AC4 [BATCH]: Cu (gr) → (kosong)
+~ Milling and Leach Feed!AD4 [BATCH]: Tinggi Plat (Meter) → Au Recovered Price (rp)
+~ Milling and Leach Feed!AE4 [BATCH]: (kosong) → Gold Price
+~ Milling and Leach Feed!AG4 [BATCH]: Au Recovered Price (rp) → (kosong)
+~ Milling and Leach Feed!AH4 [BATCH]: Gold Price → (kosong)
+~ Milling and Leach Feed!K5 [1]: 117 → 1.135
+~ Milling and Leach Feed!L5 [1]: 1.135 → 0.68
+~ Milling and Leach Feed!M5 [1]: 0.68 → 30.116503
+~ Milling and Leach Feed!N5 [1]: 30.116503 → 95.90022
+~ Milling and Leach Feed!O5 [1]: 30.157744 → #REF!
+~ Milling and Leach Feed!P5 [1]: 95.90022 → 2.886566
+~ Milling and Leach Feed!Q5 [1]: 74.039764 → 22.433333
+~ Milling and Leach Feed!R5 [1]: 2.886566 → 626
+~ Milling and Leach Feed!S5 [1]: (kosong) → 94
+~ Milling and Leach Feed!T5 [1]: 22.433333 → 292.3136
+~ Milling and Leach Feed!U5 [1]: 626 → 0.967
+~ Milling and Leach Feed!V5 [1]: 94 → 0.41
+~ Milling and Leach Feed!W5 [1]: 292.3136 → 6.109667
+~ Milling and Leach Feed!X5 [1]: 0.967 → 29.122659
+~ Milling and Leach Feed!Y5 [1]: 0.41 → 12.347766
+~ Milling and Leach Feed!Z5 [1]: 6.109667 → 184.001795
+~ Milling and Leach Feed!AA5 [1]: 29.122659 → (kosong)
+~ Milling and Leach Feed!AB5 [1]: 12.347766 → (kosong)
+~ Milling and Leach Feed!AC5 [1]: 184.001795 → (kosong)
+~ Milling and Leach Feed!AD5 [1]: (kosong) → 72806646.34095
+~ Milling and Leach Feed!AE5 [1]: (kosong) → 2500000
+~ Milling and Leach Feed!AG5 [1]: 72806646.34095 → (kosong)
+~ Milling and Leach Feed!AH5 [1]: 2500000 → pct solids from known Pulp Weight
+~ Milling and Leach Feed!AK5 [1]: pct solids from known Pulp Weight → (kosong)
+~ Milling and Leach Feed!AM5 [1]: (kosong) → Diameter Tank
+~ Milling and Leach Feed!AN5 [1]: (kosong) → 10.7
+~ Milling and Leach Feed!AO5 [1]: (kosong) → m
+~ Milling and Leach Feed!AP5 [1]: Diameter Tank → (kosong)
+~ Milling and Leach Feed!AQ5 [1]: 10.7 → (kosong)
+~ Milling and Leach Feed!AR5 [1]: m → (kosong)
+~ Milling and Leach Feed!K6: 98.7 → 1.235
+~ Milling and Leach Feed!L6: 1.235 → 0.68
+~ Milling and Leach Feed!M6: 0.68 → 65.783717
+~ Milling and Leach Feed!N6: 65.783717 → (kosong)
+~ Milling and Leach Feed!O6: 43.88202 → (kosong)
+~ Milling and Leach Feed!P6: (kosong) → 5.481976
+~ Milling and Leach Feed!R6: 5.481976 → 720
+~ Milling and Leach Feed!S6: (kosong) → 0
+~ Milling and Leach Feed!U6: 720 → 0.609
+~ Milling and Leach Feed!V6: 0 → 0.528333
+~ Milling and Leach Feed!W6: (kosong) → 7.623333
+~ Milling and Leach Feed!X6: 0.609 → 40.062284
+~ Milling and Leach Feed!Y6: 0.528333 → 34.75573
+~ Milling and Leach Feed!Z6: 7.623333 → 501.491202
+~ Milling and Leach Feed!AA6: 40.062284 → (kosong)
+~ Milling and Leach Feed!AB6: 34.75573 → (kosong)
+~ Milling and Leach Feed!AC6: 501.491202 → (kosong)
+~ Milling and Leach Feed!AD6: (kosong) → 100155708.91935
+~ Milling and Leach Feed!AG6: 100155708.91935 → (kosong)
+~ Milling and Leach Feed!AI6: (kosong) → W Pulp
+~ Milling and Leach Feed!AJ6: (kosong) → 1205
+~ Milling and Leach Feed!AK6: (kosong) → gr
+~ Milling and Leach Feed!AL6: W Pulp → (kosong)
+~ Milling and Leach Feed!AM6: 1205 → Tinggi
+~ Milling and Leach Feed!AN6: gr → 2.8
+~ Milling and Leach Feed!AO6: (kosong) → m
+~ Milling and Leach Feed!AP6: Tinggi → (kosong)
+~ Milling and Leach Feed!AQ6: 2.8 → (kosong)
+~ Milling and Leach Feed!AR6: m → (kosong)
+~ Milling and Leach Feed!K7 [01-09-2026 00:00]: 143.3 → 1.255
+~ Milling and Leach Feed!L7 [01-09-2026 00:00]: 1.255 → 0.7
+~ Milling and Leach Feed!M7 [01-09-2026 00:00]: 0.7 → 78.866186
+~ Milling and Leach Feed!N7 [01-09-2026 00:00]: 78.866186 → 196.41338
+~ Milling and Leach Feed!O7 [01-09-2026 00:00]: 69.760518 → #REF!
+~ Milling and Leach Feed!P7 [01-09-2026 00:00]: 196.41338 → 6.572182
+~ Milling and Leach Feed!Q7 [01-09-2026 00:00]: 173.670918 → 22.9
+~ Milling and Leach Feed!R7 [01-09-2026 00:00]: 6.572182 → 720
+~ Milling and Leach Feed!S7 [01-09-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!T7 [01-09-2026 00:00]: 22.9 → (kosong)
+~ Milling and Leach Feed!U7 [01-09-2026 00:00]: 720 → 0.647
+~ Milling and Leach Feed!V7 [01-09-2026 00:00]: 0 → 0.674333
+~ Milling and Leach Feed!W7 [01-09-2026 00:00]: (kosong) → 7.533333
+~ Milling and Leach Feed!X7 [01-09-2026 00:00]: 0.647 → 51.026422
+~ Milling and Leach Feed!Y7 [01-09-2026 00:00]: 0.674333 → 53.182098
+~ Milling and Leach Feed!Z7 [01-09-2026 00:00]: 7.533333 → 594.125264
+~ Milling and Leach Feed!AA7 [01-09-2026 00:00]: 51.026422 → (kosong)
+~ Milling and Leach Feed!AB7 [01-09-2026 00:00]: 53.182098 → (kosong)
+~ Milling and Leach Feed!AC7 [01-09-2026 00:00]: 594.125264 → (kosong)
+~ Milling and Leach Feed!AD7 [01-09-2026 00:00]: (kosong) → 127566055.04625
+~ Milling and Leach Feed!AG7 [01-09-2026 00:00]: 127566055.04625 → (kosong)
+~ Milling and Leach Feed!AI7 [01-09-2026 00:00]: (kosong) → V Pulp
+~ Milling and Leach Feed!AJ7 [01-09-2026 00:00]: (kosong) → 1000
+~ Milling and Leach Feed!AK7 [01-09-2026 00:00]: (kosong) → mL
+~ Milling and Leach Feed!AL7 [01-09-2026 00:00]: V Pulp → (kosong)
+~ Milling and Leach Feed!AM7 [01-09-2026 00:00]: 1000 → r2
+~ Milling and Leach Feed!AN7 [01-09-2026 00:00]: mL → 5.35
+~ Milling and Leach Feed!AP7 [01-09-2026 00:00]: r2 → (kosong)
+~ Milling and Leach Feed!AQ7 [01-09-2026 00:00]: 5.35 → (kosong)
+~ Milling and Leach Feed!K8: 198 → 1.28
+~ Milling and Leach Feed!L8: 1.28 → 0.7
+~ Milling and Leach Feed!M8: 0.7 → 117.547195
+~ Milling and Leach Feed!N8: 117.547195 → (kosong)
+~ Milling and Leach Feed!O8: 103.9104 → (kosong)
+~ Milling and Leach Feed!P8: (kosong) → 10.784146
+~ Milling and Leach Feed!R8: 10.784146 → 654
+~ Milling and Leach Feed!S8: (kosong) → 66
+~ Milling and Leach Feed!U8: 654 → 0.609
+~ Milling and Leach Feed!V8: 66 → 0.528333
+~ Milling and Leach Feed!W8: (kosong) → 7.623333
+~ Milling and Leach Feed!X8: 0.609 → 71.586241
+~ Milling and Leach Feed!Y8: 0.528333 → 62.104101
+~ Milling and Leach Feed!Z8: 7.623333 → 896.101446
+~ Milling and Leach Feed!AA8: 71.586241 → (kosong)
+~ Milling and Leach Feed!AB8: 62.104101 → (kosong)
+~ Milling and Leach Feed!AC8: 896.101446 → (kosong)
+~ Milling and Leach Feed!AD8: (kosong) → 178965603.62625
+~ Milling and Leach Feed!AG8: 178965603.62625 → (kosong)
+~ Milling and Leach Feed!AI8: (kosong) → SG pulp
+~ Milling and Leach Feed!AJ8: (kosong) → 1.205
+~ Milling and Leach Feed!AK8: (kosong) → g/mL
+~ Milling and Leach Feed!AL8: SG pulp → (kosong)
+~ Milling and Leach Feed!AM8: 1.205 → Volume Tank
+~ Milling and Leach Feed!AN8: g/mL → 251.64902
+~ Milling and Leach Feed!AP8: Volume Tank → (kosong)
+~ Milling and Leach Feed!AQ8: 251.64902 → (kosong)
+~ Milling and Leach Feed!K9 [2]: 215 → 1.26
+~ Milling and Leach Feed!L9 [2]: 1.26 → 0.72
+~ Milling and Leach Feed!M9 [2]: 0.72 → 105.651
+~ Milling and Leach Feed!N9 [2]: 105.651 → 209.804
+~ Milling and Leach Feed!O9 [2]: 105.651 → #REF!
+~ Milling and Leach Feed!P9 [2]: 209.804 → 10.5651
+~ Milling and Leach Feed!Q9 [2]: 206.235 → 22
+~ Milling and Leach Feed!R9 [2]: 10.5651 → 600
+~ Milling and Leach Feed!S9 [2]: (kosong) → 120
+~ Milling and Leach Feed!T9 [2]: 22 → 300.14215
+~ Milling and Leach Feed!U9 [2]: 600 → 0.744667
+~ Milling and Leach Feed!V9 [2]: 120 → 0.59
+~ Milling and Leach Feed!W9 [2]: 300.14215 → 9.84
+~ Milling and Leach Feed!X9 [2]: 0.744667 → 78.674778
+~ Milling and Leach Feed!Y9 [2]: 0.59 → 62.33409
+~ Milling and Leach Feed!Z9 [2]: 9.84 → 1039.60584
+~ Milling and Leach Feed!AA9 [2]: 78.674778 → (kosong)
+~ Milling and Leach Feed!AB9 [2]: 62.33409 → (kosong)
+~ Milling and Leach Feed!AC9 [2]: 1039.60584 → (kosong)
+~ Milling and Leach Feed!AD9 [2]: (kosong) → 196686945
+~ Milling and Leach Feed!AG9 [2]: 196686945 → (kosong)
+~ Milling and Leach Feed!AI9 [2]: (kosong) → SG Solid
+~ Milling and Leach Feed!AJ9 [2]: (kosong) → 2.1
+~ Milling and Leach Feed!AK9 [2]: (kosong) → g/mL
+~ Milling and Leach Feed!AL9 [2]: SG Solid → (kosong)
+~ Milling and Leach Feed!AM9 [2]: 2.1 → (kosong)
+~ Milling and Leach Feed!AN9 [2]: g/mL → (kosong)
+~ Milling and Leach Feed!K10: 198 → 1.27
+~ Milling and Leach Feed!L10: 1.27 → 0.72
+~ Milling and Leach Feed!M10: 0.72 → 104.153
+~ Milling and Leach Feed!N10: 104.153 → (kosong)
+~ Milling and Leach Feed!O10: 100.584 → (kosong)
+~ Milling and Leach Feed!P10: (kosong) → 8.679417
+~ Milling and Leach Feed!R10: 8.679417 → 720
+~ Milling and Leach Feed!S10: (kosong) → 0
+~ Milling and Leach Feed!U10: 720 → 0.646
+~ Milling and Leach Feed!V10: 0 → 1.066667
+~ Milling and Leach Feed!W10: (kosong) → 9.256667
+~ Milling and Leach Feed!X10: 0.646 → 67.282838
+~ Milling and Leach Feed!Y10: 1.066667 → 111.096533
+~ Milling and Leach Feed!Z10: 9.256667 → 964.109603
+- ...dan 3282 perubahan lain tidak ditampilkan
+_Dibandingkan 30074 sel dari 23 sheet._
+
 ## 15 Nov 2026 · 14:51 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris; Crushing: +2 baris, ~10 sel; Milling Down Time Hours: ~11 sel; Milling and Leach Feed: +20 baris, ~66 sel, -5 baris; Reagent Consumption: +1 baris; Rom File Inventory: +1 baris
 + Sheet "pak hendrik " ditambahkan
