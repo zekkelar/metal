@@ -5,6 +5,129 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 15 Nov 2026 · 14:51 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris; Crushing: +2 baris, ~10 sel; Milling Down Time Hours: ~11 sel; Milling and Leach Feed: +20 baris, ~66 sel, -5 baris; Reagent Consumption: +1 baris; Rom File Inventory: +1 baris
++ Sheet "pak hendrik " ditambahkan
++ Au Cal Leaching Tank baris 6 ditambahkan: K·/9=/9
++ Au Cal Leaching Tank baris 44 [35] ditambahkan: F·full tanki=15-11-2026 00:00, G=06:00:00, J=863, K·/9=0.83, L=0.71629, P=1.2
+~ Crushing!N138 "Tonage/Day (Tpd)" [18-10-2026 00:00]: 207.6798 → 278.6598
+~ Crushing!N140 "Tonage/Day (Tpd)" [26-10-2026 00:00]: 155.1 → 250.923
++ Crushing baris 141 [14-11-2026 00:00] ditambahkan: B·Date=14-11-2026 00:00, D·Shift=Day, F·Bucket=20, G·Type=Loader, H·Moisture %=0.09, I·Volume Bucket=3, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=78, ...
++ Crushing baris 142 [14-11-2026 00:00] ditambahkan: B·Date=14-11-2026 00:00, D·Shift=Day, F·Bucket=35, G·Type=Exca PC 130, H·Moisture %=0.09, I·Volume Bucket=0.6, J·SG Bulk Density (ton/m3)=1.3, K·WMT/SHIFT (wet metrix to=27.3, ...
+~ Crushing!F179 "Bucket" [Rata-rata]: 59.727273 → 58
+~ Crushing!H179 "Moisture %" [Rata-rata]: 0.095 → 0.094783
+~ Crushing!K179 "WMT/SHIFT (wet metrix to" [Rata-rata]: 149.333864 → 146.232391
+~ Crushing!L179 "DMT/SHIFT (dry metrix to" [Rata-rata]: 135.513252 → 132.707459
+~ Crushing!M179 "Ton/hour (tph)" [Rata-rata]: 11.903424 → 11.678281
+~ Crushing!N179 "Tonage/Day (Tpd)" [Rata-rata]: 208.155968 → 220.070468
+~ Crushing!F180 "Bucket" [Total]: 1314 → 1334
+~ Crushing!N180 "Tonage/Day (Tpd)" [Total]: 8872.19307 → 9038.99607
+~ Milling Down Time Hours!A158 "Date" [14-11-2026 00:00]: 28-11-2026 00:00 → 14-11-2026 00:00
+~ Milling Down Time Hours!C158 "Shift" [14-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E158 "Stop Time" [14-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!F158 "Start Time" [14-11-2026 00:00]: (kosong) → 01:01:00
+~ Milling Down Time Hours!H158 "Reason" [14-11-2026 00:00]: (kosong) → ball mill 2 dan 3 jalann normal
+~ Milling Down Time Hours!A159 "Date" [15-11-2026 00:00]: 29-11-2026 00:00 → 15-11-2026 00:00
+~ Milling Down Time Hours!C159 "Shift" [15-11-2026 00:00]: Night → Day
+~ Milling Down Time Hours!E159 "Stop Time" [15-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F159 "Start Time" [15-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H159 "Reason" [15-11-2026 00:00]: (kosong) → Ball mill 2dan3 jalan normal
+~ Milling Down Time Hours!I159 "BATCH" [15-11-2026 00:00]: (kosong) → 36
++ Milling and Leach Feed baris 168 [10-11-2026 00:00] ditambahkan: X=0.757333, Y=1.113333, Z=17.536667, AA=44.906609, AB=66.015878, AC=1039.84891
++ Milling and Leach Feed baris 169 [10-11-2026 00:00] ditambahkan: X=0.829, Y=1.256667, Z=17.523333, AA=47.850788, AB=72.536176, AC=1011.465992
++ Milling and Leach Feed baris 170 [11-11-2026 00:00] ditambahkan: X=0.683, Y=1.2475, Z=18.74, AA=66.14628, AB=120.816228, AC=1814.906708
++ Milling and Leach Feed baris 171 [11-11-2026 00:00] ditambahkan: X=0.652, Y=1.135, Z=17.6425, AA=-5.159871, AB=-8.98229, AC=-139.621198
++ Milling and Leach Feed baris 176 [14-11-2026 00:00] ditambahkan: I=11.983287, N=73.956052, R=6.163004, T=12, U=720, V=0
++ Milling and Leach Feed baris 177 [14-11-2026 00:00] ditambahkan: B·PIC=14-11-2026 00:00, D=UNKNOWN USER, E=Finish Pump Tank 2 Batch 35 jam 06:00, G=0.31, H·Milling And Leach Feed M=71.89972, I=5.991643, J=862.79664, L=1.195, ...
++ Milling and Leach Feed baris 178 [36] ditambahkan: A=36, B·PIC=15/11/206, D=UNKNOWN USER, E=Start Pump Tank 3 Batch 36 jam 06:30, G=0.31, H·Milling And Leach Feed M=107.69916, I=8.97493, J=215.69916, ...
+~ Milling and Leach Feed!N202 [Average]: 11079.236674 → 11207.742576
+- Milling and Leach Feed baris 214 dikosongkan: H·Milling And Leach Feed M=72
+- Milling and Leach Feed baris 215 dikosongkan: H·Milling And Leach Feed M=78, I=60, J=38
+- Milling and Leach Feed baris 216 dikosongkan: H·Milling And Leach Feed M=75, I=67, J=72, L=75
+- Milling and Leach Feed baris 217 dikosongkan: H·Milling And Leach Feed M=81, I=60, J=50, L=60
+~ Milling and Leach Feed!H218 "Milling And Leach Feed M": 75 → (kosong)
+~ Milling and Leach Feed!I218: 60 → (kosong)
+~ Milling and Leach Feed!J218: 75 → (kosong)
+~ Milling and Leach Feed!L218: 60 → 67
+~ Milling and Leach Feed!H219 "Milling And Leach Feed M": 80 → (kosong)
+~ Milling and Leach Feed!I219: 67 → (kosong)
+~ Milling and Leach Feed!J219: 80 → (kosong)
+~ Milling and Leach Feed!L219: 60 → 72
+~ Milling and Leach Feed!H220 "Milling And Leach Feed M": 82 → (kosong)
+~ Milling and Leach Feed!I220: 60 → (kosong)
+~ Milling and Leach Feed!J220: 80 → (kosong)
+~ Milling and Leach Feed!L220: 50 → 72
+- Milling and Leach Feed baris 221 dikosongkan: H·Milling And Leach Feed M=67, I=67, J=80
+~ Milling and Leach Feed!H222 "Milling And Leach Feed M": 72 → (kosong)
+~ Milling and Leach Feed!I222: 60 → (kosong)
+~ Milling and Leach Feed!J222: 84 → (kosong)
+~ Milling and Leach Feed!L222: 50 → 60
+~ Milling and Leach Feed!H223 "Milling And Leach Feed M": 60 → (kosong)
+~ Milling and Leach Feed!I223: 50 → (kosong)
+~ Milling and Leach Feed!J223: 80 → (kosong)
+~ Milling and Leach Feed!L223: 50 → 60
+~ Milling and Leach Feed!H224 "Milling And Leach Feed M": 50 → (kosong)
+~ Milling and Leach Feed!I224: 50 → (kosong)
+~ Milling and Leach Feed!J224: 78 → (kosong)
+~ Milling and Leach Feed!L224: 50 → 78
+~ Milling and Leach Feed!H225 "Milling And Leach Feed M": 60 → (kosong)
+~ Milling and Leach Feed!I225: 75 → (kosong)
+~ Milling and Leach Feed!J225: 78 → (kosong)
+~ Milling and Leach Feed!L225: 60 → 72
+~ Milling and Leach Feed!H226 "Milling And Leach Feed M": 84 → (kosong)
+~ Milling and Leach Feed!I226: 78 → (kosong)
+~ Milling and Leach Feed!J226: 60 → (kosong)
+~ Milling and Leach Feed!L226: 80 → 72
+~ Milling and Leach Feed!H227 "Milling And Leach Feed M": 78 → (kosong)
+~ Milling and Leach Feed!I227: 81 → (kosong)
+~ Milling and Leach Feed!J227: 78 → (kosong)
+~ Milling and Leach Feed!L227: 78 → 60
+~ Milling and Leach Feed!H228 "Milling And Leach Feed M": 67 → (kosong)
+~ Milling and Leach Feed!I228: 75 → (kosong)
+~ Milling and Leach Feed!L228: 78 → 67
+~ Milling and Leach Feed!H229 "Milling And Leach Feed M": 75 → (kosong)
+~ Milling and Leach Feed!I229: 78 → (kosong)
+~ Milling and Leach Feed!L229: 82 → 67
+~ Milling and Leach Feed!H230 "Milling And Leach Feed M": 75 → (kosong)
+~ Milling and Leach Feed!I230: 75 → (kosong)
+~ Milling and Leach Feed!L230: 80 → 78
+~ Milling and Leach Feed!H231 "Milling And Leach Feed M": 76 → (kosong)
+~ Milling and Leach Feed!I231: 72 → (kosong)
+~ Milling and Leach Feed!L231: 82 → 72
+~ Milling and Leach Feed!H232 "Milling And Leach Feed M": 80 → (kosong)
+~ Milling and Leach Feed!I232: 75 → (kosong)
+~ Milling and Leach Feed!L232: 78 → 60
+~ Milling and Leach Feed!H233 "Milling And Leach Feed M": 60 → (kosong)
+~ Milling and Leach Feed!I233: 80 → (kosong)
+~ Milling and Leach Feed!L233: 82 → 78
+~ Milling and Leach Feed!H234 "Milling And Leach Feed M": 50 → (kosong)
+~ Milling and Leach Feed!I234: 60 → (kosong)
+~ Milling and Leach Feed!L234: 78 → 72
+~ Milling and Leach Feed!H235 "Milling And Leach Feed M": 67 → (kosong)
+~ Milling and Leach Feed!I235: 80 → (kosong)
+~ Milling and Leach Feed!L235: (kosong) → 72
+~ Milling and Leach Feed!H236 "Milling And Leach Feed M": 67 → (kosong)
+~ Milling and Leach Feed!I236: 84 → (kosong)
+~ Milling and Leach Feed!L236: (kosong) → 72
+~ Milling and Leach Feed!H237 "Milling And Leach Feed M": 67 → (kosong)
+~ Milling and Leach Feed!L237: (kosong) → 72
++ Milling and Leach Feed baris 238 ditambahkan: L=72
++ Milling and Leach Feed baris 239 ditambahkan: L=80
++ Milling and Leach Feed baris 240 ditambahkan: L=60
++ Milling and Leach Feed baris 241 ditambahkan: L=85
++ Milling and Leach Feed baris 242 ditambahkan: L=78
++ Milling and Leach Feed baris 243 ditambahkan: L=72
++ Milling and Leach Feed baris 244 ditambahkan: L=78
++ Milling and Leach Feed baris 245 ditambahkan: L=78
++ Milling and Leach Feed baris 246 ditambahkan: L=67
++ Milling and Leach Feed baris 247 ditambahkan: L=72
++ Milling and Leach Feed baris 248 ditambahkan: L=84
++ Milling and Leach Feed baris 249 ditambahkan: L=75
++ Milling and Leach Feed baris 250 ditambahkan: L=75
++ Reagent Consumption baris 104 [15-11-2026 00:00] ditambahkan: B=1/2 day, D·Leaching=50
++ Rom File Inventory baris 8 [1] ditambahkan: BJ=14-11-2026 00:00, BM·Oxide=Oxide, BN=28
+_Dibandingkan 30074 sel dari 23 sheet._
+
 ## 14 Nov 2026 · 22:37 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +12 baris, ~12 sel; EW&ELUTION: +11 baris; Filter Press: ~20 sel; LF Ball Mill: +41 baris; LT Floculation: +7 baris, -1 baris; Milling Down Time Hours: ~14 sel; Milling and Leach Feed: +22 baris, ~3127 sel; Reagent Consumption: +2 baris
 ~ Au Cal Leaching Tank!R43 [34]: (kosong) → 0.31
