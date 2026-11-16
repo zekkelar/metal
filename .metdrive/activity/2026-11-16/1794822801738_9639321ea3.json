@@ -1,0 +1,26 @@
+{
+  "id": "1794822801738_9639321ea3",
+  "created_epoch": 1794822801,
+  "created_at": "2026-11-16 17:53:21",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ Sheet \"Rom File Inventory aug-oct\" ditambahkan\n+ Sheet \"Rom File Invetory Nov\" ditambahkan\n- Sheet \"Rom File Inventory\" dihapus\n~ Au Cal Leaching Tank!AH38 [29]: 13.07 → 12.403333\n~ Au Cal Leaching Tank!AQ38 [29]: 2890.161258 → 2742.741658\n~ Au Cal Leaching Tank!AV38 [29]: 0.004206 → 0.054999\n~ Au Cal Leaching Tank!BF38 [29]: 12.207 → 159.6266\n~ Au Cal Leaching Tank!BM38 [29]: (kosong) → toyong carbon\n~ Au Cal Leaching Tank!AH39 [30]: 13.068889 → 12.291111\n~ Au Cal Leaching Tank!AQ39 [30]: 4091.236577 → 3847.751999\n~ Au Cal Leaching Tank!AV39 [30]: -0.018396 → 0.042213\n~ Au Cal Leaching Tank!BF39 [30]: -73.902311 → 169.582266\n+ Au Cal Leaching Tank baris 40 [31] ditambahkan: BM=1000 kg carbon\n+ Au Cal Leaching Tank baris 41 [32] ditambahkan: BM=toyong carbon\n~ Au Cal Leaching Tank!X43 [34]: (kosong) → 0.706167\n~ Au Cal Leaching Tank!Y43 [34]: (kosong) → 1.075972\n~ Au Cal Leaching Tank!Z43 [34]: (kosong) → 16.869861\n~ Au Cal Leaching Tank!AA43 [34]: (kosong) → 0.753141\n~ Au Cal Leaching Tank!AB43 [34]: (kosong) → 1.178183\n~ Au Cal Leaching Tank!AC43 [34]: (kosong) → 17.861523",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +2 baris, ~95 sel",
+      "Filter Press: ~10 sel",
+      "Fuel Consumption: ~1 sel",
+      "LF Ball Mill: +125 baris",
+      "LT Floculation: +9 baris, ~12 sel",
+      "Milling Down Time Hours: +1 baris, ~8 sel",
+      "Milling and Leach Feed: +4 baris, ~33 sel, -1 baris",
+      "Reagent Consumption: ~9 sel",
+      "pak hendrik : ~11 sel"
+    ]
+  }
+}
