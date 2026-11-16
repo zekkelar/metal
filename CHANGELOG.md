@@ -5,6 +5,28 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Nov 2026 · 00:30 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Filter Press: ~9 sel; Milling and Leach Feed: +3 baris, ~6 sel
+~ Filter Press!C109 [109]: (kosong) → 16-11-2026 00:00
+~ Filter Press!D109 [109]: (kosong) → Day
+~ Filter Press!E109 [109]: (kosong) → 5
+~ Filter Press!F109 [109]: 0 → 30
+~ Filter Press!H109 [109]: 0 → 30
+~ Filter Press!K119 [119]: (kosong) → 16-11-2026 00:00
+~ Filter Press!M119 [119]: (kosong) → 6
+~ Filter Press!N119 [119]: 0 → 72
+~ Filter Press!P119 [119]: 0 → 72
+~ Milling and Leach Feed!AJ6: 1215 → 1200
+~ Milling and Leach Feed!AJ8: 1.215 → 1.2
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.337823 → 0.318182
+~ Milling and Leach Feed!AJ12: 410.454545 → 381.818182
+~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 804.545455 → 818.181818
++ Milling and Leach Feed baris 179 [15/11/206] ditambahkan: N=43.240024, AB=weh kek mana cerita mu ini jadi 3 pla...
++ Milling and Leach Feed baris 180 [16/11/207] ditambahkan: B·PIC=16/11/207, D=UNKNOWN USER, E=Tank 3 Batch 36, G=0.31, H·Milling And Leach Feed M=-134.811975, I=-11.234331, J=224.686625, K=1.2, ...
++ Milling and Leach Feed baris 181 ditambahkan: G=%
+~ Milling and Leach Feed!M202 [Average]: 11243.334347 → 11222.673495
+_Dibandingkan 30225 sel dari 24 sheet._
+
 ## 16 Nov 2026 · 17:53 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~95 sel; Filter Press: ~10 sel; Fuel Consumption: ~1 sel; LF Ball Mill: +125 baris; LT Floculation: +9 baris, ~12 sel; Milling Down Time Hours: +1 baris, ~8 sel; Milling and Leach Feed: +4 baris, ~33 sel, -1 baris; Reagent Consumption: ~9 sel; pak hendrik : ~11 sel
 + Sheet "Rom File Inventory aug-oct" ditambahkan
