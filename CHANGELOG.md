@@ -5,6 +5,47 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 16 Nov 2026 · 10:34 · PRODUKSI/Met Sheet.xlsx · ramda@DyanPro73
+Ringkasan: TEMPLATE KOSONGAN (2): +1 baris, ~35 sel, -1 baris
+~ TEMPLATE KOSONGAN (2)!AA89 "Ag": Au → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM89: (kosong) → Au
+~ TEMPLATE KOSONGAN (2)!AX89: (kosong) → Au
++ TEMPLATE KOSONGAN (2) baris 90 ditambahkan: Y·Weight=Au
+~ TEMPLATE KOSONGAN (2)!AA91 "Ag": 0.736 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM91: (kosong) → 0.736
+~ TEMPLATE KOSONGAN (2)!AN91: Au → (kosong)
+~ TEMPLATE KOSONGAN (2)!AX91: (kosong) → 0.523
+~ TEMPLATE KOSONGAN (2)!Y92 "Weight": (kosong) → 0.415
+~ TEMPLATE KOSONGAN (2)!AA92 "Ag": 0.622 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM92: (kosong) → 0.622
+~ TEMPLATE KOSONGAN (2)!AX92: (kosong) → 0.746
+~ TEMPLATE KOSONGAN (2)!Y93 "Weight": (kosong) → 0.384
+~ TEMPLATE KOSONGAN (2)!AA93 "Ag": 0.824 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM93: (kosong) → 0.824
+~ TEMPLATE KOSONGAN (2)!AN93: 0.415 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AX93: (kosong) → 0.491
+~ TEMPLATE KOSONGAN (2)!Y94 "Weight": (kosong) → 0.338
+~ TEMPLATE KOSONGAN (2)!AA94 "Ag": 0.727 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM94: (kosong) → 0.727
+~ TEMPLATE KOSONGAN (2)!AN94: 0.384 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AX94: (kosong) → 0.426
+~ TEMPLATE KOSONGAN (2)!Y95 "Weight": (kosong) → 0.434
+~ TEMPLATE KOSONGAN (2)!AA95 "Ag": 0.406 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM95: (kosong) → 0.406
+~ TEMPLATE KOSONGAN (2)!AN95: 0.338 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AX95: (kosong) → 0.481
+~ TEMPLATE KOSONGAN (2)!Y96 "Weight": (kosong) → 0.531
+~ TEMPLATE KOSONGAN (2)!AA96 "Ag": 0.663 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AM96: (kosong) → 0.663
+~ TEMPLATE KOSONGAN (2)!AN96: 0.434 → (kosong)
+~ TEMPLATE KOSONGAN (2)!AX96: (kosong) → 0.5334
+~ TEMPLATE KOSONGAN (2)!Y97 "Weight": (kosong) → 0.999
+~ TEMPLATE KOSONGAN (2)!AN97: 0.531 → (kosong)
+~ TEMPLATE KOSONGAN (2)!Y98 "Weight": (kosong) → 0.516833
+~ TEMPLATE KOSONGAN (2)!AN98: 0.999 → (kosong)
+- TEMPLATE KOSONGAN (2) baris 99 dikosongkan: AN=0.516833
+_Dibandingkan 6933 sel dari 25 sheet._
+
 ## 15 Nov 2026 · 17:56 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~20 sel; Fuel Consumption: ~1 sel; Milling and Leach Feed: ~3454 sel; Reagent Consumption: ~7 sel
 ~ Au Cal Leaching Tank!U41 [32]: 0 → 40
