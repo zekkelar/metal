@@ -1,0 +1,19 @@
+{
+  "id": "1794850228779_76a1ae0305",
+  "created_epoch": 1794850228,
+  "created_at": "2026-11-17 00:30:28",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Filter Press!C109 [109]: (kosong) → 16-11-2026 00:00\n~ Filter Press!D109 [109]: (kosong) → Day\n~ Filter Press!E109 [109]: (kosong) → 5\n~ Filter Press!F109 [109]: 0 → 30\n~ Filter Press!H109 [109]: 0 → 30\n~ Filter Press!K119 [119]: (kosong) → 16-11-2026 00:00\n~ Filter Press!M119 [119]: (kosong) → 6\n~ Filter Press!N119 [119]: 0 → 72\n~ Filter Press!P119 [119]: 0 → 72\n~ Milling and Leach Feed!AJ6: 1215 → 1200\n~ Milling and Leach Feed!AJ8: 1.215 → 1.2\n~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.337823 → 0.318182\n~ Milling and Leach Feed!AJ12: 410.454545 → 381.818182\n~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 804.545455 → 818.181818\n+ Milling and Leach Feed baris 179 [15/11/206] ditambahkan: N=43.240024, AB=weh kek mana cerita mu ini jadi 3 pla...\n+ Milling and Leach Feed baris 180 [16/11/207] ditambahkan: B·PIC=16/11/207, D=UNKNOWN USER, E=Tank 3 Batch 36, G=0.31, H·Milling And Leach Feed M=-134.811975, I=-11.234331, J=224.686625, K=1.2, ...\n+ Milling and Leach Feed baris 181 ditambahkan: G=%\n~ Milling and Leach Feed!M202 [Average]: 11243.334347 → 11222.673495",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Filter Press: ~9 sel",
+      "Milling and Leach Feed: +3 baris, ~6 sel"
+    ]
+  }
+}
