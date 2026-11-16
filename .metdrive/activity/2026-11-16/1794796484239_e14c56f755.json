@@ -1,0 +1,18 @@
+{
+  "id": "1794796484239_e14c56f755",
+  "created_epoch": 1794796484,
+  "created_at": "2026-11-16 10:34:44",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Met Sheet.xlsx",
+  "detail": "~ TEMPLATE KOSONGAN (2)!AA89 \"Ag\": Au → (kosong)\n~ TEMPLATE KOSONGAN (2)!AM89: (kosong) → Au\n~ TEMPLATE KOSONGAN (2)!AX89: (kosong) → Au\n+ TEMPLATE KOSONGAN (2) baris 90 ditambahkan: Y·Weight=Au\n~ TEMPLATE KOSONGAN (2)!AA91 \"Ag\": 0.736 → (kosong)\n~ TEMPLATE KOSONGAN (2)!AM91: (kosong) → 0.736\n~ TEMPLATE KOSONGAN (2)!AN91: Au → (kosong)\n~ TEMPLATE KOSONGAN (2)!AX91: (kosong) → 0.523\n~ TEMPLATE KOSONGAN (2)!Y92 \"Weight\": (kosong) → 0.415\n~ TEMPLATE KOSONGAN (2)!AA92 \"Ag\": 0.622 → (kosong)\n~ TEMPLATE KOSONGAN (2)!AM92: (kosong) → 0.622\n~ TEMPLATE KOSONGAN (2)!AX92: (kosong) → 0.746\n~ TEMPLATE KOSONGAN (2)!Y93 \"Weight\": (kosong) → 0.384\n~ TEMPLATE KOSONGAN (2)!AA93 \"Ag\": 0.824 → (kosong)\n~ TEMPLATE KOSONGAN (2)!AM93: (kosong) → 0.824\n~ TEMPLATE KOSONGAN (2)!AN93: 0.415 → (kosong)\n~ TEMPLATE KOSONGAN (2)!AX93: (kosong) → 0.491\n~ TEMPLATE KOSONGAN (2)!Y94 \"Weight\": (kosong) → 0.338\n~ TEMPLATE KOSONGAN (2)!AA94 \"Ag\": 0.727 → (kosong)\n~ TEMPLATE KOSONGAN (2)!AM94: (kosong) → 0.727",
+  "target_path": "PRODUKSI/Met Sheet.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "TEMPLATE KOSONGAN (2): +1 baris, ~35 sel, -1 baris"
+    ]
+  }
+}
