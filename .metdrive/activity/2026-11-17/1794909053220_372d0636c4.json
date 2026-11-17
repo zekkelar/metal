@@ -1,0 +1,26 @@
+{
+  "id": "1794909053220_372d0636c4",
+  "created_epoch": 1794909053,
+  "created_at": "2026-11-17 17:50:53",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ Au Cal Leaching Tank baris 38 [29] ditambahkan: C=36.916667, D=5.989961\n+ Au Cal Leaching Tank baris 39 [30] ditambahkan: C=26, D=12.040446\n+ Au Cal Leaching Tank baris 40 [31] ditambahkan: C=43.333333, D=6.846037\n+ Au Cal Leaching Tank baris 41 [32] ditambahkan: C=48, D=5.7108, R=0.31, S=1.2\n+ Au Cal Leaching Tank baris 42 [33] ditambahkan: C=39.983333, D=8.133802\n+ Au Cal Leaching Tank baris 43 [34] ditambahkan: C=59.5, D=4.700813\n+ Au Cal Leaching Tank baris 44 [35] ditambahkan: C=64.5\n+ Au Cal Leaching Tank baris 45 [36] ditambahkan: C=31\n~ Au Cal Leaching Tank!C60 [51]: 35.284524 → 37.144444\n~ Au Cal Leaching Tank!D60 [51]: 9.60509 → 9.174524\n~ Au Cal Leaching Tank!C61 [52]: 987.966667 → 1337.2\n~ Au Cal Leaching Tank!J67: 987.966667 → 1337.2\n~ Au Cal Leaching Tank!N67: 11.183408 → 8.262664\n~ Au Cal Leaching Tank!P67: 268.401791 → 198.303936\n~ Au Cal Leaching Tank!U67: 58.782639 → 73.334028\n~ Au Cal Leaching Tank!J68: 41.165278 → 55.716667\n~ Au Cal Leaching Tank!M70: 987.966667 → 1337.2\n~ Au Cal Leaching Tank!M72: 1410.783333 → 1760.016667\n~ Au Cal Leaching Tank!M73: 0.700297 → 0.759766\n~ Au Cal Leaching Tank!M74: 11.183408 → 8.262664",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +8 baris, ~179 sel, -4 baris",
+      "EW&ELUTION: +48 baris, ~21 sel",
+      "Filter Press: +32 baris, ~23 sel",
+      "LF Ball Mill: +17 baris, ~8 sel",
+      "LT Floculation: +9 baris, ~3 sel",
+      "Milling Down Time Hours: +20 baris, ~41 sel",
+      "Milling and Leach Feed: +7 baris, ~41 sel",
+      "Reagent Consumption: +1 baris",
+      "Rom File Invetory Nov: +15 baris"
+    ]
+  }
+}
