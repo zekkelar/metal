@@ -1,0 +1,22 @@
+{
+  "id": "1794933261047_9ecdd366e8",
+  "created_epoch": 1794933261,
+  "created_at": "2026-11-17 23:34:21",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!C45 [36]: 31 → 43\n~ Au Cal Leaching Tank!C60 [51]: 37.144444 → 37.477778\n~ Au Cal Leaching Tank!C61 [52]: 1337.2 → 1349.2\n~ Au Cal Leaching Tank!J67: 1337.2 → 1349.2\n~ Au Cal Leaching Tank!N67: 8.262664 → 8.189175\n~ Au Cal Leaching Tank!P67: 198.303936 → 196.540189\n~ Au Cal Leaching Tank!U67: 73.334028 → 73.834028\n~ Au Cal Leaching Tank!J68: 55.716667 → 56.216667\n~ Au Cal Leaching Tank!M70: 1337.2 → 1349.2\n~ Au Cal Leaching Tank!M72: 1760.016667 → 1772.016667\n~ Au Cal Leaching Tank!M73: 0.759766 → 0.761392\n~ Au Cal Leaching Tank!M74: 8.262664 → 8.189175\n~ Au Cal Leaching Tank!M75: 198.303936 → 196.540189\n~ Au Cal Leaching Tank!M76: 73.334028 → 73.834028\n~ Au Cal Leaching Tank!M77: 0.240234 → 0.238608\n~ EW&ELUTION!R117 \"Rata-rata deposisi\" [12-11-2026 00:00]: 0.835349 → 0.844961\n~ EW&ELUTION!R164 \"Rata-rata deposisi\" [16-11-2026 00:00]: 0.897252 → 0.920071\n~ Filter Press!C112 [112]: (kosong) → 17-11-2026 00:00\n~ Filter Press!D112 [112]: (kosong) → Day\n~ Filter Press!E112 [112]: (kosong) → 6",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~15 sel",
+      "EW&ELUTION: ~2 sel",
+      "Filter Press: ~9 sel",
+      "Milling Down Time Hours: ~6 sel",
+      "Milling and Leach Feed: +1 baris, ~9 sel"
+    ]
+  }
+}
