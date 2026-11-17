@@ -5,6 +5,52 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Nov 2026 · 23:34 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~15 sel; EW&ELUTION: ~2 sel; Filter Press: ~9 sel; Milling Down Time Hours: ~6 sel; Milling and Leach Feed: +1 baris, ~9 sel
+~ Au Cal Leaching Tank!C45 [36]: 31 → 43
+~ Au Cal Leaching Tank!C60 [51]: 37.144444 → 37.477778
+~ Au Cal Leaching Tank!C61 [52]: 1337.2 → 1349.2
+~ Au Cal Leaching Tank!J67: 1337.2 → 1349.2
+~ Au Cal Leaching Tank!N67: 8.262664 → 8.189175
+~ Au Cal Leaching Tank!P67: 198.303936 → 196.540189
+~ Au Cal Leaching Tank!U67: 73.334028 → 73.834028
+~ Au Cal Leaching Tank!J68: 55.716667 → 56.216667
+~ Au Cal Leaching Tank!M70: 1337.2 → 1349.2
+~ Au Cal Leaching Tank!M72: 1760.016667 → 1772.016667
+~ Au Cal Leaching Tank!M73: 0.759766 → 0.761392
+~ Au Cal Leaching Tank!M74: 8.262664 → 8.189175
+~ Au Cal Leaching Tank!M75: 198.303936 → 196.540189
+~ Au Cal Leaching Tank!M76: 73.334028 → 73.834028
+~ Au Cal Leaching Tank!M77: 0.240234 → 0.238608
+~ EW&ELUTION!R117 "Rata-rata deposisi" [12-11-2026 00:00]: 0.835349 → 0.844961
+~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.897252 → 0.920071
+~ Filter Press!C112 [112]: (kosong) → 17-11-2026 00:00
+~ Filter Press!D112 [112]: (kosong) → Day
+~ Filter Press!E112 [112]: (kosong) → 6
+~ Filter Press!F112 [112]: 0 → 36
+~ Filter Press!H112 [112]: 0 → 36
+~ Filter Press!K122 [122]: (kosong) → 17-11-2026 00:00
+~ Filter Press!M122 [122]: (kosong) → 2
+~ Filter Press!N122 [122]: 0 → 24
+~ Filter Press!P122 [122]: 0 → 24
+~ Milling Down Time Hours!A163 "Date" [16/11/203]: 03-12-2026 00:00 → 16/11/203
+~ Milling Down Time Hours!C163 "Shift" [16/11/203]: Night → Day
+~ Milling Down Time Hours!E163 "Stop Time" [16/11/203]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F163 "Start Time" [16/11/203]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H163 "Reason" [16/11/203]: (kosong) → ball mill 2 dan 3 jalan normal alhamd...
+~ Milling Down Time Hours!L163 "Availibility Per Day" [16/11/203]: (kosong) → 1
+~ Milling and Leach Feed!AJ6: 1215 → 1210
+~ Milling and Leach Feed!AJ8: 1.215 → 1.21
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.337823 → 0.33133
+~ Milling and Leach Feed!AJ12: 410.454545 → 400.909091
+~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 804.545455 → 809.090909
+~ Milling and Leach Feed!B178 "PIC" [36]: 15/11/206 → 15/11/2026
+~ Milling and Leach Feed!B179 "PIC" [15/11/2026]: 15/11/206 → 15/11/2026
+~ Milling and Leach Feed!B180 "PIC" [16/11/2026]: 16/11/207 → 16/11/2026
+~ Milling and Leach Feed!B181 "PIC" [16/11/2026]: 16/11/207 → 16/11/2026
++ Milling and Leach Feed baris 182 [17/11/2026] ditambahkan: B·PIC=17/11/2026, D=UNKNOWN USER, E=Tank 3 Batch 37, G=0.33, H·Milling And Leach Feed M=161.62395, I=13.468662, J=539.2479, K=1.21, ...
+_Dibandingkan 30972 sel dari 24 sheet._
+
 ## 17 Nov 2026 · 17:50 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +8 baris, ~179 sel, -4 baris; EW&ELUTION: +48 baris, ~21 sel; Filter Press: +32 baris, ~23 sel; LF Ball Mill: +17 baris, ~8 sel; LT Floculation: +9 baris, ~3 sel; Milling Down Time Hours: +20 baris, ~41 sel; Milling and Leach Feed: +7 baris, ~41 sel; Reagent Consumption: +1 baris; Rom File Invetory Nov: +15 baris
 + Au Cal Leaching Tank baris 38 [29] ditambahkan: C=36.916667, D=5.989961
