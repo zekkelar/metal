@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 17 Nov 2026 · 17:50 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +8 baris, ~179 sel, -4 baris; EW&ELUTION: +48 baris, ~21 sel; Filter Press: +32 baris, ~23 sel; LF Ball Mill: +17 baris, ~8 sel; LT Floculation: +9 baris, ~3 sel; Milling Down Time Hours: +20 baris, ~41 sel; Milling and Leach Feed: +7 baris, ~41 sel; Reagent Consumption: +1 baris; Rom File Invetory Nov: +15 baris
++ Au Cal Leaching Tank baris 38 [29] ditambahkan: C=36.916667, D=5.989961
++ Au Cal Leaching Tank baris 39 [30] ditambahkan: C=26, D=12.040446
++ Au Cal Leaching Tank baris 40 [31] ditambahkan: C=43.333333, D=6.846037
++ Au Cal Leaching Tank baris 41 [32] ditambahkan: C=48, D=5.7108, R=0.31, S=1.2
++ Au Cal Leaching Tank baris 42 [33] ditambahkan: C=39.983333, D=8.133802
++ Au Cal Leaching Tank baris 43 [34] ditambahkan: C=59.5, D=4.700813
++ Au Cal Leaching Tank baris 44 [35] ditambahkan: C=64.5
++ Au Cal Leaching Tank baris 45 [36] ditambahkan: C=31
+~ Au Cal Leaching Tank!C60 [51]: 35.284524 → 37.144444
+~ Au Cal Leaching Tank!D60 [51]: 9.60509 → 9.174524
+~ Au Cal Leaching Tank!C61 [52]: 987.966667 → 1337.2
+~ Au Cal Leaching Tank!J67: 987.966667 → 1337.2
+~ Au Cal Leaching Tank!N67: 11.183408 → 8.262664
+~ Au Cal Leaching Tank!P67: 268.401791 → 198.303936
+~ Au Cal Leaching Tank!U67: 58.782639 → 73.334028
+~ Au Cal Leaching Tank!J68: 41.165278 → 55.716667
+~ Au Cal Leaching Tank!M70: 987.966667 → 1337.2
+~ Au Cal Leaching Tank!M72: 1410.783333 → 1760.016667
+~ Au Cal Leaching Tank!M73: 0.700297 → 0.759766
+~ Au Cal Leaching Tank!M74: 11.183408 → 8.262664
+~ Au Cal Leaching Tank!M75: 268.401791 → 198.303936
+~ Au Cal Leaching Tank!M76: 58.782639 → 73.334028
+~ Au Cal Leaching Tank!M77: 0.299703 → 0.240234
+~ Au Cal Leaching Tank!W101: 36 → 38.25
+~ Au Cal Leaching Tank!X101: 9.60995 → 8.160288
+~ Au Cal Leaching Tank!Y101: 6 → 17
+~ Au Cal Leaching Tank!Z101: 9.7 → 8.4
+~ Au Cal Leaching Tank!AA101: 826.84678 → 755
+~ Au Cal Leaching Tank!AB101: 345.9582 → 312.131
+~ Au Cal Leaching Tank!W102: 36 → 36.916667
+~ Au Cal Leaching Tank!X102: 9.4097 → 5.989961
+~ Au Cal Leaching Tank!Y102: 7 → 18
+~ Au Cal Leaching Tank!Z102: 9.6 → 8.4
+~ Au Cal Leaching Tank!AA102: 863 → 755
+~ Au Cal Leaching Tank!AB102: 338.7492 → 221.1294
+~ Au Cal Leaching Tank!AD102: 6 → 17
+~ Au Cal Leaching Tank!AE102: 9.7 → 8.4
+~ Au Cal Leaching Tank!AF102: 309.7612 → 755
+~ Au Cal Leaching Tank!AG102: 345.9582 → 312.131
+~ Au Cal Leaching Tank!AH102: 0.36 → 0.38
+~ Au Cal Leaching Tank!AI102: 0.370833 → 0.517667
+~ Au Cal Leaching Tank!AJ102: 0.41 → 0.591407
+~ Au Cal Leaching Tank!AK102: 10.078333 → 13.215926
+~ Au Cal Leaching Tank!AL102: 0.159625 → 0.054643
+~ Au Cal Leaching Tank!AM102: 0.21625 → 0.3422
+~ Au Cal Leaching Tank!AN102: 10.73625 → 12.767143
+~ Au Cal Leaching Tank!AO102: 0.04 → 0.091
+~ Au Cal Leaching Tank!W103: 36 → 26
+~ Au Cal Leaching Tank!X103: 9.9223 → 12.040446
+~ Au Cal Leaching Tank!Y103: 8 → 19
+~ Au Cal Leaching Tank!Z103: 10.1 → 8.5
+~ Au Cal Leaching Tank!AA103: 872 → 764
+~ Au Cal Leaching Tank!AB103: 357.2028 → 313.0516
+~ Au Cal Leaching Tank!AD103: 7 → 18
+~ Au Cal Leaching Tank!AE103: 9.6 → 8.4
+~ Au Cal Leaching Tank!AF103: 345.9582 → 755
+~ Au Cal Leaching Tank!AG103: 338.7492 → 221.1294
+~ Au Cal Leaching Tank!AH103: 0.36 → 0.3
+~ Au Cal Leaching Tank!AI103: 0.395 → 0.455533
+~ Au Cal Leaching Tank!AJ103: 0.305556 → 0.4302
+~ Au Cal Leaching Tank!AK103: 7.722222 → 13.173333
+~ Au Cal Leaching Tank!AL103: 0.075167 → 0.145778
+~ Au Cal Leaching Tank!AM103: 0.233333 → 0.346667
+~ Au Cal Leaching Tank!AN103: 7.768333 → 12.403333
+~ Au Cal Leaching Tank!AO103: 0.04 → 0
+~ Au Cal Leaching Tank!W104: 32.6 → 43.333333
+~ Au Cal Leaching Tank!X104: 8.923804 → 6.846037
+~ Au Cal Leaching Tank!Y104: 9 → 20
+~ Au Cal Leaching Tank!Z104: 8.4 → 8.6
+~ Au Cal Leaching Tank!AA104: 863 → 773
+~ Au Cal Leaching Tank!AB104: 290.916 → 296.6616
+~ Au Cal Leaching Tank!AD104: 8 → 19
+~ Au Cal Leaching Tank!AE104: 10.1 → 8.5
+~ Au Cal Leaching Tank!AF104: 338.7492 → 764
+~ Au Cal Leaching Tank!AG104: 357.2028 → 313.0516
+~ Au Cal Leaching Tank!AH104: 0.36 → 0.38
+~ Au Cal Leaching Tank!AI104: 0.386159 → 0.598324
+~ Au Cal Leaching Tank!AJ104: 0.443492 → 0.556413
+~ Au Cal Leaching Tank!AK104: 13.407365 → 12.729714
+~ Au Cal Leaching Tank!AL104: 0.149333 → 0.138
+~ Au Cal Leaching Tank!AM104: 0.263333 → 0.452222
+~ Au Cal Leaching Tank!AN104: 8.176667 → 12.291111
+~ Au Cal Leaching Tank!AO104: 0.04 → 0.064
+~ Au Cal Leaching Tank!W105: 25.666667 → 48
+~ Au Cal Leaching Tank!X105: 10.39013 → 5.7108
+~ Au Cal Leaching Tank!Y105: 10 → 21
+~ Au Cal Leaching Tank!Z105: 8.4 → 9.6
+~ Au Cal Leaching Tank!AA105: 908 → 867
+~ Au Cal Leaching Tank!AB105: 266.68 → 274.1184
+~ Au Cal Leaching Tank!AD105: 9 → 20
+~ Au Cal Leaching Tank!AE105: 8.4 → 8.6
+~ Au Cal Leaching Tank!AF105: 357.2028 → 773
+~ Au Cal Leaching Tank!AG105: 290.916 → 296.6616
+~ Au Cal Leaching Tank!AI105: 0.681844 → 0.670042
+~ Au Cal Leaching Tank!AJ105: 0.547111 → 0.816369
+~ Au Cal Leaching Tank!AK105: 8.725333 → 17.891012
+~ Au Cal Leaching Tank!AL105: 0.163667 → 0.086545
+~ Au Cal Leaching Tank!AM105: 0.3 → 0.323636
+~ Au Cal Leaching Tank!AN105: 14.996667 → 13.504545
+~ Au Cal Leaching Tank!AO105: 0.04 → 0.047
+~ Au Cal Leaching Tank!W106: 30.333333 → 39.983333
+~ Au Cal Leaching Tank!X106: 9.578176 → 8.133802
+~ Au Cal Leaching Tank!Y106: 11 → 22
+~ Au Cal Leaching Tank!Z106: 8.4 → 9.6
+~ Au Cal Leaching Tank!AA106: 755 → 863
+~ Au Cal Leaching Tank!AB106: 290.538 → 325.2165
+~ Au Cal Leaching Tank!AD106: 10 → 21
+~ Au Cal Leaching Tank!AE106: 8.4 → 9.6
+~ Au Cal Leaching Tank!AF106: 290.916 → 867
+~ Au Cal Leaching Tank!AG106: 266.68 → 274.1184
+~ Au Cal Leaching Tank!AH106: 0.34 → 0.31
+~ Au Cal Leaching Tank!AI106: 0.423833 → 0.546167
+~ Au Cal Leaching Tank!AJ106: 0.404917 → 0.719444
+~ Au Cal Leaching Tank!AK106: 11.380667 → 16.495
+~ Au Cal Leaching Tank!AL106: 0.0517 → 0
+~ Au Cal Leaching Tank!AM106: 0.354 → 0
+~ Au Cal Leaching Tank!AN106: 15.597 → 0
+~ Au Cal Leaching Tank!AO106: 0.032 → 0.0912
+~ Au Cal Leaching Tank!W107: 21.516667 → 59.5
+~ Au Cal Leaching Tank!X107: 13.520496 → 4.700813
+~ Au Cal Leaching Tank!Y107: 12 → 23
+~ Au Cal Leaching Tank!Z107: 8.4 → 9.6
+~ Au Cal Leaching Tank!AA107: 755 → 863
+~ Au Cal Leaching Tank!AB107: 290.916 → 279.69835
+~ Au Cal Leaching Tank!AD107: 11 → 22
+~ Au Cal Leaching Tank!AE107: 8.4 → 9.6
+~ Au Cal Leaching Tank!AF107: 266.68 → 863
+~ Au Cal Leaching Tank!AG107: 290.538 → 325.2165
+~ Au Cal Leaching Tank!AH107: 0.36 → 0.35
+~ Au Cal Leaching Tank!AI107: 0.495511 → 0.58576
+~ Au Cal Leaching Tank!AJ107: 0.458556 → 0.662619
+~ Au Cal Leaching Tank!AK107: 15.227111 → 18.780262
+~ Au Cal Leaching Tank!AL107: 0.0555 → 0
+~ Au Cal Leaching Tank!AM107: 0.425 → 0
+~ Au Cal Leaching Tank!AN107: 13.166667 → 0
+~ Au Cal Leaching Tank!AO107: 0.119 → 0.0512
+~ Au Cal Leaching Tank!V108: 24 → Rata-rata
+~ Au Cal Leaching Tank!W108: 31 → 41.711905
+~ Au Cal Leaching Tank!X108: 9.357677 → 7.368878
+~ Au Cal Leaching Tank!Y108: 13 → (kosong)
+~ Au Cal Leaching Tank!Z108: 8.5 → 8.957143
+~ Au Cal Leaching Tank!AA108: 755 → 805.714286
+~ Au Cal Leaching Tank!AB108: 290.088 → 288.858121
+~ Au Cal Leaching Tank!AD108: 12 → 23
+~ Au Cal Leaching Tank!AE108: 8.4 → 9.6
+~ Au Cal Leaching Tank!AF108: 290.538 → 863
+~ Au Cal Leaching Tank!AG108: 290.916 → 279.69835
+~ Au Cal Leaching Tank!AH108: 0.36 → 0.31
+~ Au Cal Leaching Tank!AI108: 0.562411 → 0.706167
+~ Au Cal Leaching Tank!AJ108: 0.6396 → 1.075972
+~ Au Cal Leaching Tank!AK108: 16.466111 → 16.869861
+~ Au Cal Leaching Tank!AL108: 0.0592 → 0
+~ Au Cal Leaching Tank!AM108: 0.358 → 0
+~ Au Cal Leaching Tank!AN108: 10.766 → 0
+~ Au Cal Leaching Tank!AO108: 0.053 → 0.124
+~ Au Cal Leaching Tank!V109: 25 → (kosong)
+~ Au Cal Leaching Tank!W109: 24.5 → (kosong)
+~ Au Cal Leaching Tank!X109: 12.159429 → (kosong)
+~ Au Cal Leaching Tank!Y109: 14 → (kosong)
+~ Au Cal Leaching Tank!Z109: 8.9 → (kosong)
+~ Au Cal Leaching Tank!AA109: 755 → (kosong)
+~ Au Cal Leaching Tank!AB109: 297.906 → (kosong)
+~ Au Cal Leaching Tank!AD109: 13 → Rata-rata
+~ Au Cal Leaching Tank!AE109: 8.5 → (kosong)
+~ Au Cal Leaching Tank!AF109: 290.916 → 805.714286
+~ Au Cal Leaching Tank!AG109: 290.088 → 288.858121
+~ Au Cal Leaching Tank!AH109: 0.36 → (kosong)
+~ Au Cal Leaching Tank!AI109: 0.66025 → 0.582808
+~ Au Cal Leaching Tank!AJ109: 0.636667 → 0.693204
+~ Au Cal Leaching Tank!AK109: 15.279167 → 15.593587
+~ Au Cal Leaching Tank!AL109: (kosong) → 0.060709
+~ Au Cal Leaching Tank!AM109: (kosong) → 0.209246
+~ Au Cal Leaching Tank!AN109: (kosong) → 7.280876
+~ Au Cal Leaching Tank!AO109: 0.084 → 0.066914
+~ Au Cal Leaching Tank!V110: 26 → Total Material(ton)
+~ Au Cal Leaching Tank!W110: 37.5 → (kosong)
+~ Au Cal Leaching Tank!X110: 7.963776 → (kosong)
+~ Au Cal Leaching Tank!Y110: 15 → (kosong)
+~ Au Cal Leaching Tank!Z110: 8.5 → (kosong)
+~ Au Cal Leaching Tank!AA110: 764 → (kosong)
+~ Au Cal Leaching Tank!AB110: 298.6416 → 2022.00685
+~ Au Cal Leaching Tank!AD110: 14 → (kosong)
+~ Au Cal Leaching Tank!AE110: 8.9 → (kosong)
+~ Au Cal Leaching Tank!AF110: 290.088 → (kosong)
+~ Au Cal Leaching Tank!AG110: 297.906 → (kosong)
+~ Au Cal Leaching Tank!AH110: 0.35 → (kosong)
+~ Au Cal Leaching Tank!AO110: 0.068 → (kosong)
+- Au Cal Leaching Tank baris 111 dikosongkan: V=27, W=38.25, X=8.160288, Y=16, Z=8.4, AA=800, AB=312.131, AD=15, ...
+- Au Cal Leaching Tank baris 112 dikosongkan: V=Rata-rata, W=31.760606, X=9.908702, Z=8.845455, AA=810.622435, AB=307.247891, AD=16, AE=8.4, ...
+- Au Cal Leaching Tank baris 113 dikosongkan: AD=Rata-rata, AI=0.49698, AJ=0.480737, AK=12.285789, AL=0.102027, AM=0.307131, AN=11.601083, AO=0.0579
+- Au Cal Leaching Tank baris 114 dikosongkan: V=Total Material(ton), AB=3379.7268
+~ EW&ELUTION!D51 "Flow" [02-10-2026 00:00]: (kosong) → 2.5
+~ EW&ELUTION!E51 "Preassure Tank" [02-10-2026 00:00]: (kosong) → 0.01
+~ EW&ELUTION!R51 "Rata-rata deposisi" [02-10-2026 00:00]: 0.822033 → 0.80804
++ EW&ELUTION baris 52 ditambahkan: K·Au In=2.972, L·Au Out=1.042, M·Ag IN=1.199, N·Ag Out=0.153, O·Cu IN=13.487, P·Cu Out=13.403, Q·%=0.649394
++ EW&ELUTION baris 53 ditambahkan: J·OUT=2, K·Au In=4.908, L·Au Out=1.036, M·Ag IN=0.785, N·Ag Out=0.161, O·Cu IN=13.528, P·Cu Out=13.452, Q·%=0.788916
++ EW&ELUTION baris 54 ditambahkan: J·OUT=3, K·Au In=6.783, L·Au Out=1.376, M·Ag IN=2.38, N·Ag Out=0.135, O·Cu IN=13.296, P·Cu Out=13.552, Q·%=0.79714
++ EW&ELUTION baris 55 ditambahkan: I·IN=4, J·OUT=4, K·Au In=5.147, L·Au Out=1.038, M·Ag IN=1.177, N·Ag Out=0.219, O·Cu IN=10.676, P·Cu Out=4.891, ...
++ EW&ELUTION baris 56 ditambahkan: I·IN=5, J·OUT=5, K·Au In=7.112, L·Au Out=1.127, M·Ag IN=1.413, N·Ag Out=0.17, O·Cu IN=10.025, P·Cu Out=5.254, ...
++ EW&ELUTION baris 57 ditambahkan: I·IN=6, J·OUT=6, K·Au In=6.676, L·Au Out=0.903, M·Ag IN=1.255, N·Ag Out=0.119, O·Cu IN=10.431, P·Cu Out=7.321, ...
+- ...dan 862 perubahan lain tidak ditampilkan
+_Dibandingkan 30949 sel dari 24 sheet._
+
 ## 17 Nov 2026 · 00:30 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Filter Press: ~9 sel; Milling and Leach Feed: +3 baris, ~6 sel
 ~ Filter Press!C109 [109]: (kosong) → 16-11-2026 00:00
