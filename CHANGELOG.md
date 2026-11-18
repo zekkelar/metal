@@ -5,6 +5,16 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Nov 2026 · 16:32 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: EW&ELUTION: +5 baris, ~1 sel
+~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.90597 → 0.905812
++ EW&ELUTION baris 208 ditambahkan: K·Au In=17.564, L·Au Out=1.27, M·Ag IN=1.27, N·Ag Out=0.24, Q·%=0.927693
++ EW&ELUTION baris 209 ditambahkan: K·Au In=13.657, L·Au Out=1.043, M·Ag IN=0.87, N·Ag Out=0.22, Q·%=0.923629
++ EW&ELUTION baris 210 ditambahkan: K·Au In=12.521, L·Au Out=1.761, M·Ag IN=0.89, N·Ag Out=0.18, Q·%=0.859356
++ EW&ELUTION baris 213 ditambahkan: I·IN=49, J·OUT=49
++ EW&ELUTION baris 214 ditambahkan: I·IN=50, J·OUT=50
+_Dibandingkan 31328 sel dari 25 sheet._
+
 ## 18 Nov 2026 · 14:39 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: EW&ELUTION: +4 baris, ~1 sel
 ~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.90231 → 0.90597
