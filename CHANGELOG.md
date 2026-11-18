@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Nov 2026 · 16:34 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: EW&ELUTION: +6 baris, ~579 sel
+~ EW&ELUTION!Q5 "Au": % → Au
+~ EW&ELUTION!R5 "Ag": Rata-rata deposisi → Ag
+~ EW&ELUTION!S5 "Cu": (kosong) → Cu
+~ EW&ELUTION!T5 "%": (kosong) → %
+~ EW&ELUTION!U5 "Rata-rata deposisi": (kosong) → Rata-rata deposisi
+~ EW&ELUTION!V5 "total Au": (kosong) → total Au
+~ EW&ELUTION!W5 "Total Ag": (kosong) → Total Ag
+~ EW&ELUTION!Q6 "Au" [26/10/2026]: 1 → (kosong)
+~ EW&ELUTION!R6 "Ag" [26/10/2026]: 0.6325 → (kosong)
+~ EW&ELUTION!T6 "%" [26/10/2026]: (kosong) → 1
+~ EW&ELUTION!U6 "Rata-rata deposisi" [26/10/2026]: (kosong) → 0.6325
+~ EW&ELUTION!V6 "total Au" [26/10/2026]: (kosong) → 177.005
+~ EW&ELUTION!Q7 "Au": 0.374051 → 12.6925
+~ EW&ELUTION!T7 "%": (kosong) → 0.374051
+~ EW&ELUTION!Q8 "Au": 0.577555 → 9.6625
+~ EW&ELUTION!T8 "%": (kosong) → 0.577555
+~ EW&ELUTION!Q9 "Au": -0.18963 → -2.5875
+~ EW&ELUTION!T9 "%": (kosong) → -0.18963
+~ EW&ELUTION!Q10 "Au": 0.861916 → 32.505
+~ EW&ELUTION!T10 "%": (kosong) → 0.861916
+~ EW&ELUTION!Q11 "Au": 0.832467 → 20.025
+~ EW&ELUTION!T11 "%": (kosong) → 0.832467
+~ EW&ELUTION!Q12 "Au": 0.823601 → 13.54
+~ EW&ELUTION!T12 "%": (kosong) → 0.823601
+~ EW&ELUTION!Q13 "Au": 0.860026 → 11.3975
+~ EW&ELUTION!T13 "%": (kosong) → 0.860026
+~ EW&ELUTION!Q14 "Au": 0.790756 → 11.7625
+~ EW&ELUTION!T14 "%": (kosong) → 0.790756
+~ EW&ELUTION!Q15 "Au": 0.780947 → 10.0625
+~ EW&ELUTION!T15 "%": (kosong) → 0.780947
+~ EW&ELUTION!Q16 "Au": 0.668062 → 9.1775
+~ EW&ELUTION!T16 "%": (kosong) → 0.668062
+~ EW&ELUTION!Q17 "Au": 0.757441 → 9.7975
+~ EW&ELUTION!T17 "%": (kosong) → 0.757441
+~ EW&ELUTION!Q18 "Au": 0.810229 → 12.7125
+~ EW&ELUTION!T18 "%": (kosong) → 0.810229
+~ EW&ELUTION!Q19 "Au": 0.657555 → 7.6375
+~ EW&ELUTION!T19 "%": (kosong) → 0.657555
+~ EW&ELUTION!Q20 "Au": 0.69697 → 6.1525
+~ EW&ELUTION!T20 "%": (kosong) → 0.69697
+~ EW&ELUTION!Q21 "Au": 0.752071 → 7.0375
+~ EW&ELUTION!T21 "%": (kosong) → 0.752071
+~ EW&ELUTION!Q22 "Au": 0.268531 → 1.9925
+~ EW&ELUTION!T22 "%": (kosong) → 0.268531
+~ EW&ELUTION!Q23 "Au": 0.429956 → 3.4375
+~ EW&ELUTION!T23 "%": (kosong) → 0.429956
+~ EW&ELUTION!Q24 "Au" [31-10-2026 00:00]: 0.091603 → 0.54
+~ EW&ELUTION!R24 "Ag" [31-10-2026 00:00]: 0.836346 → (kosong)
+~ EW&ELUTION!T24 "%" [31-10-2026 00:00]: (kosong) → 0.091603
+~ EW&ELUTION!U24 "Rata-rata deposisi" [31-10-2026 00:00]: (kosong) → 0.836346
+~ EW&ELUTION!V24 "total Au" [31-10-2026 00:00]: (kosong) → 634.037
+~ EW&ELUTION!Q25 "Au": -0.053645 → -0.425
+~ EW&ELUTION!T25 "%": (kosong) → -0.053645
+~ EW&ELUTION!Q26 "Au": 0.8 → 10.652
+~ EW&ELUTION!T26 "%": (kosong) → 0.8
+~ EW&ELUTION!Q27 "Au": 0.858009 → 21.5875
+~ EW&ELUTION!T27 "%": (kosong) → 0.858009
+~ EW&ELUTION!Q28 "Au": 0.836805 → 21.7925
+~ EW&ELUTION!T28 "%": (kosong) → 0.836805
+~ EW&ELUTION!Q29 "Au": 0.893087 → 22.5125
+~ EW&ELUTION!T29 "%": (kosong) → 0.893087
+~ EW&ELUTION!Q30 "Au": 0.905272 → 23.6525
+~ EW&ELUTION!T30 "%": (kosong) → 0.905272
+~ EW&ELUTION!Q31 "Au": 0.950591 → 35.2075
+~ EW&ELUTION!T31 "%": (kosong) → 0.950591
+~ EW&ELUTION!Q32 "Au": 0.81375 → 22.37
+~ EW&ELUTION!T32 "%": (kosong) → 0.81375
+~ EW&ELUTION!Q33 "Au": 0.649807 → 18.5
+~ EW&ELUTION!T33 "%": (kosong) → 0.649807
+~ EW&ELUTION!Q34 "Au": 0.644557 → 16.52
+~ EW&ELUTION!T34 "%": (kosong) → 0.644557
+~ EW&ELUTION!Q35 "Au": 0.826035 → 22.59
+~ EW&ELUTION!T35 "%": (kosong) → 0.826035
+~ EW&ELUTION!Q36 "Au": 0.716029 → 19.51
+~ EW&ELUTION!T36 "%": (kosong) → 0.716029
+~ EW&ELUTION!Q37 "Au": 0.817729 → 23.8225
+~ EW&ELUTION!T37 "%": (kosong) → 0.817729
+~ EW&ELUTION!Q38 "Au": 0.757606 → 22.785
+~ EW&ELUTION!T38 "%": (kosong) → 0.757606
+~ EW&ELUTION!Q39 "Au": 0.811009 → 27.9575
+~ EW&ELUTION!T39 "%": (kosong) → 0.811009
+~ EW&ELUTION!Q40 "Au": 0.881933 → 33.95
+~ EW&ELUTION!T40 "%": (kosong) → 0.881933
+~ EW&ELUTION!Q41 "Au": 0.819863 → 32.815
+~ EW&ELUTION!T41 "%": (kosong) → 0.819863
+~ EW&ELUTION!Q42 "Au": 0.858462 → 33.465
+~ EW&ELUTION!T42 "%": (kosong) → 0.858462
+~ EW&ELUTION!Q43 "Au": 0.848689 → 31.7325
+~ EW&ELUTION!T43 "%": (kosong) → 0.848689
+~ EW&ELUTION!Q44 "Au": 0.896977 → 46.515
+~ EW&ELUTION!T44 "%": (kosong) → 0.896977
+~ EW&ELUTION!Q45 "Au": 0.863741 → 29.92
+~ EW&ELUTION!T45 "%": (kosong) → 0.863741
++ EW&ELUTION baris 46 ditambahkan: Q·Au=0
+~ EW&ELUTION!Q47 "Au": 0.914854 → 28.3925
+~ EW&ELUTION!T47 "%": (kosong) → 0.914854
+~ EW&ELUTION!Q48 "Au": 0.887158 → 33.885
+~ EW&ELUTION!T48 "%": (kosong) → 0.887158
+~ EW&ELUTION!Q49 "Au": 0.967117 → 34.925
+~ EW&ELUTION!T49 "%": (kosong) → 0.967117
+~ EW&ELUTION!Q50 "Au": 0.853217 → 18.8625
+~ EW&ELUTION!T50 "%": (kosong) → 0.853217
+~ EW&ELUTION!Q51 "Au" [02-10-2026 00:00]: (kosong) → 0
+~ EW&ELUTION!R51 "Ag" [02-10-2026 00:00]: 0.80804 → 0
+~ EW&ELUTION!U51 "Rata-rata deposisi" [02-10-2026 00:00]: (kosong) → 0.80804
+~ EW&ELUTION!V51 "total Au" [02-10-2026 00:00]: (kosong) → 109.1325
+~ EW&ELUTION!W51 "Total Ag" [02-10-2026 00:00]: (kosong) → 25.5225
+~ EW&ELUTION!Q52 "Au": 0.649394 → 4.825
+~ EW&ELUTION!R52 "Ag": (kosong) → 2.615
+~ EW&ELUTION!T52 "%": (kosong) → 0.649394
+~ EW&ELUTION!Q53 "Au": 0.788916 → 9.68
+~ EW&ELUTION!R53 "Ag": (kosong) → 1.56
+~ EW&ELUTION!T53 "%": (kosong) → 0.788916
+~ EW&ELUTION!Q54 "Au": 0.79714 → 13.5175
+~ EW&ELUTION!R54 "Ag": (kosong) → 5.6125
+~ EW&ELUTION!T54 "%": (kosong) → 0.79714
+~ EW&ELUTION!Q55 "Au": 0.798329 → 10.2725
+~ EW&ELUTION!R55 "Ag": (kosong) → 2.395
+~ EW&ELUTION!T55 "%": (kosong) → 0.798329
+~ EW&ELUTION!Q56 "Au": 0.841535 → 14.9625
+~ EW&ELUTION!R56 "Ag": (kosong) → 3.1075
+~ EW&ELUTION!T56 "%": (kosong) → 0.841535
+~ EW&ELUTION!Q57 "Au": 0.864739 → 14.4325
+~ EW&ELUTION!R57 "Ag": (kosong) → 2.84
+~ EW&ELUTION!T57 "%": (kosong) → 0.864739
+~ EW&ELUTION!Q58 "Au": 0.804938 → 10.595
+~ EW&ELUTION!R58 "Ag": (kosong) → 2.7275
+~ EW&ELUTION!T58 "%": (kosong) → 0.804938
+~ EW&ELUTION!Q59 "Au": 0.74734 → 7.7275
+~ EW&ELUTION!R59 "Ag": (kosong) → 1.715
+~ EW&ELUTION!T59 "%": (kosong) → 0.74734
+~ EW&ELUTION!Q60 "Au": 0.764598 → 8.3475
+~ EW&ELUTION!R60 "Ag": (kosong) → 1.2575
+~ EW&ELUTION!T60 "%": (kosong) → 0.764598
+~ EW&ELUTION!Q61 "Au": 0.911594 → 7.45
+~ EW&ELUTION!R61 "Ag": (kosong) → 0.865
+~ EW&ELUTION!T61 "%": (kosong) → 0.911594
+~ EW&ELUTION!Q62 "Au": 0.919912 → 7.3225
+~ EW&ELUTION!R62 "Ag": (kosong) → 0.8275
+~ EW&ELUTION!T62 "%": (kosong) → 0.919912
+~ EW&ELUTION!A68 "BATCH" [4A]: (kosong) → 4A
+~ EW&ELUTION!Q68 "Au" [4A]: 0.86305 → 73.26
+~ EW&ELUTION!R68 "Ag" [4A]: 0.848025 → 7.8
+~ EW&ELUTION!T68 "%" [4A]: (kosong) → 0.86305
+~ EW&ELUTION!U68 "Rata-rata deposisi" [4A]: (kosong) → 0.848025
+~ EW&ELUTION!V68 "total Au" [4A]: (kosong) → 1436.145
+~ EW&ELUTION!W68 "Total Ag" [4A]: (kosong) → 838.45
+~ EW&ELUTION!Q69 "Au": 0.64618 → 40.8725
+~ EW&ELUTION!R69 "Ag": (kosong) → 40.75
+~ EW&ELUTION!T69 "%": (kosong) → 0.64618
+~ EW&ELUTION!Q70 "Au": 0.826162 → 26.1625
+~ EW&ELUTION!R70 "Ag": (kosong) → 100.3
+~ EW&ELUTION!T70 "%": (kosong) → 0.826162
+~ EW&ELUTION!Q71 "Au": 0.922537 → 50.3175
+~ EW&ELUTION!R71 "Ag": (kosong) → 116.55
+~ EW&ELUTION!T71 "%": (kosong) → 0.922537
+~ EW&ELUTION!Q72 "Au": 0.852234 → 34.2875
+~ EW&ELUTION!R72 "Ag": (kosong) → 84.9
+~ EW&ELUTION!T72 "%": (kosong) → 0.852234
+~ EW&ELUTION!Q73 "Au": 0.848566 → 31.8
+~ EW&ELUTION!R73 "Ag": (kosong) → 69.325
+~ EW&ELUTION!T73 "%": (kosong) → 0.848566
+~ EW&ELUTION!Q74 "Au": 0.859313 → 38.175
+~ EW&ELUTION!R74 "Ag": (kosong) → 65.45
+~ EW&ELUTION!T74 "%": (kosong) → 0.859313
+~ EW&ELUTION!Q75 "Au": 0.835802 → 32.45
+~ EW&ELUTION!R75 "Ag": (kosong) → 44.95
+~ EW&ELUTION!T75 "%": (kosong) → 0.835802
+~ EW&ELUTION!Q76 "Au": 0.943231 → 54
+~ EW&ELUTION!R76 "Ag": (kosong) → 50.475
+~ EW&ELUTION!T76 "%": (kosong) → 0.943231
+~ EW&ELUTION!Q77 "Au": 0.928565 → 51.6375
+~ EW&ELUTION!R77 "Ag": (kosong) → 44.425
+~ EW&ELUTION!T77 "%": (kosong) → 0.928565
+~ EW&ELUTION!Q78 "Au": 0.923407 → 43.5525
+~ EW&ELUTION!R78 "Ag": (kosong) → 32.425
+~ EW&ELUTION!T78 "%": (kosong) → 0.923407
+~ EW&ELUTION!Q79 "Au": 0.843694 → 28.095
+~ EW&ELUTION!R79 "Ag": (kosong) → 24.125
+~ EW&ELUTION!T79 "%": (kosong) → 0.843694
+~ EW&ELUTION!Q80 "Au": 0.733302 → 23.77
+~ EW&ELUTION!R80 "Ag": (kosong) → 21.65
+~ EW&ELUTION!T80 "%": (kosong) → 0.733302
+~ EW&ELUTION!Q81 "Au": 0.946316 → 41.0725
+~ EW&ELUTION!R81 "Ag": (kosong) → 17.95
+~ EW&ELUTION!T81 "%": (kosong) → 0.946316
+~ EW&ELUTION!Q82 "Au": 0.934179 → 44.21
+~ EW&ELUTION!R82 "Ag": (kosong) → 17.725
+~ EW&ELUTION!T82 "%": (kosong) → 0.934179
+~ EW&ELUTION!Q83 "Au": 0.827266 → 32.95
+~ EW&ELUTION!R83 "Ag": (kosong) → 15.65
+~ EW&ELUTION!T83 "%": (kosong) → 0.827266
+~ EW&ELUTION!Q84 "Au": 0.841874 → 21.5225
+~ EW&ELUTION!R84 "Ag": (kosong) → 21.325
+~ EW&ELUTION!T84 "%": (kosong) → 0.841874
+~ EW&ELUTION!Q85 "Au": 0.119753 → 3.595
+~ EW&ELUTION!R85 "Ag": (kosong) → 10.8
+~ EW&ELUTION!T85 "%": (kosong) → 0.119753
+~ EW&ELUTION!Q86 "Au": 0.954282 → 34.5975
+~ EW&ELUTION!R86 "Ag": (kosong) → 4.525
+- ...dan 399 perubahan lain tidak ditampilkan
+_Dibandingkan 31717 sel dari 25 sheet._
+
 ## 18 Nov 2026 · 16:32 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: EW&ELUTION: +5 baris, ~1 sel
 ~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.90597 → 0.905812
