@@ -5,6 +5,15 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Nov 2026 · 14:39 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: EW&ELUTION: +4 baris, ~1 sel
+~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.90231 → 0.90597
++ EW&ELUTION baris 204 ditambahkan: K·Au In=20.927, L·Au Out=1.881, M·Ag IN=0.78, N·Ag Out=0.44, Q·%=0.910116
++ EW&ELUTION baris 205 ditambahkan: K·Au In=25.614, L·Au Out=1.594, M·Ag IN=0.7, N·Ag Out=0.42, Q·%=0.937768
++ EW&ELUTION baris 206 ditambahkan: K·Au In=30.239, L·Au Out=1.081, M·Ag IN=0.75, N·Ag Out=0.22, Q·%=0.964251
++ EW&ELUTION baris 207 ditambahkan: K·Au In=32.49, L·Au Out=1.479, M·Ag IN=0.74, N·Ag Out=0.21, Q·%=0.954478
+_Dibandingkan 31309 sel dari 25 sheet._
+
 ## 18 Nov 2026 · 11:06 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~15 sel; EW&ELUTION: +27 baris, ~1 sel; Filter Press: ~9 sel; LF Ball Mill: +6 baris; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +3 baris, ~12 sel, -33 baris; Reagent Consumption: +1 baris; Rom File Invetory Nov: +23 baris, ~8 sel, -3 baris; Tailing Check : +6 baris
 + Sheet "Tabel Konveri CBN" ditambahkan
