@@ -1,0 +1,18 @@
+{
+  "id": "1794983957252_f28b58d8b3",
+  "created_epoch": 1794983957,
+  "created_at": "2026-11-18 14:39:17",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ EW&ELUTION!R164 \"Rata-rata deposisi\" [16-11-2026 00:00]: 0.90231 → 0.90597\n+ EW&ELUTION baris 204 ditambahkan: K·Au In=20.927, L·Au Out=1.881, M·Ag IN=0.78, N·Ag Out=0.44, Q·%=0.910116\n+ EW&ELUTION baris 205 ditambahkan: K·Au In=25.614, L·Au Out=1.594, M·Ag IN=0.7, N·Ag Out=0.42, Q·%=0.937768\n+ EW&ELUTION baris 206 ditambahkan: K·Au In=30.239, L·Au Out=1.081, M·Ag IN=0.75, N·Ag Out=0.22, Q·%=0.964251\n+ EW&ELUTION baris 207 ditambahkan: K·Au In=32.49, L·Au Out=1.479, M·Ag IN=0.74, N·Ag Out=0.21, Q·%=0.954478",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "EW&ELUTION: +4 baris, ~1 sel"
+    ]
+  }
+}
