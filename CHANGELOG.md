@@ -5,6 +5,167 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 18 Nov 2026 · 11:06 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: ~15 sel; EW&ELUTION: +27 baris, ~1 sel; Filter Press: ~9 sel; LF Ball Mill: +6 baris; Milling Down Time Hours: ~9 sel; Milling and Leach Feed: +3 baris, ~12 sel, -33 baris; Reagent Consumption: +1 baris; Rom File Invetory Nov: +23 baris, ~8 sel, -3 baris; Tailing Check : +6 baris
++ Sheet "Tabel Konveri CBN" ditambahkan
+~ Au Cal Leaching Tank!C45 [36]: 43 → 55
+~ Au Cal Leaching Tank!C60 [51]: 37.477778 → 37.811111
+~ Au Cal Leaching Tank!C61 [52]: 1349.2 → 1361.2
+~ Au Cal Leaching Tank!J67: 1349.2 → 1361.2
+~ Au Cal Leaching Tank!N67: 8.189175 → 8.116981
+~ Au Cal Leaching Tank!P67: 196.540189 → 194.807539
+~ Au Cal Leaching Tank!U67: 73.834028 → 74.334028
+~ Au Cal Leaching Tank!J68: 56.216667 → 56.716667
+~ Au Cal Leaching Tank!M70: 1349.2 → 1361.2
+~ Au Cal Leaching Tank!M72: 1772.016667 → 1784.016667
+~ Au Cal Leaching Tank!M73: 0.761392 → 0.762997
+~ Au Cal Leaching Tank!M74: 8.189175 → 8.116981
+~ Au Cal Leaching Tank!M75: 196.540189 → 194.807539
+~ Au Cal Leaching Tank!M76: 73.834028 → 74.334028
+~ Au Cal Leaching Tank!M77: 0.238608 → 0.237003
+~ EW&ELUTION!R164 "Rata-rata deposisi" [16-11-2026 00:00]: 0.920071 → 0.90231
++ EW&ELUTION baris 186 ditambahkan: K·Au In=18.132, L·Au Out=2.774, M·Ag IN=3.3, N·Ag Out=0.4, Q·%=0.847011
++ EW&ELUTION baris 187 ditambahkan: K·Au In=20.317, L·Au Out=2.83, M·Ag IN=2.1, N·Ag Out=0.26, Q·%=0.860708
++ EW&ELUTION baris 188 ditambahkan: K·Au In=21.173, L·Au Out=2.597, M·Ag IN=1.46, N·Ag Out=0.26, Q·%=0.877344
++ EW&ELUTION baris 189 ditambahkan: K·Au In=18.919, L·Au Out=2.637, M·Ag IN=1.27, N·Ag Out=0.18, Q·%=0.860616
++ EW&ELUTION baris 190 ditambahkan: K·Au In=24.537, L·Au Out=2.096, M·Ag IN=1.46, N·Ag Out=0.34, Q·%=0.914578
++ EW&ELUTION baris 191 ditambahkan: K·Au In=21.176, L·Au Out=2.193, M·Ag IN=1.37, N·Ag Out=0.21, Q·%=0.896439
++ EW&ELUTION baris 192 ditambahkan: K·Au In=20.172, L·Au Out=2.829, M·Ag IN=3.3, N·Ag Out=0.4, Q·%=0.859756
++ EW&ELUTION baris 193 ditambahkan: K·Au In=18.766, L·Au Out=2.864, M·Ag IN=2.1, N·Ag Out=0.26, Q·%=0.847384
++ EW&ELUTION baris 194 ditambahkan: K·Au In=22.278, L·Au Out=2.597, M·Ag IN=1.46, N·Ag Out=0.26, Q·%=0.883428
++ EW&ELUTION baris 195 ditambahkan: K·Au In=16.591, L·Au Out=0.826, M·Ag IN=1.47, N·Ag Out=0.56, Q·%=0.950214
++ EW&ELUTION baris 196 ditambahkan: K·Au In=16.141, L·Au Out=0.354, M·Ag IN=1.4, N·Ag Out=0.59, Q·%=0.978068
++ EW&ELUTION baris 197 ditambahkan: K·Au In=15.354, L·Au Out=0.795, M·Ag IN=1.27, N·Ag Out=0.43, Q·%=0.948222
++ EW&ELUTION baris 198 ditambahkan: K·Au In=15.435, L·Au Out=0.914, M·Ag IN=0.92, N·Ag Out=0.47, Q·%=0.940784
++ EW&ELUTION baris 199 ditambahkan: K·Au In=17.519, L·Au Out=2.721, M·Ag IN=0.94, N·Ag Out=0.5, Q·%=0.844683
++ EW&ELUTION baris 200 ditambahkan: K·Au In=15.785, L·Au Out=1.73, M·Ag IN=2.06, N·Ag Out=0.17, Q·%=0.890402
++ EW&ELUTION baris 201 ditambahkan: K·Au In=12.186, L·Au Out=1.399, M·Ag IN=1.36, N·Ag Out=0.66, Q·%=0.885196
++ EW&ELUTION baris 202 ditambahkan: K·Au In=11.94, L·Au Out=1.83, M·Ag IN=0.82, N·Ag Out=0.62, Q·%=0.846734
++ EW&ELUTION baris 203 ditambahkan: I·IN=39, J·OUT=39, K·Au In=10.974, L·Au Out=2.886, M·Ag IN=0.55, N·Ag Out=0.46, Q·%=0.737015
++ EW&ELUTION baris 204 ditambahkan: I·IN=40, J·OUT=40
++ EW&ELUTION baris 205 ditambahkan: I·IN=41, J·OUT=41
++ EW&ELUTION baris 206 ditambahkan: I·IN=42, J·OUT=42
++ EW&ELUTION baris 207 ditambahkan: I·IN=43, J·OUT=43
++ EW&ELUTION baris 208 ditambahkan: I·IN=44, J·OUT=44
++ EW&ELUTION baris 209 ditambahkan: I·IN=45, J·OUT=45
++ EW&ELUTION baris 210 ditambahkan: I·IN=46, J·OUT=46
++ EW&ELUTION baris 211 ditambahkan: I·IN=47, J·OUT=47
++ EW&ELUTION baris 212 ditambahkan: I·IN=48, J·OUT=48
+~ Filter Press!C113 [113]: (kosong) → 17-11-2026 00:00
+~ Filter Press!D113 [113]: (kosong) → Night
+~ Filter Press!E113 [113]: (kosong) → 2
+~ Filter Press!F113 [113]: 0 → 12
+~ Filter Press!H113 [113]: 0 → 12
+~ Filter Press!K123 [123]: (kosong) → 17-11-2026 00:00
+~ Filter Press!M123 [123]: (kosong) → 5
+~ Filter Press!N123 [123]: 0 → 60
+~ Filter Press!P123 [123]: 0 → 60
++ LF Ball Mill baris 388 [390] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=14-11-2026 00:00, V·Cu=0.348, W=0.94, X=20.68
++ LF Ball Mill baris 389 [391] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=14-11-2026 00:00, V·Cu=0.345, W=0.94, X=21.05
++ LF Ball Mill baris 390 [392] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=14-11-2026 00:00, V·Cu=0.354, W=0.96, X=20.85
++ LF Ball Mill baris 391 [393] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=15-11-2026 00:00, V·Cu=0.431, W=0.92, X=19.43
++ LF Ball Mill baris 392 [394] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=15-11-2026 00:00, V·Cu=0.459, W=0.98, X=19.31
++ LF Ball Mill baris 393 [395] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=15-11-2026 00:00, V·Cu=0.571, W=1, X=19.35
+~ Milling Down Time Hours!A161 "Date" [16-11-2026 00:00]: 16/11/202 → 16-11-2026 00:00
+~ Milling Down Time Hours!A162 "Date" [16-11-2026 00:00]: 16/11/202 → 16-11-2026 00:00
+~ Milling Down Time Hours!A163 "Date" [17-11-2026 00:00]: 16/11/203 → 17-11-2026 00:00
+~ Milling Down Time Hours!H163 "Reason" [17-11-2026 00:00]: ball mill 2 dan 3 jalan normal alhamd... → ball mill 1 dan 2 jalan normal alhamd...
+~ Milling Down Time Hours!A164 "Date" [17-11-2026 00:00]: 04-12-2026 00:00 → 17-11-2026 00:00
+~ Milling Down Time Hours!C164 "Shift" [17-11-2026 00:00]: Day → Night
+~ Milling Down Time Hours!E164 "Stop Time" [17-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F164 "Start Time" [17-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!H164 "Reason" [17-11-2026 00:00]: (kosong) → ball mill 2 menggendong team
+~ Milling and Leach Feed!AJ6: 1210 → 1200
+~ Milling and Leach Feed!AJ8: 1.21 → 1.2
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.33133 → 0.318182
+~ Milling and Leach Feed!AJ12: 400.909091 → 381.818182
+~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 809.090909 → 818.181818
++ Milling and Leach Feed baris 166 [34] ditambahkan: T=291.31391
++ Milling and Leach Feed baris 172 [35] ditambahkan: T=273.318015
+~ Milling and Leach Feed!N181 [16/11/2026]: 74.23017 → 94.961555
+~ Milling and Leach Feed!H182 "Milling And Leach Feed M" [17/11/2026]: 161.62395 → 53.92479
+~ Milling and Leach Feed!I182 [17/11/2026]: 13.468662 → 4.493733
+~ Milling and Leach Feed!L182 [17/11/2026]: 73.363636 → 0.73
+~ Milling and Leach Feed!M182 [17/11/2026]: (kosong) → 20.731386
+~ Milling and Leach Feed!P182 [17/11/2026]: 0 → 1.727615
++ Milling and Leach Feed baris 183 [17/11/2026] ditambahkan: B·PIC=17/11/2026, D=UNKNOWN USER, E=Tank 3 Batch 37, G=0.31, H·Milling And Leach Feed M=89.87465, I=7.489554, J=629.12255, K=1.2, ...
+~ Milling and Leach Feed!M202 [Average]: 11293.783684 → 11333.226972
+- Milling and Leach Feed baris 218 dikosongkan: K=67
+- Milling and Leach Feed baris 219 dikosongkan: K=72
+- Milling and Leach Feed baris 220 dikosongkan: K=72
+- Milling and Leach Feed baris 221 dikosongkan: K=60
+- Milling and Leach Feed baris 222 dikosongkan: K=60
+- Milling and Leach Feed baris 223 dikosongkan: K=60
+- Milling and Leach Feed baris 224 dikosongkan: K=78
+- Milling and Leach Feed baris 225 dikosongkan: K=72
+- Milling and Leach Feed baris 226 dikosongkan: K=72
+- Milling and Leach Feed baris 227 dikosongkan: K=60
+- Milling and Leach Feed baris 228 dikosongkan: K=67
+- Milling and Leach Feed baris 229 dikosongkan: K=67
+- Milling and Leach Feed baris 230 dikosongkan: K=78
+- Milling and Leach Feed baris 231 dikosongkan: K=72
+- Milling and Leach Feed baris 232 dikosongkan: K=60
+- Milling and Leach Feed baris 233 dikosongkan: K=78
+- Milling and Leach Feed baris 234 dikosongkan: K=72
+- Milling and Leach Feed baris 235 dikosongkan: K=72
+- Milling and Leach Feed baris 236 dikosongkan: K=72
+- Milling and Leach Feed baris 237 dikosongkan: K=72
+- Milling and Leach Feed baris 238 dikosongkan: K=72
+- Milling and Leach Feed baris 239 dikosongkan: K=80
+- Milling and Leach Feed baris 240 dikosongkan: K=60
+- Milling and Leach Feed baris 241 dikosongkan: K=85
+- Milling and Leach Feed baris 242 dikosongkan: K=78
+- Milling and Leach Feed baris 243 dikosongkan: K=72
+- Milling and Leach Feed baris 244 dikosongkan: K=78
+- Milling and Leach Feed baris 245 dikosongkan: K=78
+- Milling and Leach Feed baris 246 dikosongkan: K=67
+- Milling and Leach Feed baris 247 dikosongkan: K=72
+- Milling and Leach Feed baris 248 dikosongkan: K=84
+- Milling and Leach Feed baris 249 dikosongkan: K=75
+- Milling and Leach Feed baris 250 dikosongkan: K=75
++ Reagent Consumption baris 106 [17-11-2026 00:00] ditambahkan: B=Day/Night, D·Leaching=100
++ Rom File Invetory Nov baris 5 [1] ditambahkan: M=avg 0,99 gc 2 tumpukan
+- Rom File Invetory Nov baris 6 [2] dikosongkan: N=avg 0,99 gc 2 tumpukan
++ Rom File Invetory Nov baris 9 [5] ditambahkan: AJ=AVERAGE Au, AK=0.6409
++ Rom File Invetory Nov baris 10 [6] ditambahkan: AJ=MEDIAN Au, AK=0.5285
+~ Rom File Invetory Nov!AJ11 [7]: AVERAGE Au → MAX Au
+~ Rom File Invetory Nov!AK11 [7]: 0.5214 → 1.504
+~ Rom File Invetory Nov!AJ12 [8]: MEDIAN Au → MIN Au
+~ Rom File Invetory Nov!AK12 [8]: 0.4705 → 0.116
+~ Rom File Invetory Nov!AJ13 [9]: MAX Au → %DIFFERENT Avg vs Med
+~ Rom File Invetory Nov!AK13 [9]: 1.319 → 0.048059
+~ Rom File Invetory Nov!AJ14 [10]: MIN Au → Au Variance (Avg vs Med)
+~ Rom File Invetory Nov!AK14 [10]: 0.116 → 0.1124
+- Rom File Invetory Nov baris 15 [11] dikosongkan: AJ=%DIFFERENT Avg vs Med, AK=0.025658
+- Rom File Invetory Nov baris 16 [12] dikosongkan: AJ=Au Variance (Avg vs Med), AK=0.0509
++ Rom File Invetory Nov baris 29 [25] ditambahkan: AB=SR OXIDE 1, AC=16-11-2026 00:00, AD=0.377, AG=ROM
++ Rom File Invetory Nov baris 30 ditambahkan: AB=SR OXIDE 2, AC=16-11-2026 00:00, AD=0.77, AG=ROM
++ Rom File Invetory Nov baris 31 ditambahkan: AB=SR OXIDE 3, AC=16-11-2026 00:00, AD=0.567, AG=ROM
++ Rom File Invetory Nov baris 32 ditambahkan: AB=SR OXIDE 4, AC=16-11-2026 00:00, AD=0.522, AG=ROM
++ Rom File Invetory Nov baris 33 ditambahkan: AB=SR OXIDE 5, AC=16-11-2026 00:00, AD=0.439, AG=ROM
++ Rom File Invetory Nov baris 34 ditambahkan: AB=SR OXIDE 6, AC=16-11-2026 00:00, AD=0.403, AG=ROM
++ Rom File Invetory Nov baris 35 ditambahkan: AB=SR OXIDE 7, AC=16-11-2026 00:00, AD=1.328, AG=ROM
++ Rom File Invetory Nov baris 36 ditambahkan: AB=SR OXIDE 8, AC=16-11-2026 00:00, AD=0.821, AG=ROM
++ Rom File Invetory Nov baris 37 ditambahkan: AB=SR OXIDE 9, AC=16-11-2026 00:00, AD=0.354, AG=ROM
++ Rom File Invetory Nov baris 38 ditambahkan: AB=SR OXIDE 10, AC=16-11-2026 00:00, AD=1.009, AG=ROM
++ Rom File Invetory Nov baris 39 ditambahkan: AA=31, AB=SR OXIDE 11, AC=16-11-2026 00:00, AD=0.673, AG=ROM
++ Rom File Invetory Nov baris 40 ditambahkan: AA=32, AB=SR OXIDE 12, AC=16-11-2026 00:00, AD=0.697, AG=ROM
++ Rom File Invetory Nov baris 41 ditambahkan: AA=33, AB=SR OXIDE 13, AC=16-11-2026 00:00, AD=1.44, AG=ROM
++ Rom File Invetory Nov baris 42 ditambahkan: AA=34, AB=SR OXIDE 14, AC=16-11-2026 00:00, AD=0.504, AG=ROM
++ Rom File Invetory Nov baris 43 ditambahkan: AA=35, AB=SR OXIDE 15, AC=16-11-2026 00:00, AD=0.533, AG=ROM
++ Rom File Invetory Nov baris 44 ditambahkan: AA=36, AB=SR OXIDE 16, AC=16-11-2026 00:00, AD=0.524, AG=ROM
++ Rom File Invetory Nov baris 45 ditambahkan: AA=37, AB=SR OXIDE 17, AC=16-11-2026 00:00, AD=0.969, AG=ROM
++ Rom File Invetory Nov baris 46 ditambahkan: AA=38, AB=SR OXIDE 18, AC=16-11-2026 00:00, AD=0.54, AG=ROM
++ Rom File Invetory Nov baris 47 ditambahkan: AA=39, AB=SR OXIDE 19, AC=16-11-2026 00:00, AD=1.504, AG=ROM
++ Rom File Invetory Nov baris 48 ditambahkan: AA=40, AB=SR OXIDE 20, AC=16-11-2026 00:00, AD=1.234, AG=ROM
++ Tailing Check  baris 85 [72] ditambahkan: M·pH=8
++ Tailing Check  baris 86 [73] ditambahkan: M·pH=8
++ Tailing Check  baris 87 [74] ditambahkan: M·pH=8
++ Tailing Check  baris 88 [75] ditambahkan: M·pH=8
++ Tailing Check  baris 89 [76] ditambahkan: M·pH=8
++ Tailing Check  baris 90 [77] ditambahkan: M·pH=8
+_Dibandingkan 31289 sel dari 25 sheet._
+
 ## 17 Nov 2026 · 23:34 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~15 sel; EW&ELUTION: ~2 sel; Filter Press: ~9 sel; Milling Down Time Hours: ~6 sel; Milling and Leach Feed: +1 baris, ~9 sel
 ~ Au Cal Leaching Tank!C45 [36]: 31 → 43
