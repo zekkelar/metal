@@ -1,0 +1,18 @@
+{
+  "id": "1794994491832_f546e70871",
+  "created_epoch": 1794994491,
+  "created_at": "2026-11-18 16:34:51",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ EW&ELUTION!Q5 \"Au\": % → Au\n~ EW&ELUTION!R5 \"Ag\": Rata-rata deposisi → Ag\n~ EW&ELUTION!S5 \"Cu\": (kosong) → Cu\n~ EW&ELUTION!T5 \"%\": (kosong) → %\n~ EW&ELUTION!U5 \"Rata-rata deposisi\": (kosong) → Rata-rata deposisi\n~ EW&ELUTION!V5 \"total Au\": (kosong) → total Au\n~ EW&ELUTION!W5 \"Total Ag\": (kosong) → Total Ag\n~ EW&ELUTION!Q6 \"Au\" [26/10/2026]: 1 → (kosong)\n~ EW&ELUTION!R6 \"Ag\" [26/10/2026]: 0.6325 → (kosong)\n~ EW&ELUTION!T6 \"%\" [26/10/2026]: (kosong) → 1\n~ EW&ELUTION!U6 \"Rata-rata deposisi\" [26/10/2026]: (kosong) → 0.6325\n~ EW&ELUTION!V6 \"total Au\" [26/10/2026]: (kosong) → 177.005\n~ EW&ELUTION!Q7 \"Au\": 0.374051 → 12.6925\n~ EW&ELUTION!T7 \"%\": (kosong) → 0.374051\n~ EW&ELUTION!Q8 \"Au\": 0.577555 → 9.6625\n~ EW&ELUTION!T8 \"%\": (kosong) → 0.577555\n~ EW&ELUTION!Q9 \"Au\": -0.18963 → -2.5875\n~ EW&ELUTION!T9 \"%\": (kosong) → -0.18963\n~ EW&ELUTION!Q10 \"Au\": 0.861916 → 32.505\n~ EW&ELUTION!T10 \"%\": (kosong) → 0.861916",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "EW&ELUTION: +6 baris, ~579 sel"
+    ]
+  }
+}
