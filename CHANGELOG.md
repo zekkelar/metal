@@ -5,6 +5,19 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Nov 2026 · 09:03 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Milling Down Time Hours: ~2 sel; Milling and Leach Feed: +2 baris; Reagent Consumption: +5 baris
+~ Milling Down Time Hours!A165 "Date" [18-11-2026 00:00]: 05-12-2026 00:00 → 18-11-2026 00:00
+~ Milling Down Time Hours!A166 "Date" [18-11-2026 00:00]: 06-12-2026 00:00 → 18-11-2026 00:00
++ Milling and Leach Feed baris 184 [18-11-2026 00:00] ditambahkan: B·PIC=18-11-2026 00:00, D=UNKNOWN USER, E=Tank 3 Batch 37
++ Milling and Leach Feed baris 185 [18-11-2026 00:00] ditambahkan: B·PIC=18-11-2026 00:00, D=UNKNOWN USER, E=Tank 3 Batch 37
++ Reagent Consumption baris 93 [04-11-2026 00:00] ditambahkan: K=25
++ Reagent Consumption baris 101 [12-11-2026 00:00] ditambahkan: E=525, K=25
++ Reagent Consumption baris 103 [14-11-2026 00:00] ditambahkan: K=25
++ Reagent Consumption baris 105 [16-11-2026 00:00] ditambahkan: E=525, K=25
++ Reagent Consumption baris 106 [17-11-2026 00:00] ditambahkan: K=25
+_Dibandingkan 31816 sel dari 25 sheet._
+
 ## 18 Nov 2026 · 16:34 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: EW&ELUTION: +6 baris, ~579 sel
 ~ EW&ELUTION!Q5 "Au": % → Au
