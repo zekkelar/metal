@@ -5,6 +5,134 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 19 Nov 2026 · 17:26 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +2 baris, ~31 sel, -1 baris; EW&ELUTION: ~1 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +3 baris, ~29 sel; Reagent Consumption: ~7 sel; Rom File Invetory Nov: +39 baris, ~7 sel; Tabel Konveri CBN: ~1 sel
++ Au Cal Leaching Tank baris 44 [35] ditambahkan: D=4.238657, R=0.3, S=1.19, U=38.556
+~ Au Cal Leaching Tank!D45 [36]: (kosong) → 4.868138
+~ Au Cal Leaching Tank!F45 "full tanki" [36]: (kosong) → 19-11-2026 00:00
+~ Au Cal Leaching Tank!G45 [36]: (kosong) → 09:30:00
+~ Au Cal Leaching Tank!J45 [36]: (kosong) → 863
+~ Au Cal Leaching Tank!K45 "/9" [36]: (kosong) → 0.22
+~ Au Cal Leaching Tank!L45 [36]: (kosong) → 0.18986
+~ Au Cal Leaching Tank!M45 [36]: (kosong) → 0.3
+~ Au Cal Leaching Tank!N45 [36]: 0 → 308.091
+~ Au Cal Leaching Tank!O45 [36]: (kosong) → 267.7476
+~ Au Cal Leaching Tank!P45 [36]: (kosong) → 1.19
+~ Au Cal Leaching Tank!V45 [36]: (kosong) → 718.879
+~ Au Cal Leaching Tank!W45 [36]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!AR45 [36]: (kosong) → 0
+~ Au Cal Leaching Tank!BD45 [36]: (kosong) → 0
+~ Au Cal Leaching Tank!W46 [37]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W47 [38]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W48 [39]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W49 [40]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W50 [41]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W51 [42]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W52 [43]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W53 [44]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W54 [45]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!W55 [46]: 11094.95028 → 11362.69788
+~ Au Cal Leaching Tank!D60 [51]: 9.174524 → 8.91046
+~ Au Cal Leaching Tank!N60 [51]: 250.2446 → 256.40642
+~ Au Cal Leaching Tank!N61 [52]: 11048.83428 → 11316.58188
++ Au Cal Leaching Tank baris 62 ditambahkan: BD=980.368548
+- Au Cal Leaching Tank baris 63 dikosongkan: AL=4310.4206, BD=3448.33648
+~ Au Cal Leaching Tank!N67: 8.116981 → 8.31368
+~ Au Cal Leaching Tank!P67: 194.807539 → 199.528332
+~ Au Cal Leaching Tank!M74: 8.116981 → 8.31368
+~ Au Cal Leaching Tank!M75: 194.807539 → 199.528332
+~ EW&ELUTION!U164 "Rata-rata deposisi" [4C]: 0.904429 → 0.904118
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 3.604905 → 3.519614
++ Milling Down Time Hours baris 165 [18-11-2026 00:00] ditambahkan: E·Stop Time=01:00:00, F·Start Time=01:00:00, H·Reason=ball mill 2 jalan, ball mill 3 ikut j...
++ Milling Down Time Hours baris 166 [18-11-2026 00:00] ditambahkan: E·Stop Time=01:00:00, F·Start Time=01:00:00, H·Reason=ball mill 2 dan 3 jalan normal
+~ Milling and Leach Feed!AJ6: 1200 → 1190
+~ Milling and Leach Feed!AJ8: 1.2 → 1.19
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.318182 → 0.304813
+~ Milling and Leach Feed!AJ12: 381.818182 → 362.727273
+~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 818.181818 → 827.272727
+~ Milling and Leach Feed!N163 [07-11-2026 00:00]: 166.627601 → 196.070536
+~ Milling and Leach Feed!N165 [08-11-2026 00:00]: 51.348594 → 73.673457
+~ Milling and Leach Feed!N167 [09-11-2026 00:00]: 111.063497 → 117.016794
+~ Milling and Leach Feed!N169 [10-11-2026 00:00]: 154.567771 → 100.623658
+~ Milling and Leach Feed!N171 [11-11-2026 00:00]: 64.458766 → 111.378276
+~ Milling and Leach Feed!N173 [12-11-2026 00:00]: 122.689682 → 73.330524
+~ Milling and Leach Feed!N175 [13-11-2026 00:00]: 75.293387 → 88.609215
+~ Milling and Leach Feed!N177 [14-11-2026 00:00]: 54.54985 → 60.555275
++ Milling and Leach Feed baris 178 [36] ditambahkan: T=267.675
+~ Milling and Leach Feed!N179 [15/11/2026]: 40.120044 → 93.691626
+~ Milling and Leach Feed!N181 [16/11/2026]: 94.961555 → 39.443288
++ Milling and Leach Feed baris 183 [17/11/2026] ditambahkan: N=73.984812
++ Milling and Leach Feed baris 184 [18-11-2026 00:00] ditambahkan: G=0.3, H·Milling And Leach Feed M=107.84958, I=8.987465, J=736.97213, K=1.19, L=0.75, M=29.065462, P=2.422122, ...
+~ Milling and Leach Feed!E185 [18-11-2026 00:00]: Tank 3 Batch 37 → Finish Pump Tank 3 Batch 37 19/11/202...
+~ Milling and Leach Feed!G185 [18-11-2026 00:00]: (kosong) → 0.3
+~ Milling and Leach Feed!H185 "Milling And Leach Feed M" [18-11-2026 00:00]: (kosong) → 125.82451
+~ Milling and Leach Feed!I185 [18-11-2026 00:00]: (kosong) → 10.485376
+~ Milling and Leach Feed!J185 [18-11-2026 00:00]: (kosong) → 862.79664
+~ Milling and Leach Feed!K185 [18-11-2026 00:00]: (kosong) → 1.19
+~ Milling and Leach Feed!L185 [18-11-2026 00:00]: (kosong) → 0.75
+~ Milling and Leach Feed!M185 [18-11-2026 00:00]: (kosong) → 44.91935
+~ Milling and Leach Feed!P185 [18-11-2026 00:00]: (kosong) → 3.743279
+~ Milling and Leach Feed!Q185 [18-11-2026 00:00]: (kosong) → 12
+~ Milling and Leach Feed!R185 [18-11-2026 00:00]: (kosong) → 720
+~ Milling and Leach Feed!S185 [18-11-2026 00:00]: (kosong) → 0
+~ Milling and Leach Feed!AA185 [18-11-2026 00:00]: (kosong) → 9.6
+~ Milling and Leach Feed!M202 [Average]: 11333.226972 → 11407.211784
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.172069 → 1.144338
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.954852 → 0.93226
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.452536 → 0.44183
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.135308 → 0.132107
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.02489 → 0.024301
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.032583 → 0.031812
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.009865 → 0.009632
+~ Rom File Invetory Nov!K5 "Grade (g/t)" [1]: 0.7 → 0.782
+~ Rom File Invetory Nov!L5 "Metal Content (gr)" [1]: 270.27 → 301.9302
+~ Rom File Invetory Nov!F7 "Truckcount (m3)" [3]: 28 → (kosong)
+~ Rom File Invetory Nov!G7 "Survey (m3)" [3]: (kosong) → 304
+~ Rom File Invetory Nov!H7 "Bulk Density" [3]: (kosong) → 1.3
+~ Rom File Invetory Nov!I7 "Tonage by survey (WMT)" [3]: (kosong) → 395.2
+~ Rom File Invetory Nov!L7 "Metal Content (gr)" [3]: (kosong) → 0
++ Rom File Invetory Nov baris 8 [4] ditambahkan: B·Date=17-11-2026 00:00, E·Ore  Type - Lithology=Oxide, F·Truckcount (m3)=6, G·Survey (m3)=77, H·Bulk Density=1.3, I·Tonage by survey (WMT)=100.1, K·Grade (g/t)=0.778, L·Metal Content (gr)=77.8778
++ Rom File Invetory Nov baris 9 [5] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 10 [6] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 11 [7] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 12 [8] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 13 [9] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 14 [10] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 15 [11] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 16 [12] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 17 [13] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 18 [14] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 19 [15] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 20 [16] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 21 [17] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 22 [18] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 23 [19] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 24 [20] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 25 [21] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 26 [22] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 27 [23] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 28 [24] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 29 [25] ditambahkan: I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 30 [26] ditambahkan: A·No=26, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 31 [27] ditambahkan: A·No=27, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 32 [28] ditambahkan: A·No=28, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 33 [29] ditambahkan: A·No=29, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 34 [30] ditambahkan: A·No=30, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 35 [31] ditambahkan: A·No=31, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 36 [32] ditambahkan: A·No=32, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 37 [33] ditambahkan: A·No=33, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 38 [34] ditambahkan: A·No=34, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 39 [35] ditambahkan: A·No=35, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 40 [36] ditambahkan: A·No=36, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 41 [37] ditambahkan: A·No=37, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 42 [38] ditambahkan: A·No=38, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 43 [39] ditambahkan: A·No=39, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 44 [40] ditambahkan: A·No=40, I·Tonage by survey (WMT)=0, L·Metal Content (gr)=0
++ Rom File Invetory Nov baris 45 [Average] ditambahkan: A·No=Average, H·Bulk Density=1.3, K·Grade (g/t)=0.870667, L·Metal Content (gr)=15.75197
++ Rom File Invetory Nov baris 46 [Total] ditambahkan: A·No=Total, F·Truckcount (m3)=6, G·Survey (m3)=861, I·Tonage by survey (WMT)=1119.3, J·Toange By Truckcount=0, K·Grade (g/t)=0.782, L·Metal Content (gr)=630.0788
+~ Tabel Konveri CBN!A1 [Tabel Konversi Konsentra]: Tabel Konversi Konsentrasi Carbon pad... → Tabel Konversi Konsentrasi Carbon pad...
+_Dibandingkan 31972 sel dari 25 sheet._
+
 ## 19 Nov 2026 · 09:03 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Milling Down Time Hours: ~2 sel; Milling and Leach Feed: +2 baris; Reagent Consumption: +5 baris
 ~ Milling Down Time Hours!A165 "Date" [18-11-2026 00:00]: 05-12-2026 00:00 → 18-11-2026 00:00
