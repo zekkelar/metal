@@ -5,6 +5,18 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 20 Nov 2026 · 02:34 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Milling and Leach Feed: +2 baris, ~6 sel
+~ Milling and Leach Feed!AJ6: 1190 → 1195
+~ Milling and Leach Feed!AJ8: 1.19 → 1.195
+~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.304813 → 0.311525
+~ Milling and Leach Feed!AJ12: 362.727273 → 372.272727
+~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 827.272727 → 822.727273
++ Milling and Leach Feed baris 185 [18-11-2026 00:00] ditambahkan: N=104.608476
++ Milling and Leach Feed baris 186 [37] ditambahkan: A=37, B·PIC=19-11-2026 00:00, D=UNKNOWN USER, E=TANK 2, G=0.31, H·Milling And Leach Feed M=278.460995, I=23.205083, J=386.460995, ...
+~ Milling and Leach Feed!M202 [Average]: 11407.211784 → 11511.820259
+_Dibandingkan 31989 sel dari 25 sheet._
+
 ## 19 Nov 2026 · 17:26 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: +2 baris, ~31 sel, -1 baris; EW&ELUTION: ~1 sel; Fuel Consumption: ~1 sel; Milling Down Time Hours: +2 baris; Milling and Leach Feed: +3 baris, ~29 sel; Reagent Consumption: ~7 sel; Rom File Invetory Nov: +39 baris, ~7 sel; Tabel Konveri CBN: ~1 sel
 + Au Cal Leaching Tank baris 44 [35] ditambahkan: D=4.238657, R=0.3, S=1.19, U=38.556
