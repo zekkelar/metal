@@ -1,0 +1,18 @@
+{
+  "id": "1795116854743_63207e859c",
+  "created_epoch": 1795116854,
+  "created_at": "2026-11-20 02:34:14",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Milling and Leach Feed!AJ6: 1190 → 1195\n~ Milling and Leach Feed!AJ8: 1.19 → 1.195\n~ Milling and Leach Feed!AJ11 [03-09-2026 00:00]: 0.304813 → 0.311525\n~ Milling and Leach Feed!AJ12: 362.727273 → 372.272727\n~ Milling and Leach Feed!AJ13 [04-09-2026 00:00]: 827.272727 → 822.727273\n+ Milling and Leach Feed baris 185 [18-11-2026 00:00] ditambahkan: N=104.608476\n+ Milling and Leach Feed baris 186 [37] ditambahkan: A=37, B·PIC=19-11-2026 00:00, D=UNKNOWN USER, E=TANK 2, G=0.31, H·Milling And Leach Feed M=278.460995, I=23.205083, J=386.460995, ...\n~ Milling and Leach Feed!M202 [Average]: 11407.211784 → 11511.820259",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Milling and Leach Feed: +2 baris, ~6 sel"
+    ]
+  }
+}
