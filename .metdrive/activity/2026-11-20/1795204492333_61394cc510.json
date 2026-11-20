@@ -1,0 +1,24 @@
+{
+  "id": "1795204492333_61394cc510",
+  "created_epoch": 1795204492,
+  "created_at": "2026-11-21 02:54:52",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!X44 [35]: (kosong) → 0.626679\n~ Au Cal Leaching Tank!Y44 [35]: (kosong) → 0.566786\n~ Au Cal Leaching Tank!Z44 [35]: (kosong) → 12.209643\n~ Au Cal Leaching Tank!AA44 [35]: (kosong) → 0.516378\n~ Au Cal Leaching Tank!AB44 [35]: (kosong) → 0.510061\n~ Au Cal Leaching Tank!AC44 [35]: (kosong) → 10.326895\n~ Au Cal Leaching Tank!AD44 [35]: (kosong) → 0.1103\n~ Au Cal Leaching Tank!AE44 [35]: (kosong) → 0.048248\n~ Au Cal Leaching Tank!AL44 [35]: 0 → 171.329754\n~ Au Cal Leaching Tank!AM44 [35]: 0 → 154.955445\n~ Au Cal Leaching Tank!AN44 [35]: 0 → 2823.304492\n~ Au Cal Leaching Tank!AT44 [35]: (kosong) → 0.916934\n~ Au Cal Leaching Tank!AU44 [35]: (kosong) → 1\n~ Au Cal Leaching Tank!AV44 [35]: (kosong) → 1\n~ Au Cal Leaching Tank!BD44 [35]: -14.231733 → 157.098021\n~ Au Cal Leaching Tank!BE44 [35]: 0 → 154.955445\n~ Au Cal Leaching Tank!BF44 [35]: 0 → 2823.304492\n~ Au Cal Leaching Tank!X60 [51]: 0.58015 → 0.581479\n~ Au Cal Leaching Tank!Y60 [51]: 0.698486 → 0.694723\n~ Au Cal Leaching Tank!Z60 [51]: 13.069239 → 13.044679",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: ~38 sel",
+      "Filter Press: ~9 sel",
+      "LF Ball Mill: +25 baris",
+      "LT Floculation: +9 baris",
+      "Milling Down Time Hours: ~3 sel",
+      "Milling and Leach Feed: +9 baris, ~12 sel",
+      "Reagent Consumption: +1 baris"
+    ]
+  }
+}
