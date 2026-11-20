@@ -1,0 +1,21 @@
+{
+  "id": "1795165560899_903485853f",
+  "created_epoch": 1795165560,
+  "created_at": "2026-11-20 17:06:00",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!H45 \"start toyong\" [36]: (kosong) → 20-11-2026 00:00\n~ Au Cal Leaching Tank!I45 [36]: (kosong) → 08:00:00\n~ Au Cal Leaching Tank!K45 \"/9\" [36]: 0.22 → 0.78\n~ Au Cal Leaching Tank!L45 [36]: 0.18986 → 0.67314\n+ Au Cal Leaching Tank baris 62 ditambahkan: AL=5894.606463, AM=7328.323394, AN=132531.01672\n+ Au Cal Leaching Tank baris 63 ditambahkan: AL=13222.929857\n~ Milling Down Time Hours!C165 \"Shift\" [18-11-2026 00:00]: Night → Day\n~ Milling Down Time Hours!C166 \"Shift\" [18-11-2026 00:00]: Day → Night\n~ Milling Down Time Hours!A167 \"Date\" [19-11-2026 00:00]: 07-12-2026 00:00 → 19-11-2026 00:00\n~ Milling Down Time Hours!C167 \"Shift\" [19-11-2026 00:00]: Night → Day\n~ Milling Down Time Hours!E167 \"Stop Time\" [19-11-2026 00:00]: (kosong) → 01:00:00\n~ Milling Down Time Hours!F167 \"Start Time\" [19-11-2026 00:00]: (kosong) → 02:40:00\n~ Milling Down Time Hours!G167 \"Down Time (Mins)\" [19-11-2026 00:00]: 0 → 100\n~ Milling Down Time Hours!I167 \"BATCH\" [19-11-2026 00:00]: (kosong) → 37\n~ Milling Down Time Hours!J167 \"Running Time Hour/Shift\" [19-11-2026 00:00]: 12 → 10.333333\n~ Milling Down Time Hours!K167 \"Availibility per Shift\" [19-11-2026 00:00]: 1 → 0.861111\n~ Milling Down Time Hours!A168 \"Date\" [19-11-2026 00:00]: 08-12-2026 00:00 → 19-11-2026 00:00\n~ Milling Down Time Hours!C168 \"Shift\" [19-11-2026 00:00]: Day → Night\n~ Milling Down Time Hours!E168 \"Stop Time\" [19-11-2026 00:00]: (kosong) → 01:00:00\n~ Milling Down Time Hours!F168 \"Start Time\" [19-11-2026 00:00]: (kosong) → 01:00:00",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +2 baris, ~4 sel",
+      "Milling Down Time Hours: ~14 sel",
+      "Milling and Leach Feed: +1 baris, ~14 sel",
+      "Reagent Consumption: +2 baris"
+    ]
+  }
+}
