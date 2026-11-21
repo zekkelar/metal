@@ -1,0 +1,17 @@
+{
+  "id": "1795286497842_3c41759163",
+  "created_epoch": 1795286497,
+  "created_at": "2026-11-22 01:41:37",
+  "actor": "GanyuChan@MSI",
+  "kind": "task",
+  "action": "update",
+  "title": "Memperbarui tugas: Bikin design Rak untuk kana",
+  "detail": "PIC: GanyuChan@MSI -> STANLEY",
+  "target_path": ".metdrive/tasks/dd6d7ef5cccb486583eb8841d90e9f6d.json",
+  "entity_id": "dd6d7ef5cccb486583eb8841d90e9f6d",
+  "related_file": "Form_PO_Barang/Form Material Request Metalurgy dan Gold Room 31 Oktober 2026.xlsx",
+  "metadata": {
+    "status": "Belum mulai",
+    "priority": "Normal"
+  }
+}
