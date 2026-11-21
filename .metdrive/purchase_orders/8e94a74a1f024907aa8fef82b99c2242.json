@@ -1,0 +1,54 @@
+{
+  "id": "8e94a74a1f024907aa8fef82b99c2242",
+  "po_number": "PO-20261121-DA7C",
+  "supplier": "-",
+  "requester": "GanyuChan@MSI",
+  "order_date": "2026-11-21",
+  "eta_date": "",
+  "currency": "IDR",
+  "status": "Draft",
+  "items": [
+    {
+      "name": "BAUT M24 x 50 MM",
+      "quantity": 200.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    },
+    {
+      "name": "BAUT M22 x 50 MM",
+      "quantity": 15.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    },
+    {
+      "name": "BAUT M27 x 50 MM",
+      "quantity": 20.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    },
+    {
+      "name": "BAUT M19 x 50 MM",
+      "quantity": 30.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    },
+    {
+      "name": "BAUT M30 x 50 MM",
+      "quantity": 15.0,
+      "unit": "pcs",
+      "unit_price": 0.0,
+      "specification": ""
+    }
+  ],
+  "total": 0.0,
+  "notes": "-",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "created_by": "GanyuChan@MSI",
+  "created_at": "2026-11-21 13:52:28",
+  "updated_by": "GanyuChan@MSI",
+  "updated_at": "2026-11-21 13:52:28"
+}
