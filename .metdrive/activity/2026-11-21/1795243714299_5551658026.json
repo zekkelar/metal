@@ -1,0 +1,17 @@
+{
+  "id": "1795243714299_5551658026",
+  "created_epoch": 1795243714,
+  "created_at": "2026-11-21 13:48:34",
+  "actor": "GanyuChan@MSI",
+  "kind": "po",
+  "action": "update",
+  "title": "Memperbarui PO PO-20261110-A3A8",
+  "detail": "Status: Draft -> Diterima",
+  "target_path": ".metdrive/purchase_orders/3ec960eb31c74ab6be477faa3420ecb8.json",
+  "entity_id": "3ec960eb31c74ab6be477faa3420ecb8",
+  "related_file": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "metadata": {
+    "status": "Diterima",
+    "supplier": "-"
+  }
+}
