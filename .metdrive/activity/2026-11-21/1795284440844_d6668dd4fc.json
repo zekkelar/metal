@@ -1,0 +1,21 @@
+{
+  "id": "1795284440844_d6668dd4fc",
+  "created_epoch": 1795284440,
+  "created_at": "2026-11-22 01:07:20",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ Au Cal Leaching Tank!AA44 [35]: 0.637968 → 0.638257\n~ Au Cal Leaching Tank!AB44 [35]: 1.021399 → 1.023811\n~ Au Cal Leaching Tank!AC44 [35]: 14.432961 → 14.448355\n~ Au Cal Leaching Tank!AD44 [35]: -0.011289 → -0.011578\n~ Au Cal Leaching Tank!AE44 [35]: -0.004463 → -0.004577\n~ Au Cal Leaching Tank!AN44 [35]: 3945.87561 → 3950.084155\n~ Au Cal Leaching Tank!BF44 [35]: 3945.87561 → 3950.084155\n+ Au Cal Leaching Tank baris 46 [37] ditambahkan: K·/9=1.36, L=1.17368\n~ Au Cal Leaching Tank!AA60 [51]: 0.58714 → 0.587148\n~ Au Cal Leaching Tank!AB60 [51]: 0.738448 → 0.738515\n~ Au Cal Leaching Tank!AC60 [51]: 13.15931 → 13.159738\n~ Au Cal Leaching Tank!AN60 [51]: 150491.09594 → 150495.304484\n~ Au Cal Leaching Tank!BF61 [52]: 40523.994272 → 40528.202816\n~ Filter Press!C116 [116]: (kosong) → 21-11-2026 00:00\n~ Filter Press!D116 [116]: (kosong) → Day\n~ Filter Press!E116 [116]: (kosong) → 5\n~ Filter Press!F116 [116]: 0 → 30\n~ Filter Press!H116 [116]: 0 → 30\n~ Filter Press!K126 [126]: (kosong) → 21-11-2026 00:00\n~ Filter Press!L126 [126]: (kosong) → Day",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "Au Cal Leaching Tank: +1 baris, ~12 sel",
+      "Filter Press: ~10 sel",
+      "LF Ball Mill: +3 baris",
+      "Milling and Leach Feed: +2 baris, ~14 sel"
+    ]
+  }
+}
