@@ -5,6 +5,40 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Nov 2026 · 03:21 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: ~23 sel; LT Floculation: +3 baris
++ Sheet "ELEP BOLMIL" ditambahkan
++ Sheet "MILING EN LICPIT" ditambahkan
+- Sheet "LF Ball Mill" dihapus
+- Sheet "Milling and Leach Feed" dihapus
+~ Au Cal Leaching Tank!AA44 [35]: 0.639916 → 0.64037
+~ Au Cal Leaching Tank!AB44 [35]: 1.027023 → 1.028468
+~ Au Cal Leaching Tank!AC44 [35]: 14.425822 → 14.438646
+~ Au Cal Leaching Tank!AD44 [35]: 0.025123 → 0.024669
+~ Au Cal Leaching Tank!AE44 [35]: 0.009626 → 0.009449
+~ Au Cal Leaching Tank!AN44 [35]: 3943.923929 → 3947.429747
+~ Au Cal Leaching Tank!BF44 [35]: 3943.923929 → 3947.429747
+~ Au Cal Leaching Tank!X45 [36]: #DIV/0! → 0.663567
+~ Au Cal Leaching Tank!AD45 [36]: #DIV/0! → 0.1092
+~ Au Cal Leaching Tank!AE45 [36]: #DIV/0! → 0.04483
+~ Au Cal Leaching Tank!AL45 [36]: #DIV/0! → 177.668382
+~ Au Cal Leaching Tank!AT45 [36]: (kosong) → 1
+~ Au Cal Leaching Tank!BD45 [36]: (kosong) → 177.668382
+~ Au Cal Leaching Tank!X60 [51]: #DIV/0! → 0.584825
+~ Au Cal Leaching Tank!AA60 [51]: 0.587946 → 0.587959
+~ Au Cal Leaching Tank!AB60 [51]: 0.738074 → 0.738114
+~ Au Cal Leaching Tank!AC60 [51]: 13.146171 → 13.146527
+~ Au Cal Leaching Tank!AL60 [51]: #DIV/0! → 6642.104252
+~ Au Cal Leaching Tank!AN60 [51]: 150364.410421 → 150367.91624
+~ Au Cal Leaching Tank!AT60 [51]: 0.66799 → 0.677213
+~ Au Cal Leaching Tank!BD61 [52]: 4492.237693 → 4669.906075
+~ Au Cal Leaching Tank!BF61 [52]: 40397.308754 → 40400.814572
+~ Au Cal Leaching Tank!X62: #DIV/0! → 0.580458
++ LT Floculation baris 300 ditambahkan: O=LT-Floc NS 1, Q=20-11-2026 00:00, R=0.155, S=0.69, T=16.45, U=gatau knp ada NS lagi?
++ LT Floculation baris 301 ditambahkan: O=LT-Floc NS 2, Q=20-11-2026 00:00, R=0.177, S=0.64, T=16.01, U=reassay kh?
++ LT Floculation baris 302 ditambahkan: O=LT-Floc NS 3, Q=20-11-2026 00:00, R=0.16, S=0.65, T=16.02, U=BDL2611231-PP
+_Dibandingkan 33046 sel dari 27 sheet._
+
 ## 22 Nov 2026 · 16:13 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~47 sel; Filter Press: +4 baris, ~10 sel; LF Ball Mill: +62 baris, ~504 sel, -2 baris; LT Floculation: +4 baris; Milling Down Time Hours: +87 baris, ~48 sel; Milling and Leach Feed: +3 baris, ~37 sel; Reagent Consumption: +2 baris
 ~ Au Cal Leaching Tank!X44 [35]: 0.626679 → 0.665038
