@@ -5,6 +5,17 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Nov 2026 · 16:18 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: EW&ELUTION: +7 baris
++ EW&ELUTION baris 5 ditambahkan: Z·Total Bakar=Total Bakar, AA·Tank=Tank
++ EW&ELUTION baris 6 [26/10/2026] ditambahkan: Z·Total Bakar=966
++ EW&ELUTION baris 24 [3A] ditambahkan: Z·Total Bakar=1766
++ EW&ELUTION baris 51 [3B] ditambahkan: Z·Total Bakar=200
++ EW&ELUTION baris 68 [4A] ditambahkan: Z·Total Bakar=2700, AA·Tank=Tank 2
++ EW&ELUTION baris 117 [4B] ditambahkan: Z·Total Bakar=3500, AA·Tank=Tank 2 & Tank 3
++ EW&ELUTION baris 164 [4C] ditambahkan: AA·Tank=Tank 2 & Tank 3
+_Dibandingkan 33176 sel dari 25 sheet._
+
 ## 23 Nov 2026 · 15:47 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: Au Cal Leaching Tank: ~46 sel; Fuel Consumption: ~1 sel; Reagent Consumption: ~7 sel
 ~ Au Cal Leaching Tank!R46 [37]: (kosong) → 0.31
