@@ -5,6 +5,30 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Nov 2026 · 01:19 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: MILING EN LICPIT: +2 baris, ~6 sel; Milling Down Time Hours: ~8 sel
++ Sheet "Stokpel menejemen" ditambahkan
++ Sheet "Au cal licingteng" ditambahkan
+- Sheet "Stock File Management" dihapus
+- Sheet "Au Cal Leaching Tank" dihapus
+~ MILING EN LICPIT!AJ6: 1220 → 1200
+~ MILING EN LICPIT!AJ8: 1.22 → 1.2
+~ MILING EN LICPIT!AJ11 [03-09-2026 00:00]: 0.344262 → 0.318182
+~ MILING EN LICPIT!AJ12: 420 → 381.818182
+~ MILING EN LICPIT!AJ13 [04-09-2026 00:00]: 800 → 818.181818
++ MILING EN LICPIT baris 193 [22-11-2026 00:00] ditambahkan: N=40.064088
++ MILING EN LICPIT baris 194 [39] ditambahkan: A=39, B·PIC=23-11-2026 00:00, D=UNKNOWN USER, E=Staarpamtu teng 2, G=0.31, H·Milling And Leach Feed M=107.69916, I=105.9336, J=215.69916, ...
+~ MILING EN LICPIT!M202 [Average]: 12010.634845 → 12050.698933
+~ Milling Down Time Hours!H172 "Reason" [21-11-2026 00:00]: ball mill 2 dan 3 jalan normal → ball mill 2 dan 3 jalan normal  alham...
+~ Milling Down Time Hours!E175 "Stop Time" [23-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F175 "Start Time" [23-11-2026 00:00]: (kosong) → 11:59:00
+~ Milling Down Time Hours!G175 "Down Time (Mins)" [23-11-2026 00:00]: 0 → 659
+~ Milling Down Time Hours!H175 "Reason" [23-11-2026 00:00]: (kosong) → Ball mill baru jalan di jam 6 sore de...
+~ Milling Down Time Hours!I175 "BATCH" [23-11-2026 00:00]: (kosong) → 39
+~ Milling Down Time Hours!J175 "Running Time Hour/Shift" [23-11-2026 00:00]: 12 → 1.016667
+~ Milling Down Time Hours!K175 "Availibility per Shift" [23-11-2026 00:00]: 1 → 0.084722
+_Dibandingkan 33248 sel dari 27 sheet._
+
 ## 23 Nov 2026 · 16:32 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: +12 baris, ~26 sel
 ~ Au Cal Leaching Tank!R46 [37]: (kosong) → 0.31
