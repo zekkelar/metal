@@ -5,6 +5,201 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Nov 2026 · 11:12 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: Au Cal Leaching Tank: +1 baris, ~128 sel; ELEP BOLMIL: +5 baris, ~10 sel; Filter Press: ~12 sel; LT Floculation: +1 baris, ~4 sel, -3 baris; MILING EN LICPIT: +9 baris, ~13 sel; Milling Down Time Hours: +3 baris; Reagent Consumption: ~2 sel
+~ Au Cal Leaching Tank!AF41 [32]: (kosong) → 0.083111
+~ Au Cal Leaching Tank!AG41 [32]: (kosong) → 0.395556
+~ Au Cal Leaching Tank!AH41 [32]: (kosong) → 10.284444
+~ Au Cal Leaching Tank!AO41 [32]: 0 → 22.782285
+~ Au Cal Leaching Tank!AP41 [32]: 0 → 108.429056
+~ Au Cal Leaching Tank!AQ41 [32]: 0 → 2819.155456
+~ Au Cal Leaching Tank!AT41 [32]: 0.562699 → 0.410527
+~ Au Cal Leaching Tank!AU41 [32]: 1 → 0.450193
+~ Au Cal Leaching Tank!AV41 [32]: 1 → 0.501791
+~ Au Cal Leaching Tank!BD41 [32]: 84.244042 → 61.461757
+~ Au Cal Leaching Tank!BE41 [32]: 197.21296 → 88.783904
+~ Au Cal Leaching Tank!BF41 [32]: 5658.576668 → 2839.421212
+~ Au Cal Leaching Tank!AF42 [33]: (kosong) → 0.083889
+~ Au Cal Leaching Tank!AG42 [33]: (kosong) → 0.352222
+~ Au Cal Leaching Tank!AH42 [33]: (kosong) → 14.155556
+~ Au Cal Leaching Tank!AO42 [33]: 0 → 27.282051
+~ Au Cal Leaching Tank!AP42 [33]: 0 → 114.548478
+~ Au Cal Leaching Tank!AQ42 [33]: 0 → 4603.620233
+~ Au Cal Leaching Tank!AT42 [33]: 0.814558 → 0.671344
+~ Au Cal Leaching Tank!AU42 [33]: 1 → 0.468439
+~ Au Cal Leaching Tank!AV42 [33]: 1 → 0.256889
+~ Au Cal Leaching Tank!BD42 [33]: 155.172275 → 127.890224
+~ Au Cal Leaching Tank!BE42 [33]: 215.494647 → 100.946169
+~ Au Cal Leaching Tank!BF42 [33]: 6195.060637 → 1591.440404
+~ Au Cal Leaching Tank!AF43 [34]: (kosong) → 0.043444
+~ Au Cal Leaching Tank!AG43 [34]: (kosong) → 0.257778
+~ Au Cal Leaching Tank!AH43 [34]: (kosong) → 7.738889
+~ Au Cal Leaching Tank!AO43 [34]: 0 → 12.151339
+~ Au Cal Leaching Tank!AP43 [34]: 0 → 72.100019
+~ Au Cal Leaching Tank!AQ43 [34]: 0 → 2164.554453
+~ Au Cal Leaching Tank!AT43 [34]: 0.553263 → 0.491741
+~ Au Cal Leaching Tank!AU43 [34]: 1 → 0.760423
+~ Au Cal Leaching Tank!AV43 [34]: 1 → 0.566728
+~ Au Cal Leaching Tank!BD43 [34]: 109.276907 → 97.125567
+~ Au Cal Leaching Tank!BE43 [34]: 300.947655 → 228.847636
+~ Au Cal Leaching Tank!BF43 [34]: 4995.838479 → 2831.284026
+~ Au Cal Leaching Tank!AA44 [35]: 0.64037 → 0.640502
+~ Au Cal Leaching Tank!AB44 [35]: 1.028468 → 1.026723
+~ Au Cal Leaching Tank!AC44 [35]: 14.438646 → 14.427082
+~ Au Cal Leaching Tank!AD44 [35]: 0.024669 → 0.024537
+~ Au Cal Leaching Tank!AE44 [35]: 0.009449 → 0.009397
+~ Au Cal Leaching Tank!AF44 [35]: (kosong) → 0.129333
+~ Au Cal Leaching Tank!AG44 [35]: (kosong) → 0.554444
+~ Au Cal Leaching Tank!AH44 [35]: (kosong) → 20.271111
+~ Au Cal Leaching Tank!AN44 [35]: 3947.429747 → 3944.268188
+~ Au Cal Leaching Tank!AO44 [35]: 0 → 35.358873
+~ Au Cal Leaching Tank!AP44 [35]: 0 → 151.581424
+~ Au Cal Leaching Tank!AQ44 [35]: 0 → 5541.986975
+~ Au Cal Leaching Tank!AT44 [35]: 0.921725 → 0.72725
+~ Au Cal Leaching Tank!AU44 [35]: 1 → -0.02456
+~ Au Cal Leaching Tank!AV44 [35]: 1 → -0.405074
+~ Au Cal Leaching Tank!BD44 [35]: 167.58536 → 132.226487
+~ Au Cal Leaching Tank!BE44 [35]: 147.947863 → -3.633561
+~ Au Cal Leaching Tank!BF44 [35]: 3947.429747 → -1597.718787
+~ Au Cal Leaching Tank!AA45 [36]: 0.554367 → 0.659809
+~ Au Cal Leaching Tank!AB45 [36]: 0.501717 → 0.696886
+~ Au Cal Leaching Tank!AC45 [36]: 10.078786 → 12.201604
+~ Au Cal Leaching Tank!AD45 [36]: 0.1092 → 0.003758
+~ Au Cal Leaching Tank!AE45 [36]: 0.04483 → 0.00142
+~ Au Cal Leaching Tank!AF45 [36]: (kosong) → 0
+~ Au Cal Leaching Tank!AG45 [36]: (kosong) → 0
+~ Au Cal Leaching Tank!AH45 [36]: (kosong) → 0
+~ Au Cal Leaching Tank!AI45 [36]: (kosong) → 0.037
+~ Au Cal Leaching Tank!AN45 [36]: 2698.570656 → 3266.950166
+~ Au Cal Leaching Tank!AR45 [36]: 0 → 26.598523
+~ Au Cal Leaching Tank!AT45 [36]: 1 → 0.850291
+~ Au Cal Leaching Tank!BD45 [36]: 177.668382 → 151.069859
+~ Au Cal Leaching Tank!BF45 [36]: 2698.570656 → 3266.950166
+~ Au Cal Leaching Tank!X46 [37]: (kosong) → 0.673083
+~ Au Cal Leaching Tank!Y46 [37]: (kosong) → 0.765
+~ Au Cal Leaching Tank!Z46 [37]: (kosong) → 12.100833
+~ Au Cal Leaching Tank!AA46 [37]: (kosong) → #DIV/0!
+~ Au Cal Leaching Tank!AB46 [37]: (kosong) → #DIV/0!
+~ Au Cal Leaching Tank!AC46 [37]: (kosong) → #DIV/0!
+~ Au Cal Leaching Tank!AD46 [37]: (kosong) → #DIV/0!
+~ Au Cal Leaching Tank!AE46 [37]: (kosong) → #DIV/0!
+~ Au Cal Leaching Tank!AI46 [37]: (kosong) → 0.031
+~ Au Cal Leaching Tank!AL46 [37]: 0 → 189.23223
+~ Au Cal Leaching Tank!AM46 [37]: 0 → 215.073898
+~ Au Cal Leaching Tank!AN46 [37]: 0 → #DIV/0!
+~ Au Cal Leaching Tank!AR46 [37]: 0 → 22.059186
+~ Au Cal Leaching Tank!AT46 [37]: (kosong) → 0.883428
+~ Au Cal Leaching Tank!AU46 [37]: (kosong) → 1
+~ Au Cal Leaching Tank!BD46 [37]: 0 → 167.173044
+~ Au Cal Leaching Tank!BE46 [37]: 0 → 215.073898
+~ Au Cal Leaching Tank!BF46 [37]: 0 → #DIV/0!
++ Au Cal Leaching Tank baris 47 [38] ditambahkan: F·full tanki=23-11-2026 00:00
+~ Au Cal Leaching Tank!X60 [51]: 0.584825 → 0.58721
+~ Au Cal Leaching Tank!Y60 [51]: 0.692792 → 0.694743
+~ Au Cal Leaching Tank!Z60 [51]: 13.003756 → 12.979352
+~ Au Cal Leaching Tank!AA60 [51]: 0.587959 → #DIV/0!
+~ Au Cal Leaching Tank!AB60 [51]: 0.738114 → #DIV/0!
+~ Au Cal Leaching Tank!AC60 [51]: 13.146527 → #DIV/0!
+~ Au Cal Leaching Tank!AF60 [51]: 0.099851 → 0.095421
+~ Au Cal Leaching Tank!AG60 [51]: 0.330647 → 0.328057
+~ Au Cal Leaching Tank!AH60 [51]: 11.009548 → 10.937389
+~ Au Cal Leaching Tank!AI60 [51]: 0.043554 → 0.043038
+~ Au Cal Leaching Tank!AL60 [51]: 6642.104252 → 6831.336482
+~ Au Cal Leaching Tank!AM60 [51]: 8166.972623 → 8382.04652
+~ Au Cal Leaching Tank!AN60 [51]: 150367.91624 → #DIV/0!
+~ Au Cal Leaching Tank!AO60 [51]: 991.829628 → 1089.404177
+~ Au Cal Leaching Tank!AP60 [51]: 3348.661058 → 3795.320035
+~ Au Cal Leaching Tank!AQ60 [51]: 109967.101668 → 125096.418785
+~ Au Cal Leaching Tank!AR60 [51]: 980.368548 → 1029.026257
+~ Au Cal Leaching Tank!AT60 [51]: 0.677213 → 0.663838
+~ Au Cal Leaching Tank!AU60 [51]: 0.552516 → 0.501218
+~ Au Cal Leaching Tank!AV60 [51]: 0.251653 → 0.166106
+~ Au Cal Leaching Tank!BD61 [52]: 4669.906075 → 4712.906048
+~ Au Cal Leaching Tank!BE61 [52]: 4818.311565 → 4586.726485
+~ Au Cal Leaching Tank!BF61 [52]: 40400.814572 → #DIV/0!
+~ Au Cal Leaching Tank!X62: 0.580458 → 0.584833
+~ Au Cal Leaching Tank!Y62: 0.58987 → 0.591407
+~ Au Cal Leaching Tank!Z62: 13.072083 → 12.970833
+~ Au Cal Leaching Tank!AA62: 0.579438 → #DIV/0!
+~ Au Cal Leaching Tank!AB62: 0.611816 → #DIV/0!
+~ Au Cal Leaching Tank!AC62: 12.961848 → #DIV/0!
+~ Au Cal Leaching Tank!BD62: 980.368548 → 1029.026257
+~ Au Cal Leaching Tank!AL106: 0 → 0.083111
+~ Au Cal Leaching Tank!AM106: 0 → 0.395556
+~ Au Cal Leaching Tank!AN106: 0 → 10.284444
+~ Au Cal Leaching Tank!AL107: 0 → 0.083889
+~ Au Cal Leaching Tank!AM107: 0 → 0.352222
+~ Au Cal Leaching Tank!AN107: 0 → 14.155556
+~ Au Cal Leaching Tank!AL108: 0 → 0.043444
+~ Au Cal Leaching Tank!AM108: 0 → 0.257778
+~ Au Cal Leaching Tank!AN108: 0 → 7.738889
+~ Au Cal Leaching Tank!AL109: 0.060709 → 0.090773
+~ Au Cal Leaching Tank!AM109: 0.209246 → 0.352897
+~ Au Cal Leaching Tank!AN109: 7.280876 → 11.87786
+~ ELEP BOLMIL!M368 "No" [370]: 22-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!M369 "No" [371]: 23-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!M370 "No" [372]: 24-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!M371 "No" [373]: 25-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!M372 "No" [374]: 26-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!U429 "Ag" [431]: 22-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!U430 "Ag" [432]: 23-11-2026 00:00 → 21-11-2026 00:00
++ ELEP BOLMIL baris 502 [506] ditambahkan: F·au (g/t)=0.66
++ ELEP BOLMIL baris 506 [510] ditambahkan: F·au (g/t)=0.758, G·ag (g/t)=0.26, H·Cu (g/t)=9.42
++ ELEP BOLMIL baris 507 [511] ditambahkan: F·au (g/t)=0.777, G·ag (g/t)=0.2, H·Cu (g/t)=9.47
++ ELEP BOLMIL baris 508 [512] ditambahkan: F·au (g/t)=0.587, G·ag (g/t)=0.23, H·Cu (g/t)=9.54
++ ELEP BOLMIL baris 511 [515] ditambahkan: F·au (g/t)=0.645, G·ag (g/t)=0.68, H·Cu (g/t)=11.7
+~ ELEP BOLMIL!C512 "id batch" [516]: TIGA LAPAN → 38
+~ ELEP BOLMIL!E513 "date" [517]: 22-11-2026 00:00 → 21-11-2026 00:00
+~ ELEP BOLMIL!E514 "date" [518]: 23-11-2026 00:00 → 21-11-2026 00:00
+~ Filter Press!E118 [118]: (kosong) → 9
+~ Filter Press!F118 [118]: 0 → 54
+~ Filter Press!H118 [118]: 0 → 54
+~ Filter Press!E119 [119]: (kosong) → 5
+~ Filter Press!F119 [119]: 0 → 30
+~ Filter Press!H119 [119]: 0 → 30
+~ Filter Press!M128 [128]: (kosong) → 6
+~ Filter Press!N128 [128]: (kosong) → 72
+~ Filter Press!P128 [128]: 0 → 72
+~ Filter Press!M129 [129]: (kosong) → 6
+~ Filter Press!N129 [129]: (kosong) → 72
+~ Filter Press!P129 [129]: 0 → 72
++ LT Floculation baris 40 [35] ditambahkan: G·Lab AAS Result=0.129333, H=0.554444, I=20.271111
+~ LT Floculation!R288: 0.83 → 0.083
+~ LT Floculation!O297: LT-Floc NS 1 → LT-Floc DS 1
+~ LT Floculation!O298: LT-Floc NS 2 → LT-Floc DS 2
+~ LT Floculation!O299: LT-Floc NS 3 → LT-Floc DS 3
+- LT Floculation baris 300 dikosongkan: U=gatau knp ada NS lagi?
+- LT Floculation baris 301 dikosongkan: U=reassay kh?
+- LT Floculation baris 302 dikosongkan: U=BDL2611231-PP
+~ MILING EN LICPIT!AJ6: 1225 → 1220
+~ MILING EN LICPIT!AJ8: 1.225 → 1.22
+~ MILING EN LICPIT!AJ11 [03-09-2026 00:00]: 0.350649 → 0.344262
+~ MILING EN LICPIT!AJ12: 429.545455 → 420
+~ MILING EN LICPIT!AJ13 [04-09-2026 00:00]: 795.454545 → 800
+~ MILING EN LICPIT!U177 [14-11-2026 00:00]: 0.662683 → 0.665152
+~ MILING EN LICPIT!V177 [14-11-2026 00:00]: 0.725116 → 0.692553
+~ MILING EN LICPIT!W177 [14-11-2026 00:00]: 12.567674 → 12.351915
+~ MILING EN LICPIT!X177 [14-11-2026 00:00]: 9.710401 → 9.746583
+~ MILING EN LICPIT!Y177 [14-11-2026 00:00]: 10.625247 → 10.148095
+~ MILING EN LICPIT!Z177 [14-11-2026 00:00]: 184.156181 → 180.994622
+~ MILING EN LICPIT!AD177 [14-11-2026 00:00]: 24276002.254336 → 24366457.953956
++ MILING EN LICPIT baris 185 [18-11-2026 00:00] ditambahkan: X=28.231812, Y=52.256177, Z=568.37951
++ MILING EN LICPIT baris 186 [37] ditambahkan: U=0.661, V=1.046667, W=11.473333, X=69.146202, Y=109.490204, Z=1200.20791
++ MILING EN LICPIT baris 187 [19-11-2026 00:00] ditambahkan: U=0.679, V=1.103333, W=15.716667, X=48.994746, Y=79.613456, Z=1134.070831
++ MILING EN LICPIT baris 188 [20-11-2026 00:00] ditambahkan: U=0.707333, V=0.23, W=9.476667, X=26.986032, Y=8.774911, Z=361.551786
++ MILING EN LICPIT baris 189 [20-11-2026 00:00] ditambahkan: U=0.645, V=0.68, W=11.736667, X=42.666453, Y=44.981687, Z=776.3751
++ MILING EN LICPIT baris 190 [38] ditambahkan: T=322.356046, U=0.788333, V=1.096667, W=16.14, X=77.789594, Y=108.214699, Z=1592.63092
++ MILING EN LICPIT baris 191 [21-11-2026 00:00] ditambahkan: N=142.099012
++ MILING EN LICPIT baris 192 [22-11-2026 00:00] ditambahkan: B·PIC=22-11-2026 00:00, D=UNKNOWN USER, E=Tank 3 batch 38, G=0.33, H·Milling And Leach Feed M=152.786905, I=12.732242, J=656.084945, K=1.215, ...
++ MILING EN LICPIT baris 193 [22-11-2026 00:00] ditambahkan: B·PIC=22-11-2026 00:00, D=UNKNOWN USER, E=Finish Pump Tank 3 batch 38, G=0.34, H·Milling And Leach Feed M=206.711695, I=17.225975, J=862.79664, K=1.22, ...
+~ MILING EN LICPIT!M202 [Average]: 11868.535833 → 12010.634845
++ Milling Down Time Hours baris 171 [21-11-2026 00:00] ditambahkan: L·Availibility Per Day=0.84375
++ Milling Down Time Hours baris 173 [22-11-2026 00:00] ditambahkan: E·Stop Time=01:00:00, F·Start Time=01:00:00, H·Reason=ball mill 3 jalan normal, ball mill 2..., L·Availibility Per Day=1
++ Milling Down Time Hours baris 174 [22-11-2026 00:00] ditambahkan: E·Stop Time=01:00:00, F·Start Time=01:00:00, H·Reason=ball mill 2 dan 3 jalan normal
+~ Reagent Consumption!B111 [22-11-2026 00:00]: 1/2day → Day/Night
+~ Reagent Consumption!D111 "Leaching" [22-11-2026 00:00]: 75 → 175
+_Dibandingkan 33166 sel dari 25 sheet._
+
 ## 23 Nov 2026 · 03:21 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: Au Cal Leaching Tank: ~23 sel; LT Floculation: +3 baris
 + Sheet "ELEP BOLMIL" ditambahkan
