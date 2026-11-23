@@ -1,0 +1,18 @@
+{
+  "id": "1795425516592_b68b3cadc1",
+  "created_epoch": 1795425516,
+  "created_at": "2026-11-23 16:18:36",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ EW&ELUTION baris 5 ditambahkan: Z·Total Bakar=Total Bakar, AA·Tank=Tank\n+ EW&ELUTION baris 6 [26/10/2026] ditambahkan: Z·Total Bakar=966\n+ EW&ELUTION baris 24 [3A] ditambahkan: Z·Total Bakar=1766\n+ EW&ELUTION baris 51 [3B] ditambahkan: Z·Total Bakar=200\n+ EW&ELUTION baris 68 [4A] ditambahkan: Z·Total Bakar=2700, AA·Tank=Tank 2\n+ EW&ELUTION baris 117 [4B] ditambahkan: Z·Total Bakar=3500, AA·Tank=Tank 2 & Tank 3\n+ EW&ELUTION baris 164 [4C] ditambahkan: AA·Tank=Tank 2 & Tank 3",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "EW&ELUTION: +7 baris"
+    ]
+  }
+}
