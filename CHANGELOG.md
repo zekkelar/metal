@@ -5,6 +5,48 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 23 Nov 2026 · 16:32 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: Au Cal Leaching Tank: +12 baris, ~26 sel
+~ Au Cal Leaching Tank!R46 [37]: (kosong) → 0.31
+~ Au Cal Leaching Tank!S46 [37]: (kosong) → 1.2
+~ Au Cal Leaching Tank!U46 [37]: (kosong) → 40.176
+~ Au Cal Leaching Tank!AA46 [37]: #DIV/0! → 0.667966
+~ Au Cal Leaching Tank!AB46 [37]: #DIV/0! → 0.863834
+~ Au Cal Leaching Tank!AC46 [37]: #DIV/0! → 12.350347
+~ Au Cal Leaching Tank!AD46 [37]: #DIV/0! → 0.005118
+~ Au Cal Leaching Tank!AE46 [37]: #DIV/0! → 0.001908
+~ Au Cal Leaching Tank!AF46 [37]: (kosong) → 0
+~ Au Cal Leaching Tank!AG46 [37]: (kosong) → 0
+~ Au Cal Leaching Tank!AH46 [37]: (kosong) → 0
+~ Au Cal Leaching Tank!AN46 [37]: #DIV/0! → 3472.205627
+~ Au Cal Leaching Tank!AV46 [37]: (kosong) → 1
+~ Au Cal Leaching Tank!BF46 [37]: #DIV/0! → 3472.205627
++ Au Cal Leaching Tank baris 47 [38] ditambahkan: G=09:00:00, H·start toyong=23-11-2026 00:00, J=863, K·/9=0.61, L=0.52643, M=0.35, V=0, AF=0, ...
++ Au Cal Leaching Tank baris 48 [39] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 49 [40] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 50 [41] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 51 [42] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 52 [43] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 53 [44] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 54 [45] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 55 [46] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 56 [47] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 57 [48] ditambahkan: AF=0, AG=0, AH=0
++ Au Cal Leaching Tank baris 58 [49] ditambahkan: AF=0, AG=0, AH=0
+~ Au Cal Leaching Tank!AA60 [51]: #DIV/0! → 0.592975
+~ Au Cal Leaching Tank!AB60 [51]: #DIV/0! → 0.746739
+~ Au Cal Leaching Tank!AC60 [51]: #DIV/0! → 13.18207
+~ Au Cal Leaching Tank!AF60 [51]: 0.095421 → 0.070105
+~ Au Cal Leaching Tank!AG60 [51]: 0.328057 → 0.241021
+~ Au Cal Leaching Tank!AH60 [51]: 10.937389 → 8.035633
+~ Au Cal Leaching Tank!AN60 [51]: #DIV/0! → 154405.339817
+~ Au Cal Leaching Tank!AV60 [51]: 0.166106 → 0.188644
+~ Au Cal Leaching Tank!BF61 [52]: #DIV/0! → 29308.921032
+~ Au Cal Leaching Tank!AA62: #DIV/0! → 0.604515
+~ Au Cal Leaching Tank!AB62: #DIV/0! → 0.641262
+~ Au Cal Leaching Tank!AC62: #DIV/0! → 12.840979
+_Dibandingkan 33228 sel dari 25 sheet._
+
 ## 23 Nov 2026 · 16:18 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: EW&ELUTION: +7 baris
 + EW&ELUTION baris 5 ditambahkan: Z·Total Bakar=Total Bakar, AA·Tank=Tank
