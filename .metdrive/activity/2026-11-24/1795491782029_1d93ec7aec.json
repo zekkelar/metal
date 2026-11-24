@@ -1,0 +1,23 @@
+{
+  "id": "1795491782029_1d93ec7aec",
+  "created_epoch": 1795491782,
+  "created_at": "2026-11-24 11:43:02",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ ELEP BOLMIL baris 509 [513] ditambahkan: K=357, S·Cu (g/t)=357\n+ ELEP BOLMIL baris 510 [514] ditambahkan: K=358, S·Cu (g/t)=358\n+ ELEP BOLMIL baris 511 [515] ditambahkan: K=359, S·Cu (g/t)=359\n+ ELEP BOLMIL baris 512 [516] ditambahkan: K=360, S·Cu (g/t)=360\n+ ELEP BOLMIL baris 513 [517] ditambahkan: K=361, S·Cu (g/t)=361\n+ ELEP BOLMIL baris 514 [518] ditambahkan: K=362, S·Cu (g/t)=362\n+ ELEP BOLMIL baris 515 [519] ditambahkan: K=363, S·Cu (g/t)=363\n+ ELEP BOLMIL baris 516 [520] ditambahkan: K=364, S·Cu (g/t)=364\n+ ELEP BOLMIL baris 517 [521] ditambahkan: K=365, S·Cu (g/t)=365\n+ ELEP BOLMIL baris 518 [522] ditambahkan: K=366, S·Cu (g/t)=366\n+ ELEP BOLMIL baris 519 [523] ditambahkan: K=367, S·Cu (g/t)=367\n+ ELEP BOLMIL baris 520 [524] ditambahkan: K=368, S·Cu (g/t)=368\n+ ELEP BOLMIL baris 521 [525] ditambahkan: K=369, S·Cu (g/t)=369\n+ ELEP BOLMIL baris 522 [526] ditambahkan: K=370, S·Cu (g/t)=370\n+ ELEP BOLMIL baris 523 [527] ditambahkan: K=371, S·Cu (g/t)=371\n+ ELEP BOLMIL baris 524 [528] ditambahkan: K=372, S·Cu (g/t)=372\n+ ELEP BOLMIL baris 525 [529] ditambahkan: K=373, S·Cu (g/t)=373\n+ ELEP BOLMIL baris 526 [530] ditambahkan: K=374, S·Cu (g/t)=374\n+ ELEP BOLMIL baris 527 [531] ditambahkan: K=375, S·Cu (g/t)=375\n+ ELEP BOLMIL baris 528 [532] ditambahkan: K=376, S·Cu (g/t)=376",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "ELEP BOLMIL: +54 baris",
+      "Filter Press: ~10 sel",
+      "MILING EN LICPIT: +41 baris, ~35 sel, -1 baris",
+      "Milling Down Time Hours: ~6 sel",
+      "Reagent Consumption: +1 baris",
+      "Rom File Invetory Nov: +12 baris, ~1 sel"
+    ]
+  }
+}
