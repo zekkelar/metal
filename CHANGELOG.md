@@ -5,6 +5,171 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Nov 2026 · 11:42 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: ELEP BOLMIL: +54 baris; Filter Press: ~10 sel; MILING EN LICPIT: +41 baris, ~35 sel, -1 baris; Milling Down Time Hours: ~6 sel; Reagent Consumption: +1 baris; Rom File Invetory Nov: +12 baris, ~1 sel
++ ELEP BOLMIL baris 509 [513] ditambahkan: K=357, S·Cu (g/t)=357
++ ELEP BOLMIL baris 510 [514] ditambahkan: K=358, S·Cu (g/t)=358
++ ELEP BOLMIL baris 511 [515] ditambahkan: K=359, S·Cu (g/t)=359
++ ELEP BOLMIL baris 512 [516] ditambahkan: K=360, S·Cu (g/t)=360
++ ELEP BOLMIL baris 513 [517] ditambahkan: K=361, S·Cu (g/t)=361
++ ELEP BOLMIL baris 514 [518] ditambahkan: K=362, S·Cu (g/t)=362
++ ELEP BOLMIL baris 515 [519] ditambahkan: K=363, S·Cu (g/t)=363
++ ELEP BOLMIL baris 516 [520] ditambahkan: K=364, S·Cu (g/t)=364
++ ELEP BOLMIL baris 517 [521] ditambahkan: K=365, S·Cu (g/t)=365
++ ELEP BOLMIL baris 518 [522] ditambahkan: K=366, S·Cu (g/t)=366
++ ELEP BOLMIL baris 519 [523] ditambahkan: K=367, S·Cu (g/t)=367
++ ELEP BOLMIL baris 520 [524] ditambahkan: K=368, S·Cu (g/t)=368
++ ELEP BOLMIL baris 521 [525] ditambahkan: K=369, S·Cu (g/t)=369
++ ELEP BOLMIL baris 522 [526] ditambahkan: K=370, S·Cu (g/t)=370
++ ELEP BOLMIL baris 523 [527] ditambahkan: K=371, S·Cu (g/t)=371
++ ELEP BOLMIL baris 524 [528] ditambahkan: K=372, S·Cu (g/t)=372
++ ELEP BOLMIL baris 525 [529] ditambahkan: K=373, S·Cu (g/t)=373
++ ELEP BOLMIL baris 526 [530] ditambahkan: K=374, S·Cu (g/t)=374
++ ELEP BOLMIL baris 527 [531] ditambahkan: K=375, S·Cu (g/t)=375
++ ELEP BOLMIL baris 528 [532] ditambahkan: K=376, S·Cu (g/t)=376
++ ELEP BOLMIL baris 529 [533] ditambahkan: K=377, S·Cu (g/t)=377
++ ELEP BOLMIL baris 530 [534] ditambahkan: K=378, S·Cu (g/t)=378
++ ELEP BOLMIL baris 531 [535] ditambahkan: K=379, S·Cu (g/t)=379
++ ELEP BOLMIL baris 532 [536] ditambahkan: K=380, S·Cu (g/t)=380
++ ELEP BOLMIL baris 533 [537] ditambahkan: K=381, S·Cu (g/t)=381
++ ELEP BOLMIL baris 534 [538] ditambahkan: K=382, S·Cu (g/t)=382
++ ELEP BOLMIL baris 535 [539] ditambahkan: K=383, S·Cu (g/t)=383
++ ELEP BOLMIL baris 536 [540] ditambahkan: K=384, S·Cu (g/t)=384
++ ELEP BOLMIL baris 537 [541] ditambahkan: K=385, S·Cu (g/t)=385
++ ELEP BOLMIL baris 538 [542] ditambahkan: K=386, S·Cu (g/t)=386
++ ELEP BOLMIL baris 539 [543] ditambahkan: K=387, S·Cu (g/t)=387
++ ELEP BOLMIL baris 540 [544] ditambahkan: K=388, S·Cu (g/t)=388
++ ELEP BOLMIL baris 541 [545] ditambahkan: K=389, S·Cu (g/t)=389
++ ELEP BOLMIL baris 542 [546] ditambahkan: K=390, S·Cu (g/t)=390
++ ELEP BOLMIL baris 543 [547] ditambahkan: K=391, S·Cu (g/t)=391
++ ELEP BOLMIL baris 544 [548] ditambahkan: K=392, S·Cu (g/t)=392
++ ELEP BOLMIL baris 545 [549] ditambahkan: K=393, S·Cu (g/t)=393
++ ELEP BOLMIL baris 546 [550] ditambahkan: K=394, S·Cu (g/t)=394
++ ELEP BOLMIL baris 547 [551] ditambahkan: K=395, S·Cu (g/t)=395
++ ELEP BOLMIL baris 548 [552] ditambahkan: K=396, S·Cu (g/t)=396
++ ELEP BOLMIL baris 549 [553] ditambahkan: K=397, S·Cu (g/t)=397
++ ELEP BOLMIL baris 550 [554] ditambahkan: K=398, S·Cu (g/t)=398
++ ELEP BOLMIL baris 551 [555] ditambahkan: K=399, S·Cu (g/t)=399
++ ELEP BOLMIL baris 552 [556] ditambahkan: K=400, S·Cu (g/t)=400
++ ELEP BOLMIL baris 553 [557] ditambahkan: K=401, S·Cu (g/t)=401
++ ELEP BOLMIL baris 554 [558] ditambahkan: K=402, S·Cu (g/t)=402
++ ELEP BOLMIL baris 555 [559] ditambahkan: K=403, S·Cu (g/t)=403
++ ELEP BOLMIL baris 556 [560] ditambahkan: K=404, S·Cu (g/t)=404
++ ELEP BOLMIL baris 557 [561] ditambahkan: K=405, S·Cu (g/t)=405
++ ELEP BOLMIL baris 558 [562] ditambahkan: K=406, S·Cu (g/t)=406
++ ELEP BOLMIL baris 559 [563] ditambahkan: K=407, S·Cu (g/t)=407
++ ELEP BOLMIL baris 560 [564] ditambahkan: K=408, S·Cu (g/t)=408
++ ELEP BOLMIL baris 561 [565] ditambahkan: K=409, S·Cu (g/t)=409
++ ELEP BOLMIL baris 562 [566] ditambahkan: K=410, S·Cu (g/t)=410
+~ Filter Press!C120 [120]: (kosong) → 23-11-2026 00:00
+~ Filter Press!D120 [120]: (kosong) → Night
+~ Filter Press!E120 [120]: (kosong) → 4
+~ Filter Press!F120 [120]: 0 → 24
+~ Filter Press!H120 [120]: 0 → 24
+~ Filter Press!K130 [130]: (kosong) → 23-11-2026 00:00
+~ Filter Press!L130 [130]: (kosong) → Night
+~ Filter Press!M130 [130]: (kosong) → 4
+~ Filter Press!N130 [130]: (kosong) → 48
+~ Filter Press!P130 [130]: 0 → 48
+~ MILING EN LICPIT!AJ6: 1200 → 1190
+~ MILING EN LICPIT!AJ8: 1.2 → 1.19
+~ MILING EN LICPIT!AJ11 [03-09-2026 00:00]: 0.318182 → 0.304813
+~ MILING EN LICPIT!AJ12: 381.818182 → 362.727273
+~ MILING EN LICPIT!AJ13 [04-09-2026 00:00]: 818.181818 → 827.272727
+~ MILING EN LICPIT!N193 [22-11-2026 00:00]: 40.064088 → 68.91385
+~ MILING EN LICPIT!E194 [39]: Staarpamtu teng 2 → Staarpamtu teng 2 batch 39
+~ MILING EN LICPIT!L194 [39]: (kosong) → 0.8
++ MILING EN LICPIT baris 195 [23-11-2026 00:00] ditambahkan: B·PIC=23-11-2026 00:00, D=UNKNOWN USER, G=0.3, H·Milling And Leach Feed M=89.87465, I=8.170423, J=305.57381, K=1.19, L=0.8, ...
+- MILING EN LICPIT baris 201 dikosongkan: X=0, Y=0, Z=0
+~ MILING EN LICPIT!B202 "PIC" [Average]: Average → (kosong)
+~ MILING EN LICPIT!F202 [Average]: (kosong) → Day
+~ MILING EN LICPIT!I202 [Average]: 24.458953 → (kosong)
+~ MILING EN LICPIT!L202 [Average]: 0.726949 → (kosong)
+~ MILING EN LICPIT!M202 [Average]: 12050.698933 → (kosong)
+~ MILING EN LICPIT!N202 [Average]: 167.527841 → (kosong)
+~ MILING EN LICPIT!P202 [Average]: #DIV/0! → (kosong)
+~ MILING EN LICPIT!Q202 [Average]: 632.401389 → (kosong)
+~ MILING EN LICPIT!R202 [Average]: 36534.083333 → (kosong)
+~ MILING EN LICPIT!S202 [Average]: 13936.574306 → (kosong)
+~ MILING EN LICPIT!T202 [Average]: 5375.373443 → (kosong)
+~ MILING EN LICPIT!U202 [Average]: 0.654871 → (kosong)
+~ MILING EN LICPIT!V202 [Average]: 0.663258 → (kosong)
+~ MILING EN LICPIT!W202 [Average]: 8.95429 → (kosong)
+~ MILING EN LICPIT!X202 [Average]: #REF! → (kosong)
+~ MILING EN LICPIT!Y202 [Average]: 421.514663 → (kosong)
+~ MILING EN LICPIT!Z202 [Average]: 5120.844159 → (kosong)
++ MILING EN LICPIT baris 203 ditambahkan: F=Night
+~ MILING EN LICPIT!F204: (kosong) → Day
+~ MILING EN LICPIT!AA204: Min → (kosong)
+~ MILING EN LICPIT!AB204: 0 → (kosong)
+~ MILING EN LICPIT!F205: (kosong) → Night
+~ MILING EN LICPIT!Z205: Max → (kosong)
+~ MILING EN LICPIT!AA205: 11.3 → (kosong)
++ MILING EN LICPIT baris 206 ditambahkan: F=Day
++ MILING EN LICPIT baris 207 ditambahkan: F=Night
++ MILING EN LICPIT baris 208 ditambahkan: F=Day
++ MILING EN LICPIT baris 209 ditambahkan: F=Night
++ MILING EN LICPIT baris 210 ditambahkan: F=Day
++ MILING EN LICPIT baris 211 ditambahkan: F=Night
++ MILING EN LICPIT baris 212 ditambahkan: F=Day
+~ MILING EN LICPIT!F213: (kosong) → Night
+~ MILING EN LICPIT!I213: 83 → (kosong)
+~ MILING EN LICPIT!F214: (kosong) → Day
+~ MILING EN LICPIT!I214: 81.727273 → (kosong)
++ MILING EN LICPIT baris 215 ditambahkan: F=Night
++ MILING EN LICPIT baris 216 ditambahkan: F=Day
++ MILING EN LICPIT baris 217 ditambahkan: F=Night
++ MILING EN LICPIT baris 218 ditambahkan: F=Day
++ MILING EN LICPIT baris 219 ditambahkan: F=Night
++ MILING EN LICPIT baris 220 ditambahkan: F=Day
++ MILING EN LICPIT baris 221 ditambahkan: F=Night
++ MILING EN LICPIT baris 222 ditambahkan: F=Day
++ MILING EN LICPIT baris 223 ditambahkan: F=Night
++ MILING EN LICPIT baris 224 ditambahkan: F=Day
++ MILING EN LICPIT baris 225 ditambahkan: F=Night
++ MILING EN LICPIT baris 226 ditambahkan: F=Day
++ MILING EN LICPIT baris 227 ditambahkan: F=Night
++ MILING EN LICPIT baris 228 ditambahkan: F=Day
++ MILING EN LICPIT baris 229 ditambahkan: F=Night
++ MILING EN LICPIT baris 230 ditambahkan: F=Day
++ MILING EN LICPIT baris 231 ditambahkan: F=Night
++ MILING EN LICPIT baris 232 ditambahkan: F=Day
++ MILING EN LICPIT baris 233 ditambahkan: F=Night
++ MILING EN LICPIT baris 234 ditambahkan: F=Day
++ MILING EN LICPIT baris 235 ditambahkan: F=Night
++ MILING EN LICPIT baris 236 ditambahkan: F=Day
++ MILING EN LICPIT baris 237 ditambahkan: F=Night
++ MILING EN LICPIT baris 238 ditambahkan: F=Day
++ MILING EN LICPIT baris 239 ditambahkan: F=Night
++ MILING EN LICPIT baris 240 ditambahkan: F=Day
++ MILING EN LICPIT baris 241 ditambahkan: F=Night
++ MILING EN LICPIT baris 242 ditambahkan: F=Day
++ MILING EN LICPIT baris 243 ditambahkan: F=Night
++ MILING EN LICPIT baris 244 ditambahkan: F=Day
++ MILING EN LICPIT baris 245 ditambahkan: F=Night
++ MILING EN LICPIT baris 246 [Average] ditambahkan: B·PIC=Average, I=24.458953, L=0.726949, M=12079.548695, N=167.527841, P=#DIV/0!, Q=632.401389, R=36534.083333, ...
+~ Milling Down Time Hours!E176 "Stop Time" [23-11-2026 00:00]: (kosong) → 01:00:00
+~ Milling Down Time Hours!F176 "Start Time" [23-11-2026 00:00]: (kosong) → 02:00:00
+~ Milling Down Time Hours!G176 "Down Time (Mins)" [23-11-2026 00:00]: 0 → 60
+~ Milling Down Time Hours!H176 "Reason" [23-11-2026 00:00]: (kosong) → Ball mill 2 & 3  mati jam 23:30-00:30
+~ Milling Down Time Hours!J176 "Running Time Hour/Shift" [23-11-2026 00:00]: 12 → 11
+~ Milling Down Time Hours!K176 "Availibility per Shift" [23-11-2026 00:00]: 1 → 0.916667
++ Reagent Consumption baris 112 [23-11-2026 00:00] ditambahkan: B=Day/Night, D·Leaching=50
++ Rom File Invetory Nov baris 9 [5] ditambahkan: B·Date=20-11-2026 00:00, E·Ore  Type - Lithology=Oxide, G·Survey (m3)=107
++ Rom File Invetory Nov baris 10 [6] ditambahkan: B·Date=20-11-2026 00:00, E·Ore  Type - Lithology=Vein, G·Survey (m3)=87
++ Rom File Invetory Nov baris 11 [7] ditambahkan: B·Date=21-11-2026 00:00, E·Ore  Type - Lithology=Oxide, G·Survey (m3)=141
++ Rom File Invetory Nov baris 12 [8] ditambahkan: B·Date=22-11-2026 00:00, E·Ore  Type - Lithology=Oxide, G·Survey (m3)=93
++ Rom File Invetory Nov baris 13 [9] ditambahkan: B·Date=23-11-2026 00:00, E·Ore  Type - Lithology=Oxide, G·Survey (m3)=143
++ Rom File Invetory Nov baris 20 [16] ditambahkan: N=Tonage, O=Grade (g/t), P=Metal Content (gr)
++ Rom File Invetory Nov baris 21 [17] ditambahkan: N=362, O=0.513, P=185.706
++ Rom File Invetory Nov baris 22 [18] ditambahkan: N=161, O=1.11, P=178.71
++ Rom File Invetory Nov baris 23 [19] ditambahkan: N=71, O=1.719, P=122.049
++ Rom File Invetory Nov baris 24 [20] ditambahkan: N=594, O=3.342, P=486.465
++ Rom File Invetory Nov baris 25 [21] ditambahkan: O=Estimasi Blending, P=0.818965
++ Rom File Invetory Nov baris 26 [22] ditambahkan: O=Estimasi Blending Dev 10%, P=0.737068
+~ Rom File Invetory Nov!G46 "Survey (m3)" [Total]: 861 → 1432
+_Dibandingkan 33452 sel dari 25 sheet._
+
 ## 24 Nov 2026 · 01:19 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: MILING EN LICPIT: +2 baris, ~6 sel; Milling Down Time Hours: ~8 sel
 + Sheet "Stokpel menejemen" ditambahkan
