@@ -1,0 +1,18 @@
+{
+  "id": "1795499068683_f866bb1e73",
+  "created_epoch": 1795499068,
+  "created_at": "2026-11-24 12:44:28",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ Sheet \"MILLING DONTEM AWERS\" ditambahkan\n+ Sheet \"AU CAL LICINGTENK\" ditambahkan\n- Sheet \"Milling Down Time Hours\" dihapus\n- Sheet \"Au cal licingteng\" dihapus\n+ MILING EN LICPIT baris 185 [18-11-2026 00:00] ditambahkan: AD=70579528.797487\n+ MILING EN LICPIT baris 186 [37] ditambahkan: AD=172865505.925282\n+ MILING EN LICPIT baris 187 [19-11-2026 00:00] ditambahkan: AD=122486865.455644\n+ MILING EN LICPIT baris 188 [20-11-2026 00:00] ditambahkan: AD=67465080.082375\n+ MILING EN LICPIT baris 189 [20-11-2026 00:00] ditambahkan: AD=106666133.077463\n~ MILING EN LICPIT!D190 [38]: UNKNOWN USER → ELON MUSK\n~ MILING EN LICPIT!AD190 [38]: (kosong) → 194473984.1979\n~ MILING EN LICPIT!D191 [21-11-2026 00:00]: UNKNOWN USER → ELON MUSK\n~ MILING EN LICPIT!D192 [22-11-2026 00:00]: UNKNOWN USER → ELON MUSK\n~ MILING EN LICPIT!D193 [22-11-2026 00:00]: UNKNOWN USER → ELON MUSK\n~ MILING EN LICPIT!D194 [39]: UNKNOWN USER → MARK ZUCKEBERG\n~ MILING EN LICPIT!D195 [23-11-2026 00:00]: UNKNOWN USER → MARK ZUCKEBERG\n~ MILING EN LICPIT!E195 [23-11-2026 00:00]: (kosong) → teng 2 bech tiga smbilan",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "MILING EN LICPIT: +5 baris, ~8 sel"
+    ]
+  }
+}
