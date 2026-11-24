@@ -5,6 +5,22 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Nov 2026 · 18:10 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: ELEP BOLMIL: ~3 sel; LT Floculation: ~9 sel
+~ ELEP BOLMIL!U434 "Ag" [436]: 21-11-2026 00:00 → 22-11-2026 00:00
+~ ELEP BOLMIL!U435 "Ag" [437]: 21-11-2026 00:00 → 22-11-2026 00:00
+~ ELEP BOLMIL!U436 "Ag" [438]: 21-11-2026 00:00 → 22-11-2026 00:00
+~ LT Floculation!O303: LT-Floc NS 1 → LT-Floc DS 1
+~ LT Floculation!O304: LT-Floc NS 2 → LT-Floc DS 2
+~ LT Floculation!O305: LT-Floc NS 3 → LT-Floc DS 3
+~ LT Floculation!O306: LT-Floc DS 1 → LT-Floc NS 1
+~ LT Floculation!Q306: 21-11-2026 00:00 → 22-11-2026 00:00
+~ LT Floculation!O307: LT-Floc DS 2 → LT-Floc NS 2
+~ LT Floculation!Q307: 21-11-2026 00:00 → 22-11-2026 00:00
+~ LT Floculation!O308: LT-Floc DS 3 → LT-Floc NS 3
+~ LT Floculation!Q308: 21-11-2026 00:00 → 22-11-2026 00:00
+_Dibandingkan 33520 sel dari 25 sheet._
+
 ## 24 Nov 2026 · 15:38 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: ELEP BOLMIL: +6 baris; LT Floculation: +6 baris; Reagent Consumption: ~1 sel
 + Sheet "STOKPEL MENEJEMEN" ditambahkan
