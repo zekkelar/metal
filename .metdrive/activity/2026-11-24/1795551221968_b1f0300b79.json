@@ -1,0 +1,20 @@
+{
+  "id": "1795551221968_b1f0300b79",
+  "created_epoch": 1795551221,
+  "created_at": "2026-11-25 03:13:41",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ AU CAL LICINGTENK!AA44 [35]: 0.640761 → 0.641124\n~ AU CAL LICINGTENK!AB44 [35]: 1.027496 → 1.028041\n~ AU CAL LICINGTENK!AC44 [35]: 14.445192 → 14.462803\n~ AU CAL LICINGTENK!AD44 [35]: 0.024278 → 0.023914\n~ AU CAL LICINGTENK!AE44 [35]: 0.009296 → 0.009154\n~ AU CAL LICINGTENK!AN44 [35]: 3949.219439 → 3954.034198\n~ AU CAL LICINGTENK!AV44 [35]: -0.403312 → -0.401603\n~ AU CAL LICINGTENK!BF44 [35]: -1592.767536 → -1587.952777\n~ AU CAL LICINGTENK!AA60 [51]: 0.592982 → 0.592992\n~ AU CAL LICINGTENK!AB60 [51]: 0.74676 → 0.746775\n~ AU CAL LICINGTENK!AC60 [51]: 13.182559 → 13.183035\n~ AU CAL LICINGTENK!AN60 [51]: 154410.291069 → 154415.105827\n~ AU CAL LICINGTENK!AV60 [51]: 0.188692 → 0.188738\n~ AU CAL LICINGTENK!BF61 [52]: 29313.872284 → 29318.687043\n+ ELEP BOLMIL baris 373 [375] ditambahkan: L=BM 08:00, M·No=22-11-2026 00:00, N·id batch=0.923, O·Id sampel=1.24, P·date=16.3\n+ ELEP BOLMIL baris 374 [376] ditambahkan: L=BM 10:00, M·No=22-11-2026 00:00, N·id batch=0.579, O·Id sampel=1, P·date=16.75\n+ ELEP BOLMIL baris 375 [377] ditambahkan: L=BM 12:00, M·No=22-11-2026 00:00, N·id batch=0.641, O·Id sampel=1.09, P·date=16.56\n+ ELEP BOLMIL baris 376 [378] ditambahkan: L=BM 14:00, M·No=22-11-2026 00:00, N·id batch=0.586, O·Id sampel=0.89, P·date=16.7\n+ ELEP BOLMIL baris 377 [379] ditambahkan: L=BM 16:00, M·No=22-11-2026 00:00, N·id batch=0.704, O·Id sampel=0.97, P·date=16.52\n+ ELEP BOLMIL baris 378 [380] ditambahkan: L=BM 18:00, M·No=22-11-2026 00:00, N·id batch=0.871, O·Id sampel=1.03, P·date=16.35",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "AU CAL LICINGTENK: ~14 sel",
+      "ELEP BOLMIL: +12 baris",
+      "MILING EN LICPIT: ~7 sel"
+    ]
+  }
+}
