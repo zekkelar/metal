@@ -5,6 +5,65 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 25 Nov 2026 · 03:08 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: AU CAL LICINGTENK: ~14 sel; ELEP BOLMIL: +6 baris; MILING DONTEM AWERS: ~6 sel; MILING EN LICPIT: +2 baris, ~13 sel; Rom File Invetory Nov: +14 baris
+~ AU CAL LICINGTENK!AA44 [35]: 0.640502 → 0.640761
+~ AU CAL LICINGTENK!AB44 [35]: 1.026723 → 1.027496
+~ AU CAL LICINGTENK!AC44 [35]: 14.427082 → 14.445192
+~ AU CAL LICINGTENK!AD44 [35]: 0.024537 → 0.024278
+~ AU CAL LICINGTENK!AE44 [35]: 0.009397 → 0.009296
+~ AU CAL LICINGTENK!AN44 [35]: 3944.268188 → 3949.219439
+~ AU CAL LICINGTENK!AV44 [35]: -0.405074 → -0.403312
+~ AU CAL LICINGTENK!BF44 [35]: -1597.718787 → -1592.767536
+~ AU CAL LICINGTENK!AA60 [51]: 0.592975 → 0.592982
+~ AU CAL LICINGTENK!AB60 [51]: 0.746739 → 0.74676
+~ AU CAL LICINGTENK!AC60 [51]: 13.18207 → 13.182559
+~ AU CAL LICINGTENK!AN60 [51]: 154405.339817 → 154410.291069
+~ AU CAL LICINGTENK!AV60 [51]: 0.188644 → 0.188692
+~ AU CAL LICINGTENK!BF61 [52]: 29308.921032 → 29313.872284
++ ELEP BOLMIL baris 515 [519] ditambahkan: D·Id sampel=LF BALLMILL NS 1, E·date=21-11-2026 00:00, F·au (g/t)=0.517, G·ag (g/t)=0.67, H·Cu (g/t)=15.04
++ ELEP BOLMIL baris 516 [520] ditambahkan: D·Id sampel=LF BALLMILL NS 2, E·date=21-11-2026 00:00, F·au (g/t)=0.648, G·ag (g/t)=0.7, H·Cu (g/t)=15.08
++ ELEP BOLMIL baris 517 [521] ditambahkan: D·Id sampel=LF BALLMILL NS 3, E·date=21-11-2026 00:00, F·au (g/t)=0.633, G·ag (g/t)=0.69, H·Cu (g/t)=15.11
++ ELEP BOLMIL baris 518 [522] ditambahkan: D·Id sampel=LF BALLMILL DS 1, E·date=22-11-2026 00:00, F·au (g/t)=0.956, G·ag (g/t)=1.01, H·Cu (g/t)=15.56
++ ELEP BOLMIL baris 519 [523] ditambahkan: D·Id sampel=LF BALLMILL DS 2, E·date=22-11-2026 00:00, F·au (g/t)=0.746, G·ag (g/t)=0.9, H·Cu (g/t)=15.56
++ ELEP BOLMIL baris 520 [524] ditambahkan: D·Id sampel=LF BALLMILL DS 3, E·date=22-11-2026 00:00, F·au (g/t)=0.742, G·ag (g/t)=0.95, H·Cu (g/t)=15.67
+~ MILING DONTEM AWERS!E177 "Stop Time" [24-11-2026 00:00]: (kosong) → 01:00:00
+~ MILING DONTEM AWERS!F177 "Start Time" [24-11-2026 00:00]: (kosong) → 04:00:00
+~ MILING DONTEM AWERS!G177 "Down Time (Mins)" [24-11-2026 00:00]: 0 → 180
+~ MILING DONTEM AWERS!H177 "Reason" [24-11-2026 00:00]: (kosong) → ball mill 2 & 3 mati, No. reason [ 12...
+~ MILING DONTEM AWERS!J177 "Running Time Hour/Shift" [24-11-2026 00:00]: 12 → 9
+~ MILING DONTEM AWERS!K177 "Availibility per Shift" [24-11-2026 00:00]: 1 → 0.75
+~ MILING EN LICPIT!AJ6: 1190 → 1230
+~ MILING EN LICPIT!AJ8: 1.19 → 1.23
+~ MILING EN LICPIT!AJ11 [03-09-2026 00:00]: 0.304813 → 0.356984
+~ MILING EN LICPIT!AJ12: 362.727273 → 439.090909
+~ MILING EN LICPIT!AJ13 [04-09-2026 00:00]: 827.272727 → 790.909091
+~ MILING EN LICPIT!U177 [14-11-2026 00:00]: 0.665152 → 0.669981
+~ MILING EN LICPIT!V177 [14-11-2026 00:00]: 0.692553 → 0.706981
+~ MILING EN LICPIT!W177 [14-11-2026 00:00]: 12.351915 → 12.689811
+~ MILING EN LICPIT!X177 [14-11-2026 00:00]: 9.746583 → 9.817337
+~ MILING EN LICPIT!Y177 [14-11-2026 00:00]: 10.148095 → 10.35951
+~ MILING EN LICPIT!Z177 [14-11-2026 00:00]: 180.994622 → 185.945873
+~ MILING EN LICPIT!AD177 [14-11-2026 00:00]: 24366457.953956 → 24543343.438813
++ MILING EN LICPIT baris 195 [23-11-2026 00:00] ditambahkan: N=107.579956
++ MILING EN LICPIT baris 196 [24-11-2026 00:00] ditambahkan: B·PIC=24-11-2026 00:00, D=MARK ZUCKEBERG, E=teng 2 bech tiga smbilan, G=0.35, H·Milling And Leach Feed M=197.72423, I=21.969359, J=503.29804, K=1.23, ...
+~ MILING EN LICPIT!M246 [Average]: 12079.548695 → 12187.128651
++ Rom File Invetory Nov baris 38 [34] ditambahkan: T=CRUSHER 7, U=20-11-2026 00:00, V=0.711
++ Rom File Invetory Nov baris 39 [35] ditambahkan: T=CRUSHER 8, U=20-11-2026 00:00, V=0.478
++ Rom File Invetory Nov baris 40 [36] ditambahkan: T=CRUSHER 9, U=20-11-2026 00:00, V=2.167
++ Rom File Invetory Nov baris 41 [37] ditambahkan: T=CRUSHER 10, U=20-11-2026 00:00, V=0.503
++ Rom File Invetory Nov baris 42 [38] ditambahkan: T=CRUSHER 11, U=20-11-2026 00:00, V=0.857
++ Rom File Invetory Nov baris 43 [39] ditambahkan: T=CRUSHER 12, U=20-11-2026 00:00, V=0.288
++ Rom File Invetory Nov baris 44 [40] ditambahkan: T=CRUSHER 13, U=20-11-2026 00:00, V=0.694
++ Rom File Invetory Nov baris 45 [Average] ditambahkan: T=CRUSHER 14, U=20-11-2026 00:00, V=0.472
++ Rom File Invetory Nov baris 46 [Total] ditambahkan: T=CRUSHER 15, U=20-11-2026 00:00, V=1.132
++ Rom File Invetory Nov baris 47 ditambahkan: T=CRUSHER 8, U=23-11-2026 00:00, V=0.823
++ Rom File Invetory Nov baris 48 ditambahkan: T=CRUSHER 9, U=23-11-2026 00:00, V=1.093
++ Rom File Invetory Nov baris 49 ditambahkan: T=CRUSHER 10, U=23-11-2026 00:00, V=1.783
++ Rom File Invetory Nov baris 50 ditambahkan: T=CRUSHER 11, U=23-11-2026 00:00, V=0.252
++ Rom File Invetory Nov baris 51 ditambahkan: T=CRUSHER 12, U=23-11-2026 00:00, V=0.683
+_Dibandingkan 33611 sel dari 25 sheet._
+
 ## 24 Nov 2026 · 18:10 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: ELEP BOLMIL: ~3 sel; LT Floculation: ~9 sel
 ~ ELEP BOLMIL!U434 "Ag" [436]: 21-11-2026 00:00 → 22-11-2026 00:00
