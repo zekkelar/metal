@@ -5,6 +5,27 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Nov 2026 · 15:38 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: ELEP BOLMIL: +6 baris; LT Floculation: +6 baris; Reagent Consumption: ~1 sel
++ Sheet "STOKPEL MENEJEMEN" ditambahkan
++ Sheet "MILING DONTEM AWERS" ditambahkan
+- Sheet "Stokpel menejemen" dihapus
+- Sheet "MILLING DONTEM AWERS" dihapus
++ ELEP BOLMIL baris 431 [433] ditambahkan: T·Au=LF THICKENER NS 1, U·Ag=21-11-2026 00:00, V·Cu=0.623, W=0.71, X=13.14
++ ELEP BOLMIL baris 432 [434] ditambahkan: T·Au=LF THICKENER NS 2, U·Ag=21-11-2026 00:00, V·Cu=0.678, W=0.76, X=13.11
++ ELEP BOLMIL baris 433 [435] ditambahkan: T·Au=LF THICKENER NS 3, U·Ag=21-11-2026 00:00, V·Cu=0.675, W=0.74, X=13.08
++ ELEP BOLMIL baris 434 [436] ditambahkan: T·Au=LF THICKENER DS 1, U·Ag=21-11-2026 00:00, V·Cu=0.626, W=0.97, X=15.54
++ ELEP BOLMIL baris 435 [437] ditambahkan: T·Au=LF THICKENER DS 2, U·Ag=21-11-2026 00:00, V·Cu=0.614, W=0.95, X=15.49
++ ELEP BOLMIL baris 436 [438] ditambahkan: T·Au=LF THICKENER DS 3, U·Ag=21-11-2026 00:00, V·Cu=0.6, W=0.94, X=15.68
++ LT Floculation baris 303 ditambahkan: O=LT-Floc NS 1, P=37, Q=21-11-2026 00:00, R=0.152, S=0.6, T=15.52
++ LT Floculation baris 304 ditambahkan: O=LT-Floc NS 2, Q=21-11-2026 00:00, R=0.156, S=0.63, T=15.61
++ LT Floculation baris 305 ditambahkan: O=LT-Floc NS 3, Q=21-11-2026 00:00, R=0.138, S=0.65, T=15.85
++ LT Floculation baris 306 ditambahkan: O=LT-Floc DS 1, Q=21-11-2026 00:00, R=0.14, S=0.56, T=15.66
++ LT Floculation baris 307 ditambahkan: O=LT-Floc DS 2, Q=21-11-2026 00:00, R=0.147, S=0.59, T=15.26
++ LT Floculation baris 308 ditambahkan: O=LT-Floc DS 3, Q=21-11-2026 00:00, R=0.164, S=0.59, T=15.34
+~ Reagent Consumption!D112 "Leaching" [23-11-2026 00:00]: 50 → 75
+_Dibandingkan 33520 sel dari 27 sheet._
+
 ## 24 Nov 2026 · 12:44 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: MILING EN LICPIT: +5 baris, ~8 sel
 + Sheet "MILLING DONTEM AWERS" ditambahkan
