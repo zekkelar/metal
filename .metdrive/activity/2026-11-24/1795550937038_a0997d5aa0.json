@@ -1,0 +1,22 @@
+{
+  "id": "1795550937038_a0997d5aa0",
+  "created_epoch": 1795550937,
+  "created_at": "2026-11-25 03:08:57",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ AU CAL LICINGTENK!AA44 [35]: 0.640502 → 0.640761\n~ AU CAL LICINGTENK!AB44 [35]: 1.026723 → 1.027496\n~ AU CAL LICINGTENK!AC44 [35]: 14.427082 → 14.445192\n~ AU CAL LICINGTENK!AD44 [35]: 0.024537 → 0.024278\n~ AU CAL LICINGTENK!AE44 [35]: 0.009397 → 0.009296\n~ AU CAL LICINGTENK!AN44 [35]: 3944.268188 → 3949.219439\n~ AU CAL LICINGTENK!AV44 [35]: -0.405074 → -0.403312\n~ AU CAL LICINGTENK!BF44 [35]: -1597.718787 → -1592.767536\n~ AU CAL LICINGTENK!AA60 [51]: 0.592975 → 0.592982\n~ AU CAL LICINGTENK!AB60 [51]: 0.746739 → 0.74676\n~ AU CAL LICINGTENK!AC60 [51]: 13.18207 → 13.182559\n~ AU CAL LICINGTENK!AN60 [51]: 154405.339817 → 154410.291069\n~ AU CAL LICINGTENK!AV60 [51]: 0.188644 → 0.188692\n~ AU CAL LICINGTENK!BF61 [52]: 29308.921032 → 29313.872284\n+ ELEP BOLMIL baris 515 [519] ditambahkan: D·Id sampel=LF BALLMILL NS 1, E·date=21-11-2026 00:00, F·au (g/t)=0.517, G·ag (g/t)=0.67, H·Cu (g/t)=15.04\n+ ELEP BOLMIL baris 516 [520] ditambahkan: D·Id sampel=LF BALLMILL NS 2, E·date=21-11-2026 00:00, F·au (g/t)=0.648, G·ag (g/t)=0.7, H·Cu (g/t)=15.08\n+ ELEP BOLMIL baris 517 [521] ditambahkan: D·Id sampel=LF BALLMILL NS 3, E·date=21-11-2026 00:00, F·au (g/t)=0.633, G·ag (g/t)=0.69, H·Cu (g/t)=15.11\n+ ELEP BOLMIL baris 518 [522] ditambahkan: D·Id sampel=LF BALLMILL DS 1, E·date=22-11-2026 00:00, F·au (g/t)=0.956, G·ag (g/t)=1.01, H·Cu (g/t)=15.56\n+ ELEP BOLMIL baris 519 [523] ditambahkan: D·Id sampel=LF BALLMILL DS 2, E·date=22-11-2026 00:00, F·au (g/t)=0.746, G·ag (g/t)=0.9, H·Cu (g/t)=15.56\n+ ELEP BOLMIL baris 520 [524] ditambahkan: D·Id sampel=LF BALLMILL DS 3, E·date=22-11-2026 00:00, F·au (g/t)=0.742, G·ag (g/t)=0.95, H·Cu (g/t)=15.67",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "AU CAL LICINGTENK: ~14 sel",
+      "ELEP BOLMIL: +6 baris",
+      "MILING DONTEM AWERS: ~6 sel",
+      "MILING EN LICPIT: +2 baris, ~13 sel",
+      "Rom File Invetory Nov: +14 baris"
+    ]
+  }
+}
