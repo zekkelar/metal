@@ -5,6 +5,27 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 24 Nov 2026 · 12:44 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
+Ringkasan: MILING EN LICPIT: +5 baris, ~8 sel
++ Sheet "MILLING DONTEM AWERS" ditambahkan
++ Sheet "AU CAL LICINGTENK" ditambahkan
+- Sheet "Milling Down Time Hours" dihapus
+- Sheet "Au cal licingteng" dihapus
++ MILING EN LICPIT baris 185 [18-11-2026 00:00] ditambahkan: AD=70579528.797487
++ MILING EN LICPIT baris 186 [37] ditambahkan: AD=172865505.925282
++ MILING EN LICPIT baris 187 [19-11-2026 00:00] ditambahkan: AD=122486865.455644
++ MILING EN LICPIT baris 188 [20-11-2026 00:00] ditambahkan: AD=67465080.082375
++ MILING EN LICPIT baris 189 [20-11-2026 00:00] ditambahkan: AD=106666133.077463
+~ MILING EN LICPIT!D190 [38]: UNKNOWN USER → ELON MUSK
+~ MILING EN LICPIT!AD190 [38]: (kosong) → 194473984.1979
+~ MILING EN LICPIT!D191 [21-11-2026 00:00]: UNKNOWN USER → ELON MUSK
+~ MILING EN LICPIT!D192 [22-11-2026 00:00]: UNKNOWN USER → ELON MUSK
+~ MILING EN LICPIT!D193 [22-11-2026 00:00]: UNKNOWN USER → ELON MUSK
+~ MILING EN LICPIT!D194 [39]: UNKNOWN USER → MARK ZUCKEBERG
+~ MILING EN LICPIT!D195 [23-11-2026 00:00]: UNKNOWN USER → MARK ZUCKEBERG
+~ MILING EN LICPIT!E195 [23-11-2026 00:00]: (kosong) → teng 2 bech tiga smbilan
+_Dibandingkan 33459 sel dari 27 sheet._
+
 ## 24 Nov 2026 · 11:42 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
 Ringkasan: ELEP BOLMIL: +54 baris; Filter Press: ~10 sel; MILING EN LICPIT: +41 baris, ~35 sel, -1 baris; Milling Down Time Hours: ~6 sel; Reagent Consumption: +1 baris; Rom File Invetory Nov: +12 baris, ~1 sel
 + ELEP BOLMIL baris 509 [513] ditambahkan: K=357, S·Cu (g/t)=357
