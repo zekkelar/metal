@@ -1,0 +1,19 @@
+{
+  "id": "1795515034363_84707ba815",
+  "created_epoch": 1795515034,
+  "created_at": "2026-11-24 18:10:34",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ ELEP BOLMIL!U434 \"Ag\" [436]: 21-11-2026 00:00 → 22-11-2026 00:00\n~ ELEP BOLMIL!U435 \"Ag\" [437]: 21-11-2026 00:00 → 22-11-2026 00:00\n~ ELEP BOLMIL!U436 \"Ag\" [438]: 21-11-2026 00:00 → 22-11-2026 00:00\n~ LT Floculation!O303: LT-Floc NS 1 → LT-Floc DS 1\n~ LT Floculation!O304: LT-Floc NS 2 → LT-Floc DS 2\n~ LT Floculation!O305: LT-Floc NS 3 → LT-Floc DS 3\n~ LT Floculation!O306: LT-Floc DS 1 → LT-Floc NS 1\n~ LT Floculation!Q306: 21-11-2026 00:00 → 22-11-2026 00:00\n~ LT Floculation!O307: LT-Floc DS 2 → LT-Floc NS 2\n~ LT Floculation!Q307: 21-11-2026 00:00 → 22-11-2026 00:00\n~ LT Floculation!O308: LT-Floc DS 3 → LT-Floc NS 3\n~ LT Floculation!Q308: 21-11-2026 00:00 → 22-11-2026 00:00",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "ELEP BOLMIL: ~3 sel",
+      "LT Floculation: ~9 sel"
+    ]
+  }
+}
