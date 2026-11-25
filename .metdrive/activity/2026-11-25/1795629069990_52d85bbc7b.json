@@ -1,0 +1,24 @@
+{
+  "id": "1795629069990_52d85bbc7b",
+  "created_epoch": 1795629069,
+  "created_at": "2026-11-26 00:51:09",
+  "actor": "GanyuChan@MSI",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ Sheet \"ELTE PLOKULESYEN\" ditambahkan\n- Sheet \"LT Floculation\" dihapus\n~ AU CAL LICINGTENK!X44 [35]: 0.649412 → 0.647311\n~ AU CAL LICINGTENK!Y44 [35]: 0.997163 → 0.992155\n~ AU CAL LICINGTENK!Z44 [35]: 13.08801 → 13.040348\n~ AU CAL LICINGTENK!AA44 [35]: 0.641067 → 0.640391\n~ AU CAL LICINGTENK!AB44 [35]: 1.028041 → 1.02643\n~ AU CAL LICINGTENK!AC44 [35]: 14.462803 → 14.447476\n~ AU CAL LICINGTENK!AD44 [35]: 0.008346 → 0.00692\n~ AU CAL LICINGTENK!AE44 [35]: 0.003234 → 0.002687\n~ AU CAL LICINGTENK!AL44 [35]: 177.545024 → 176.970491\n~ AU CAL LICINGTENK!AM44 [35]: 272.617651 → 271.248584\n~ AU CAL LICINGTENK!AN44 [35]: 3954.034198 → 3949.843782\n~ AU CAL LICINGTENK!AT44 [35]: 0.800846 → 0.800199\n~ AU CAL LICINGTENK!AU44 [35]: 0.443978 → 0.441172\n~ AU CAL LICINGTENK!AV44 [35]: -0.401603 → -0.40309\n~ AU CAL LICINGTENK!BD44 [35]: 127.954418 → 127.379885\n~ AU CAL LICINGTENK!BE44 [35]: 121.036227 → 119.66716\n~ AU CAL LICINGTENK!BF44 [35]: -1587.952777 → -1592.143193\n+ AU CAL LICINGTENK baris 47 [38] ditambahkan: C=44.25, D=7.524723",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "AU CAL LICINGTENK: +1 baris, ~70 sel",
+      "ELEP BOLMIL: +21 baris",
+      "Filter Press: ~10 sel",
+      "Fuel Consumption: ~1 sel",
+      "MILING DONTEM AWERS: ~6 sel",
+      "MILING EN LICPIT: +4 baris, ~13 sel",
+      "Reagent Consumption: +1 baris, ~7 sel"
+    ]
+  }
+}
