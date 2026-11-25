@@ -5,6 +5,211 @@ _diunggah_. Entri terbaru ada di atas.
 
 Angka di belakang nama berkas adalah orang yang mengunggah (user@komputer).
 
+## 25 Nov 2026 · 17:31 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · ramda@DyanPro73
+Ringkasan: AU CAL LICINGTENK: ~97 sel; ELEP BOLMIL: ~2 sel; Filter Press: ~20 sel; Filter Press Down Time Hours : ~5 sel; Fuel Consumption: ~1 sel; LT Floculation: +1 baris, ~11 sel; MILING DONTEM AWERS: +1 baris; MILING EN LICPIT: +4 baris, ~5 sel; Reagent Consumption: +1 baris, ~7 sel; Rom File Invetory Nov: +42 baris, ~43 sel
+~ AU CAL LICINGTENK!AT39 [30]: 0.566234 → 0.769356
+~ AU CAL LICINGTENK!AT41 [32]: 0.410527 → 0.847828
+~ AU CAL LICINGTENK!AT42 [33]: 0.671344 → 0.856786
+~ AU CAL LICINGTENK!AT43 [34]: 0.491741 → 0.938478
+~ AU CAL LICINGTENK!X44 [35]: 0.665038 → 0.649412
+~ AU CAL LICINGTENK!Y44 [35]: 0.541154 → 0.997163
+~ AU CAL LICINGTENK!Z44 [35]: 11.711923 → 13.08801
+~ AU CAL LICINGTENK!AA44 [35]: 0.641124 → 0.641067
+~ AU CAL LICINGTENK!AD44 [35]: 0.023914 → 0.008346
+~ AU CAL LICINGTENK!AE44 [35]: 0.009154 → 0.003234
+~ AU CAL LICINGTENK!AL44 [35]: 181.817093 → 177.545024
+~ AU CAL LICINGTENK!AM44 [35]: 147.947863 → 272.617651
+~ AU CAL LICINGTENK!AT44 [35]: 0.72725 → 0.800846
+~ AU CAL LICINGTENK!AU44 [35]: -0.02456 → 0.443978
+~ AU CAL LICINGTENK!BD44 [35]: 132.226487 → 127.954418
+~ AU CAL LICINGTENK!BE44 [35]: -3.633561 → 121.036227
+~ AU CAL LICINGTENK!AF45 [36]: 0 → 0.098
+~ AU CAL LICINGTENK!AG45 [36]: 0 → 0.501667
+~ AU CAL LICINGTENK!AH45 [36]: 0 → 15.028333
+~ AU CAL LICINGTENK!AO45 [36]: 0 → 26.239265
+~ AU CAL LICINGTENK!AP45 [36]: 0 → 134.320046
+~ AU CAL LICINGTENK!AQ45 [36]: 0 → 4023.800182
+~ AU CAL LICINGTENK!AT45 [36]: 0.850291 → 0.852313
+~ AU CAL LICINGTENK!AU45 [36]: 1 → 0.229193
+~ AU CAL LICINGTENK!AV45 [36]: 1 → -0.231669
+~ AU CAL LICINGTENK!BD45 [36]: 151.069859 → 124.830595
+~ AU CAL LICINGTENK!BE45 [36]: 174.259063 → 39.939017
+~ AU CAL LICINGTENK!BF45 [36]: 3266.950166 → -756.850016
+~ AU CAL LICINGTENK!I47 [38]: (kosong) → 00:00:00
+~ AU CAL LICINGTENK!N47 [38]: 0 → 368.501
+~ AU CAL LICINGTENK!O47 [38]: (kosong) → 332.969
+~ AU CAL LICINGTENK!P47 [38]: (kosong) → 1.22
+~ AU CAL LICINGTENK!V47 [38]: 0 → 684.359
+~ AU CAL LICINGTENK!W47 [38]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!X47 [38]: (kosong) → 0.74425
+~ AU CAL LICINGTENK!Y47 [38]: (kosong) → 0.908333
+~ AU CAL LICINGTENK!Z47 [38]: (kosong) → 16.409167
+~ AU CAL LICINGTENK!AA47 [38]: (kosong) → 0.723779
+~ AU CAL LICINGTENK!AB47 [38]: (kosong) → 0.883949
+~ AU CAL LICINGTENK!AC47 [38]: (kosong) → 16.052122
+~ AU CAL LICINGTENK!AD47 [38]: (kosong) → 0.020471
+~ AU CAL LICINGTENK!AE47 [38]: (kosong) → 0.006972
+~ AU CAL LICINGTENK!AI47 [38]: (kosong) → 0.108
+~ AU CAL LICINGTENK!AL47 [38]: 0 → 247.812178
+~ AU CAL LICINGTENK!AM47 [38]: 0 → 302.446842
+~ AU CAL LICINGTENK!AN47 [38]: 0 → 5344.858983
+~ AU CAL LICINGTENK!AR47 [38]: 0 → 73.910772
+~ AU CAL LICINGTENK!AT47 [38]: (kosong) → 1
+~ AU CAL LICINGTENK!AU47 [38]: (kosong) → 1
+~ AU CAL LICINGTENK!AV47 [38]: (kosong) → 1
+~ AU CAL LICINGTENK!BD47 [38]: 0 → 173.901406
+~ AU CAL LICINGTENK!BE47 [38]: 0 → 302.446842
+~ AU CAL LICINGTENK!BF47 [38]: 0 → 5344.858983
+~ AU CAL LICINGTENK!W48 [39]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W49 [40]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W50 [41]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W51 [42]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W52 [43]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W53 [44]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W54 [45]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!W55 [46]: 11643.84023 → 11976.80923
+~ AU CAL LICINGTENK!N60 [51]: 262.800387 → 270.170407
+~ AU CAL LICINGTENK!X60 [51]: 0.58721 → 0.590932
+~ AU CAL LICINGTENK!Y60 [51]: 0.694743 → 0.712364
+~ AU CAL LICINGTENK!Z60 [51]: 12.979352 → 13.105823
+~ AU CAL LICINGTENK!AA60 [51]: 0.592992 → 0.596432
+~ AU CAL LICINGTENK!AB60 [51]: 0.746775 → 0.750385
+~ AU CAL LICINGTENK!AC60 [51]: 13.183035 → 13.258538
+~ AU CAL LICINGTENK!AF60 [51]: 0.070105 → 0.072105
+~ AU CAL LICINGTENK!AG60 [51]: 0.241021 → 0.251259
+~ AU CAL LICINGTENK!AH60 [51]: 8.035633 → 8.342333
+~ AU CAL LICINGTENK!AI60 [51]: 0.043038 → 0.044747
+~ AU CAL LICINGTENK!AL60 [51]: 6831.336482 → 7074.876592
+~ AU CAL LICINGTENK!AM60 [51]: 8382.04652 → 8809.16315
+~ AU CAL LICINGTENK!AN60 [51]: 154415.105827 → 159759.964811
+~ AU CAL LICINGTENK!AO60 [51]: 1089.404177 → 1115.643441
+~ AU CAL LICINGTENK!AP60 [51]: 3795.320035 → 3929.640081
+~ AU CAL LICINGTENK!AQ60 [51]: 125096.418785 → 129120.218967
+~ AU CAL LICINGTENK!AR60 [51]: 1029.026257 → 1102.937029
+~ AU CAL LICINGTENK!AT60 [51]: 0.663838 → 0.708164
+~ AU CAL LICINGTENK!AU60 [51]: 0.501218 → 0.506389
+~ AU CAL LICINGTENK!AV60 [51]: 0.188738 → 0.177675
+~ AU CAL LICINGTENK!N61 [52]: 11597.72423 → 11930.69323
+~ AU CAL LICINGTENK!BD61 [52]: 4712.906048 → 4856.296121
+~ AU CAL LICINGTENK!BE61 [52]: 4586.726485 → 4879.523069
+~ AU CAL LICINGTENK!BF61 [52]: 29318.687043 → 30639.745844
+~ AU CAL LICINGTENK!X62: 0.584833 → 0.585296
+~ AU CAL LICINGTENK!Y62: 0.591407 → 0.638133
+~ AU CAL LICINGTENK!Z62: 12.970833 → 13.130672
+~ AU CAL LICINGTENK!AA62: 0.604515 → 0.609002
+~ AU CAL LICINGTENK!AB62: 0.641262 → 0.64684
+~ AU CAL LICINGTENK!AC62: 12.840979 → 12.961848
+~ AU CAL LICINGTENK!BD62: 1029.026257 → 1102.937029
+~ AU CAL LICINGTENK!N67: 8.239751 → 8.476313
+~ AU CAL LICINGTENK!P67: 197.754025 → 203.431514
+~ AU CAL LICINGTENK!M74: 8.239751 → 8.476313
+~ AU CAL LICINGTENK!M75: 197.754025 → 203.431514
+~ ELEP BOLMIL!F515 "au (g/t)" [519]: 0.517 → 0.64
+~ ELEP BOLMIL!F518 "au (g/t)" [522]: 0.956 → 0.774
+~ Filter Press!C121 [121]: (kosong) → 24-11-2026 00:00
+~ Filter Press!D121 [121]: (kosong) → Day
+~ Filter Press!E121 [121]: (kosong) → 6
+~ Filter Press!F121 [121]: 0 → 36
+~ Filter Press!H121 [121]: 0 → 36
+~ Filter Press!C122 [122]: (kosong) → 24-11-2026 00:00
+~ Filter Press!D122 [122]: (kosong) → Night
+~ Filter Press!E122 [122]: (kosong) → 4
+~ Filter Press!F122 [122]: 0 → 24
+~ Filter Press!H122 [122]: 0 → 24
+~ Filter Press!K131 [131]: (kosong) → 24-11-2026 00:00
+~ Filter Press!L131 [131]: (kosong) → Day
+~ Filter Press!M131 [131]: (kosong) → 6
+~ Filter Press!N131 [131]: (kosong) → 72
+~ Filter Press!P131 [131]: 0 → 72
+~ Filter Press!K132 [132]: (kosong) → 24-11-2026 00:00
+~ Filter Press!L132 [132]: (kosong) → Night
+~ Filter Press!M132 [132]: (kosong) → 5
+~ Filter Press!N132 [132]: (kosong) → 60
+~ Filter Press!P132 [132]: 0 → 60
+~ Filter Press Down Time Hours !D87 "Stop Time" [24-11-2026 00:00]: (kosong) → 01:00:00
+~ Filter Press Down Time Hours !E87 "Start Time" [24-11-2026 00:00]: (kosong) → 02:00:00
+~ Filter Press Down Time Hours !F87 "Down Time (Mins)" [24-11-2026 00:00]: 0 → 60
+~ Filter Press Down Time Hours !G87 "Reason" [24-11-2026 00:00]: (kosong) → bocor
+~ Filter Press Down Time Hours !H87 [24-11-2026 00:00]: (kosong) → 0
+~ Fuel Consumption!D60 "Diesel Consumption (L)" [Fuel Consumption (L/t)]: 3.434294 → 3.338448
++ LT Floculation baris 41 [36] ditambahkan: G·Lab AAS Result=0.098, H=0.501667, I=15.028333
+~ LT Floculation!O303: LT-Floc DS 1 → LT-Floc NS 1
+~ LT Floculation!R303: 0.152 → 0.144
+~ LT Floculation!O304: LT-Floc DS 2 → LT-Floc NS 2
+~ LT Floculation!R304: 0.156 → 0.152
+~ LT Floculation!O305: LT-Floc DS 3 → LT-Floc NS 3
+~ LT Floculation!O306: LT-Floc NS 1 → LT-Floc DS 1
+~ LT Floculation!R306: 0.14 → 0.124
+~ LT Floculation!O307: LT-Floc NS 2 → LT-Floc DS 2
+~ LT Floculation!R307: 0.147 → 0.13
+~ LT Floculation!O308: LT-Floc NS 3 → LT-Floc DS 3
+~ LT Floculation!R308: 0.164 → 0.127
++ MILING DONTEM AWERS baris 178 [24-11-2026 00:00] ditambahkan: E·Stop Time=01:00:00, F·Start Time=01:00:00, H·Reason=ball mill jalan normal, tapi ball mil...
+~ MILING EN LICPIT!U177 [14-11-2026 00:00]: 0.676764 → 0.675691
+~ MILING EN LICPIT!X177 [14-11-2026 00:00]: 9.916728 → 9.901009
+~ MILING EN LICPIT!AD177 [14-11-2026 00:00]: 24791819.58199 → 24752522.463208
++ MILING EN LICPIT baris 191 [21-11-2026 00:00] ditambahkan: U=0.640333, V=0.686667, W=15.076667, X=52.239045, Y=56.018965, Z=1229.969804
++ MILING EN LICPIT baris 192 [22-11-2026 00:00] ditambahkan: U=0.754, V=0.953333, W=15.596667, X=35.640241, Y=45.062374, Z=737.226734
++ MILING EN LICPIT baris 193 [22-11-2026 00:00] ditambahkan: U=0.794333, V=0.896667, W=18.823333, X=75.327256, Y=85.031606, Z=1785.031525
+~ MILING EN LICPIT!N195 [23-11-2026 00:00]: 107.579956 → 161.174457
++ MILING EN LICPIT baris 197 [24-11-2026 00:00] ditambahkan: B·PIC=24-11-2026 00:00, D=MARK ZUCKEBERG, E=teng 2 bech tiga smbilan, G=0.33, H·Milling And Leach Feed M=170.761835, I=14.230153, J=674.059875, K=1.215, ...
+~ MILING EN LICPIT!M246 [Average]: 12187.128651 → 12240.723152
+~ Reagent Consumption!X11 [01-09-2026 00:00]: 1.116598 → 1.085436
+~ Reagent Consumption!Y11 [01-09-2026 00:00]: 0.909661 → 0.884274
+~ Reagent Consumption!Z11 [01-09-2026 00:00]: 0.431119 → 0.419087
+~ Reagent Consumption!AA11 [01-09-2026 00:00]: 0.128905 → 0.125307
+~ Reagent Consumption!AB11 [01-09-2026 00:00]: 0.023712 → 0.02305
+~ Reagent Consumption!AC11 [01-09-2026 00:00]: 0.031041 → 0.030174
+~ Reagent Consumption!AD11 [01-09-2026 00:00]: 0.009398 → 0.009136
++ Reagent Consumption baris 113 [24-11-2026 00:00] ditambahkan: B=Day/Night, D·Leaching=250
+~ Rom File Invetory Nov!Q8 [4]: 0.676897 → 0.729302
+~ Rom File Invetory Nov!H9 "Bulk Density" [5]: (kosong) → 1.39
+~ Rom File Invetory Nov!I9 "Tonage by survey (WMT)" [5]: 0 → 148.73
+~ Rom File Invetory Nov!Q9 [5]: 0.628 → 0.66
+~ Rom File Invetory Nov!H10 "Bulk Density" [6]: (kosong) → 1.39
+~ Rom File Invetory Nov!I10 "Tonage by survey (WMT)" [6]: 0 → 120.93
+~ Rom File Invetory Nov!Q10 [6]: 1.315 → 2.167
+~ Rom File Invetory Nov!H11 "Bulk Density" [7]: (kosong) → 1.39
+~ Rom File Invetory Nov!I11 "Tonage by survey (WMT)" [7]: 0 → 195.99
+~ Rom File Invetory Nov!Q11 [7]: 0.324 → 0.252
+~ Rom File Invetory Nov!H12 "Bulk Density" [8]: (kosong) → 1.39
+~ Rom File Invetory Nov!I12 "Tonage by survey (WMT)" [8]: 0 → 129.27
+~ Rom File Invetory Nov!Q12 [8]: 0.018736 → 0.024941
+~ Rom File Invetory Nov!H13 "Bulk Density" [9]: (kosong) → 1.39
+~ Rom File Invetory Nov!I13 "Tonage by survey (WMT)" [9]: 0 → 198.77
+~ Rom File Invetory Nov!Q13 [9]: 0.048897 → 0.069302
++ Rom File Invetory Nov baris 33 [29] ditambahkan: M=24-11-2026 00:00
++ Rom File Invetory Nov baris 34 [30] ditambahkan: M=Berat Sample+bucket, O=Sg Bulk
++ Rom File Invetory Nov baris 35 [31] ditambahkan: M=28886, O=1.278358
++ Rom File Invetory Nov baris 36 [32] ditambahkan: M=28676, O=1.266817
++ Rom File Invetory Nov baris 37 [33] ditambahkan: M=28733, O=1.269949
+~ Rom File Invetory Nov!M38 [34]: (kosong) → 33215
+~ Rom File Invetory Nov!O38 [34]: (kosong) → 1.516267
+~ Rom File Invetory Nov!T38 [34]: CRUSHER 7 → CRUSHER 07:00
+~ Rom File Invetory Nov!M39 [35]: (kosong) → 32926
+~ Rom File Invetory Nov!O39 [35]: (kosong) → 1.500385
+~ Rom File Invetory Nov!T39 [35]: CRUSHER 8 → Crusher 08:00
+~ Rom File Invetory Nov!M40 [36]: (kosong) → 32875
+~ Rom File Invetory Nov!O40 [36]: (kosong) → 1.497582
+~ Rom File Invetory Nov!T40 [36]: CRUSHER 9 → Crusher 09:00
+~ Rom File Invetory Nov!M41 [37]: (kosong) → Average
+~ Rom File Invetory Nov!O41 [37]: (kosong) → 1.388226
+~ Rom File Invetory Nov!T41 [37]: CRUSHER 10 → Crusher 10:00
+~ Rom File Invetory Nov!T42 [38]: CRUSHER 11 → Crusher 11:00
+~ Rom File Invetory Nov!T43 [39]: CRUSHER 12 → CRUSHER 12:00
+~ Rom File Invetory Nov!T44 [40]: CRUSHER 13 → Crusher 13:00
+~ Rom File Invetory Nov!H45 "Bulk Density" [Average]: 1.3 → 1.35
+~ Rom File Invetory Nov!T45 [Average]: CRUSHER 14 → Crusher 14:00
+~ Rom File Invetory Nov!I46 "Tonage by survey (WMT)" [Total]: 1119.3 → 1912.99
+~ Rom File Invetory Nov!T46 [Total]: CRUSHER 15 → Crusher 15:00
+~ Rom File Invetory Nov!T47: CRUSHER 8 → Crusher 08:00
+~ Rom File Invetory Nov!T48: CRUSHER 9 → Crusher 09:00
+~ Rom File Invetory Nov!T49: CRUSHER 10 → Crusher 10:00
+~ Rom File Invetory Nov!AA49: (kosong) → 41
+~ Rom File Invetory Nov!T50: CRUSHER 11 → Crusher 11:00
+- ...dan 141 perubahan lain tidak ditampilkan
+_Dibandingkan 33870 sel dari 25 sheet._
+
 ## 25 Nov 2026 · 03:13 · PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx · GanyuChan@MSI
 Ringkasan: AU CAL LICINGTENK: ~14 sel; ELEP BOLMIL: +12 baris; MILING EN LICPIT: ~7 sel
 ~ AU CAL LICINGTENK!AA44 [35]: 0.640761 → 0.641124
