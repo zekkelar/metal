@@ -1,0 +1,25 @@
+{
+  "id": "1795686905439_04141886d5",
+  "created_epoch": 1795686905,
+  "created_at": "2026-11-26 17:55:05",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "+ AU CAL LICINGTENK baris 40 [31] ditambahkan: BC=31\n+ AU CAL LICINGTENK baris 41 [32] ditambahkan: BC=32\n+ AU CAL LICINGTENK baris 42 [33] ditambahkan: BC=33\n+ AU CAL LICINGTENK baris 43 [34] ditambahkan: BC=34\n~ AU CAL LICINGTENK!Z44 [35]: 13.040348 → 14.241917\n~ AU CAL LICINGTENK!AH44 [35]: 20.271111 → 8.9\n~ AU CAL LICINGTENK!AQ44 [35]: 5541.986975 → 2433.200815\n~ AU CAL LICINGTENK!AV44 [35]: -0.40309 → 0.383975\n~ AU CAL LICINGTENK!BC44 [35]: (kosong) → 35\n~ AU CAL LICINGTENK!BF44 [35]: -1592.143193 → 1516.642967\n~ AU CAL LICINGTENK!Z45 [36]: 12.069167 → 15.216833\n~ AU CAL LICINGTENK!AH45 [36]: 15.028333 → 13\n~ AU CAL LICINGTENK!AN45 [36]: 3266.950166 → 4074.270605\n~ AU CAL LICINGTENK!AQ45 [36]: 4023.800182 → 3480.7188\n~ AU CAL LICINGTENK!AV45 [36]: -0.231669 → 0.145683\n~ AU CAL LICINGTENK!BC45 [36]: (kosong) → 36\n~ AU CAL LICINGTENK!BF45 [36]: -756.850016 → 593.551805\n+ AU CAL LICINGTENK baris 46 [37] ditambahkan: BC=37\n+ AU CAL LICINGTENK baris 47 [38] ditambahkan: R=0.3, S=1.195, U=38.718, BC=38\n~ AU CAL LICINGTENK!F48 \"full tanki\" [39]: 26-11-2026 00:00 → 25-11-2026 00:00",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "AU CAL LICINGTENK: +15 baris, ~92 sel, -11 baris",
+      "ELEP BOLMIL: +1 baris, ~26 sel",
+      "ELTE PLOKULESYEN: +1 baris",
+      "Filter Press: ~5 sel",
+      "MILING DONTEM AWERS: +4 baris, ~6 sel",
+      "MILING EN LICPIT: +2 baris, ~7 sel",
+      "Reagent Consumption: ~1 sel",
+      "Rom File Invetory Nov: +1 baris, ~1 sel"
+    ]
+  }
+}
