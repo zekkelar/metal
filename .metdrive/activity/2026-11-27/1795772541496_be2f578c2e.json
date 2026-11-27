@@ -1,0 +1,25 @@
+{
+  "id": "1795772541496_be2f578c2e",
+  "created_epoch": 1795772541,
+  "created_at": "2026-11-27 17:42:21",
+  "actor": "ramda@DyanPro73",
+  "kind": "file",
+  "action": "edit",
+  "title": "Mengedit Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "detail": "~ AU CAL LICINGTENK!X44 [35]: 0.646231 → 0.647966\n~ AU CAL LICINGTENK!AA44 [35]: 0.640044 → 0.640602\n~ AU CAL LICINGTENK!AD44 [35]: 0.006188 → 0.007365\n~ AU CAL LICINGTENK!AE44 [35]: 0.002405 → 0.002858\n~ AU CAL LICINGTENK!AL44 [35]: 176.675393 → 177.149698\n~ AU CAL LICINGTENK!AT44 [35]: 0.799865 → 0.800401\n~ AU CAL LICINGTENK!BD44 [35]: 127.084787 → 127.559092\n~ AU CAL LICINGTENK!AF46 [37]: 0 → 0.135833\n~ AU CAL LICINGTENK!AG46 [37]: 0 → 0.603333\n~ AU CAL LICINGTENK!AH46 [37]: 0 → 15.54\n~ AU CAL LICINGTENK!AO46 [37]: 0 → 38.188503\n~ AU CAL LICINGTENK!AP46 [37]: 0 → 169.622551\n~ AU CAL LICINGTENK!AQ46 [37]: 0 → 4368.952119\n~ AU CAL LICINGTENK!AT46 [37]: 0.883428 → 0.68162\n~ AU CAL LICINGTENK!AU46 [37]: 1 → 0.211329\n~ AU CAL LICINGTENK!AV46 [37]: 1 → -0.258264\n~ AU CAL LICINGTENK!BD46 [37]: 167.173044 → 128.984541\n~ AU CAL LICINGTENK!BE46 [37]: 215.073898 → 45.451347\n~ AU CAL LICINGTENK!BF46 [37]: 3472.205627 → -896.746492\n~ AU CAL LICINGTENK!AF47 [38]: 0 → 0.127",
+  "target_path": "PRODUKSI/Production Report June 2026_DYAN New Anjim Sekaliiii.xlsx",
+  "entity_id": "",
+  "related_file": "",
+  "metadata": {
+    "ringkasan": [
+      "AU CAL LICINGTENK: ~101 sel",
+      "ELEP BOLMIL: +9 baris, ~31 sel, -4 baris",
+      "ELTE PLOKULESYEN: +2 baris, ~22 sel, -4 baris",
+      "Filter Press: ~20 sel",
+      "MILING DONTEM AWERS: +2 baris, -1 baris",
+      "MILING EN LICPIT: +4 baris, ~27 sel",
+      "Reagent Consumption: +8 baris, -1 baris",
+      "Rom File Invetory Nov: +26 baris, ~4 sel, -9 baris"
+    ]
+  }
+}
